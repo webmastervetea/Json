@@ -1,0 +1,292 @@
+[
+  {
+    "pais": "Afganistán",
+    "iso2": "AF",
+    "idiomas_oficiales": ["Darí", "Pastún"]
+  },
+  {
+    "pais": "Albania",
+    "iso2": "AL",
+    "idiomas_oficiales": ["Albanés"]
+  },
+  {
+    "pais": "Alemania",
+    "iso2": "DE",
+    "idiomas_oficiales": ["Alemán"]
+  },
+  {
+    "pais": "Andorra",
+    "iso2": "AD",
+    "idiomas_oficiales": ["Catalán"]
+  },
+  {
+    "pais": "Angola",
+    "iso2": "AO",
+    "idiomas_oficiales": ["Portugués"]
+  },
+  {
+    "pais": "Arabia Saudita",
+    "iso2": "SA",
+    "idiomas_oficiales": ["Árabe"]
+  },
+  {
+    "pais": "Argentina",
+    "iso2": "AR",
+    "idiomas_oficiales": ["Español"]
+  },
+  {
+    "pais": "Australia",
+    "iso2": "AU",
+    "idiomas_oficiales": ["Inglés"]
+  },
+  {
+    "pais": "Austria",
+    "iso2": "AT",
+    "idiomas_oficiales": ["Alemán"]
+  },
+  {
+    "pais": "Bélgica",
+    "iso2": "BE",
+    "idiomas_oficiales": ["Neerlandés", "Francés", "Alemán"]
+  },
+  {
+    "pais": "Bolivia",
+    "iso2": "BO",
+    "idiomas_oficiales": ["Español", "Quechua", "Aymara", "Guaraní", "y otros 33 idiomas indígenas"]
+  },
+  {
+    "pais": "Brasil",
+    "iso2": "BR",
+    "idiomas_oficiales": ["Portugués"]
+  },
+  {
+    "pais": "Canadá",
+    "iso2": "CA",
+    "idiomas_oficiales": ["Inglés", "Francés"]
+  },
+  {
+    "pais": "Chile",
+    "iso2": "CL",
+    "idiomas_oficiales": ["Español"]
+  },
+  {
+    "pais": "China",
+    "iso2": "CN",
+    "idiomas_oficiales": ["Mandarín (Putonghua)"]
+  },
+  {
+    "pais": "Colombia",
+    "iso2": "CO",
+    "idiomas_oficiales": ["Español"]
+  },
+  {
+    "pais": "Corea del Sur",
+    "iso2": "KR",
+    "idiomas_oficiales": ["Coreano"]
+  },
+  {
+    "pais": "Costa Rica",
+    "iso2": "CR",
+    "idiomas_oficiales": ["Español"]
+  },
+  {
+    "pais": "Cuba",
+    "iso2": "CU",
+    "idiomas_oficiales": ["Español"]
+  },
+  {
+    "pais": "Dinamarca",
+    "iso2": "DK",
+    "idiomas_oficiales": ["Danés"]
+  },
+  {
+    "pais": "Ecuador",
+    "iso2": "EC",
+    "idiomas_oficiales": ["Español", "Quechua", "Shuar"]
+  },
+  {
+    "pais": "Egipto",
+    "iso2": "EG",
+    "idiomas_oficiales": ["Árabe"]
+  },
+  {
+    "pais": "El Salvador",
+    "iso2": "SV",
+    "idiomas_oficiales": ["Español"]
+  },
+  {
+    "pais": "España",
+    "iso2": "ES",
+    "idiomas_oficiales": ["Español", "Catalán", "Gallego", "Vasco (Euskera)"]
+  },
+  {
+    "pais": "Estados Unidos",
+    "iso2": "US",
+    "idiomas_oficiales": ["Ninguno a nivel federal", "Inglés (de facto)"]
+  },
+  {
+    "pais": "Filipinas",
+    "iso2": "PH",
+    "idiomas_oficiales": ["Filipino", "Inglés"]
+  },
+  {
+    "pais": "Francia",
+    "iso2": "FR",
+    "idiomas_oficiales": ["Francés"]
+  },
+  {
+    "pais": "Grecia",
+    "iso2": "GR",
+    "idiomas_oficiales": ["Griego"]
+  },
+  {
+    "pais": "Guatemala",
+    "iso2": "GT",
+    "idiomas_oficiales": ["Español"]
+  },
+  {
+    "pais": "Honduras",
+    "iso2": "HN",
+    "idiomas_oficiales": ["Español"]
+  },
+  {
+    "pais": "India",
+    "iso2": "IN",
+    "idiomas_oficiales": ["Hindi", "Inglés", "y 20 idiomas más"]
+  },
+  {
+    "pais": "Indonesia",
+    "iso2": "ID",
+    "idiomas_oficiales": ["Indonesio"]
+  },
+  {
+    "pais": "Irlanda",
+    "iso2": "IE",
+    "idiomas_oficiales": ["Irlandés", "Inglés"]
+  },
+  {
+    "pais": "Israel",
+    "iso2": "IL",
+    "idiomas_oficiales": ["Hebreo", "Árabe"]
+  },
+  {
+    "pais": "Italia",
+    "iso2": "IT",
+    "idiomas_oficiales": ["Italiano"]
+  },
+  {
+    "pais": "Japón",
+    "iso2": "JP",
+    "idiomas_oficiales": ["Japonés"]
+  },
+  {
+    "pais": "Kenia",
+    "iso2": "KE",
+    "idiomas_oficiales": ["Suajili", "Inglés"]
+  },
+  {
+    "pais": "Malasia",
+    "iso2": "MY",
+    "idiomas_oficiales": ["Malayo"]
+  },
+  {
+    "pais": "México",
+    "iso2": "MX",
+    "idiomas_oficiales": ["Español"]
+  },
+  {
+    "pais": "Nicaragua",
+    "iso2": "NI",
+    "idiomas_oficiales": ["Español"]
+  },
+  {
+    "pais": "Nigeria",
+    "iso2": "NG",
+    "idiomas_oficiales": ["Inglés"]
+  },
+  {
+    "pais": "Noruega",
+    "iso2": "NO",
+    "idiomas_oficiales": ["Noruego"]
+  },
+  {
+    "pais": "Nueva Zelanda",
+    "iso2": "NZ",
+    "idiomas_oficiales": ["Inglés", "Maorí", "Lengua de señas neozelandesa"]
+  },
+  {
+    "pais": "Países Bajos",
+    "iso2": "NL",
+    "idiomas_oficiales": ["Neerlandés"]
+  },
+  {
+    "pais": "Panamá",
+    "iso2": "PA",
+    "idiomas_oficiales": ["Español"]
+  },
+  {
+    "pais": "Paraguay",
+    "iso2": "PY",
+    "idiomas_oficiales": ["Español", "Guaraní"]
+  },
+  {
+    "pais": "Perú",
+    "iso2": "PE",
+    "idiomas_oficiales": ["Español", "Quechua", "Aymara"]
+  },
+  {
+    "pais": "Polonia",
+    "iso2": "PL",
+    "idiomas_oficiales": ["Polaco"]
+  },
+  {
+    "pais": "Portugal",
+    "iso2": "PT",
+    "idiomas_oficiales": ["Portugués"]
+  },
+  {
+    "pais": "Reino Unido",
+    "iso2": "GB",
+    "idiomas_oficiales": ["Inglés (de facto)"]
+  },
+  {
+    "pais": "Rusia",
+    "iso2": "RU",
+    "idiomas_oficiales": ["Ruso"]
+  },
+  {
+    "pais": "Sudáfrica",
+    "iso2": "ZA",
+    "idiomas_oficiales": ["11 idiomas oficiales (incluyendo Zulú, Xhosa, Afrikáans, Inglés)"]
+  },
+  {
+    "pais": "Suecia",
+    "iso2": "SE",
+    "idiomas_oficiales": ["Sueco"]
+  },
+  {
+    "pais": "Suiza",
+    "iso2": "CH",
+    "idiomas_oficiales": ["Alemán", "Francés", "Italiano", "Romanche"]
+  },
+  {
+    "pais": "Turquía",
+    "iso2": "TR",
+    "idiomas_oficiales": ["Turco"]
+  },
+  {
+    "pais": "Uruguay",
+    "iso2": "UY",
+    "idiomas_oficiales": ["Español"]
+  },
+  {
+    "pais": "Venezuela",
+    "iso2": "VE",
+    "idiomas_oficiales": ["Español"]
+  },
+  {
+    "pais": "Vietnam",
+    "iso2": "VN",
+    "idiomas_oficiales": ["Vietnamita"]
+  }
+]

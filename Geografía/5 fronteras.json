@@ -1,0 +1,782 @@
+{
+  "AD": {
+    "nombre": "Andorra",
+    "vecinos": ["FR", "ES"]
+  },
+  "AE": {
+    "nombre": "Emiratos Árabes Unidos",
+    "vecinos": ["OM", "SA"]
+  },
+  "AF": {
+    "nombre": "Afganistán",
+    "vecinos": ["CN", "IR", "PK", "TJ", "TM", "UZ"]
+  },
+  "AG": {
+    "nombre": "Antigua y Barbuda",
+    "vecinos": []
+  },
+  "AL": {
+    "nombre": "Albania",
+    "vecinos": ["GR", "XK", "ME", "MK"]
+  },
+  "AM": {
+    "nombre": "Armenia",
+    "vecinos": ["AZ", "GE", "IR", "TR"]
+  },
+  "AO": {
+    "nombre": "Angola",
+    "vecinos": ["CD", "CG", "NA", "ZM"]
+  },
+  "AR": {
+    "nombre": "Argentina",
+    "vecinos": ["BO", "BR", "CL", "PY", "UY"]
+  },
+  "AU": {
+    "nombre": "Australia",
+    "vecinos": []
+  },
+  "AT": {
+    "nombre": "Austria",
+    "vecinos": ["CZ", "DE", "HU", "IT", "LI", "SK", "SI", "CH"]
+  },
+  "AZ": {
+    "nombre": "Azerbaiyán",
+    "vecinos": ["AM", "GE", "IR", "RU", "TR"]
+  },
+  "BA": {
+    "nombre": "Bosnia y Herzegovina",
+    "vecinos": ["HR", "ME", "RS"]
+  },
+  "BB": {
+    "nombre": "Barbados",
+    "vecinos": []
+  },
+  "BD": {
+    "nombre": "Bangladés",
+    "vecinos": ["IN", "MM"]
+  },
+  "BE": {
+    "nombre": "Bélgica",
+    "vecinos": ["FR", "DE", "LU", "NL"]
+  },
+  "BF": {
+    "nombre": "Burkina Faso",
+    "vecinos": ["BJ", "CI", "GH", "ML", "NE", "TG"]
+  },
+  "BG": {
+    "nombre": "Bulgaria",
+    "vecinos": ["GR", "MK", "RO", "RS", "TR"]
+  },
+  "BH": {
+    "nombre": "Baréin",
+    "vecinos": []
+  },
+  "BI": {
+    "nombre": "Burundi",
+    "vecinos": ["CD", "RW", "TZ"]
+  },
+  "BJ": {
+    "nombre": "Benín",
+    "vecinos": ["BF", "NE", "NG", "TG"]
+  },
+  "BN": {
+    "nombre": "Brunéi",
+    "vecinos": ["MY"]
+  },
+  "BO": {
+    "nombre": "Bolivia",
+    "vecinos": ["AR", "BR", "CL", "PY", "PE"]
+  },
+  "BR": {
+    "nombre": "Brasil",
+    "vecinos": ["AR", "BO", "CO", "GF", "GY", "PY", "PE", "SR", "UY", "VE"]
+  },
+  "BS": {
+    "nombre": "Bahamas",
+    "vecinos": []
+  },
+  "BT": {
+    "nombre": "Bután",
+    "vecinos": ["CN", "IN"]
+  },
+  "BW": {
+    "nombre": "Botsuana",
+    "vecinos": ["NA", "ZA", "ZM", "ZW"]
+  },
+  "BY": {
+    "nombre": "Bielorrusia",
+    "vecinos": ["LV", "LT", "PL", "RU", "UA"]
+  },
+  "BZ": {
+    "nombre": "Belice",
+    "vecinos": ["GT", "MX"]
+  },
+  "CA": {
+    "nombre": "Canadá",
+    "vecinos": ["US"]
+  },
+  "CD": {
+    "nombre": "República Democrática del Congo",
+    "vecinos": ["AO", "BI", "CF", "CG", "RW", "SS", "TZ", "UG", "ZM"]
+  },
+  "CF": {
+    "nombre": "República Centroafricana",
+    "vecinos": ["CM", "CD", "CG", "SS", "SD", "TD"]
+  },
+  "CG": {
+    "nombre": "República del Congo",
+    "vecinos": ["AO", "CM", "CD", "CF", "GA"]
+  },
+  "CH": {
+    "nombre": "Suiza",
+    "vecinos": ["AT", "DE", "FR", "IT", "LI"]
+  },
+  "CI": {
+    "nombre": "Costa de Marfil",
+    "vecinos": ["BF", "GH", "GN", "LR", "ML"]
+  },
+  "CL": {
+    "nombre": "Chile",
+    "vecinos": ["AR", "BO", "PE"]
+  },
+  "CM": {
+    "nombre": "Camerún",
+    "vecinos": ["CF", "CG", "TD", "GA", "GQ", "NG"]
+  },
+  "CN": {
+    "nombre": "China",
+    "vecinos": ["AF", "BT", "MM", "IN", "KZ", "KP", "KG", "LA", "MN", "NP", "PK", "RU", "TJ", "VN"]
+  },
+  "CO": {
+    "nombre": "Colombia",
+    "vecinos": ["BR", "EC", "PA", "PE", "VE"]
+  },
+  "CR": {
+    "nombre": "Costa Rica",
+    "vecinos": ["NI", "PA"]
+  },
+  "CU": {
+    "nombre": "Cuba",
+    "vecinos": []
+  },
+  "CV": {
+    "nombre": "Cabo Verde",
+    "vecinos": []
+  },
+  "CY": {
+    "nombre": "Chipre",
+    "vecinos": []
+  },
+  "CZ": {
+    "nombre": "República Checa",
+    "vecinos": ["AT", "DE", "PL", "SK"]
+  },
+  "DE": {
+    "nombre": "Alemania",
+    "vecinos": ["AT", "BE", "CZ", "DK", "FR", "LU", "NL", "PL", "CH"]
+  },
+  "DJ": {
+    "nombre": "Yibuti",
+    "vecinos": ["ER", "ET", "SO"]
+  },
+  "DK": {
+    "nombre": "Dinamarca",
+    "vecinos": ["DE"]
+  },
+  "DM": {
+    "nombre": "Dominica",
+    "vecinos": []
+  },
+  "DO": {
+    "nombre": "República Dominicana",
+    "vecinos": ["HT"]
+  },
+  "DZ": {
+    "nombre": "Argelia",
+    "vecinos": ["MA", "MR", "ML", "NE", "LY", "TN", "EH"]
+  },
+  "EC": {
+    "nombre": "Ecuador",
+    "vecinos": ["CO", "PE"]
+  },
+  "EE": {
+    "nombre": "Estonia",
+    "vecinos": ["LV", "RU"]
+  },
+  "EG": {
+    "nombre": "Egipto",
+    "vecinos": ["IL", "LY", "SD"]
+  },
+  "EH": {
+    "nombre": "Sáhara Occidental",
+    "vecinos": ["DZ", "MA", "MR"]
+  },
+  "ER": {
+    "nombre": "Eritrea",
+    "vecinos": ["DJ", "ET", "SD"]
+  },
+  "ES": {
+    "nombre": "España",
+    "vecinos": ["AD", "FR", "PT", "GI", "MA"]
+  },
+  "ET": {
+    "nombre": "Etiopía",
+    "vecinos": ["DJ", "ER", "KE", "SO", "SS", "SD"]
+  },
+  "FI": {
+    "nombre": "Finlandia",
+    "vecinos": ["NO", "SE", "RU"]
+  },
+  "FJ": {
+    "nombre": "Fiyi",
+    "vecinos": []
+  },
+  "FM": {
+    "nombre": "Micronesia",
+    "vecinos": []
+  },
+  "FR": {
+    "nombre": "Francia",
+    "vecinos": ["AD", "BE", "DE", "IT", "LU", "MC", "ES", "CH", "BR", "SR"]
+  },
+  "GA": {
+    "nombre": "Gabón",
+    "vecinos": ["CM", "CG", "GQ"]
+  },
+  "GB": {
+    "nombre": "Reino Unido",
+    "vecinos": ["IE"]
+  },
+  "GE": {
+    "nombre": "Georgia",
+    "vecinos": ["AM", "AZ", "RU", "TR"]
+  },
+  "GH": {
+    "nombre": "Ghana",
+    "vecinos": ["BF", "CI", "TG"]
+  },
+  "GM": {
+    "nombre": "Gambia",
+    "vecinos": ["SN"]
+  },
+  "GN": {
+    "nombre": "Guinea",
+    "vecinos": ["CI", "GW", "LR", "ML", "SN", "SL"]
+  },
+  "GQ": {
+    "nombre": "Guinea Ecuatorial",
+    "vecinos": ["CM", "GA"]
+  },
+  "GR": {
+    "nombre": "Grecia",
+    "vecinos": ["AL", "BG", "MK", "TR"]
+  },
+  "GT": {
+    "nombre": "Guatemala",
+    "vecinos": ["BZ", "SV", "HN", "MX"]
+  },
+  "GW": {
+    "nombre": "Guinea-Bisáu",
+    "vecinos": ["GN", "SN"]
+  },
+  "GY": {
+    "nombre": "Guyana",
+    "vecinos": ["BR", "SR", "VE"]
+  },
+  "HN": {
+    "nombre": "Honduras",
+    "vecinos": ["GT", "SV", "NI"]
+  },
+  "HR": {
+    "nombre": "Croacia",
+    "vecinos": ["BA", "HU", "ME", "RS", "SI"]
+  },
+  "HT": {
+    "nombre": "Haití",
+    "vecinos": ["DO"]
+  },
+  "HU": {
+    "nombre": "Hungría",
+    "vecinos": ["AT", "HR", "RO", "RS", "SK", "SI", "UA"]
+  },
+  "ID": {
+    "nombre": "Indonesia",
+    "vecinos": ["TL", "MY", "PG"]
+  },
+  "IE": {
+    "nombre": "Irlanda",
+    "vecinos": ["GB"]
+  },
+  "IL": {
+    "nombre": "Israel",
+    "vecinos": ["EG", "JO", "LB", "SY"]
+  },
+  "IN": {
+    "nombre": "India",
+    "vecinos": ["AF", "BD", "BT", "CN", "MM", "NP", "PK"]
+  },
+  "IQ": {
+    "nombre": "Irak",
+    "vecinos": ["IR", "JO", "KW", "SA", "SY", "TR"]
+  },
+  "IR": {
+    "nombre": "Irán",
+    "vecinos": ["AF", "AM", "AZ", "IQ", "PK", "TR", "TM"]
+  },
+  "IS": {
+    "nombre": "Islandia",
+    "vecinos": []
+  },
+  "IT": {
+    "nombre": "Italia",
+    "vecinos": ["AT", "FR", "SM", "SI", "CH", "VA"]
+  },
+  "JM": {
+    "nombre": "Jamaica",
+    "vecinos": []
+  },
+  "JO": {
+    "nombre": "Jordania",
+    "vecinos": ["IQ", "IL", "SA", "SY"]
+  },
+  "JP": {
+    "nombre": "Japón",
+    "vecinos": []
+  },
+  "KE": {
+    "nombre": "Kenia",
+    "vecinos": ["ET", "SO", "SS", "TZ", "UG"]
+  },
+  "KG": {
+    "nombre": "Kirguistán",
+    "vecinos": ["CN", "KZ", "TJ", "UZ"]
+  },
+  "KH": {
+    "nombre": "Camboya",
+    "vecinos": ["LA", "TH", "VN"]
+  },
+  "KI": {
+    "nombre": "Kiribati",
+    "vecinos": []
+  },
+  "KM": {
+    "nombre": "Comoras",
+    "vecinos": []
+  },
+  "KP": {
+    "nombre": "Corea del Norte",
+    "vecinos": ["CN", "KR", "RU"]
+  },
+  "KR": {
+    "nombre": "Corea del Sur",
+    "vecinos": ["KP"]
+  },
+  "KW": {
+    "nombre": "Kuwait",
+    "vecinos": ["IQ", "SA"]
+  },
+  "KZ": {
+    "nombre": "Kazajistán",
+    "vecinos": ["CN", "KG", "RU", "TJ", "TM", "UZ"]
+  },
+  "LA": {
+    "nombre": "Laos",
+    "vecinos": ["MM", "KH", "CN", "TH", "VN"]
+  },
+  "LB": {
+    "nombre": "Líbano",
+    "vecinos": ["IL", "SY"]
+  },
+  "LC": {
+    "nombre": "Santa Lucía",
+    "vecinos": []
+  },
+  "LI": {
+    "nombre": "Liechtenstein",
+    "vecinos": ["AT", "CH"]
+  },
+  "LK": {
+    "nombre": "Sri Lanka",
+    "vecinos": []
+  },
+  "LR": {
+    "nombre": "Liberia",
+    "vecinos": ["CI", "GN", "SL"]
+  },
+  "LS": {
+    "nombre": "Lesoto",
+    "vecinos": ["ZA"]
+  },
+  "LT": {
+    "nombre": "Lituania",
+    "vecinos": ["BY", "LV", "PL", "RU"]
+  },
+  "LU": {
+    "nombre": "Luxemburgo",
+    "vecinos": ["BE", "FR", "DE"]
+  },
+  "LV": {
+    "nombre": "Letonia",
+    "vecinos": ["BY", "EE", "LT", "RU"]
+  },
+  "LY": {
+    "nombre": "Libia",
+    "vecinos": ["DZ", "TD", "EG", "NE", "SD", "TN"]
+  },
+  "MA": {
+    "nombre": "Marruecos",
+    "vecinos": ["DZ", "EH", "ES"]
+  },
+  "MC": {
+    "nombre": "Mónaco",
+    "vecinos": ["FR"]
+  },
+  "MD": {
+    "nombre": "Moldavia",
+    "vecinos": ["RO", "UA"]
+  },
+  "ME": {
+    "nombre": "Montenegro",
+    "vecinos": ["AL", "BA", "HR", "XK", "RS"]
+  },
+  "MG": {
+    "nombre": "Madagascar",
+    "vecinos": []
+  },
+  "MH": {
+    "nombre": "Islas Marshall",
+    "vecinos": []
+  },
+  "MK": {
+    "nombre": "Macedonia del Norte",
+    "vecinos": ["AL", "BG", "GR", "XK", "RS"]
+  },
+  "ML": {
+    "nombre": "Malí",
+    "vecinos": ["DZ", "BF", "CI", "GN", "MR", "NE", "SN"]
+  },
+  "MM": {
+    "nombre": "Birmania (Myanmar)",
+    "vecinos": ["BD", "CN", "IN", "LA", "TH"]
+  },
+  "MN": {
+    "nombre": "Mongolia",
+    "vecinos": ["CN", "RU"]
+  },
+  "MR": {
+    "nombre": "Mauritania",
+    "vecinos": ["DZ", "EH", "ML", "SN"]
+  },
+  "MT": {
+    "nombre": "Malta",
+    "vecinos": []
+  },
+  "MU": {
+    "nombre": "Mauricio",
+    "vecinos": []
+  },
+  "MV": {
+    "nombre": "Maldivas",
+    "vecinos": []
+  },
+  "MW": {
+    "nombre": "Malaui",
+    "vecinos": ["MZ", "TZ", "ZM"]
+  },
+  "MX": {
+    "nombre": "México",
+    "vecinos": ["BZ", "GT", "US"]
+  },
+  "MY": {
+    "nombre": "Malasia",
+    "vecinos": ["BN", "ID", "TH"]
+  },
+  "MZ": {
+    "nombre": "Mozambique",
+    "vecinos": ["MW", "ZA", "SZ", "TZ", "ZM", "ZW"]
+  },
+  "NA": {
+    "nombre": "Namibia",
+    "vecinos": ["AO", "BW", "ZA", "ZM"]
+  },
+  "NE": {
+    "nombre": "Níger",
+    "vecinos": ["DZ", "BF", "BJ", "TD", "LY", "ML", "NG"]
+  },
+  "NG": {
+    "nombre": "Nigeria",
+    "vecinos": ["BJ", "CM", "TD", "NE"]
+  },
+  "NI": {
+    "nombre": "Nicaragua",
+    "vecinos": ["CR", "HN"]
+  },
+  "NL": {
+    "nombre": "Países Bajos",
+    "vecinos": ["BE", "DE"]
+  },
+  "NO": {
+    "nombre": "Noruega",
+    "vecinos": ["FI", "SE", "RU"]
+  },
+  "NP": {
+    "nombre": "Nepal",
+    "vecinos": ["CN", "IN"]
+  },
+  "NR": {
+    "nombre": "Nauru",
+    "vecinos": []
+  },
+  "NZ": {
+    "nombre": "Nueva Zelanda",
+    "vecinos": []
+  },
+  "OM": {
+    "nombre": "Omán",
+    "vecinos": ["AE", "SA", "YE"]
+  },
+  "PA": {
+    "nombre": "Panamá",
+    "vecinos": ["CO", "CR"]
+  },
+  "PE": {
+    "nombre": "Perú",
+    "vecinos": ["BO", "BR", "CL", "CO", "EC"]
+  },
+  "PG": {
+    "nombre": "Papúa Nueva Guinea",
+    "vecinos": ["ID"]
+  },
+  "PH": {
+    "nombre": "Filipinas",
+    "vecinos": []
+  },
+  "PK": {
+    "nombre": "Pakistán",
+    "vecinos": ["AF", "CN", "IR", "IN"]
+  },
+  "PL": {
+    "nombre": "Polonia",
+    "vecinos": ["BY", "CZ", "DE", "LT", "RU", "SK", "UA"]
+  },
+  "PT": {
+    "nombre": "Portugal",
+    "vecinos": ["ES"]
+  },
+  "PW": {
+    "nombre": "Palaos",
+    "vecinos": []
+  },
+  "PY": {
+    "nombre": "Paraguay",
+    "vecinos": ["AR", "BO", "BR"]
+  },
+  "QA": {
+    "nombre": "Catar",
+    "vecinos": ["SA"]
+  },
+  "RO": {
+    "nombre": "Rumania",
+    "vecinos": ["BG", "HU", "MD", "RS", "UA"]
+  },
+  "RS": {
+    "nombre": "Serbia",
+    "vecinos": ["AL", "BA", "BG", "HR", "HU", "ME", "MK", "RO", "XK"]
+  },
+  "RU": {
+    "nombre": "Rusia",
+    "vecinos": ["AZ", "BY", "CN", "EE", "FI", "GE", "KZ", "KP", "LV", "LT", "MN", "NO", "PL", "UA"]
+  },
+  "RW": {
+    "nombre": "Ruanda",
+    "vecinos": ["BI", "CD", "TZ", "UG"]
+  },
+  "SA": {
+    "nombre": "Arabia Saudita",
+    "vecinos": ["AE", "IQ", "JO", "KW", "OM", "QA", "YE"]
+  },
+  "SB": {
+    "nombre": "Islas Salomón",
+    "vecinos": []
+  },
+  "SC": {
+    "nombre": "Seychelles",
+    "vecinos": []
+  },
+  "SD": {
+    "nombre": "Sudán",
+    "vecinos": ["CF", "TD", "EG", "ER", "ET", "LY", "SS"]
+  },
+  "SE": {
+    "nombre": "Suecia",
+    "vecinos": ["FI", "NO"]
+  },
+  "SG": {
+    "nombre": "Singapur",
+    "vecinos": []
+  },
+  "SI": {
+    "nombre": "Eslovenia",
+    "vecinos": ["AT", "HR", "IT", "HU"]
+  },
+  "SK": {
+    "nombre": "Eslovaquia",
+    "vecinos": ["AT", "CZ", "HU", "PL", "UA"]
+  },
+  "SL": {
+    "nombre": "Sierra Leona",
+    "vecinos": ["GN", "LR"]
+  },
+  "SM": {
+    "nombre": "San Marino",
+    "vecinos": ["IT"]
+  },
+  "SN": {
+    "nombre": "Senegal",
+    "vecinos": ["GM", "GN", "ML", "MR"]
+  },
+  "SO": {
+    "nombre": "Somalia",
+    "vecinos": ["DJ", "ET", "KE"]
+  },
+  "SR": {
+    "nombre": "Surinam",
+    "vecinos": ["BR", "GF", "GY"]
+  },
+  "SS": {
+    "nombre": "Sudán del Sur",
+    "vecinos": ["CF", "CD", "ET", "KE", "SD", "UG"]
+  },
+  "ST": {
+    "nombre": "Santo Tomé y Príncipe",
+    "vecinos": []
+  },
+  "SV": {
+    "nombre": "El Salvador",
+    "vecinos": ["GT", "HN"]
+  },
+  "SY": {
+    "nombre": "Siria",
+    "vecinos": ["IQ", "IL", "JO", "LB", "TR"]
+  },
+  "SZ": {
+    "nombre": "Esuatini",
+    "vecinos": ["MZ", "ZA"]
+  },
+  "TD": {
+    "nombre": "Chad",
+    "vecinos": ["CM", "CF", "LY", "NE", "NG", "SD"]
+  },
+  "TG": {
+    "nombre": "Togo",
+    "vecinos": ["BF", "BJ", "GH"]
+  },
+  "TH": {
+    "nombre": "Tailandia",
+    "vecinos": ["MM", "KH", "LA", "MY"]
+  },
+  "TJ": {
+    "nombre": "Tayikistán",
+    "vecinos": ["AF", "CN", "KG", "UZ"]
+  },
+  "TL": {
+    "nombre": "Timor Oriental",
+    "vecinos": ["ID"]
+  },
+  "TM": {
+    "nombre": "Turkmenistán",
+    "vecinos": ["AF", "IR", "KZ", "UZ"]
+  },
+  "TN": {
+    "nombre": "Túnez",
+    "vecinos": ["DZ", "LY"]
+  },
+  "TO": {
+    "nombre": "Tonga",
+    "vecinos": []
+  },
+  "TR": {
+    "nombre": "Turquía",
+    "vecinos": ["AM", "AZ", "BG", "GE", "GR", "IR", "IQ", "SY"]
+  },
+  "TT": {
+    "nombre": "Trinidad y Tobago",
+    "vecinos": []
+  },
+  "TV": {
+    "nombre": "Tuvalu",
+    "vecinos": []
+  },
+  "TW": {
+    "nombre": "Taiwán",
+    "vecinos": []
+  },
+  "TZ": {
+    "nombre": "Tanzania",
+    "vecinos": ["BI", "CD", "KE", "MW", "MZ", "RW", "UG", "ZM"]
+  },
+  "UA": {
+    "nombre": "Ucrania",
+    "vecinos": ["BY", "HU", "MD", "PL", "RO", "RU", "SK"]
+  },
+  "UG": {
+    "nombre": "Uganda",
+    "vecinos": ["CD", "KE", "RW", "SS", "TZ"]
+  },
+  "US": {
+    "nombre": "Estados Unidos",
+    "vecinos": ["CA", "MX"]
+  },
+  "UY": {
+    "nombre": "Uruguay",
+    "vecinos": ["AR", "BR"]
+  },
+  "UZ": {
+    "nombre": "Uzbekistán",
+    "vecinos": ["AF", "KZ", "KG", "TJ", "TM"]
+  },
+  "VA": {
+    "nombre": "Ciudad del Vaticano",
+    "vecinos": ["IT"]
+  },
+  "VC": {
+    "nombre": "San Vicente y las Granadinas",
+    "vecinos": []
+  },
+  "VE": {
+    "nombre": "Venezuela",
+    "vecinos": ["BR", "CO", "GY"]
+  },
+  "VN": {
+    "nombre": "Vietnam",
+    "vecinos": ["KH", "CN", "LA"]
+  },
+  "VU": {
+    "nombre": "Vanuatu",
+    "vecinos": []
+  },
+  "WS": {
+    "nombre": "Samoa",
+    "vecinos": []
+  },
+  "YE": {
+    "nombre": "Yemen",
+    "vecinos": ["OM", "SA"]
+  },
+  "ZA": {
+    "nombre": "Sudáfrica",
+    "vecinos": ["BW", "LS", "MZ", "NA", "SZ", "ZW"]
+  },
+  "ZM": {
+    "nombre": "Zambia",
+    "vecinos": ["AO", "BW", "CD", "MW", "MZ", "NA", "TZ", "ZW"]
+  },
+  "ZW": {
+    "nombre": "Zimbabue",
+    "vecinos": ["BW", "MZ", "ZA", "ZM"]
+  },
+  "XK": {
+    "nombre": "Kosovo",
+    "vecinos": ["AL", "ME", "MK", "RS"]
+  }
+}

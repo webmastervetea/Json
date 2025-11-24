@@ -1,0 +1,100 @@
+{
+  "provincias": [
+    {
+      "nombre": "Ciudad Autónoma de Buenos Aires",
+      "codigo_postal_prefijo": "C"
+    },
+    {
+      "nombre": "Buenos Aires",
+      "codigo_postal_prefijo": "B"
+    },
+    {
+      "nombre": "Catamarca",
+      "codigo_postal_prefijo": "K"
+    },
+    {
+      "nombre": "Chaco",
+      "codigo_postal_prefijo": "H"
+    },
+    {
+      "nombre": "Chubut",
+      "codigo_postal_prefijo": "U"
+    },
+    {
+      "nombre": "Córdoba",
+      "codigo_postal_prefijo": "X"
+    },
+    {
+      "nombre": "Corrientes",
+      "codigo_postal_prefijo": "W"
+    },
+    {
+      "nombre": "Entre Ríos",
+      "codigo_postal_prefijo": "E"
+    },
+    {
+      "nombre": "Formosa",
+      "codigo_postal_prefijo": "P"
+    },
+    {
+      "nombre": "Jujuy",
+      "codigo_postal_prefijo": "Y"
+    },
+    {
+      "nombre": "La Pampa",
+      "codigo_postal_prefijo": "L"
+    },
+    {
+      "nombre": "La Rioja",
+      "codigo_postal_prefijo": "F"
+    },
+    {
+      "nombre": "Mendoza",
+      "codigo_postal_prefijo": "M"
+    },
+    {
+      "nombre": "Misiones",
+      "codigo_postal_prefijo": "N"
+    },
+    {
+      "nombre": "Neuquén",
+      "codigo_postal_prefijo": "Q"
+    },
+    {
+      "nombre": "Río Negro",
+      "codigo_postal_prefijo": "R"
+    },
+    {
+      "nombre": "Salta",
+      "codigo_postal_prefijo": "A"
+    },
+    {
+      "nombre": "San Juan",
+      "codigo_postal_prefijo": "J"
+    },
+    {
+      "nombre": "San Luis",
+      "codigo_postal_prefijo": "D"
+    },
+    {
+      "nombre": "Santa Cruz",
+      "codigo_postal_prefijo": "Z"
+    },
+    {
+      "nombre": "Santa Fe",
+      "codigo_postal_prefijo": "S"
+    },
+    {
+      "nombre": "Santiago del Estero",
+      "codigo_postal_prefijo": "G"
+    },
+    {
+      "nombre": "Tierra del Fuego, Antártida e Islas del Atlántico Sur",
+      "codigo_postal_prefijo": "V"
+    },
+    {
+      "nombre": "Tucumán",
+      "codigo_postal_prefijo": "T"
+    }
+  ]
+}

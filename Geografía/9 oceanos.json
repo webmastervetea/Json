@@ -1,0 +1,49 @@
+{
+  "oceanos": [
+    {
+      "nombre": "Océano Pacífico",
+      "ubicacion_principal": "Entre América, Asia y Oceanía",
+      "area_km2": 165250000,
+      "profundidad_media_m": 4280,
+      "profundidad_maxima_m": 10935,
+      "lugar_mas_profundo": "Fosa de las Marianas (Challenger Deep)",
+      "nota": "Es el océano más grande y más profundo del mundo."
+    },
+    {
+      "nombre": "Océano Atlántico",
+      "ubicacion_principal": "Entre América, Europa y África",
+      "area_km2": 106460000,
+      "profundidad_media_m": 3646,
+      "profundidad_maxima_m": 8376,
+      "lugar_mas_profundo": "Fosa de Puerto Rico",
+      "nota": "Segundo más grande, caracterizado por la Dorsal Mesoatlántica."
+    },
+    {
+      "nombre": "Océano Índico",
+      "ubicacion_principal": "Entre África, Asia y Australia",
+      "area_km2": 70560000,
+      "profundidad_media_m": 3741,
+      "profundidad_maxima_m": 7906,
+      "lugar_mas_profundo": "Fosa de Java (o Fosa de Sunda)",
+      "nota": "Tercero más grande, el más cálido y el que tiene menor salinidad."
+    },
+    {
+      "nombre": "Océano Antártico (Austral)",
+      "ubicacion_principal": "Rodea la Antártida (al sur de los 60° S)",
+      "area_km2": 21960000,
+      "profundidad_media_m": 3270,
+      "profundidad_maxima_m": 7236,
+      "lugar_mas_profundo": "Fosa Sandwich del Sur",
+      "nota": "Oficialmente reconocido en el año 2000 por la OHI (Organización Hidrográfica Internacional)."
+    },
+    {
+      "nombre": "Océano Ártico",
+      "ubicacion_principal": "Alrededor del Polo Norte",
+      "area_km2": 14060000,
+      "profundidad_media_m": 1205,
+      "profundidad_maxima_m": 5608,
+      "lugar_mas_profundo": "Cuenca Euroasiática",
+      "nota": "El océano más pequeño y menos profundo, cubierto en gran parte por hielo marino."
+    }
+  ]
+}

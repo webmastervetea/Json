@@ -1,0 +1,61 @@
+{
+  "clasificacion_climatica_koppen": [
+    {
+      "grupo_principal": "A",
+      "nombre": "Climas Tropicales",
+      "descripcion": "Temperaturas medias superiores a 18 °C en todos los meses.",
+      "subgrupos": [
+        {"codigo": "Af", "nombre": "Ecuatorial/Selva", "caracteristicas": "Lluvias regulares sin estación seca."},
+        {"codigo": "Am", "nombre": "Monzónico", "caracteristicas": "Lluvias abundantes, estación seca corta."},
+        {"codigo": "Aw", "nombre": "Sabana/Tropical con estación seca", "caracteristicas": "Estación seca en invierno."}
+      ]
+    },
+    {
+      "grupo_principal": "B",
+      "nombre": "Climas Áridos (Secos)",
+      "descripcion": "La evaporación excede la precipitación. Se basa en criterios de aridez.",
+      "subgrupos": [
+        {"codigo": "BS", "nombre": "Estepa", "caracteristicas": "Semiárido."},
+        {"codigo": "BW", "nombre": "Desierto", "caracteristicas": "Árido."},
+        {"codigo": "BSh", "nombre": "Estepa caliente", "caracteristicas": "Temperatura media anual > 18 °C."},
+        {"codigo": "BSk", "nombre": "Estepa fría", "caracteristicas": "Temperatura media anual < 18 °C."},
+        {"codigo": "BWh", "nombre": "Desierto caliente", "caracteristicas": "Temperatura media anual > 18 °C."},
+        {"codigo": "BWk", "nombre": "Desierto frío", "caracteristicas": "Temperatura media anual < 18 °C."}
+      ]
+    },
+    {
+      "grupo_principal": "C",
+      "nombre": "Climas Templados/Mesotermales",
+      "descripcion": "Temperatura media del mes más frío entre -3 °C y 18 °C, y del mes más cálido superior a 10 °C.",
+      "subgrupos": [
+        {"codigo": "Cf", "nombre": "Templado sin estación seca", "caracteristicas": "Precipitación regular (Cfa, Cfb, Cfc)."},
+        {"codigo": "Cw", "nombre": "Templado con invierno seco", "caracteristicas": "Estación seca en invierno."},
+        {"codigo": "Cs", "nombre": "Mediterráneo con verano seco", "caracteristicas": "Estación seca en verano (Csa, Csb)."}
+      ]
+    },
+    {
+      "grupo_principal": "D",
+      "nombre": "Climas Fríos/Continentales/Microtermales",
+      "descripcion": "Temperatura media del mes más frío inferior a -3 °C, y del mes más cálido superior a 10 °C.",
+      "subgrupos": [
+        {"codigo": "Df", "nombre": "Continental sin estación seca", "caracteristicas": "Precipitación regular (Dfa, Dfb, Dfc, Dfd)."},
+        {"codigo": "Dw", "nombre": "Continental con invierno seco", "caracteristicas": "Estación seca en invierno (Dwa, Dwb, Dwc, Dwd)."}
+      ]
+    },
+    {
+      "grupo_principal": "E",
+      "nombre": "Climas Polares/De Hielo",
+      "descripcion": "Temperatura media del mes más cálido inferior a 10 °C.",
+      "subgrupos": [
+        {"codigo": "ET", "nombre": "Tundra", "caracteristicas": "Temperatura media del mes más cálido entre 0 °C y 10 °C."},
+        {"codigo": "EF", "nombre": "Hielo Permanente", "caracteristicas": "Temperatura media del mes más cálido inferior a 0 °C."}
+      ]
+    }
+  ],
+  "modificadores_adicionales_temperatura": [
+    {"codigo": "a", "caracteristicas": "Verano caluroso (T mes más cálido > 22 °C)."},
+    {"codigo": "b", "caracteristicas": "Verano cálido (T mes más cálido < 22 °C, al menos 4 meses > 10 °C)."},
+    {"codigo": "c", "caracteristicas": "Verano fresco y corto (menos de 4 meses > 10 °C)."},
+    {"codigo": "d", "caracteristicas": "Invierno muy frío (T mes más frío < -38 °C, solo para grupo D)."}
+  ]
+}

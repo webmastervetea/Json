@@ -1,0 +1,109 @@
+{
+  "monedas_america_latina": [
+    {
+      "pais": "Argentina",
+      "moneda": "Peso Argentino",
+      "codigo_iso": "ARS"
+    },
+    {
+      "pais": "Bolivia",
+      "moneda": "Boliviano",
+      "codigo_iso": "BOB"
+    },
+    {
+      "pais": "Brasil",
+      "moneda": "Real Brasileño",
+      "codigo_iso": "BRL"
+    },
+    {
+      "pais": "Chile",
+      "moneda": "Peso Chileno",
+      "codigo_iso": "CLP"
+    },
+    {
+      "pais": "Colombia",
+      "moneda": "Peso Colombiano",
+      "codigo_iso": "COP"
+    },
+    {
+      "pais": "Costa Rica",
+      "moneda": "Colón Costarricense",
+      "codigo_iso": "CRC"
+    },
+    {
+      "pais": "Cuba",
+      "moneda": "Peso Cubano",
+      "codigo_iso": "CUP"
+    },
+    {
+      "pais": "Ecuador",
+      "moneda": "Dólar Estadounidense",
+      "codigo_iso": "USD"
+    },
+    {
+      "pais": "El Salvador",
+      "moneda": "Dólar Estadounidense",
+      "codigo_iso": "USD"
+    },
+    {
+      "pais": "Guatemala",
+      "moneda": "Quetzal Guatemalteco",
+      "codigo_iso": "GTQ"
+    },
+    {
+      "pais": "Haití",
+      "moneda": "Gourde Haitiano",
+      "codigo_iso": "HTG"
+    },
+    {
+      "pais": "Honduras",
+      "moneda": "Lempira Hondureña",
+      "codigo_iso": "HNL"
+    },
+    {
+      "pais": "México",
+      "moneda": "Peso Mexicano",
+      "codigo_iso": "MXN"
+    },
+    {
+      "pais": "Nicaragua",
+      "moneda": "Córdoba Nicaragüense",
+      "codigo_iso": "NIO"
+    },
+    {
+      "pais": "Panamá",
+      "moneda": "Balboa Panameño",
+      "codigo_iso": "PAB"
+    },
+    {
+      "pais": "Paraguay",
+      "moneda": "Guaraní Paraguayo",
+      "codigo_iso": "PYG"
+    },
+    {
+      "pais": "Perú",
+      "moneda": "Sol Peruano",
+      "codigo_iso": "PEN"
+    },
+    {
+      "pais": "República Dominicana",
+      "moneda": "Peso Dominicano",
+      "codigo_iso": "DOP"
+    },
+    {
+      "pais": "Surinam",
+      "moneda": "Dólar Surinamés",
+      "codigo_iso": "SRD"
+    },
+    {
+      "pais": "Uruguay",
+      "moneda": "Peso Uruguayo",
+      "codigo_iso": "UYU"
+    },
+    {
+      "pais": "Venezuela",
+      "moneda": "Bolívar Soberano",
+      "codigo_iso": "VES"
+    }
+  ]
+}

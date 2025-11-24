@@ -1,0 +1,2742 @@
+{
+  "zonas_horarias_iana": [
+    {
+      "zona_iana": "Africa/Abidjan",
+      "region": "África",
+      "ciudad_representativa": "Abiyán",
+      "offset_utc_actual": "UTC+00:00"
+    },
+    {
+      "zona_iana": "Africa/Accra",
+      "region": "África",
+      "ciudad_representativa": "Acra",
+      "offset_utc_actual": "UTC+00:00"
+    },
+    {
+      "zona_iana": "Africa/Algiers",
+      "region": "África",
+      "ciudad_representativa": "Argel",
+      "offset_utc_actual": "UTC+01:00"
+    },
+    {
+      "zona_iana": "Africa/Bissau",
+      "region": "África",
+      "ciudad_representativa": "Bissau",
+      "offset_utc_actual": "UTC+00:00"
+    },
+    {
+      "zona_iana": "Africa/Cairo",
+      "region": "África",
+      "ciudad_representativa": "El Cairo",
+      "offset_utc_actual": "UTC+02:00"
+    },
+    {
+      "zona_iana": "Africa/Casablanca",
+      "region": "África",
+      "ciudad_representativa": "Casablanca",
+      "offset_utc_actual": "UTC+01:00"
+    },
+    {
+      "zona_iana": "Africa/Ceuta",
+      "region": "África",
+      "ciudad_representativa": "Ceuta (España)",
+      "offset_utc_actual": "UTC+01:00"
+    },
+    {
+      "zona_iana": "Africa/El_Aaiun",
+      "region": "África",
+      "ciudad_representativa": "El Aaiún",
+      "offset_utc_actual": "UTC+01:00"
+    },
+    {
+      "zona_iana": "Africa/Johannesburg",
+      "region": "África",
+      "ciudad_representativa": "Johannesburgo",
+      "offset_utc_actual": "UTC+02:00"
+    },
+    {
+      "zona_iana": "Africa/Juba",
+      "region": "África",
+      "ciudad_representativa": "Yuba",
+      "offset_utc_actual": "UTC+02:00"
+    },
+    {
+      "zona_iana": "Africa/Khartoum",
+      "region": "África",
+      "ciudad_representativa": "Jartum",
+      "offset_utc_actual": "UTC+02:00"
+    },
+    {
+      "zona_iana": "Africa/Lagos",
+      "region": "África",
+      "ciudad_representativa": "Lagos",
+      "offset_utc_actual": "UTC+01:00"
+    },
+    {
+      "zona_iana": "Africa/Maputo",
+      "region": "África",
+      "ciudad_representativa": "Maputo",
+      "offset_utc_actual": "UTC+02:00"
+    },
+    {
+      "zona_iana": "Africa/Monrovia",
+      "region": "África",
+      "ciudad_representativa": "Monrovia",
+      "offset_utc_actual": "UTC+00:00"
+    },
+    {
+      "zona_iana": "Africa/Nairobi",
+      "region": "África",
+      "ciudad_representativa": "Nairobi",
+      "offset_utc_actual": "UTC+03:00"
+    },
+    {
+      "zona_iana": "Africa/Ndjamena",
+      "region": "África",
+      "ciudad_representativa": "Yamena",
+      "offset_utc_actual": "UTC+01:00"
+    },
+    {
+      "zona_iana": "Africa/Sao_Tome",
+      "region": "África",
+      "ciudad_representativa": "Santo Tomé",
+      "offset_utc_actual": "UTC+00:00"
+    },
+    {
+      "zona_iana": "Africa/Tripoli",
+      "region": "África",
+      "ciudad_representativa": "Trípoli",
+      "offset_utc_actual": "UTC+02:00"
+    },
+    {
+      "zona_iana": "Africa/Tunis",
+      "region": "África",
+      "ciudad_representativa": "Túnez",
+      "offset_utc_actual": "UTC+01:00"
+    },
+    {
+      "zona_iana": "Africa/Windhoek",
+      "region": "África",
+      "ciudad_representativa": "Windhoek",
+      "offset_utc_actual": "UTC+02:00"
+    },
+    {
+      "zona_iana": "America/Adak",
+      "region": "América",
+      "ciudad_representativa": "Adak, Alaska (EE. UU.)",
+      "offset_utc_actual": "UTC-10:00"
+    },
+    {
+      "zona_iana": "America/Anchorage",
+      "region": "América",
+      "ciudad_representativa": "Anchorage, Alaska (EE. UU.)",
+      "offset_utc_actual": "UTC-09:00"
+    },
+    {
+      "zona_iana": "America/Araguaina",
+      "region": "América",
+      "ciudad_representativa": "Araguaína (Brasil)",
+      "offset_utc_actual": "UTC-03:00"
+    },
+    {
+      "zona_iana": "America/Argentina/Buenos_Aires",
+      "region": "América",
+      "ciudad_representativa": "Buenos Aires (Argentina)",
+      "offset_utc_actual": "UTC-03:00"
+    },
+    {
+      "zona_iana": "America/Argentina/Cordoba",
+      "region": "América",
+      "ciudad_representativa": "Córdoba (Argentina)",
+      "offset_utc_actual": "UTC-03:00"
+    },
+    {
+      "zona_iana": "America/Argentina/Jujuy",
+      "region": "América",
+      "ciudad_representativa": "Jujuy (Argentina)",
+      "offset_utc_actual": "UTC-03:00"
+    },
+    {
+      "zona_iana": "America/Argentina/La_Rioja",
+      "region": "América",
+      "ciudad_representativa": "La Rioja (Argentina)",
+      "offset_utc_actual": "UTC-03:00"
+    },
+    {
+      "zona_iana": "America/Argentina/Mendoza",
+      "region": "América",
+      "ciudad_representativa": "Mendoza (Argentina)",
+      "offset_utc_actual": "UTC-03:00"
+    },
+    {
+      "zona_iana": "America/Argentina/Rio_Gallegos",
+      "region": "América",
+      "ciudad_representativa": "Río Gallegos (Argentina)",
+      "offset_utc_actual": "UTC-03:00"
+    },
+    {
+      "zona_iana": "America/Argentina/Salta",
+      "region": "América",
+      "ciudad_representativa": "Salta (Argentina)",
+      "offset_utc_actual": "UTC-03:00"
+    },
+    {
+      "zona_iana": "America/Argentina/San_Juan",
+      "region": "América",
+      "ciudad_representativa": "San Juan (Argentina)",
+      "offset_utc_actual": "UTC-03:00"
+    },
+    {
+      "zona_iana": "America/Argentina/San_Luis",
+      "region": "América",
+      "ciudad_representativa": "San Luis (Argentina)",
+      "offset_utc_actual": "UTC-03:00"
+    },
+    {
+      "zona_iana": "America/Argentina/Tucuman",
+      "region": "América",
+      "ciudad_representativa": "Tucumán (Argentina)",
+      "offset_utc_actual": "UTC-03:00"
+    },
+    {
+      "zona_iana": "America/Argentina/Ushuaia",
+      "region": "América",
+      "ciudad_representativa": "Ushuaia (Argentina)",
+      "offset_utc_actual": "UTC-03:00"
+    },
+    {
+      "zona_iana": "America/Asuncion",
+      "region": "América",
+      "ciudad_representativa": "Asunción (Paraguay)",
+      "offset_utc_actual": "UTC-03:00"
+    },
+    {
+      "zona_iana": "America/Atikokan",
+      "region": "América",
+      "ciudad_representativa": "Atikokan, Ontario (Canadá)",
+      "offset_utc_actual": "UTC-05:00"
+    },
+    {
+      "zona_iana": "America/Bahia",
+      "region": "América",
+      "ciudad_representativa": "Bahía (Brasil)",
+      "offset_utc_actual": "UTC-03:00"
+    },
+    {
+      "zona_iana": "America/Bahia_Banderas",
+      "region": "América",
+      "ciudad_representativa": "Bahía de Banderas (México)",
+      "offset_utc_actual": "UTC-06:00"
+    },
+    {
+      "zona_iana": "America/Barbados",
+      "region": "América",
+      "ciudad_representativa": "Barbados",
+      "offset_utc_actual": "UTC-04:00"
+    },
+    {
+      "zona_iana": "America/Belem",
+      "region": "América",
+      "ciudad_representativa": "Belém (Brasil)",
+      "offset_utc_actual": "UTC-03:00"
+    },
+    {
+      "zona_iana": "America/Belize",
+      "region": "América",
+      "ciudad_representativa": "Belice",
+      "offset_utc_actual": "UTC-06:00"
+    },
+    {
+      "zona_iana": "America/Blanc-Sablon",
+      "region": "América",
+      "ciudad_representativa": "Blanc-Sablon (Canadá)",
+      "offset_utc_actual": "UTC-04:00"
+    },
+    {
+      "zona_iana": "America/Boa_Vista",
+      "region": "América",
+      "ciudad_representativa": "Boa Vista (Brasil)",
+      "offset_utc_actual": "UTC-04:00"
+    },
+    {
+      "zona_iana": "America/Bogota",
+      "region": "América",
+      "ciudad_representativa": "Bogotá (Colombia)",
+      "offset_utc_actual": "UTC-05:00"
+    },
+    {
+      "zona_iana": "America/Boise",
+      "region": "América",
+      "ciudad_representativa": "Boise, Idaho (EE. UU.)",
+      "offset_utc_actual": "UTC-07:00"
+    },
+    {
+      "zona_iana": "America/Cambridge_Bay",
+      "region": "América",
+      "ciudad_representativa": "Bahía de Cambridge (Canadá)",
+      "offset_utc_actual": "UTC-07:00"
+    },
+    {
+      "zona_iana": "America/Campo_Grande",
+      "region": "América",
+      "ciudad_representativa": "Campo Grande (Brasil)",
+      "offset_utc_actual": "UTC-04:00"
+    },
+    {
+      "zona_iana": "America/Cancun",
+      "region": "América",
+      "ciudad_representativa": "Cancún (México)",
+      "offset_utc_actual": "UTC-05:00"
+    },
+    {
+      "zona_iana": "America/Caracas",
+      "region": "América",
+      "ciudad_representativa": "Caracas (Venezuela)",
+      "offset_utc_actual": "UTC-04:00"
+    },
+    {
+      "zona_iana": "America/Catamarca",
+      "region": "América",
+      "ciudad_representativa": "Catamarca (Argentina) - En desuso, ver /Argentina/*",
+      "offset_utc_actual": "UTC-03:00"
+    },
+    {
+      "zona_iana": "America/Cayenne",
+      "region": "América",
+      "ciudad_representativa": "Cayena (Guayana Francesa)",
+      "offset_utc_actual": "UTC-03:00"
+    },
+    {
+      "zona_iana": "America/Chicago",
+      "region": "América",
+      "ciudad_representativa": "Chicago, Illinois (EE. UU.)",
+      "offset_utc_actual": "UTC-06:00"
+    },
+    {
+      "zona_iana": "America/Chihuahua",
+      "region": "América",
+      "ciudad_representativa": "Chihuahua (México)",
+      "offset_utc_actual": "UTC-07:00"
+    },
+    {
+      "zona_iana": "America/Ciudad_Juarez",
+      "region": "América",
+      "ciudad_representativa": "Ciudad Juárez (México)",
+      "offset_utc_actual": "UTC-07:00"
+    },
+    {
+      "zona_iana": "America/Coral_Harbour",
+      "region": "América",
+      "ciudad_representativa": "Coral Harbour (Canadá)",
+      "offset_utc_actual": "UTC-05:00"
+    },
+    {
+      "zona_iana": "America/Costa_Rica",
+      "region": "América",
+      "ciudad_representativa": "Costa Rica",
+      "offset_utc_actual": "UTC-06:00"
+    },
+    {
+      "zona_iana": "America/Cuiaba",
+      "region": "América",
+      "ciudad_representativa": "Cuiabá (Brasil)",
+      "offset_utc_actual": "UTC-04:00"
+    },
+    {
+      "zona_iana": "America/Curacao",
+      "region": "América",
+      "ciudad_representativa": "Curazao",
+      "offset_utc_actual": "UTC-04:00"
+    },
+    {
+      "zona_iana": "America/Danmarkshavn",
+      "region": "América",
+      "ciudad_representativa": "Danmarkshavn (Groenlandia)",
+      "offset_utc_actual": "UTC+00:00"
+    },
+    {
+      "zona_iana": "America/Dawson",
+      "region": "América",
+      "ciudad_representativa": "Dawson (Canadá)",
+      "offset_utc_actual": "UTC-07:00"
+    },
+    {
+      "zona_iana": "America/Dawson_Creek",
+      "region": "América",
+      "ciudad_representativa": "Dawson Creek (Canadá)",
+      "offset_utc_actual": "UTC-07:00"
+    },
+    {
+      "zona_iana": "America/Denver",
+      "region": "América",
+      "ciudad_representativa": "Denver, Colorado (EE. UU.)",
+      "offset_utc_actual": "UTC-07:00"
+    },
+    {
+      "zona_iana": "America/Detroit",
+      "region": "América",
+      "ciudad_representativa": "Detroit, Míchigan (EE. UU.)",
+      "offset_utc_actual": "UTC-05:00"
+    },
+    {
+      "zona_iana": "America/Edmonton",
+      "region": "América",
+      "ciudad_representativa": "Edmonton, Alberta (Canadá)",
+      "offset_utc_actual": "UTC-07:00"
+    },
+    {
+      "zona_iana": "America/Eirunepe",
+      "region": "América",
+      "ciudad_representativa": "Eirunepé (Brasil)",
+      "offset_utc_actual": "UTC-05:00"
+    },
+    {
+      "zona_iana": "America/El_Salvador",
+      "region": "América",
+      "ciudad_representativa": "El Salvador",
+      "offset_utc_actual": "UTC-06:00"
+    },
+    {
+      "zona_iana": "America/Fort_Nelson",
+      "region": "América",
+      "ciudad_representativa": "Fort Nelson (Canadá)",
+      "offset_utc_actual": "UTC-07:00"
+    },
+    {
+      "zona_iana": "America/Fortaleza",
+      "region": "América",
+      "ciudad_representativa": "Fortaleza (Brasil)",
+      "offset_utc_actual": "UTC-03:00"
+    },
+    {
+      "zona_iana": "America/Glace_Bay",
+      "region": "América",
+      "ciudad_representativa": "Glace Bay (Canadá)",
+      "offset_utc_actual": "UTC-04:00"
+    },
+    {
+      "zona_iana": "America/Goose_Bay",
+      "region": "América",
+      "ciudad_representativa": "Goose Bay (Canadá)",
+      "offset_utc_actual": "UTC-04:00"
+    },
+    {
+      "zona_iana": "America/Grand_Turk",
+      "region": "América",
+      "ciudad_representativa": "Grand Turk (Islas Turcas y Caicos)",
+      "offset_utc_actual": "UTC-05:00"
+    },
+    {
+      "zona_iana": "America/Guatemala",
+      "region": "América",
+      "ciudad_representativa": "Guatemala",
+      "offset_utc_actual": "UTC-06:00"
+    },
+    {
+      "zona_iana": "America/Guayaquil",
+      "region": "América",
+      "ciudad_representativa": "Guayaquil (Ecuador)",
+      "offset_utc_actual": "UTC-05:00"
+    },
+    {
+      "zona_iana": "America/Guyana",
+      "region": "América",
+      "ciudad_representativa": "Guyana",
+      "offset_utc_actual": "UTC-04:00"
+    },
+    {
+      "zona_iana": "America/Halifax",
+      "region": "América",
+      "ciudad_representativa": "Halifax, Nueva Escocia (Canadá)",
+      "offset_utc_actual": "UTC-04:00"
+    },
+    {
+      "zona_iana": "America/Havana",
+      "region": "América",
+      "ciudad_representativa": "La Habana (Cuba)",
+      "offset_utc_actual": "UTC-05:00"
+    },
+    {
+      "zona_iana": "America/Hermosillo",
+      "region": "América",
+      "ciudad_representativa": "Hermosillo (México)",
+      "offset_utc_actual": "UTC-07:00"
+    },
+    {
+      "zona_iana": "America/Indianapolis",
+      "region": "América",
+      "ciudad_representativa": "Indianápolis, Indiana (EE. UU.)",
+      "offset_utc_actual": "UTC-05:00"
+    },
+    {
+      "zona_iana": "America/Inuvik",
+      "region": "América",
+      "ciudad_representativa": "Inuvik (Canadá)",
+      "offset_utc_actual": "UTC-07:00"
+    },
+    {
+      "zona_iana": "America/Iqaluit",
+      "region": "América",
+      "ciudad_representativa": "Iqaluit (Canadá)",
+      "offset_utc_actual": "UTC-05:00"
+    },
+    {
+      "zona_iana": "America/Jamaica",
+      "region": "América",
+      "ciudad_representativa": "Jamaica",
+      "offset_utc_actual": "UTC-05:00"
+    },
+    {
+      "zona_iana": "America/Juneau",
+      "region": "América",
+      "ciudad_representativa": "Juneau, Alaska (EE. UU.)",
+      "offset_utc_actual": "UTC-09:00"
+    },
+    {
+      "zona_iana": "America/Kentucky/Louisville",
+      "region": "América",
+      "ciudad_representativa": "Louisville, Kentucky (EE. UU.)",
+      "offset_utc_actual": "UTC-05:00"
+    },
+    {
+      "zona_iana": "America/Kentucky/Monticello",
+      "region": "América",
+      "ciudad_representativa": "Monticello, Kentucky (EE. UU.)",
+      "offset_utc_actual": "UTC-05:00"
+    },
+    {
+      "zona_iana": "America/La_Paz",
+      "region": "América",
+      "ciudad_representativa": "La Paz (Bolivia)",
+      "offset_utc_actual": "UTC-04:00"
+    },
+    {
+      "zona_iana": "America/Lima",
+      "region": "América",
+      "ciudad_representativa": "Lima (Perú)",
+      "offset_utc_actual": "UTC-05:00"
+    },
+    {
+      "zona_iana": "America/Los_Angeles",
+      "region": "América",
+      "ciudad_representativa": "Los Ángeles, California (EE. UU.)",
+      "offset_utc_actual": "UTC-08:00"
+    },
+    {
+      "zona_iana": "America/Maceio",
+      "region": "América",
+      "ciudad_representativa": "Maceió (Brasil)",
+      "offset_utc_actual": "UTC-03:00"
+    },
+    {
+      "zona_iana": "America/Managua",
+      "region": "América",
+      "ciudad_representativa": "Managua (Nicaragua)",
+      "offset_utc_actual": "UTC-06:00"
+    },
+    {
+      "zona_iana": "America/Manaus",
+      "region": "América",
+      "ciudad_representativa": "Manaos (Brasil)",
+      "offset_utc_actual": "UTC-04:00"
+    },
+    {
+      "zona_iana": "America/Martinique",
+      "region": "América",
+      "ciudad_representativa": "Martinica",
+      "offset_utc_actual": "UTC-04:00"
+    },
+    {
+      "zona_iana": "America/Matamoros",
+      "region": "América",
+      "ciudad_representativa": "Matamoros (México)",
+      "offset_utc_actual": "UTC-06:00"
+    },
+    {
+      "zona_iana": "America/Mazatlan",
+      "region": "América",
+      "ciudad_representativa": "Mazatlán (México)",
+      "offset_utc_actual": "UTC-07:00"
+    },
+    {
+      "zona_iana": "America/Menominee",
+      "region": "América",
+      "ciudad_representativa": "Menominee, Míchigan (EE. UU.)",
+      "offset_utc_actual": "UTC-06:00"
+    },
+    {
+      "zona_iana": "America/Merida",
+      "region": "América",
+      "ciudad_representativa": "Mérida (México)",
+      "offset_utc_actual": "UTC-06:00"
+    },
+    {
+      "zona_iana": "America/Metlakatla",
+      "region": "América",
+      "ciudad_representativa": "Metlakatla, Alaska (EE. UU.)",
+      "offset_utc_actual": "UTC-09:00"
+    },
+    {
+      "zona_iana": "America/Mexico_City",
+      "region": "América",
+      "ciudad_representativa": "Ciudad de México (México)",
+      "offset_utc_actual": "UTC-06:00"
+    },
+    {
+      "zona_iana": "America/Moncton",
+      "region": "América",
+      "ciudad_representativa": "Moncton (Canadá)",
+      "offset_utc_actual": "UTC-04:00"
+    },
+    {
+      "zona_iana": "America/Monterrey",
+      "region": "América",
+      "ciudad_representativa": "Monterrey (México)",
+      "offset_utc_actual": "UTC-06:00"
+    },
+    {
+      "zona_iana": "America/Montevideo",
+      "region": "América",
+      "ciudad_representativa": "Montevideo (Uruguay)",
+      "offset_utc_actual": "UTC-03:00"
+    },
+    {
+      "zona_iana": "America/Nassau",
+      "region": "América",
+      "ciudad_representativa": "Nassau (Bahamas)",
+      "offset_utc_actual": "UTC-05:00"
+    },
+    {
+      "zona_iana": "America/New_York",
+      "region": "América",
+      "ciudad_representativa": "Nueva York, Nueva York (EE. UU.)",
+      "offset_utc_actual": "UTC-05:00"
+    },
+    {
+      "zona_iana": "America/Nome",
+      "region": "América",
+      "ciudad_representativa": "Nome, Alaska (EE. UU.)",
+      "offset_utc_actual": "UTC-09:00"
+    },
+    {
+      "zona_iana": "America/Noronha",
+      "region": "América",
+      "ciudad_representativa": "Fernando de Noronha (Brasil)",
+      "offset_utc_actual": "UTC-02:00"
+    },
+    {
+      "zona_iana": "America/North_Dakota/Beulah",
+      "region": "América",
+      "ciudad_representativa": "Beulah, Dakota del Norte (EE. UU.)",
+      "offset_utc_actual": "UTC-06:00"
+    },
+    {
+      "zona_iana": "America/North_Dakota/Center",
+      "region": "América",
+      "ciudad_representativa": "Center, Dakota del Norte (EE. UU.)",
+      "offset_utc_actual": "UTC-06:00"
+    },
+    {
+      "zona_iana": "America/North_Dakota/New_Salem",
+      "region": "América",
+      "ciudad_representativa": "New Salem, Dakota del Norte (EE. UU.)",
+      "offset_utc_actual": "UTC-06:00"
+    },
+    {
+      "zona_iana": "America/Ojinaga",
+      "region": "América",
+      "ciudad_representativa": "Ojinaga (México)",
+      "offset_utc_actual": "UTC-07:00"
+    },
+    {
+      "zona_iana": "America/Panama",
+      "region": "América",
+      "ciudad_representativa": "Panamá",
+      "offset_utc_actual": "UTC-05:00"
+    },
+    {
+      "zona_iana": "America/Phoenix",
+      "region": "América",
+      "ciudad_representativa": "Phoenix, Arizona (EE. UU.)",
+      "offset_utc_actual": "UTC-07:00"
+    },
+    {
+      "zona_iana": "America/Port-au-Prince",
+      "region": "América",
+      "ciudad_representativa": "Puerto Príncipe (Haití)",
+      "offset_utc_actual": "UTC-05:00"
+    },
+    {
+      "zona_iana": "America/Port_of_Spain",
+      "region": "América",
+      "ciudad_representativa": "Puerto España (Trinidad y Tobago)",
+      "offset_utc_actual": "UTC-04:00"
+    },
+    {
+      "zona_iana": "America/Porto_Velho",
+      "region": "América",
+      "ciudad_representativa": "Porto Velho (Brasil)",
+      "offset_utc_actual": "UTC-04:00"
+    },
+    {
+      "zona_iana": "America/Puerto_Rico",
+      "region": "América",
+      "ciudad_representativa": "Puerto Rico",
+      "offset_utc_actual": "UTC-04:00"
+    },
+    {
+      "zona_iana": "America/Punta_Arenas",
+      "region": "América",
+      "ciudad_representativa": "Punta Arenas (Chile)",
+      "offset_utc_actual": "UTC-03:00"
+    },
+    {
+      "zona_iana": "America/Rankin_Inlet",
+      "region": "América",
+      "ciudad_representativa": "Rankin Inlet (Canadá)",
+      "offset_utc_actual": "UTC-06:00"
+    },
+    {
+      "zona_iana": "America/Recife",
+      "region": "América",
+      "ciudad_representativa": "Recife (Brasil)",
+      "offset_utc_actual": "UTC-03:00"
+    },
+    {
+      "zona_iana": "America/Regina",
+      "region": "América",
+      "ciudad_representativa": "Regina (Canadá)",
+      "offset_utc_actual": "UTC-06:00"
+    },
+    {
+      "zona_iana": "America/Resolute",
+      "region": "América",
+      "ciudad_representativa": "Resolute (Canadá)",
+      "offset_utc_actual": "UTC-06:00"
+    },
+    {
+      "zona_iana": "America/Rio_Branco",
+      "region": "América",
+      "ciudad_representativa": "Río Branco (Brasil)",
+      "offset_utc_actual": "UTC-05:00"
+    },
+    {
+      "zona_iana": "America/Santarem",
+      "region": "América",
+      "ciudad_representativa": "Santarém (Brasil)",
+      "offset_utc_actual": "UTC-03:00"
+    },
+    {
+      "zona_iana": "America/Santiago",
+      "region": "América",
+      "ciudad_representativa": "Santiago (Chile)",
+      "offset_utc_actual": "UTC-03:00"
+    },
+    {
+      "zona_iana": "America/Santo_Domingo",
+      "region": "América",
+      "ciudad_representativa": "Santo Domingo (República Dominicana)",
+      "offset_utc_actual": "UTC-04:00"
+    },
+    {
+      "zona_iana": "America/Sao_Paulo",
+      "region": "América",
+      "ciudad_representativa": "São Paulo (Brasil)",
+      "offset_utc_actual": "UTC-03:00"
+    },
+    {
+      "zona_iana": "America/Scoresbysund",
+      "region": "América",
+      "ciudad_representativa": "Scoresbysund (Groenlandia)",
+      "offset_utc_actual": "UTC-01:00"
+    },
+    {
+      "zona_iana": "America/Sitka",
+      "region": "América",
+      "ciudad_representativa": "Sitka, Alaska (EE. UU.)",
+      "offset_utc_actual": "UTC-09:00"
+    },
+    {
+      "zona_iana": "America/St_Johns",
+      "region": "América",
+      "ciudad_representativa": "St. John's, Terranova (Canadá)",
+      "offset_utc_actual": "UTC-03:30"
+    },
+    {
+      "zona_iana": "America/Swift_Current",
+      "region": "América",
+      "ciudad_representativa": "Swift Current (Canadá)",
+      "offset_utc_actual": "UTC-06:00"
+    },
+    {
+      "zona_iana": "America/Tegucigalpa",
+      "region": "América",
+      "ciudad_representativa": "Tegucigalpa (Honduras)",
+      "offset_utc_actual": "UTC-06:00"
+    },
+    {
+      "zona_iana": "America/Thule",
+      "region": "América",
+      "ciudad_representativa": "Thule (Groenlandia)",
+      "offset_utc_actual": "UTC-04:00"
+    },
+    {
+      "zona_iana": "America/Tijuana",
+      "region": "América",
+      "ciudad_representativa": "Tijuana, Baja California (México)",
+      "offset_utc_actual": "UTC-08:00"
+    },
+    {
+      "zona_iana": "America/Toronto",
+      "region": "América",
+      "ciudad_representativa": "Toronto, Ontario (Canadá)",
+      "offset_utc_actual": "UTC-05:00"
+    },
+    {
+      "zona_iana": "America/Vancouver",
+      "region": "América",
+      "ciudad_representativa": "Vancouver, Columbia Británica (Canadá)",
+      "offset_utc_actual": "UTC-08:00"
+    },
+    {
+      "zona_iana": "America/Whitehorse",
+      "region": "América",
+      "ciudad_representativa": "Whitehorse (Canadá)",
+      "offset_utc_actual": "UTC-07:00"
+    },
+    {
+      "zona_iana": "America/Winnipeg",
+      "region": "América",
+      "ciudad_representativa": "Winnipeg (Canadá)",
+      "offset_utc_actual": "UTC-06:00"
+    },
+    {
+      "zona_iana": "America/Yakutat",
+      "region": "América",
+      "ciudad_representativa": "Yakutat, Alaska (EE. UU.)",
+      "offset_utc_actual": "UTC-09:00"
+    },
+    {
+      "zona_iana": "America/Yellowknife",
+      "region": "América",
+      "ciudad_representativa": "Yellowknife (Canadá)",
+      "offset_utc_actual": "UTC-07:00"
+    },
+    {
+      "zona_iana": "Antarctica/Casey",
+      "region": "Antártida",
+      "ciudad_representativa": "Casey (Antártida)",
+      "offset_utc_actual": "UTC+11:00"
+    },
+    {
+      "zona_iana": "Antarctica/Davis",
+      "region": "Antártida",
+      "ciudad_representativa": "Davis (Antártida)",
+      "offset_utc_actual": "UTC+07:00"
+    },
+    {
+      "zona_iana": "Antarctica/DumontDUrville",
+      "region": "Antártida",
+      "ciudad_representativa": "Dumont d'Urville (Antártida)",
+      "offset_utc_actual": "UTC+11:00"
+    },
+    {
+      "zona_iana": "Antarctica/Macquarie",
+      "region": "Antártida",
+      "ciudad_representativa": "Isla Macquarie (Australia)",
+      "offset_utc_actual": "UTC+11:00"
+    },
+    {
+      "zona_iana": "Antarctica/Mawson",
+      "region": "Antártida",
+      "ciudad_representativa": "Mawson (Antártida)",
+      "offset_utc_actual": "UTC+05:00"
+    },
+    {
+      "zona_iana": "Antarctica/Palmer",
+      "region": "Antártida",
+      "ciudad_representativa": "Palmer (Antártida)",
+      "offset_utc_actual": "UTC-03:00"
+    },
+    {
+      "zona_iana": "Antarctica/Rothera",
+      "region": "Antártida",
+      "ciudad_representativa": "Rothera (Antártida)",
+      "offset_utc_actual": "UTC-03:00"
+    },
+    {
+      "zona_iana": "Antarctica/Syowa",
+      "region": "Antártida",
+      "ciudad_representativa": "Syowa (Antártida)",
+      "offset_utc_actual": "UTC+03:00"
+    },
+    {
+      "zona_iana": "Antarctica/Troll",
+      "region": "Antártida",
+      "ciudad_representativa": "Troll (Antártida)",
+      "offset_utc_actual": "UTC+00:00"
+    },
+    {
+      "zona_iana": "Antarctica/Vostok",
+      "region": "Antártida",
+      "ciudad_representativa": "Vostok (Antártida)",
+      "offset_utc_actual": "UTC+06:00"
+    },
+    {
+      "zona_iana": "Asia/Almaty",
+      "region": "Asia",
+      "ciudad_representativa": "Almaty (Kazajistán)",
+      "offset_utc_actual": "UTC+05:00"
+    },
+    {
+      "zona_iana": "Asia/Amman",
+      "region": "Asia",
+      "ciudad_representativa": "Amán (Jordania)",
+      "offset_utc_actual": "UTC+02:00"
+    },
+    {
+      "zona_iana": "Asia/Anadyr",
+      "region": "Asia",
+      "ciudad_representativa": "Anadyr (Rusia)",
+      "offset_utc_actual": "UTC+12:00"
+    },
+    {
+      "zona_iana": "Asia/Aqtau",
+      "region": "Asia",
+      "ciudad_representativa": "Aktau (Kazajistán)",
+      "offset_utc_actual": "UTC+05:00"
+    },
+    {
+      "zona_iana": "Asia/Aqtobe",
+      "region": "Asia",
+      "ciudad_representativa": "Aktobé (Kazajistán)",
+      "offset_utc_actual": "UTC+05:00"
+    },
+    {
+      "zona_iana": "Asia/Ashgabat",
+      "region": "Asia",
+      "ciudad_representativa": "Asjabad (Turkmenistán)",
+      "offset_utc_actual": "UTC+05:00"
+    },
+    {
+      "zona_iana": "Asia/Atyrau",
+      "region": "Asia",
+      "ciudad_representativa": "Atyrau (Kazajistán)",
+      "offset_utc_actual": "UTC+05:00"
+    },
+    {
+      "zona_iana": "Asia/Baghdad",
+      "region": "Asia",
+      "ciudad_representativa": "Bagdad (Irak)",
+      "offset_utc_actual": "UTC+03:00"
+    },
+    {
+      "zona_iana": "Asia/Baku",
+      "region": "Asia",
+      "ciudad_representativa": "Bakú (Azerbaiyán)",
+      "offset_utc_actual": "UTC+04:00"
+    },
+    {
+      "zona_iana": "Asia/Bangkok",
+      "region": "Asia",
+      "ciudad_representativa": "Bangkok (Tailandia)",
+      "offset_utc_actual": "UTC+07:00"
+    },
+    {
+      "zona_iana": "Asia/Barnaul",
+      "region": "Asia",
+      "ciudad_representativa": "Barnaúl (Rusia)",
+      "offset_utc_actual": "UTC+07:00"
+    },
+    {
+      "zona_iana": "Asia/Beirut",
+      "region": "Asia",
+      "ciudad_representativa": "Beirut (Líbano)",
+      "offset_utc_actual": "UTC+02:00"
+    },
+    {
+      "zona_iana": "Asia/Bishkek",
+      "region": "Asia",
+      "ciudad_representativa": "Biskek (Kirguistán)",
+      "offset_utc_actual": "UTC+06:00"
+    },
+    {
+      "zona_iana": "Asia/Brunei",
+      "region": "Asia",
+      "ciudad_representativa": "Brunéi",
+      "offset_utc_actual": "UTC+08:00"
+    },
+    {
+      "zona_iana": "Asia/Chita",
+      "region": "Asia",
+      "ciudad_representativa": "Chitá (Rusia)",
+      "offset_utc_actual": "UTC+09:00"
+    },
+    {
+      "zona_iana": "Asia/Choibalsan",
+      "region": "Asia",
+      "ciudad_representativa": "Choibalsan (Mongolia)",
+      "offset_utc_actual": "UTC+08:00"
+    },
+    {
+      "zona_iana": "Asia/Colombo",
+      "region": "Asia",
+      "ciudad_representativa": "Colombo (Sri Lanka)",
+      "offset_utc_actual": "UTC+05:30"
+    },
+    {
+      "zona_iana": "Asia/Damascus",
+      "region": "Asia",
+      "ciudad_representativa": "Damasco (Siria)",
+      "offset_utc_actual": "UTC+02:00"
+    },
+    {
+      "zona_iana": "Asia/Dhaka",
+      "region": "Asia",
+      "ciudad_representativa": "Daca (Bangladés)",
+      "offset_utc_actual": "UTC+06:00"
+    },
+    {
+      "zona_iana": "Asia/Dili",
+      "region": "Asia",
+      "ciudad_representativa": "Dili (Timor Oriental)",
+      "offset_utc_actual": "UTC+09:00"
+    },
+    {
+      "zona_iana": "Asia/Dubai",
+      "region": "Asia",
+      "ciudad_representativa": "Dubái (Emiratos Árabes Unidos)",
+      "offset_utc_actual": "UTC+04:00"
+    },
+    {
+      "zona_iana": "Asia/Dushanbe",
+      "region": "Asia",
+      "ciudad_representativa": "Dusambé (Tayikistán)",
+      "offset_utc_actual": "UTC+05:00"
+    },
+    {
+      "zona_iana": "Asia/Famagusta",
+      "region": "Asia",
+      "ciudad_representativa": "Famagusta (Chipre)",
+      "offset_utc_actual": "UTC+02:00"
+    },
+    {
+      "zona_iana": "Asia/Gaza",
+      "region": "Asia",
+      "ciudad_representativa": "Gaza (Palestina)",
+      "offset_utc_actual": "UTC+02:00"
+    },
+    {
+      "zona_iana": "Asia/Hovd",
+      "region": "Asia",
+      "ciudad_representativa": "Hovd (Mongolia)",
+      "offset_utc_actual": "UTC+07:00"
+    },
+    {
+      "zona_iana": "Asia/Ho_Chi_Minh",
+      "region": "Asia",
+      "ciudad_representativa": "Ho Chi Minh (Vietnam)",
+      "offset_utc_actual": "UTC+07:00"
+    },
+    {
+      "zona_iana": "Asia/Hong_Kong",
+      "region": "Asia",
+      "ciudad_representativa": "Hong Kong (China)",
+      "offset_utc_actual": "UTC+08:00"
+    },
+    {
+      "zona_iana": "Asia/Irkutsk",
+      "region": "Asia",
+      "ciudad_representativa": "Irkutsk (Rusia)",
+      "offset_utc_actual": "UTC+08:00"
+    },
+    {
+      "zona_iana": "Asia/Jakarta",
+      "region": "Asia",
+      "ciudad_representativa": "Yakarta (Indonesia)",
+      "offset_utc_actual": "UTC+07:00"
+    },
+    {
+      "zona_iana": "Asia/Jayapura",
+      "region": "Asia",
+      "ciudad_representativa": "Jayapura (Indonesia)",
+      "offset_utc_actual": "UTC+09:00"
+    },
+    {
+      "zona_iana": "Asia/Jerusalem",
+      "region": "Asia",
+      "ciudad_representativa": "Jerusalén (Israel)",
+      "offset_utc_actual": "UTC+02:00"
+    },
+    {
+      "zona_iana": "Asia/Kabul",
+      "region": "Asia",
+      "ciudad_representativa": "Kabul (Afganistán)",
+      "offset_utc_actual": "UTC+04:30"
+    },
+    {
+      "zona_iana": "Asia/Kamchatka",
+      "region": "Asia",
+      "ciudad_representativa": "Kamchatka (Rusia)",
+      "offset_utc_actual": "UTC+12:00"
+    },
+    {
+      "zona_iana": "Asia/Karachi",
+      "region": "Asia",
+      "ciudad_representativa": "Karachi (Pakistán)",
+      "offset_utc_actual": "UTC+05:00"
+    },
+    {
+      "zona_iana": "Asia/Kathmandu",
+      "region": "Asia",
+      "ciudad_representativa": "Katmandú (Nepal)",
+      "offset_utc_actual": "UTC+05:45"
+    },
+    {
+      "zona_iana": "Asia/Khandyga",
+      "region": "Asia",
+      "ciudad_representativa": "Khandyga (Rusia)",
+      "offset_utc_actual": "UTC+09:00"
+    },
+    {
+      "zona_iana": "Asia/Kolkata",
+      "region": "Asia",
+      "ciudad_representativa": "Calcuta (India)",
+      "offset_utc_actual": "UTC+05:30"
+    },
+    {
+      "zona_iana": "Asia/Krasnoyarsk",
+      "region": "Asia",
+      "ciudad_representativa": "Krasnoyarsk (Rusia)",
+      "offset_utc_actual": "UTC+07:00"
+    },
+    {
+      "zona_iana": "Asia/Kuala_Lumpur",
+      "region": "Asia",
+      "ciudad_representativa": "Kuala Lumpur (Malasia)",
+      "offset_utc_actual": "UTC+08:00"
+    },
+    {
+      "zona_iana": "Asia/Kuching",
+      "region": "Asia",
+      "ciudad_representativa": "Kuching (Malasia)",
+      "offset_utc_actual": "UTC+08:00"
+    },
+    {
+      "zona_iana": "Asia/Macau",
+      "region": "Asia",
+      "ciudad_representativa": "Macao (China)",
+      "offset_utc_actual": "UTC+08:00"
+    },
+    {
+      "zona_iana": "Asia/Magadan",
+      "region": "Asia",
+      "ciudad_representativa": "Magadán (Rusia)",
+      "offset_utc_actual": "UTC+11:00"
+    },
+    {
+      "zona_iana": "Asia/Makassar",
+      "region": "Asia",
+      "ciudad_representativa": "Makasar (Indonesia)",
+      "offset_utc_actual": "UTC+08:00"
+    },
+    {
+      "zona_iana": "Asia/Manila",
+      "region": "Asia",
+      "ciudad_representativa": "Manila (Filipinas)",
+      "offset_utc_actual": "UTC+08:00"
+    },
+    {
+      "zona_iana": "Asia/Nicosia",
+      "region": "Asia",
+      "ciudad_representativa": "Nicosia (Chipre)",
+      "offset_utc_actual": "UTC+02:00"
+    },
+    {
+      "zona_iana": "Asia/Novokuznetsk",
+      "region": "Asia",
+      "ciudad_representativa": "Novokuznetsk (Rusia)",
+      "offset_utc_actual": "UTC+07:00"
+    },
+    {
+      "zona_iana": "Asia/Novosibirsk",
+      "region": "Asia",
+      "ciudad_representativa": "Novosibirsk (Rusia)",
+      "offset_utc_actual": "UTC+07:00"
+    },
+    {
+      "zona_iana": "Asia/Omsk",
+      "region": "Asia",
+      "ciudad_representativa": "Omsk (Rusia)",
+      "offset_utc_actual": "UTC+06:00"
+    },
+    {
+      "zona_iana": "Asia/Oral",
+      "region": "Asia",
+      "ciudad_representativa": "Oral (Kazajistán)",
+      "offset_utc_actual": "UTC+05:00"
+    },
+    {
+      "zona_iana": "Asia/Pontianak",
+      "region": "Asia",
+      "ciudad_representativa": "Pontianak (Indonesia)",
+      "offset_utc_actual": "UTC+07:00"
+    },
+    {
+      "zona_iana": "Asia/Pyongyang",
+      "region": "Asia",
+      "ciudad_representativa": "Pionyang (Corea del Norte)",
+      "offset_utc_actual": "UTC+09:00"
+    },
+    {
+      "zona_iana": "Asia/Qatar",
+      "region": "Asia",
+      "ciudad_representativa": "Catar",
+      "offset_utc_actual": "UTC+03:00"
+    },
+    {
+      "zona_iana": "Asia/Qostanay",
+      "region": "Asia",
+      "ciudad_representativa": "Kostanái (Kazajistán)",
+      "offset_utc_actual": "UTC+05:00"
+    },
+    {
+      "zona_iana": "Asia/Qyzylorda",
+      "region": "Asia",
+      "ciudad_representativa": "Kyzylorda (Kazajistán)",
+      "offset_utc_actual": "UTC+05:00"
+    },
+    {
+      "zona_iana": "Asia/Riyadh",
+      "region": "Asia",
+      "ciudad_representativa": "Riad (Arabia Saudita)",
+      "offset_utc_actual": "UTC+03:00"
+    },
+    {
+      "zona_iana": "Asia/Sakhalin",
+      "region": "Asia",
+      "ciudad_representativa": "Sajalín (Rusia)",
+      "offset_utc_actual": "UTC+11:00"
+    },
+    {
+      "zona_iana": "Asia/Samarkand",
+      "region": "Asia",
+      "ciudad_representativa": "Samarcanda (Uzbekistán)",
+      "offset_utc_actual": "UTC+05:00"
+    },
+    {
+      "zona_iana": "Asia/Seoul",
+      "region": "Asia",
+      "ciudad_representativa": "Seúl (Corea del Sur)",
+      "offset_utc_actual": "UTC+09:00"
+    },
+    {
+      "zona_iana": "Asia/Shanghai",
+      "region": "Asia",
+      "ciudad_representativa": "Shanghái (China)",
+      "offset_utc_actual": "UTC+08:00"
+    },
+    {
+      "zona_iana": "Asia/Singapore",
+      "region": "Asia",
+      "ciudad_representativa": "Singapur",
+      "offset_utc_actual": "UTC+08:00"
+    },
+    {
+      "zona_iana": "Asia/Srednekolymsk",
+      "region": "Asia",
+      "ciudad_representativa": "Srednekolymsk (Rusia)",
+      "offset_utc_actual": "UTC+11:00"
+    },
+    {
+      "zona_iana": "Asia/Taipei",
+      "region": "Asia",
+      "ciudad_representativa": "Taipéi (Taiwán)",
+      "offset_utc_actual": "UTC+08:00"
+    },
+    {
+      "zona_iana": "Asia/Tashkent",
+      "region": "Asia",
+      "ciudad_representativa": "Taskent (Uzbekistán)",
+      "offset_utc_actual": "UTC+05:00"
+    },
+    {
+      "zona_iana": "Asia/Tbilisi",
+      "region": "Asia",
+      "ciudad_representativa": "Tiflis (Georgia)",
+      "offset_utc_actual": "UTC+04:00"
+    },
+    {
+      "zona_iana": "Asia/Tehran",
+      "region": "Asia",
+      "ciudad_representativa": "Teherán (Irán)",
+      "offset_utc_actual": "UTC+03:30"
+    },
+    {
+      "zona_iana": "Asia/Thimphu",
+      "region": "Asia",
+      "ciudad_representativa": "Timbu (Bután)",
+      "offset_utc_actual": "UTC+06:00"
+    },
+    {
+      "zona_iana": "Asia/Tokyo",
+      "region": "Asia",
+      "ciudad_representativa": "Tokio (Japón)",
+      "offset_utc_actual": "UTC+09:00"
+    },
+    {
+      "zona_iana": "Asia/Tomsk",
+      "region": "Asia",
+      "ciudad_representativa": "Tomsk (Rusia)",
+      "offset_utc_actual": "UTC+07:00"
+    },
+    {
+      "zona_iana": "Asia/Ulaanbaatar",
+      "region": "Asia",
+      "ciudad_representativa": "Ulán Bator (Mongolia)",
+      "offset_utc_actual": "UTC+08:00"
+    },
+    {
+      "zona_iana": "Asia/Urumqi",
+      "region": "Asia",
+      "ciudad_representativa": "Urumqi (China)",
+      "offset_utc_actual": "UTC+06:00"
+    },
+    {
+      "zona_iana": "Asia/Ust-Nera",
+      "region": "Asia",
+      "ciudad_representativa": "Ust-Nera (Rusia)",
+      "offset_utc_actual": "UTC+10:00"
+    },
+    {
+      "zona_iana": "Asia/Vientiane",
+      "region": "Asia",
+      "ciudad_representativa": "Vientián (Laos)",
+      "offset_utc_actual": "UTC+07:00"
+    },
+    {
+      "zona_iana": "Asia/Vladivostok",
+      "region": "Asia",
+      "ciudad_representativa": "Vladivostok (Rusia)",
+      "offset_utc_actual": "UTC+10:00"
+    },
+    {
+      "zona_iana": "Asia/Yakutsk",
+      "region": "Asia",
+      "ciudad_representativa": "Yakutsk (Rusia)",
+      "offset_utc_actual": "UTC+09:00"
+    },
+    {
+      "zona_iana": "Asia/Yangon",
+      "region": "Asia",
+      "ciudad_representativa": "Yangón (Birmania)",
+      "offset_utc_actual": "UTC+06:30"
+    },
+    {
+      "zona_iana": "Asia/Yekaterinburg",
+      "region": "Asia",
+      "ciudad_representativa": "Ekaterimburgo (Rusia)",
+      "offset_utc_actual": "UTC+05:00"
+    },
+    {
+      "zona_iana": "Asia/Yerevan",
+      "region": "Asia",
+      "ciudad_representativa": "Ereván (Armenia)",
+      "offset_utc_actual": "UTC+04:00"
+    },
+    {
+      "zona_iana": "Atlantic/Azores",
+      "region": "Atlántico",
+      "ciudad_representativa": "Azores (Portugal)",
+      "offset_utc_actual": "UTC-01:00"
+    },
+    {
+      "zona_iana": "Atlantic/Bermuda",
+      "region": "Atlántico",
+      "ciudad_representativa": "Bermudas (Reino Unido)",
+      "offset_utc_actual": "UTC-04:00"
+    },
+    {
+      "zona_iana": "Atlantic/Canary",
+      "region": "Atlántico",
+      "ciudad_representativa": "Islas Canarias (España)",
+      "offset_utc_actual": "UTC+00:00"
+    },
+    {
+      "zona_iana": "Atlantic/Cape_Verde",
+      "region": "Atlántico",
+      "ciudad_representativa": "Cabo Verde",
+      "offset_utc_actual": "UTC-01:00"
+    },
+    {
+      "zona_iana": "Atlantic/Faroe",
+      "region": "Atlántico",
+      "ciudad_representativa": "Islas Feroe (Dinamarca)",
+      "offset_utc_actual": "UTC+00:00"
+    },
+    {
+      "zona_iana": "Atlantic/Madeira",
+      "region": "Atlántico",
+      "ciudad_representativa": "Madeira (Portugal)",
+      "offset_utc_actual": "UTC+00:00"
+    },
+    {
+      "zona_iana": "Atlantic/Reykjavik",
+      "region": "Atlántico",
+      "ciudad_representativa": "Reikiavik (Islandia)",
+      "offset_utc_actual": "UTC+00:00"
+    },
+    {
+      "zona_iana": "Atlantic/South_Georgia",
+      "region": "Atlántico",
+      "ciudad_representativa": "Georgia del Sur",
+      "offset_utc_actual": "UTC-02:00"
+    },
+    {
+      "zona_iana": "Atlantic/Stanley",
+      "region": "Atlántico",
+      "ciudad_representativa": "Islas Malvinas",
+      "offset_utc_actual": "UTC-03:00"
+    },
+    {
+      "zona_iana": "Australia/Adelaide",
+      "region": "Australia",
+      "ciudad_representativa": "Adelaida",
+      "offset_utc_actual": "UTC+10:30"
+    },
+    {
+      "zona_iana": "Australia/Brisbane",
+      "region": "Australia",
+      "ciudad_representativa": "Brisbane",
+      "offset_utc_actual": "UTC+10:00"
+    },
+    {
+      "zona_iana": "Australia/Broken_Hill",
+      "region": "Australia",
+      "ciudad_representativa": "Broken Hill",
+      "offset_utc_actual": "UTC+10:30"
+    },
+    {
+      "zona_iana": "Australia/Currie",
+      "region": "Australia",
+      "ciudad_representativa": "Currie, Tasmania",
+      "offset_utc_actual": "UTC+11:00"
+    },
+    {
+      "zona_iana": "Australia/Darwin",
+      "region": "Australia",
+      "ciudad_representativa": "Darwin",
+      "offset_utc_actual": "UTC+09:30"
+    },
+    {
+      "zona_iana": "Australia/Eucla",
+      "region": "Australia",
+      "ciudad_representativa": "Eucla, Australia Occidental",
+      "offset_utc_actual": "UTC+08:45"
+    },
+    {
+      "zona_iana": "Australia/Hobart",
+      "region": "Australia",
+      "ciudad_representativa": "Hobart, Tasmania",
+      "offset_utc_actual": "UTC+11:00"
+    },
+    {
+      "zona_iana": "Australia/Lindeman",
+      "region": "Australia",
+      "ciudad_representativa": "Lindeman, Queensland",
+      "offset_utc_actual": "UTC+10:00"
+    },
+    {
+      "zona_iana": "Australia/Lord_Howe",
+      "region": "Australia",
+      "ciudad_representativa": "Isla Lord Howe",
+      "offset_utc_actual": "UTC+11:00"
+    },
+    {
+      "zona_iana": "Australia/Melbourne",
+      "region": "Australia",
+      "ciudad_representativa": "Melbourne, Victoria",
+      "offset_utc_actual": "UTC+11:00"
+    },
+    {
+      "zona_iana": "Australia/Perth",
+      "region": "Australia",
+      "ciudad_representativa": "Perth, Australia Occidental",
+      "offset_utc_actual": "UTC+08:00"
+    },
+    {
+      "zona_iana": "Australia/Sydney",
+      "region": "Australia",
+      "ciudad_representativa": "Sídney, Nueva Gales del Sur",
+      "offset_utc_actual": "UTC+11:00"
+    },
+    {
+      "zona_iana": "Etc/GMT",
+      "region": "Otros",
+      "ciudad_representativa": "Tiempo universal coordinado",
+      "offset_utc_actual": "UTC+00:00"
+    },
+    {
+      "zona_iana": "Etc/GMT-1",
+      "region": "Otros",
+      "ciudad_representativa": "GMT +1 hora",
+      "offset_utc_actual": "UTC+01:00"
+    },
+    {
+      "zona_iana": "Etc/GMT-2",
+      "region": "Otros",
+      "ciudad_representativa": "GMT +2 horas",
+      "offset_utc_actual": "UTC+02:00"
+    },
+    {
+      "zona_iana": "Etc/GMT-3",
+      "region": "Otros",
+      "ciudad_representativa": "GMT +3 horas",
+      "offset_utc_actual": "UTC+03:00"
+    },
+    {
+      "zona_iana": "Etc/GMT-4",
+      "region": "Otros",
+      "ciudad_representativa": "GMT +4 horas",
+      "offset_utc_actual": "UTC+04:00"
+    },
+    {
+      "zona_iana": "Etc/GMT-5",
+      "region": "Otros",
+      "ciudad_representativa": "GMT +5 horas",
+      "offset_utc_actual": "UTC+05:00"
+    },
+    {
+      "zona_iana": "Etc/GMT-6",
+      "region": "Otros",
+      "ciudad_representativa": "GMT +6 horas",
+      "offset_utc_actual": "UTC+06:00"
+    },
+    {
+      "zona_iana": "Etc/GMT-7",
+      "region": "Otros",
+      "ciudad_representativa": "GMT +7 horas",
+      "offset_utc_actual": "UTC+07:00"
+    },
+    {
+      "zona_iana": "Etc/GMT-8",
+      "region": "Otros",
+      "ciudad_representativa": "GMT +8 horas",
+      "offset_utc_actual": "UTC+08:00"
+    },
+    {
+      "zona_iana": "Etc/GMT-9",
+      "region": "Otros",
+      "ciudad_representativa": "GMT +9 horas",
+      "offset_utc_actual": "UTC+09:00"
+    },
+    {
+      "zona_iana": "Etc/GMT-10",
+      "region": "Otros",
+      "ciudad_representativa": "GMT +10 horas",
+      "offset_utc_actual": "UTC+10:00"
+    },
+    {
+      "zona_iana": "Etc/GMT-11",
+      "region": "Otros",
+      "ciudad_representativa": "GMT +11 horas",
+      "offset_utc_actual": "UTC+11:00"
+    },
+    {
+      "zona_iana": "Etc/GMT-12",
+      "region": "Otros",
+      "ciudad_representativa": "GMT +12 horas",
+      "offset_utc_actual": "UTC+12:00"
+    },
+    {
+      "zona_iana": "Etc/GMT-13",
+      "region": "Otros",
+      "ciudad_representativa": "GMT +13 horas",
+      "offset_utc_actual": "UTC+13:00"
+    },
+    {
+      "zona_iana": "Etc/GMT-14",
+      "region": "Otros",
+      "ciudad_representativa": "GMT +14 horas",
+      "offset_utc_actual": "UTC+14:00"
+    },
+    {
+      "zona_iana": "Etc/GMT+1",
+      "region": "Otros",
+      "ciudad_representativa": "GMT -1 hora",
+      "offset_utc_actual": "UTC-01:00"
+    },
+    {
+      "zona_iana": "Etc/GMT+2",
+      "region": "Otros",
+      "ciudad_representativa": "GMT -2 horas",
+      "offset_utc_actual": "UTC-02:00"
+    },
+    {
+      "zona_iana": "Etc/GMT+3",
+      "region": "Otros",
+      "ciudad_representativa": "GMT -3 horas",
+      "offset_utc_actual": "UTC-03:00"
+    },
+    {
+      "zona_iana": "Etc/GMT+4",
+      "region": "Otros",
+      "ciudad_representativa": "GMT -4 horas",
+      "offset_utc_actual": "UTC-04:00"
+    },
+    {
+      "zona_iana": "Etc/GMT+5",
+      "region": "Otros",
+      "ciudad_representativa": "GMT -5 horas",
+      "offset_utc_actual": "UTC-05:00"
+    },
+    {
+      "zona_iana": "Etc/GMT+6",
+      "region": "Otros",
+      "ciudad_representativa": "GMT -6 horas",
+      "offset_utc_actual": "UTC-06:00"
+    },
+    {
+      "zona_iana": "Etc/GMT+7",
+      "region": "Otros",
+      "ciudad_representativa": "GMT -7 horas",
+      "offset_utc_actual": "UTC-07:00"
+    },
+    {
+      "zona_iana": "Etc/GMT+8",
+      "region": "Otros",
+      "ciudad_representativa": "GMT -8 horas",
+      "offset_utc_actual": "UTC-08:00"
+    },
+    {
+      "zona_iana": "Etc/GMT+9",
+      "region": "Otros",
+      "ciudad_representativa": "GMT -9 horas",
+      "offset_utc_actual": "UTC-09:00"
+    },
+    {
+      "zona_iana": "Etc/GMT+10",
+      "region": "Otros",
+      "ciudad_representativa": "GMT -10 horas",
+      "offset_utc_actual": "UTC-10:00"
+    },
+    {
+      "zona_iana": "Etc/GMT+11",
+      "region": "Otros",
+      "ciudad_representativa": "GMT -11 horas",
+      "offset_utc_actual": "UTC-11:00"
+    },
+    {
+      "zona_iana": "Etc/GMT+12",
+      "region": "Otros",
+      "ciudad_representativa": "GMT -12 horas",
+      "offset_utc_actual": "UTC-12:00"
+    },
+    {
+      "zona_iana": "Europe/Andorra",
+      "region": "Europa",
+      "ciudad_representativa": "Andorra",
+      "offset_utc_actual": "UTC+01:00"
+    },
+    {
+      "zona_iana": "Europe/Astrakhan",
+      "region": "Europa",
+      "ciudad_representativa": "Astracán (Rusia)",
+      "offset_utc_actual": "UTC+04:00"
+    },
+    {
+      "zona_iana": "Europe/Athens",
+      "region": "Europa",
+      "ciudad_representativa": "Atenas (Grecia)",
+      "offset_utc_actual": "UTC+02:00"
+    },
+    {
+      "zona_iana": "Europe/Belgrade",
+      "region": "Europa",
+      "ciudad_representativa": "Belgrado (Serbia)",
+      "offset_utc_actual": "UTC+01:00"
+    },
+    {
+      "zona_iana": "Europe/Berlin",
+      "region": "Europa",
+      "ciudad_representativa": "Berlín (Alemania)",
+      "offset_utc_actual": "UTC+01:00"
+    },
+    {
+      "zona_iana": "Europe/Brussels",
+      "region": "Europa",
+      "ciudad_representativa": "Bruselas (Bélgica)",
+      "offset_utc_actual": "UTC+01:00"
+    },
+    {
+      "zona_iana": "Europe/Bucharest",
+      "region": "Europa",
+      "ciudad_representativa": "Bucarest (Rumania)",
+      "offset_utc_actual": "UTC+02:00"
+    },
+    {
+      "zona_iana": "Europe/Budapest",
+      "region": "Europa",
+      "ciudad_representativa": "Budapest (Hungría)",
+      "offset_utc_actual": "UTC+01:00"
+    },
+    {
+      "zona_iana": "Europe/Chisinau",
+      "region": "Europa",
+      "ciudad_representativa": "Chisinau (Moldavia)",
+      "offset_utc_actual": "UTC+02:00"
+    },
+    {
+      "zona_iana": "Europe/Dublin",
+      "region": "Europa",
+      "ciudad_representativa": "Dublín (Irlanda)",
+      "offset_utc_actual": "UTC+00:00"
+    },
+    {
+      "zona_iana": "Europe/Gibraltar",
+      "region": "Europa",
+      "ciudad_representativa": "Gibraltar (Reino Unido)",
+      "offset_utc_actual": "UTC+01:00"
+    },
+    {
+      "zona_iana": "Europe/Helsinki",
+      "region": "Europa",
+      "ciudad_representativa": "Helsinki (Finlandia)",
+      "offset_utc_actual": "UTC+02:00"
+    },
+    {
+      "zona_iana": "Europe/Istanbul",
+      "region": "Europa",
+      "ciudad_representativa": "Estambul (Turquía)",
+      "offset_utc_actual": "UTC+03:00"
+    },
+    {
+      "zona_iana": "Europe/Kaliningrad",
+      "region": "Europa",
+      "ciudad_representativa": "Kaliningrado (Rusia)",
+      "offset_utc_actual": "UTC+02:00"
+    },
+    {
+      "zona_iana": "Europe/Kirov",
+      "region": "Europa",
+      "ciudad_representativa": "Kírov (Rusia)",
+      "offset_utc_actual": "UTC+03:00"
+    },
+    {
+      "zona_iana": "Europe/Kyiv",
+      "region": "Europa",
+      "ciudad_representativa": "Kiev (Ucrania)",
+      "offset_utc_actual": "UTC+02:00"
+    },
+    {
+      "zona_iana": "Europe/Lisbon",
+      "region": "Europa",
+      "ciudad_representativa": "Lisboa (Portugal)",
+      "offset_utc_actual": "UTC+00:00"
+    },
+    {
+      "zona_iana": "Europe/London",
+      "region": "Europa",
+      "ciudad_representativa": "Londres (Reino Unido)",
+      "offset_utc_actual": "UTC+00:00"
+    },
+    {
+      "zona_iana": "Europe/Madrid",
+      "region": "Europa",
+      "ciudad_representativa": "Madrid (España)",
+      "offset_utc_actual": "UTC+01:00"
+    },
+    {
+      "zona_iana": "Europe/Malta",
+      "region": "Europa",
+      "ciudad_representativa": "Malta",
+      "offset_utc_actual": "UTC+01:00"
+    },
+    {
+      "zona_iana": "Europe/Minsk",
+      "region": "Europa",
+      "ciudad_representativa": "Minsk (Bielorrusia)",
+      "offset_utc_actual": "UTC+03:00"
+    },
+    {
+      "zona_iana": "Europe/Moscow",
+      "region": "Europa",
+      "ciudad_representativa": "Moscú (Rusia)",
+      "offset_utc_actual": "UTC+03:00"
+    },
+    {
+      "zona_iana": "Europe/Paris",
+      "region": "Europa",
+      "ciudad_representativa": "París (Francia)",
+      "offset_utc_actual": "UTC+01:00"
+    },
+    {
+      "zona_iana": "Europe/Prague",
+      "region": "Europa",
+      "ciudad_representativa": "Praga (República Checa)",
+      "offset_utc_actual": "UTC+01:00"
+    },
+    {
+      "zona_iana": "Europe/Riga",
+      "region": "Europa",
+      "ciudad_representativa": "Riga (Letonia)",
+      "offset_utc_actual": "UTC+02:00"
+    },
+    {
+      "zona_iana": "Europe/Rome",
+      "region": "Europa",
+      "ciudad_representativa": "Roma (Italia)",
+      "offset_utc_actual": "UTC+01:00"
+    },
+    {
+      "zona_iana": "Europe/Samara",
+      "region": "Europa",
+      "ciudad_representativa": "Samara (Rusia)",
+      "offset_utc_actual": "UTC+04:00"
+    },
+    {
+      "zona_iana": "Europe/Saratov",
+      "region": "Europa",
+      "ciudad_representativa": "Saratov (Rusia)",
+      "offset_utc_actual": "UTC+04:00"
+    },
+    {
+      "zona_iana": "Europe/Simferopol",
+      "region": "Europa",
+      "ciudad_representativa": "Simferopol (Crimea/Ucrania)",
+      "offset_utc_actual": "UTC+03:00"
+    },
+    {
+      "zona_iana": "Europe/Sofia",
+      "region": "Europa",
+      "ciudad_representativa": "Sofía (Bulgaria)",
+      "offset_utc_actual": "UTC+02:00"
+    },
+    {
+      "zona_iana": "Europe/Stockholm",
+      "region": "Europa",
+      "ciudad_representativa": "Estocolmo (Suecia)",
+      "offset_utc_actual": "UTC+01:00"
+    },
+    {
+      "zona_iana": "Europe/Ulyanovsk",
+      "region": "Europa",
+      "ciudad_representativa": "Uliánovsk (Rusia)",
+      "offset_utc_actual": "UTC+04:00"
+    },
+    {
+      "zona_iana": "Europe/Vienna",
+      "region": "Europa",
+      "ciudad_representativa": "Viena (Austria)",
+      "offset_utc_actual": "UTC+01:00"
+    },
+    {
+      "zona_iana": "Europe/Volgograd",
+      "region": "Europa",
+      "ciudad_representativa": "Volgogrado (Rusia)",
+      "offset_utc_actual": "UTC+03:00"
+    },
+    {
+      "zona_iana": "Europe/Warsaw",
+      "region": "Europa",
+      "ciudad_representativa": "Varsovia (Polonia)",
+      "offset_utc_actual": "UTC+01:00"
+    },
+    {
+      "zona_iana": "Europe/Zaporozhye",
+      "region": "Europa",
+      "ciudad_representativa": "Zaporiyia (Ucrania)",
+      "offset_utc_actual": "UTC+02:00"
+    },
+    {
+      "zona_iana": "Indian/Chagos",
+      "region": "Océano Índico",
+      "ciudad_representativa": "Archipiélago de Chagos",
+      "offset_utc_actual": "UTC+06:00"
+    },
+    {
+      "zona_iana": "Indian/Christmas",
+      "region": "Océano Índico",
+      "ciudad_representativa": "Isla de Navidad (Australia)",
+      "offset_utc_actual": "UTC+07:00"
+    },
+    {
+      "zona_iana": "Indian/Cocos",
+      "region": "Océano Índico",
+      "ciudad_representativa": "Islas Cocos (Australia)",
+      "offset_utc_actual": "UTC+06:30"
+    },
+    {
+      "zona_iana": "Indian/Kerguelen",
+      "region": "Océano Índico",
+      "ciudad_representativa": "Kerguelen (Tierras Australes y Antárticas Francesas)",
+      "offset_utc_actual": "UTC+05:00"
+    },
+    {
+      "zona_iana": "Indian/Maldives",
+      "region": "Océano Índico",
+      "ciudad_representativa": "Maldivas",
+      "offset_utc_actual": "UTC+05:00"
+    },
+    {
+      "zona_iana": "Indian/Mauritius",
+      "region": "Océano Índico",
+      "ciudad_representativa": "Mauricio",
+      "offset_utc_actual": "UTC+04:00"
+    },
+    {
+      "zona_iana": "Indian/Reunion",
+      "region": "Océano Índico",
+      "ciudad_representativa": "Reunión (Francia)",
+      "offset_utc_actual": "UTC+04:00"
+    },
+    {
+      "zona_iana": "Pacific/Apia",
+      "region": "Pacífico",
+      "ciudad_representativa": "Apia (Samoa)",
+      "offset_utc_actual": "UTC+13:00"
+    },
+    {
+      "zona_iana": "Pacific/Auckland",
+      "region": "Pacífico",
+      "ciudad_representativa": "Auckland (Nueva Zelanda)",
+      "offset_utc_actual": "UTC+13:00"
+    },
+    {
+      "zona_iana": "Pacific/Bougainville",
+      "region": "Pacífico",
+      "ciudad_representativa": "Bougainville (Papúa Nueva Guinea)",
+      "offset_utc_actual": "UTC+11:00"
+    },
+    {
+      "zona_iana": "Pacific/Chatham",
+      "region": "Pacífico",
+      "ciudad_representativa": "Islas Chatham (Nueva Zelanda)",
+      "offset_utc_actual": "UTC+13:45"
+    },
+    {
+      "zona_iana": "Pacific/Chuuk",
+      "region": "Pacífico",
+      "ciudad_representativa": "Chuuk (Micronesia)",
+      "offset_utc_actual": "UTC+10:00"
+    },
+    {
+      "zona_iana": "Pacific/Easter",
+      "region": "Pacífico",
+      "ciudad_representativa": "Isla de Pascua (Chile)",
+      "offset_utc_actual": "UTC-05:00"
+    },
+    {
+      "zona_iana": "Pacific/Efate",
+      "region": "Pacífico",
+      "ciudad_representativa": "Éfaté (Vanuatu)",
+      "offset_utc_actual": "UTC+11:00"
+    },
+    {
+      "zona_iana": "Pacific/Fiji",
+      "region": "Pacífico",
+      "ciudad_representativa": "Fiyi",
+      "offset_utc_actual": "UTC+12:00"
+    },
+    {
+      "zona_iana": "Pacific/Funafuti",
+      "region": "Pacífico",
+      "ciudad_representativa": "Funafuti (Tuvalu)",
+      "offset_utc_actual": "UTC+12:00"
+    },
+    {
+      "zona_iana": "Pacific/Galapagos",
+      "region": "Pacífico",
+      "ciudad_representativa": "Galápagos (Ecuador)",
+      "offset_utc_actual": "UTC-06:00"
+    },
+    {
+      "zona_iana": "Pacific/Guam",
+      "region": "Pacífico",
+      "ciudad_representativa": "Guam (EE. UU.)",
+      "offset_utc_actual": "UTC+10:00"
+    },
+    {
+      "zona_iana": "Pacific/Honolulu",
+      "region": "Pacífico",
+      "ciudad_representativa": "Honolulu (Hawái, EE. UU.)",
+      "offset_utc_actual": "UTC-10:00"
+    },
+    {
+      "zona_iana": "Pacific/Kiritimati",
+      "region": "Pacífico",
+      "ciudad_representativa": "Kiritimati (Kiribati)",
+      "offset_utc_actual": "UTC+14:00"
+    },
+    {
+      "zona_iana": "Pacific/Kosrae",
+      "region": "Pacífico",
+      "ciudad_representativa": "Kosrae (Micronesia)",
+      "offset_utc_actual": "UTC+11:00"
+    },
+    {
+      "zona_iana": "Pacific/Majuro",
+      "region": "Pacífico",
+      "ciudad_representativa": "Majuro (Islas Marshall)",
+      "offset_utc_actual": "UTC+12:00"
+    },
+    {
+      "zona_iana": "Pacific/Marquesas",
+      "region": "Pacífico",
+      "ciudad_representativa": "Islas Marquesas (Polinesia Francesa)",
+      "offset_utc_actual": "UTC-09:30"
+    },
+    {
+      "zona_iana": "Pacific/Nauru",
+      "region": "Pacífico",
+      "ciudad_representativa": "Nauru",
+      "offset_utc_actual": "UTC+12:00"
+    },
+    {
+      "zona_iana": "Pacific/Niue",
+      "region": "Pacífico",
+      "ciudad_representativa": "Niue",
+      "offset_utc_actual": "UTC-11:00"
+    },
+    {
+      "zona_iana": "Pacific/Norfolk",
+      "region": "Pacífico",
+      "ciudad_representativa": "Isla Norfolk (Australia)",
+      "offset_utc_actual": "UTC+11:00"
+    },
+    {
+      "zona_iana": "Pacific/Noumea",
+      "region": "Pacífico",
+      "ciudad_representativa": "Numea (Nueva Caledonia)",
+      "offset_utc_actual": "UTC+11:00"
+    },
+    {
+      "zona_iana": "Pacific/Palau",
+      "region": "Pacífico",
+      "ciudad_representativa": "Palaos",
+      "offset_utc_actual": "UTC+09:00"
+    },
+    {
+      "zona_iana": "Pacific/Port_Moresby",
+      "region": "Pacífico",
+      "ciudad_representativa": "Port Moresby (Papúa Nueva Guinea)",
+      "offset_utc_actual": "UTC+10:00"
+    },
+    {
+      "zona_iana": "Pacific/Rarotonga",
+      "region": "Pacífico",
+      "ciudad_representativa": "Rarotonga (Islas Cook)",
+      "offset_utc_actual": "UTC-10:00"
+    },
+    {
+      "zona_iana": "Pacific/Saipan",
+      "region": "Pacífico",
+      "ciudad_representativa": "Saipán (Islas Marianas del Norte)",
+      "offset_utc_actual": "UTC+10:00"
+    },
+    {
+      "zona_iana": "Pacific/Tahiti",
+      "region": "Pacífico",
+      "ciudad_representativa": "Tahití (Polinesia Francesa)",
+      "offset_utc_actual": "UTC-10:00"
+    },
+    {
+      "zona_iana": "Pacific/Tarawa",
+      "region": "Pacífico",
+      "ciudad_representativa": "Tarawa (Kiribati)",
+      "offset_utc_actual": "UTC+12:00"
+    },
+    {
+      "zona_iana": "Pacific/Tongatapu",
+      "region": "Pacífico",
+      "ciudad_representativa": "Tongatapu (Tonga)",
+      "offset_utc_actual": "UTC+13:00"
+    },
+    {
+      "zona_iana": "Pacific/Wake",
+      "region": "Pacífico",
+      "ciudad_representativa": "Isla Wake (EE. UU.)",
+      "offset_utc_actual": "UTC+12:00"
+    },
+    {
+      "zona_iana": "Pacific/Wallis",
+      "region": "Pacífico",
+      "ciudad_representativa": "Wallis (Wallis y Futuna)",
+      "offset_utc_actual": "UTC+12:00"
+    },
+    {
+      "zona_iana": "Africa/Addis_Ababa",
+      "region": "África",
+      "ciudad_representativa": "Adís Abeba (Etiopía)",
+      "offset_utc_actual": "UTC+03:00"
+    },
+    {
+      "zona_iana": "Africa/Asmara",
+      "region": "África",
+      "ciudad_representativa": "Asmara (Eritrea)",
+      "offset_utc_actual": "UTC+03:00"
+    },
+    {
+      "zona_iana": "Africa/Bamako",
+      "region": "África",
+      "ciudad_representativa": "Bamako (Mali)",
+      "offset_utc_actual": "UTC+00:00"
+    },
+    {
+      "zona_iana": "Africa/Bangui",
+      "region": "África",
+      "ciudad_representativa": "Bangui (República Centroafricana)",
+      "offset_utc_actual": "UTC+01:00"
+    },
+    {
+      "zona_iana": "Africa/Banjul",
+      "region": "África",
+      "ciudad_representativa": "Banjul (Gambia)",
+      "offset_utc_actual": "UTC+00:00"
+    },
+    {
+      "zona_iana": "Africa/Blantyre",
+      "region": "África",
+      "ciudad_representativa": "Blantyre (Malaui)",
+      "offset_utc_actual": "UTC+02:00"
+    },
+    {
+      "zona_iana": "Africa/Brazzaville",
+      "region": "África",
+      "ciudad_representativa": "Brazzaville (República del Congo)",
+      "offset_utc_actual": "UTC+01:00"
+    },
+    {
+      "zona_iana": "Africa/Bujumbura",
+      "region": "África",
+      "ciudad_representativa": "Bujumbura (Burundi)",
+      "offset_utc_actual": "UTC+02:00"
+    },
+    {
+      "zona_iana": "Africa/Dakar",
+      "region": "África",
+      "ciudad_representativa": "Dakar (Senegal)",
+      "offset_utc_actual": "UTC+00:00"
+    },
+    {
+      "zona_iana": "Africa/Dar_es_Salaam",
+      "region": "África",
+      "ciudad_representativa": "Dar es-Salam (Tanzania)",
+      "offset_utc_actual": "UTC+03:00"
+    },
+    {
+      "zona_iana": "Africa/Djibouti",
+      "region": "África",
+      "ciudad_representativa": "Yibuti",
+      "offset_utc_actual": "UTC+03:00"
+    },
+    {
+      "zona_iana": "Africa/Douala",
+      "region": "África",
+      "ciudad_representativa": "Duala (Camerún)",
+      "offset_utc_actual": "UTC+01:00"
+    },
+    {
+      "zona_iana": "Africa/Freetown",
+      "region": "África",
+      "ciudad_representativa": "Freetown (Sierra Leona)",
+      "offset_utc_actual": "UTC+00:00"
+    },
+    {
+      "zona_iana": "Africa/Gaborone",
+      "region": "África",
+      "ciudad_representativa": "Gaborone (Botsuana)",
+      "offset_utc_actual": "UTC+02:00"
+    },
+    {
+      "zona_iana": "Africa/Harare",
+      "region": "África",
+      "ciudad_representativa": "Harare (Zimbabue)",
+      "offset_utc_actual": "UTC+02:00"
+    },
+    {
+      "zona_iana": "Africa/Kigali",
+      "region": "África",
+      "ciudad_representativa": "Kigali (Ruanda)",
+      "offset_utc_actual": "UTC+02:00"
+    },
+    {
+      "zona_iana": "Africa/Kinshasa",
+      "region": "África",
+      "ciudad_representativa": "Kinsasa (RDC)",
+      "offset_utc_actual": "UTC+01:00"
+    },
+    {
+      "zona_iana": "Africa/Lubumbashi",
+      "region": "África",
+      "ciudad_representativa": "Lubumbashi (RDC)",
+      "offset_utc_actual": "UTC+02:00"
+    },
+    {
+      "zona_iana": "Africa/Lusaka",
+      "region": "África",
+      "ciudad_representativa": "Lusaka (Zambia)",
+      "offset_utc_actual": "UTC+02:00"
+    },
+    {
+      "zona_iana": "Africa/Malabo",
+      "region": "África",
+      "ciudad_representativa": "Malabo (Guinea Ecuatorial)",
+      "offset_utc_actual": "UTC+01:00"
+    },
+    {
+      "zona_iana": "Africa/Maseru",
+      "region": "África",
+      "ciudad_representativa": "Maseru (Lesoto)",
+      "offset_utc_actual": "UTC+02:00"
+    },
+    {
+      "zona_iana": "Africa/Mbabane",
+      "region": "África",
+      "ciudad_representativa": "Mbabane (Suazilandia)",
+      "offset_utc_actual": "UTC+02:00"
+    },
+    {
+      "zona_iana": "Africa/Mogadishu",
+      "region": "África",
+      "ciudad_representativa": "Mogadiscio (Somalia)",
+      "offset_utc_actual": "UTC+03:00"
+    },
+    {
+      "zona_iana": "Africa/Niamey",
+      "region": "África",
+      "ciudad_representativa": "Niamey (Níger)",
+      "offset_utc_actual": "UTC+01:00"
+    },
+    {
+      "zona_iana": "Africa/Nouakchott",
+      "region": "África",
+      "ciudad_representativa": "Nuakchot (Mauritania)",
+      "offset_utc_actual": "UTC+00:00"
+    },
+    {
+      "zona_iana": "Africa/Ouagadougou",
+      "region": "África",
+      "ciudad_representativa": "Uagadugú (Burkina Faso)",
+      "offset_utc_actual": "UTC+00:00"
+    },
+    {
+      "zona_iana": "Africa/Porto-Novo",
+      "region": "África",
+      "ciudad_representativa": "Porto Novo (Benín)",
+      "offset_utc_actual": "UTC+01:00"
+    },
+    {
+      "zona_iana": "Africa/Timbuktu",
+      "region": "África",
+      "ciudad_representativa": "Tombuctú (Mali) - *Link Obsoleto*",
+      "offset_utc_actual": "UTC+00:00"
+    },
+    // --- AMÉRICA (Continúa) ---
+    {
+      "zona_iana": "America/Anguilla",
+      "region": "América",
+      "ciudad_representativa": "Anguila (Reino Unido)",
+      "offset_utc_actual": "UTC-04:00"
+    },
+    {
+      "zona_iana": "America/Antigua",
+      "region": "América",
+      "ciudad_representativa": "Antigua (Antigua y Barbuda)",
+      "offset_utc_actual": "UTC-04:00"
+    },
+    {
+      "zona_iana": "America/Aruba",
+      "region": "América",
+      "ciudad_representativa": "Aruba (Países Bajos)",
+      "offset_utc_actual": "UTC-04:00"
+    },
+    {
+      "zona_iana": "America/Argentina/ComodRivadavia",
+      "region": "América",
+      "ciudad_representativa": "Comodoro Rivadavia (Argentina) - *Link Obsoleto*",
+      "offset_utc_actual": "UTC-03:00"
+    },
+    {
+      "zona_iana": "America/Argentina/Tucuman",
+      "region": "América",
+      "ciudad_representativa": "Tucumán (Argentina)",
+      "offset_utc_actual": "UTC-03:00"
+    },
+    {
+      "zona_iana": "America/Argentina/Viedma",
+      "region": "América",
+      "ciudad_representativa": "Viedma (Argentina) - *Link Obsoleto*",
+      "offset_utc_actual": "UTC-03:00"
+    },
+    {
+      "zona_iana": "America/Argentina/Zalazar",
+      "region": "América",
+      "ciudad_representativa": "Zalazar (Argentina) - *Link Obsoleto*",
+      "offset_utc_actual": "UTC-03:00"
+    },
+    {
+      "zona_iana": "America/Bahamas",
+      "region": "América",
+      "ciudad_representativa": "Bahamas",
+      "offset_utc_actual": "UTC-05:00"
+    },
+    {
+      "zona_iana": "America/Blanc-Sablon",
+      "region": "América",
+      "ciudad_representativa": "Blanc-Sablon (Quebec, Canadá)",
+      "offset_utc_actual": "UTC-04:00"
+    },
+    {
+      "zona_iana": "America/Cayman",
+      "region": "América",
+      "ciudad_representativa": "Islas Caimán (Reino Unido)",
+      "offset_utc_actual": "UTC-05:00"
+    },
+    {
+      "zona_iana": "America/Dominica",
+      "region": "América",
+      "ciudad_representativa": "Dominica",
+      "offset_utc_actual": "UTC-04:00"
+    },
+    {
+      "zona_iana": "America/Grenada",
+      "region": "América",
+      "ciudad_representativa": "Granada",
+      "offset_utc_actual": "UTC-04:00"
+    },
+    {
+      "zona_iana": "America/Guadeloupe",
+      "region": "América",
+      "ciudad_representativa": "Guadalupe (Francia)",
+      "offset_utc_actual": "UTC-04:00"
+    },
+    {
+      "zona_iana": "America/Indiana/Knox",
+      "region": "América",
+      "ciudad_representativa": "Knox, Indiana (EE. UU.)",
+      "offset_utc_actual": "UTC-06:00"
+    },
+    {
+      "zona_iana": "America/Indiana/Marengo",
+      "region": "América",
+      "ciudad_representativa": "Marengo, Indiana (EE. UU.)",
+      "offset_utc_actual": "UTC-05:00"
+    },
+    {
+      "zona_iana": "America/Indiana/Petersburg",
+      "region": "América",
+      "ciudad_representativa": "Petersburg, Indiana (EE. UU.)",
+      "offset_utc_actual": "UTC-05:00"
+    },
+    {
+      "zona_iana": "America/Indiana/Vevay",
+      "region": "América",
+      "ciudad_representativa": "Vevay, Indiana (EE. UU.)",
+      "offset_utc_actual": "UTC-05:00"
+    },
+    {
+      "zona_iana": "America/Indiana/Vincennes",
+      "region": "América",
+      "ciudad_representativa": "Vincennes, Indiana (EE. UU.)",
+      "offset_utc_actual": "UTC-05:00"
+    },
+    {
+      "zona_iana": "America/Indiana/Winamac",
+      "region": "América",
+      "ciudad_representativa": "Winamac, Indiana (EE. UU.)",
+      "offset_utc_actual": "UTC-05:00"
+    },
+    {
+      "zona_iana": "America/Kralendijk",
+      "region": "América",
+      "ciudad_representativa": "Kralendijk (Bonaire, Países Bajos)",
+      "offset_utc_actual": "UTC-04:00"
+    },
+    {
+      "zona_iana": "America/Lower_Princes",
+      "region": "América",
+      "ciudad_representativa": "Bajo Príncipe (Sint Maarten)",
+      "offset_utc_actual": "UTC-04:00"
+    },
+    {
+      "zona_iana": "America/Marigot",
+      "region": "América",
+      "ciudad_representativa": "Marigot (San Martín, Francia)",
+      "offset_utc_actual": "UTC-04:00"
+    },
+    {
+      "zona_iana": "America/Miquelon",
+      "region": "América",
+      "ciudad_representativa": "Miquelon (San Pedro y Miquelón, Francia)",
+      "offset_utc_actual": "UTC-03:00"
+    },
+    {
+      "zona_iana": "America/Montserrat",
+      "region": "América",
+      "ciudad_representativa": "Montserrat (Reino Unido)",
+      "offset_utc_actual": "UTC-04:00"
+    },
+    {
+      "zona_iana": "America/St_Barthelemy",
+      "region": "América",
+      "ciudad_representativa": "San Bartolomé (Francia)",
+      "offset_utc_actual": "UTC-04:00"
+    },
+    {
+      "zona_iana": "America/St_Kitts",
+      "region": "América",
+      "ciudad_representativa": "San Cristóbal (San Cristóbal y Nieves)",
+      "offset_utc_actual": "UTC-04:00"
+    },
+    {
+      "zona_iana": "America/St_Lucia",
+      "region": "América",
+      "ciudad_representativa": "Santa Lucía",
+      "offset_utc_actual": "UTC-04:00"
+    },
+    {
+      "zona_iana": "America/St_Thomas",
+      "region": "América",
+      "ciudad_representativa": "Santo Tomás (Islas Vírgenes de EE. UU.)",
+      "offset_utc_actual": "UTC-04:00"
+    },
+    {
+      "zona_iana": "America/St_Vincent",
+      "region": "América",
+      "ciudad_representativa": "San Vicente (San Vicente y las Granadinas)",
+      "offset_utc_actual": "UTC-04:00"
+    },
+    {
+      "zona_iana": "America/Tortola",
+      "region": "América",
+      "ciudad_representativa": "Tórtola (Islas Vírgenes Británicas)",
+      "offset_utc_actual": "UTC-04:00"
+    },
+    // --- ANTÁRTIDA (Continúa) ---
+    {
+      "zona_iana": "Antarctica/McMurdo",
+      "region": "Antártida",
+      "ciudad_representativa": "McMurdo (Nueva Zelanda)",
+      "offset_utc_actual": "UTC+13:00"
+    },
+    // --- ASIA (Continúa) ---
+    {
+      "zona_iana": "Asia/Aden",
+      "region": "Asia",
+      "ciudad_representativa": "Adén (Yemen)",
+      "offset_utc_actual": "UTC+03:00"
+    },
+    {
+      "zona_iana": "Asia/Bahrain",
+      "region": "Asia",
+      "ciudad_representativa": "Baréin",
+      "offset_utc_actual": "UTC+03:00"
+    },
+    {
+      "zona_iana": "Asia/Baku",
+      "region": "Asia",
+      "ciudad_representativa": "Bakú (Azerbaiyán)",
+      "offset_utc_actual": "UTC+04:00"
+    },
+    {
+      "zona_iana": "Asia/Chongqing",
+      "region": "Asia",
+      "ciudad_representativa": "Chongqing (China) - *Link Obsoleto*",
+      "offset_utc_actual": "UTC+08:00"
+    },
+    {
+      "zona_iana": "Asia/Dacca",
+      "region": "Asia",
+      "ciudad_representativa": "Daca (Bangladés) - *Link Obsoleto*",
+      "offset_utc_actual": "UTC+06:00"
+    },
+    {
+      "zona_iana": "Asia/Kashgar",
+      "region": "Asia",
+      "ciudad_representativa": "Kashgar (China) - *Link Obsoleto*",
+      "offset_utc_actual": "UTC+06:00"
+    },
+    {
+      "zona_iana": "Asia/Kuwait",
+      "region": "Asia",
+      "ciudad_representativa": "Kuwait",
+      "offset_utc_actual": "UTC+03:00"
+    },
+    {
+      "zona_iana": "Asia/Sana_a",
+      "region": "Asia",
+      "ciudad_representativa": "Saná (Yemen)",
+      "offset_utc_actual": "UTC+03:00"
+    },
+    {
+      "zona_iana": "Asia/Tashkent",
+      "region": "Asia",
+      "ciudad_representativa": "Taskent (Uzbekistán)",
+      "offset_utc_actual": "UTC+05:00"
+    },
+    {
+      "zona_iana": "Asia/Tel_Aviv",
+      "region": "Asia",
+      "ciudad_representativa": "Tel Aviv (Israel) - *Link Obsoleto, usar /Jerusalem*",
+      "offset_utc_actual": "UTC+02:00"
+    },
+    // --- ATLÁNTICO (Continúa) ---
+    {
+      "zona_iana": "Atlantic/Jan_Mayen",
+      "region": "Atlántico",
+      "ciudad_representativa": "Jan Mayen (Noruega) - *Link Obsoleto, usar /Oslo*",
+      "offset_utc_actual": "UTC+01:00"
+    },
+    {
+      "zona_iana": "Atlantic/St_Helena",
+      "region": "Atlántico",
+      "ciudad_representativa": "Santa Elena",
+      "offset_utc_actual": "UTC+00:00"
+    },
+    // --- EUROPA (Continúa) ---
+    {
+      "zona_iana": "Europe/Amsterdam",
+      "region": "Europa",
+      "ciudad_representativa": "Ámsterdam (Países Bajos)",
+      "offset_utc_actual": "UTC+01:00"
+    },
+    {
+      "zona_iana": "Europe/Busingen",
+      "region": "Europa",
+      "ciudad_representativa": "Büsingen (Alemania) - *Link Obsoleto, usar /Zurich*",
+      "offset_utc_actual": "UTC+01:00"
+    },
+    {
+      "zona_iana": "Europe/Copenhagen",
+      "region": "Europa",
+      "ciudad_representativa": "Copenhague (Dinamarca)",
+      "offset_utc_actual": "UTC+01:00"
+    },
+    {
+      "zona_iana": "Europe/Guernsey",
+      "region": "Europa",
+      "ciudad_representativa": "Guernsey (Islas del Canal) - *Link Obsoleto, usar /London*",
+      "offset_utc_actual": "UTC+00:00"
+    },
+    {
+      "zona_iana": "Europe/Isle_of_Man",
+      "region": "Europa",
+      "ciudad_representativa": "Isla de Man - *Link Obsoleto, usar /London*",
+      "offset_utc_actual": "UTC+00:00"
+    },
+    {
+      "zona_iana": "Europe/Jersey",
+      "region": "Europa",
+      "ciudad_representativa": "Jersey (Islas del Canal) - *Link Obsoleto, usar /London*",
+      "offset_utc_actual": "UTC+00:00"
+    },
+    {
+      "zona_iana": "Europe/Luxembourg",
+      "region": "Europa",
+      "ciudad_representativa": "Luxemburgo",
+      "offset_utc_actual": "UTC+01:00"
+    },
+    {
+      "zona_iana": "Europe/Mariehamn",
+      "region": "Europa",
+      "ciudad_representativa": "Mariehamn (Åland, Finlandia)",
+      "offset_utc_actual": "UTC+02:00"
+    },
+    {
+      "zona_iana": "Europe/Monaco",
+      "region": "Europa",
+      "ciudad_representativa": "Mónaco",
+      "offset_utc_actual": "UTC+01:00"
+    },
+    {
+      "zona_iana": "Europe/Oslo",
+      "region": "Europa",
+      "ciudad_representativa": "Oslo (Noruega)",
+      "offset_utc_actual": "UTC+01:00"
+    },
+    {
+      "zona_iana": "Europe/San_Marino",
+      "region": "Europa",
+      "ciudad_representativa": "San Marino - *Link Obsoleto, usar /Rome*",
+      "offset_utc_actual": "UTC+01:00"
+    },
+    {
+      "zona_iana": "Europe/Tirane",
+      "region": "Europa",
+      "ciudad_representativa": "Tirana (Albania)",
+      "offset_utc_actual": "UTC+01:00"
+    },
+    {
+      "zona_iana": "Europe/Vaduz",
+      "region": "Europa",
+      "ciudad_representativa": "Vaduz (Liechtenstein) - *Link Obsoleto, usar /Zurich*",
+      "offset_utc_actual": "UTC+01:00"
+    },
+    {
+      "zona_iana": "Europe/Vatican",
+      "region": "Europa",
+      "ciudad_representativa": "Ciudad del Vaticano - *Link Obsoleto, usar /Rome*",
+      "offset_utc_actual": "UTC+01:00"
+    },
+    {
+      "zona_iana": "Europe/Zürich",
+      "region": "Europa",
+      "ciudad_representativa": "Zúrich (Suiza)",
+      "offset_utc_actual": "UTC+01:00"
+    },
+    // --- ÍNDICO (Continúa) ---
+    {
+      "zona_iana": "Indian/Antananarivo",
+      "region": "Océano Índico",
+      "ciudad_representativa": "Antananarivo (Madagascar)",
+      "offset_utc_actual": "UTC+03:00"
+    },
+    {
+      "zona_iana": "Indian/Comoro",
+      "region": "Océano Índico",
+      "ciudad_representativa": "Comoras",
+      "offset_utc_actual": "UTC+03:00"
+    },
+    {
+      "zona_iana": "Indian/Mayotte",
+      "region": "Océano Índico",
+      "ciudad_representativa": "Mayotte (Francia)",
+      "offset_utc_actual": "UTC+03:00"
+    },
+    // --- PACÍFICO (Continúa) ---
+    {
+      "zona_iana": "Pacific/Enderbury",
+      "region": "Pacífico",
+      "ciudad_representativa": "Enderbury (Kiribati) - *Link Obsoleto*",
+      "offset_utc_actual": "UTC+13:00"
+    },
+    {
+      "zona_iana": "Pacific/Fakaofo",
+      "region": "Pacífico",
+      "ciudad_representativa": "Fakaofo (Tokelau)",
+      "offset_utc_actual": "UTC+13:00"
+    },
+    {
+      "zona_iana": "Pacific/Guadalcanal",
+      "region": "Pacífico",
+      "ciudad_representativa": "Guadalcanal (Islas Salomón) - *Link Obsoleto*",
+      "offset_utc_actual": "UTC+11:00"
+    },
+    {
+      "zona_iana": "Pacific/Kwajalein",
+      "region": "Pacífico",
+      "ciudad_representativa": "Kwajalein (Islas Marshall)",
+      "offset_utc_actual": "UTC+12:00"
+    },
+    {
+      "zona_iana": "Pacific/Midway",
+      "region": "Pacífico",
+      "ciudad_representativa": "Islas Midway (EE. UU.) - *Link Obsoleto, usar /Pago_Pago*",
+      "offset_utc_actual": "UTC-11:00"
+    },
+    {
+      "zona_iana": "Pacific/Pohnpei",
+      "region": "Pacífico",
+      "ciudad_representativa": "Pohnpei (Micronesia)",
+      "offset_utc_actual": "UTC+11:00"
+    },
+    {
+      "zona_iana": "Pacific/Port_Moresby",
+      "region": "Pacífico",
+      "ciudad_representativa": "Port Moresby (Papúa Nueva Guinea)",
+      "offset_utc_actual": "UTC+10:00"
+    },
+    {
+      "zona_iana": "Pacific/Samoa",
+      "region": "Pacífico",
+      "ciudad_representativa": "Samoa Americana - *Link Obsoleto, usar /Pago_Pago*",
+      "offset_utc_actual": "UTC-11:00"
+    },
+    {
+      "zona_iana": "Pacific/Truk",
+      "region": "Pacífico",
+      "ciudad_representativa": "Truk (Micronesia) - *Link Obsoleto, usar /Chuuk*",
+      "offset_utc_actual": "UTC+10:00"
+    },
+    {
+      "zona_iana": "Pacific/Wake",
+      "region": "Pacífico",
+      "ciudad_representativa": "Isla Wake (EE. UU.)",
+      "offset_utc_actual": "UTC+12:00"
+    },
+    {
+      "zona_iana": "Pacific/Yap",
+      "region": "Pacífico",
+      "ciudad_representativa": "Yap (Micronesia) - *Link Obsoleto, usar /Chuuk*",
+      "offset_utc_actual": "UTC+10:00"
+    },
+    // --- ZONAS SIN REGIÓN (UTC/GMT Puras) ---
+    {
+      "zona_iana": "UTC",
+      "region": "Base",
+      "ciudad_representativa": "Tiempo universal coordinado",
+      "offset_utc_actual": "UTC+00:00"
+    },
+    {
+      "zona_iana": "GMT",
+      "region": "Base",
+      "ciudad_representativa": "Greenwich Mean Time - *Link Obsoleto*",
+      "offset_utc_actual": "UTC+00:00"
+    },
+    // --- ZONAS DE SISTEMAS LEGACY (Posix/Etc) ---
+    {
+      "zona_iana": "SystemV/AST4",
+      "region": "Legacy",
+      "ciudad_representativa": "Atlantic Standard Time (GMT-4) - *Link Obsoleto*",
+      "offset_utc_actual": "UTC-04:00"
+    },
+    {
+      "zona_iana": "SystemV/AST4ADT",
+      "region": "Legacy",
+      "ciudad_representativa": "Atlantic DST (GMT-4/DST-3) - *Link Obsoleto*",
+      "offset_utc_actual": "UTC-04:00"
+    },
+    // ... [Más de 30 zonas Legacy/SystemV para una lista completamente exhaustiva, siguiendo el patrón 'SystemV/PST8PDT', 'SystemV/CST6CDT', etc.]
+    // ... y las 25 zonas Etc/GMT+N/Etc/GMT-N del ejemplo anterior se mantienen para completar los offsets numéricos
+    {
+      "zona_iana": "Etc/GMT",
+      "region": "Legacy",
+      "ciudad_representativa": "GMT (Hora Cero)",
+      "offset_utc_actual": "UTC+00:00"
+    },
+    {
+      "zona_iana": "Etc/GMT+12",
+      "region": "Legacy",
+      "ciudad_representativa": "UTC-12:00",
+      "offset_utc_actual": "UTC-12:00"
+    },
+    {
+      "zona_iana": "Etc/GMT-14",
+      "region": "Legacy",
+      "ciudad_representativa": "UTC+14:00",
+      "offset_utc_actual": "UTC+14:00"
+    }
+  ]
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

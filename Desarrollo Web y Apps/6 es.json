@@ -1,0 +1,52 @@
+{
+  "general": {
+    "save": "Guardar",
+    "cancel": "Cancelar",
+    "delete": "Eliminar",
+    "edit": "Editar",
+    "submit": "Enviar",
+    "loading": "Cargando...",
+    "continue": "Continuar",
+    "back": "Volver"
+  },
+  "navigation": {
+    "home": "Inicio",
+    "products": "Productos",
+    "services": "Servicios",
+    "about_us": "Acerca de Nosotros",
+    "contact": "Contacto",
+    "profile": "Mi Perfil",
+    "settings": "Configuración",
+    "logout": "Cerrar Sesión"
+  },
+  "auth": {
+    "login_title": "Iniciar Sesión",
+    "register_title": "Crear Cuenta",
+    "email_label": "Correo Electrónico",
+    "password_label": "Contraseña",
+    "forgot_password": "¿Olvidaste tu contraseña?",
+    "login_success": "¡Bienvenido/a de nuevo!",
+    "error_invalid_credentials": "Credenciales incorrectas. Inténtalo de nuevo."
+  },
+  "forms": {
+    "required_field": "Este campo es obligatorio.",
+    "invalid_email": "El formato del correo electrónico no es válido.",
+    "min_length": "Debe tener al menos {min} caracteres.",
+    "max_length": "No debe exceder los {max} caracteres.",
+    "upload_file": "Subir archivo"
+  },
+  "products": {
+    "price": "Precio",
+    "stock": "En Stock",
+    "add_to_cart": "Añadir al carrito",
+    "description": "Descripción del producto",
+    "out_of_stock": "Agotado temporalmente"
+  },
+  "notifications": {
+    "success_title": "Éxito",
+    "error_title": "Error",
+    "item_added": "Artículo añadido correctamente.",
+    "changes_saved": "Los cambios se han guardado con éxito.",
+    "server_error": "Ocurrió un error en el servidor. Por favor, inténtalo más tarde."
+  }
+}

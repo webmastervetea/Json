@@ -1,0 +1,65 @@
+{
+  "colors": {
+    "brand": {
+      "primary": {
+        "value": "#007BFF",
+        "description": "Color principal de la marca para botones y enlaces."
+      },
+      "secondary": {
+        "value": "#6C757D",
+        "description": "Color secundario para elementos menos destacados."
+      },
+      "accent": {
+        "value": "#28A745",
+        "description": "Color de acento para notificaciones de éxito o acciones destacadas."
+      }
+    },
+    "feedback": {
+      "success": { "value": "#28A745" },
+      "warning": { "value": "#FFC107" },
+      "danger": { "value": "#DC3545" }
+    },
+    "neutral": {
+      "white": { "value": "#FFFFFF" },
+      "light-grey": { "value": "#F8F9FA" },
+      "medium-grey": { "value": "#ADB5BD" },
+      "dark": { "value": "#212529" }
+    }
+  },
+  "typography": {
+    "fontFamily": {
+      "base": { "value": "Arial, sans-serif" },
+      "heading": { "value": "'Roboto', sans-serif" }
+    },
+    "fontSize": {
+      "base": { "value": "16px" },
+      "large": { "value": "20px" },
+      "h1": { "value": "2.5rem" },
+      "h2": { "value": "2rem" },
+      "small": { "value": "0.875rem" }
+    },
+    "fontWeight": {
+      "light": { "value": 300 },
+      "regular": { "value": 400 },
+      "bold": { "value": 700 }
+    }
+  },
+  "spacing": {
+    "unit": { "value": "8px", "description": "Unidad base para el escalado de espaciado." },
+    "xs": { "value": "4px" },
+    "sm": { "value": "8px" },
+    "md": { "value": "16px" },
+    "lg": { "value": "32px" }
+  },
+  "misc": {
+    "borderRadius": {
+      "sm": { "value": "4px" },
+      "lg": { "value": "8px" },
+      "full": { "value": "50%" }
+    },
+    "boxShadow": {
+      "light": { "value": "0 2px 4px rgba(0, 0, 0, 0.1)" },
+      "heavy": { "value": "0 8px 16px rgba(0, 0, 0, 0.2)" }
+    }
+  }
+}

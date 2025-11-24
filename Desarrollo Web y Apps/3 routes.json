@@ -1,0 +1,53 @@
+[
+  {
+    "path": "/",
+    "exact": true,
+    "component": "HomePage",
+    "titulo": "Inicio",
+    "menu": true
+  },
+  {
+    "path": "/productos",
+    "component": "ProductsLayout",
+    "titulo": "Productos",
+    "menu": true,
+    "children": [
+      {
+        "path": "/productos",
+        "exact": true,
+        "component": "ProductListPage",
+        "titulo": "Lista de Productos"
+      },
+      {
+        "path": "/productos/:id",
+        "component": "ProductDetailPage",
+        "titulo": "Detalle del Producto"
+      },
+      {
+        "path": "/productos/nuevo",
+        "component": "NewProductPage",
+        "titulo": "Crear Producto",
+        "roles_requeridos": ["administrador"]
+      }
+    ]
+  },
+  {
+    "path": "/acerca-de",
+    "exact": true,
+    "component": "AboutPage",
+    "titulo": "Acerca de Nosotros",
+    "menu": true
+  },
+  {
+    "path": "/perfil",
+    "component": "ProfilePage",
+    "titulo": "Mi Perfil",
+    "menu": true,
+    "autenticacion_requerida": true
+  },
+  {
+    "path": "*",
+    "component": "NotFoundPage",
+    "titulo": "Página No Encontrada"
+  }
+]

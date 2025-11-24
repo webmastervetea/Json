@@ -1,0 +1,54 @@
+{
+  "general_flags": {
+    "descripcion": "Interruptores a nivel de toda la aplicación.",
+    "nuevo_dashboard": {
+      "activo": false,
+      "descripcion": "Activa la nueva interfaz de dashboard para todos."
+    },
+    "modo_mantenimiento": {
+      "activo": false,
+      "mensaje": "Estamos realizando mejoras. Volveremos pronto.",
+      "descripcion": "Bloquea el acceso a la aplicación para todos excepto administradores."
+    },
+    "buscador_avanzado": {
+      "activo": true,
+      "descripcion": "Habilita el componente de búsqueda por filtros avanzados."
+    }
+  },
+  "flags_por_rol": {
+    "descripcion": "Interruptores que se aplican a grupos de usuarios por rol.",
+    "administrador": {
+      "beta_tools": {
+        "activo": true,
+        "descripcion": "Acceso a herramientas de gestión en fase Beta."
+      }
+    },
+    "editor": {
+      "programacion_contenido": {
+        "activo": true,
+        "descripcion": "Permite programar la publicación de contenido (programación avanzada)."
+      }
+    },
+    "cliente": {
+      "integracion_pago_express": {
+        "activo": false,
+        "descripcion": "Habilita el método de pago rápido (solo para testing)."
+      }
+    }
+  },
+  "flags_por_usuario": {
+    "descripcion": "Interruptores para habilitar funciones a usuarios específicos (Ej: A/B testing).",
+    "usuario_1234": {
+      "nuevo_chat_soporte": {
+        "activo": true,
+        "descripcion": "Activa el nuevo widget de chat de soporte para este usuario."
+      }
+    },
+    "usuario_5678": {
+      "nuevo_diseno_perfil": {
+        "activo": false,
+        "descripcion": "Mantiene el diseño antiguo del perfil para este usuario."
+      }
+    }
+  }
+}

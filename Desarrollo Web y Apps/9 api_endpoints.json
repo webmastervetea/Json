@@ -1,0 +1,89 @@
+{
+  "api_info": {
+    "titulo": "API de Gestión de Productos y Usuarios",
+    "version": "1.0.0",
+    "descripcion": "API RESTful para operaciones CRUD en productos de inventario y datos de usuario."
+  },
+  "endpoints": [
+    {
+      "path": "/api/productos",
+      "descripcion": "Gestión del catálogo completo de productos.",
+      "metodos": [
+        {
+          "tipo": "GET",
+          "resumen": "Obtener lista de todos los productos.",
+          "parametros_query": [
+            {
+              "nombre": "limit",
+              "tipo": "integer",
+              "descripcion": "Número máximo de productos a retornar (por defecto: 20)."
+            }
+          ],
+          "respuesta_ejemplo": {
+            "codigo_http": 200,
+            "cuerpo": "[ { \"id\": 1, \"nombre\": \"Laptop\", \"precio\": 1200.00 } ]"
+          }
+        },
+        {
+          "tipo": "POST",
+          "resumen": "Crear un nuevo producto en el catálogo.",
+          "requiere_auth": true,
+          "body_schema": {
+            "nombre": "string (obligatorio)",
+            "precio": "number (obligatorio)",
+            "descripcion": "string (opcional)"
+          },
+          "respuesta_ejemplo": {
+            "codigo_http": 201,
+            "cuerpo": "{ \"mensaje\": \"Producto creado con éxito\", \"id\": 5 }"
+          }
+        }
+      ]
+    },
+    {
+      "path": "/api/productos/{id}",
+      "descripcion": "Operaciones sobre un producto específico por su ID.",
+      "metodos": [
+        {
+          "tipo": "GET",
+          "resumen": "Obtener detalles de un producto específico.",
+          "parametros_path": [
+            {
+              "nombre": "id",
+              "tipo": "integer",
+              "descripcion": "ID único del producto."
+            }
+          ],
+          "respuesta_ejemplo": {
+            "codigo_http": 200,
+            "cuerpo": "{ \"id\": 1, \"nombre\": \"Laptop\", \"precio\": 1200.00 }"
+          }
+        },
+        {
+          "tipo": "PUT",
+          "resumen": "Actualizar completamente un producto existente.",
+          "requiere_auth": true,
+          "respuesta_ejemplo": {
+            "codigo_http": 200,
+            "cuerpo": "{ \"mensaje\": \"Producto actualizado.\" }"
+          }
+        }
+      ]
+    },
+    {
+      "path": "/api/usuarios/perfil",
+      "descripcion": "Obtener la información del usuario autenticado.",
+      "metodos": [
+        {
+          "tipo": "GET",
+          "resumen": "Obtiene el perfil del usuario actual.",
+          "requiere_auth": true,
+          "respuesta_ejemplo": {
+            "codigo_http": 200,
+            "cuerpo": "{ \"id\": 101, \"email\": \"user@ejemplo.com\", \"rol\": \"admin\" }"
+          }
+        }
+      ]
+    }
+  ]
+}

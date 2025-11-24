@@ -1,0 +1,77 @@
+[
+  {
+    "id": "1",
+    "titulo": "Inicio",
+    "url": "/",
+    "nivel": 0,
+    "componente": "HomePage"
+  },
+  {
+    "id": "2",
+    "titulo": "Productos y Servicios",
+    "url": "/servicios",
+    "nivel": 0,
+    "componente": "ServicesLayout",
+    "hijos": [
+      {
+        "id": "2.1",
+        "titulo": "Consultoría Digital",
+        "url": "/servicios/consultoria",
+        "nivel": 1,
+        "componente": "ConsultingPage"
+      },
+      {
+        "id": "2.2",
+        "titulo": "Desarrollo Web",
+        "url": "/servicios/desarrollo-web",
+        "nivel": 1,
+        "componente": "DevelopmentPage",
+        "hijos": [
+          {
+            "id": "2.2.1",
+            "titulo": "E-commerce",
+            "url": "/servicios/desarrollo-web/ecommerce",
+            "nivel": 2,
+            "componente": "EcommercePage"
+          }
+        ]
+      },
+      {
+        "id": "2.3",
+        "titulo": "Soporte Técnico",
+        "url": "/servicios/soporte",
+        "nivel": 1,
+        "componente": "SupportPage"
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "titulo": "Acerca de Nosotros",
+    "url": "/acerca-de",
+    "nivel": 0,
+    "componente": "AboutPage"
+  },
+  {
+    "id": "4",
+    "titulo": "Blog",
+    "url": "/blog",
+    "nivel": 0,
+    "componente": "BlogPage"
+  },
+  {
+    "id": "5",
+    "titulo": "Contacto",
+    "url": "/contacto",
+    "nivel": 0,
+    "componente": "ContactPage"
+  },
+  {
+    "id": "6",
+    "titulo": "Aviso Legal",
+    "url": "/legal",
+    "nivel": 0,
+    "componente": "LegalPage",
+    "oculto_en_menu": true
+  }
+]

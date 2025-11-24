@@ -1,0 +1,46 @@
+{
+  "recursos": {
+    "usuarios": ["leer", "crear", "actualizar", "eliminar"],
+    "productos": ["leer", "crear", "actualizar", "eliminar"],
+    "pedidos": ["leer", "crear", "actualizar"],
+    "analiticas": ["leer_dashboard", "exportar_datos"],
+    "configuracion_sistema": ["actualizar"]
+  },
+  "roles": {
+    "administrador": {
+      "descripcion": "Acceso total al sistema y gestión de usuarios.",
+      "permisos": {
+        "usuarios": ["leer", "crear", "actualizar", "eliminar"],
+        "productos": ["leer", "crear", "actualizar", "eliminar"],
+        "pedidos": ["leer", "crear", "actualizar"],
+        "analiticas": ["leer_dashboard", "exportar_datos"],
+        "configuracion_sistema": ["actualizar"]
+      }
+    },
+    "editor": {
+      "descripcion": "Gestión de contenido y productos.",
+      "permisos": {
+        "usuarios": ["leer"],
+        "productos": ["leer", "crear", "actualizar"],
+        "pedidos": ["leer", "actualizar"],
+        "analiticas": ["leer_dashboard"]
+      }
+    },
+    "empleado": {
+      "descripcion": "Acceso básico a la información de pedidos y productos.",
+      "permisos": {
+        "usuarios": ["leer"],
+        "productos": ["leer"],
+        "pedidos": ["leer"]
+      }
+    },
+    "cliente": {
+      "descripcion": "Solo puede ver su propia información y pedidos.",
+      "permisos": {
+        "usuarios": ["leer_propio"],
+        "productos": ["leer"],
+        "pedidos": ["leer_propio"]
+      }
+    }
+  }
+}

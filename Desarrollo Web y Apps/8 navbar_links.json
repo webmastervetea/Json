@@ -1,0 +1,65 @@
+[
+  {
+    "id": "nav-1",
+    "titulo": "Inicio",
+    "url": "/",
+    "icon": "home",
+    "activo": true
+  },
+  {
+    "id": "nav-2",
+    "titulo": "Productos",
+    "url": "/productos",
+    "icon": "box",
+    "tiene_submenus": true,
+    "submenus": [
+      {
+        "id": "sub-2-1",
+        "titulo": "Catálogo",
+        "url": "/productos/catalogo"
+      },
+      {
+        "id": "sub-2-2",
+        "titulo": "Ofertas",
+        "url": "/productos/ofertas"
+      },
+      {
+        "id": "sub-2-3",
+        "titulo": "Marcas",
+        "url": "/productos/marcas"
+      }
+    ]
+  },
+  {
+    "id": "nav-3",
+    "titulo": "Clientes",
+    "url": "/clientes",
+    "icon": "users",
+    "requiere_rol": "administrador",
+    "submenus": [
+      {
+        "id": "sub-3-1",
+        "titulo": "Gestión de Clientes",
+        "url": "/clientes/gestion"
+      },
+      {
+        "id": "sub-3-2",
+        "titulo": "Historial de Compras",
+        "url": "/clientes/historial"
+      }
+    ]
+  },
+  {
+    "id": "nav-4",
+    "titulo": "Mi Cuenta",
+    "url": "/perfil",
+    "icon": "user",
+    "requiere_autenticacion": true
+  },
+  {
+    "id": "nav-5",
+    "titulo": "Blog",
+    "url": "/blog",
+    "icon": "pen"
+  }
+]

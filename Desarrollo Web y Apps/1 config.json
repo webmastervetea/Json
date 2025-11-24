@@ -1,0 +1,27 @@
+{
+  "entornos": {
+    "produccion": {
+      "nombre": "Producción",
+      "url_base_api": "https://api.tuaplicacion.com/v1",
+      "logs_activados": false,
+      "limite_paginacion": 50,
+      "config_autenticacion": {
+        "clave_api_externa": "CLAVE_API_DE_PRODUCCION_AQUI",
+        "secreto_jwt": "SECRETO_DE_PRODUCCION_AQUI",
+        "tiempo_expiracion_token_segundos": 3600
+      }
+    },
+    "desarrollo": {
+      "nombre": "Desarrollo",
+      "url_base_api": "http://localhost:8080/v1",
+      "logs_activados": true,
+      "limite_paginacion": 20,
+      "config_autenticacion": {
+        "clave_api_externa": "CLAVE_API_DE_DESARROLLO_AQUI",
+        "secreto_jwt": "SECRETO_DE_DESARROLLO_AQUI",
+        "tiempo_expiracion_token_segundos": 600
+      }
+    }
+  },
+  "version_aplicacion": "1.2.0"
+}

@@ -2,7 +2,7 @@
 Este repositorio es una colección organizada de pequeñas archivos en formato .json que pueden ser utilizados por programadores en sus desarrollos.
 
 ## Archivos json de Geografía
-```markdown
+```
 * 1 Paises con código ISO y prefijo telefónico del país
 * 2 Lista de husos horarios (GMT/UTC) y ciudades asociadas.
 * 3 Lista de provincias de Argentina con su código postal.

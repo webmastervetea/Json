@@ -1,0 +1,140 @@
+{
+  "escala_tiempo_geologico_completa": [
+    {
+      "nivel": "Eón",
+      "nombre": "Fanerozoico",
+      "inicio_ma": 538.8,
+      "fin_ma": "Presente",
+      "subdivisiones": [
+        {
+          "nivel": "Era",
+          "nombre": "Cenozoico",
+          "inicio_ma": 66.0,
+          "fin_ma": "Presente",
+          "subdivisiones": [
+            {
+              "nivel": "Período",
+              "nombre": "Cuaternario",
+              "inicio_ma": 2.58,
+              "fin_ma": "Presente",
+              "subdivisiones": [
+                {
+                  "nivel": "Época",
+                  "nombre": "Holoceno",
+                  "inicio_ma": 0.0117,
+                  "fin_ma": "Presente"
+                },
+                {
+                  "nivel": "Época",
+                  "nombre": "Pleistoceno",
+                  "inicio_ma": 2.58,
+                  "fin_ma": 0.0117
+                }
+              ]
+            },
+            {
+              "nivel": "Período",
+              "nombre": "Neógeno",
+              "inicio_ma": 23.03,
+              "fin_ma": 2.58,
+              "subdivisiones": [
+                {
+                  "nivel": "Época",
+                  "nombre": "Plioceno",
+                  "inicio_ma": 5.333,
+                  "fin_ma": 2.58
+                },
+                {
+                  "nivel": "Época",
+                  "nombre": "Mioceno",
+                  "inicio_ma": 23.03,
+                  "fin_ma": 5.333
+                }
+              ]
+            },
+            {
+              "nivel": "Período",
+              "nombre": "Paleógeno",
+              "inicio_ma": 66.0,
+              "fin_ma": 23.03,
+              "subdivisiones": [
+                {
+                  "nivel": "Época",
+                  "nombre": "Oligoceno",
+                  "inicio_ma": 33.9,
+                  "fin_ma": 23.03
+                },
+                {
+                  "nivel": "Época",
+                  "nombre": "Eoceno",
+                  "inicio_ma": 56.0,
+                  "fin_ma": 33.9
+                },
+                {
+                  "nivel": "Época",
+                  "nombre": "Paleoceno",
+                  "inicio_ma": 66.0,
+                  "fin_ma": 56.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nivel": "Era",
+          "nombre": "Mesozoico",
+          "inicio_ma": 251.902,
+          "fin_ma": 66.0,
+          "subdivisiones": [
+            { "nivel": "Período", "nombre": "Cretácico", "inicio_ma": 145.0, "fin_ma": 66.0 },
+            { "nivel": "Período", "nombre": "Jurásico", "inicio_ma": 201.3, "fin_ma": 145.0 },
+            { "nivel": "Período", "nombre": "Triásico", "inicio_ma": 251.902, "fin_ma": 201.3 }
+          ]
+        },
+        {
+          "nivel": "Era",
+          "nombre": "Paleozoico",
+          "inicio_ma": 538.8,
+          "fin_ma": 251.902,
+          "subdivisiones": [
+            { "nivel": "Período", "nombre": "Pérmico", "inicio_ma": 298.9, "fin_ma": 251.902 },
+            { "nivel": "Período", "nombre": "Carbonífero", "inicio_ma": 358.9, "fin_ma": 298.9 },
+            { "nivel": "Período", "nombre": "Devónico", "inicio_ma": 419.2, "fin_ma": 358.9 },
+            { "nivel": "Período", "nombre": "Silúrico", "inicio_ma": 443.8, "fin_ma": 419.2 },
+            { "nivel": "Período", "nombre": "Ordovícico", "inicio_ma": 485.4, "fin_ma": 443.8 },
+            { "nivel": "Período", "nombre": "Cámbrico", "inicio_ma": 538.8, "fin_ma": 485.4 }
+          ]
+        }
+      ]
+    },
+    {
+      "nivel": "Eón",
+      "nombre": "Proterozoico",
+      "inicio_ma": 2500.0,
+      "fin_ma": 538.8,
+      "subdivisiones": [
+        { "nivel": "Era", "nombre": "Neoproterozoico", "inicio_ma": 1000.0, "fin_ma": 538.8 },
+        { "nivel": "Era", "nombre": "Mesoproterozoico", "inicio_ma": 1600.0, "fin_ma": 1000.0 },
+        { "nivel": "Era", "nombre": "Paleoproterozoico", "inicio_ma": 2500.0, "fin_ma": 1600.0 }
+      ]
+    },
+    {
+      "nivel": "Eón",
+      "nombre": "Arcaico",
+      "inicio_ma": 4000.0,
+      "fin_ma": 2500.0,
+      "subdivisiones": [
+        { "nivel": "Era", "nombre": "Neoarcaico", "inicio_ma": 2800.0, "fin_ma": 2500.0 },
+        { "nivel": "Era", "nombre": "Mesoarcaico", "inicio_ma": 3200.0, "fin_ma": 2800.0 },
+        { "nivel": "Era", "nombre": "Paleoarcaico", "inicio_ma": 3600.0, "fin_ma": 3200.0 },
+        { "nivel": "Era", "nombre": "Eoarcaico", "inicio_ma": 4000.0, "fin_ma": 3600.0 }
+      ]
+    },
+    {
+      "nivel": "Eón",
+      "nombre": "Hádico",
+      "inicio_ma": 4567.0,
+      "fin_ma": 4000.0
+    }
+  ]
+}

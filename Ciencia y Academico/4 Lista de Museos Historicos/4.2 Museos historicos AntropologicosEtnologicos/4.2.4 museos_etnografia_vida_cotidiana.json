@@ -1,0 +1,58 @@
+{
+  "museos_etnografia_vida_cotidiana": [
+    {
+      "nombre": "Skansen (Museo al Aire Libre)",
+      "ubicacion": "Estocolmo, Suecia",
+      "enfoque": "Vida Cotidiana Nórdica (Siglos XVIII-XX)",
+      "colecciones_destacadas": [
+        "Primer museo al aire libre del mundo, con más de 150 edificios históricos reubicados (casas, granjas, talleres)",
+        "Demostraciones de artesanía, agricultura y vida rural sueca",
+        "Muestra la vida cotidiana y las tradiciones folclóricas de Suecia a través de las estaciones"
+      ],
+      "nota": "Un referente mundial para los museos de folclore y etnografía al aire libre."
+    },
+    {
+      "nombre": "Museo Etnológico de Berlín (Ethnologisches Museum)",
+      "ubicacion": "Berlín, Alemania",
+      "enfoque": "Cultura Material Global",
+      "colecciones_destacadas": [
+        "Colecciones de objetos de la vida diaria de culturas de Oceanía, África y las Américas",
+        "Artefactos relacionados con la alimentación, la vestimenta, las herramientas de trabajo y la vivienda",
+        "Colección especializada en tejidos y objetos ceremoniales"
+      ],
+      "nota": "Aunque global, es clave para la cultura material de numerosos pueblos."
+    },
+    {
+      "nombre": "Museo de Artes y Tradiciones Populares (MNATP)",
+      "ubicacion": "París, Francia (Colección actualmente en el Museo de las Civilizaciones de Europa y el Mediterráneo - MuCEM)",
+      "enfoque": "Etnografía Francesa y Europea",
+      "colecciones_destacadas": [
+        "Artefactos y objetos de la vida rural francesa y las tradiciones populares",
+        "Herramientas de oficios tradicionales, mobiliario y vestimenta regional",
+        "Documentación sobre costumbres, rituales y creencias populares"
+      ],
+      "nota": "Su colección se integra ahora principalmente en el MuCEM, enfocándose en las culturas del Mediterráneo y Europa."
+    },
+    {
+      "nombre": "Museo Folclórico de Corea (National Folk Museum of Korea)",
+      "ubicacion": "Seúl, Corea del Sur",
+      "enfoque": "Vida Cotidiana y Tradiciones Coreanas",
+      "colecciones_destacadas": [
+        "Exposiciones sobre el ciclo de vida coreano (nacimiento, matrimonio, muerte)",
+        "Modelos a escala y recreaciones de la vida diaria y festivales coreanos (incluyendo arquitectura tradicional Hanok)",
+        "Herramientas agrícolas, vestimenta tradicional (Hanbok) y utensilios domésticos"
+      ],
+      "nota": "Documenta la historia de la vida cotidiana de los coreanos comunes desde tiempos prehistóricos."
+    },
+    {
+      "nombre": "Museo de la Vida Rural (Museu de la Vida Rural)",
+      "ubicacion": "L'Espluga de Francolí, España (Cataluña)",
+      "enfoque": "Vida Rural del Mediterráneo",
+      "colecciones_destacadas": [
+        "Maquinaria, herramientas agrícolas y enológicas de la región",
+        "Exhibiciones sobre las costumbres, la alimentación y la arquitectura tradicional rural catalana"
+      ],
+      "nota": "Un excelente ejemplo de museo de vida cotidiana regional."
+    }
+  ]
+}

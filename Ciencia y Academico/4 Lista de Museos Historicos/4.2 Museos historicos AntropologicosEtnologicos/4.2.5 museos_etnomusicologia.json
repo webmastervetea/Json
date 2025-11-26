@@ -1,0 +1,56 @@
+{
+  "museos_etnomusicologia": [
+    {
+      "nombre": "Museo de Instrumentos Musicales (Musée des Instruments de Musique - MIM)",
+      "ubicacion": "Bruselas, Bélgica",
+      "enfoque": "Global/Histórico",
+      "colecciones_destacadas": [
+        "Más de 8,000 instrumentos de todo el mundo y de diferentes épocas",
+        "Colección especializada en instrumentos europeos históricos",
+        "Colecciones etnográficas de instrumentos africanos, asiáticos y sudamericanos"
+      ],
+      "nota": "Famoso por su extensa colección y por permitir escuchar grabaciones de muchos de sus instrumentos."
+    },
+    {
+      "nombre": "Museo de Instrumentos Musicales de la Universidad de Leipzig",
+      "ubicacion": "Leipzig, Alemania",
+      "enfoque": "Histórico/Etnomusicología Europea",
+      "colecciones_destacadas": [
+        "Una de las colecciones de instrumentos europeos más antiguas y grandes (más de 5,000 instrumentos)",
+        "Instrumentos de música de cámara y orquesta",
+        "Instrumentos etnográficos utilizados en la música tradicional y folclórica europea"
+      ],
+      "nota": "Vinculado a la universidad, con gran énfasis en la investigación y la historia de la música."
+    },
+    {
+      "nombre": "Museo del Quai Branly - Jacques Chirac (Colección de Instrumentos)",
+      "ubicacion": "París, Francia",
+      "enfoque": "Etnología Mundial",
+      "colecciones_destacadas": [
+        "Vasta colección de instrumentos musicales de África, Asia, Oceanía y las Américas",
+        "Instrumentos de cuerda, percusión y viento en contextos rituales y de vida diaria"
+      ],
+      "nota": "Aunque es un museo de etnología general, su sección de instrumentos musicales es crucial para la etnomusicología."
+    },
+    {
+      "nombre": "Museo Guimet (Museo Nacional de Artes Asiáticas)",
+      "ubicacion": "París, Francia",
+      "enfoque": "Etnomusicología Asiática",
+      "colecciones_destacadas": [
+        "Amplia colección de instrumentos musicales de China, Japón, India y el Sudeste Asiático",
+        "Instrumentos utilizados en teatro, ópera y música religiosa asiática"
+      ],
+      "nota": "Excelente para el estudio de los instrumentos musicales del Lejano Oriente."
+    },
+    {
+      "nombre": "Museo de Instrumentos Musicales de Arizona (MIM)",
+      "ubicacion": "Phoenix, Estados Unidos",
+      "enfoque": "Global/Exhibición Interactiva",
+      "colecciones_destacadas": [
+        "Instrumentos y contextos musicales de casi 200 países y territorios",
+        "Exposiciones etnomusicológicas interactivas con tecnología de audio de alta calidad"
+      ],
+      "nota": "Uno de los museos de instrumentos musicales más grandes y modernos del mundo."
+    }
+  ]
+}

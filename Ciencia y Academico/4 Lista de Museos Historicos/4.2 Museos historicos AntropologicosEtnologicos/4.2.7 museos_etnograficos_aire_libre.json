@@ -1,0 +1,67 @@
+{
+  "museos_etnograficos_aire_libre": [
+    {
+      "nombre": "Skansen",
+      "ubicacion": "Estocolmo, Suecia",
+      "region_representada": "Suecia y Laponia",
+      "colecciones_destacadas": [
+        "El primer museo al aire libre del mundo (fundado en 1891)",
+        "Más de 150 granjas, casas, iglesias y talleres reubicados, que representan la vida sueca de los siglos XVIII al XX",
+        "Demostraciones de oficios tradicionales, agricultura y folclore"
+      ],
+      "nota": "Modelo original para todos los museos de este tipo."
+    },
+    {
+      "nombre": "Museo de la Villa de Seúl (Namsangol Hanok Village)",
+      "ubicacion": "Seúl, Corea del Sur",
+      "region_representada": "Corea (Dinastía Joseon)",
+      "colecciones_destacadas": [
+        "Cinco casas tradicionales coreanas (Hanok) restauradas o reubicadas, de diferentes clases sociales",
+        "Jardines tradicionales coreanos y un estanque",
+        "Demostraciones de actividades culturales y bodas tradicionales"
+      ],
+      "nota": "Se enfoca en la arquitectura y el estilo de vida de la Dinastía Joseon."
+    },
+    {
+      "nombre": "Museo Etnográfico de Hakone (Hakone Open-Air Museum)",
+      "ubicacion": "Hakone, Japón",
+      "region_representada": "Japón (Vida Rural)",
+      "colecciones_destacadas": [
+        "Varias casas rurales tradicionales japonesas (Minka) de diferentes regiones y épocas (siglos XVII-XIX)",
+        "Demostración de la estructura y el diseño arquitectónico tradicional japonés"
+      ],
+      "nota": "Combina la arquitectura histórica con una notable colección de arte moderno."
+    },
+    {
+      "nombre": "Museo Etnográfico Húngaro (Szentendre Skanzen Village Museum)",
+      "ubicacion": "Szentendre, Hungría",
+      "region_representada": "Hungría (Regiones Culturales)",
+      "colecciones_destacadas": [
+        "Más de 100 edificios, incluyendo iglesias, molinos y granjas, que representan las ocho regiones culturales y los estilos de vida húngaros",
+        "Exposiciones de la vida campesina, tecnología agrícola y artesanía"
+      ],
+      "nota": "El museo etnográfico al aire libre más grande de Hungría."
+    },
+    {
+      "nombre": "Museo de la Cultura Rumana (Astra Museum)",
+      "ubicacion": "Sibiu, Rumania",
+      "region_representada": "Rumania (Regiones Tradicionales)",
+      "colecciones_destacadas": [
+        "Más de 400 casas, molinos de agua, iglesias y talleres que representan la arquitectura tradicional rumana de todas las regiones",
+        "Enfoque en la tecnología popular y el transporte rural",
+        "Uno de los museos al aire libre más grandes de Europa."
+      ]
+    },
+    {
+      "nombre": "Colonial Williamsburg",
+      "ubicacion": "Williamsburg, Virginia, Estados Unidos",
+      "region_representada": "Norteamérica (Colonial, Siglo XVIII)",
+      "colecciones_destacadas": [
+        "Recreación de una ciudad colonial completa (más de 400 edificios originales y reconstruidos)",
+        "Intérpretes históricos que recrean la vida diaria y los oficios del siglo XVIII",
+        "Casas de la época colonial, tiendas y edificios gubernamentales"
+      ],
+      "nota": "Ejemplo principal de 'historia viva' en Norteamérica, enfocada en la vida cotidiana de la época de la Revolución Americana."
+    }
+  ]
+}

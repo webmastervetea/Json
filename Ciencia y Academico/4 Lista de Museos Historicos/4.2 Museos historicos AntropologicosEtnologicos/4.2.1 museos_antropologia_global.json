@@ -1,0 +1,67 @@
+{
+  "museos_antropologia_global": [
+    {
+      "nombre": "Museo Nacional de Antropología (MNA)",
+      "ubicacion": "Ciudad de México, México",
+      "enfoque": "Nacional/Mesoamérica",
+      "colecciones_destacadas": [
+        "Piedra del Sol (Calendario Azteca)",
+        "Escultura de la Coatlicue",
+        "Colecciones de arqueología de Mesoamérica (Maya, Olmecas, Mexica)",
+        "Salas de etnografía dedicadas a los pueblos indígenas actuales de México"
+      ],
+      "nota": "Considerado uno de los museos antropológicos más importantes del mundo."
+    },
+    {
+      "nombre": "Museo del Quai Branly - Jacques Chirac",
+      "ubicacion": "París, Francia",
+      "enfoque": "Etnología Mundial",
+      "colecciones_destacadas": [
+        "Artes y Civilizaciones de África, Asia, Oceanía y las Américas",
+        "Colección de máscaras, tejidos y objetos rituales de culturas no occidentales",
+        "Instrumentos musicales de todo el mundo"
+      ],
+      "nota": "Se enfoca en el diálogo entre culturas y el arte como expresión antropológica."
+    },
+    {
+      "nombre": "Museo Americano de Historia Natural (AMNH - División de Antropología)",
+      "ubicacion": "Nueva York, Estados Unidos",
+      "enfoque": "Antropología Global",
+      "colecciones_destacadas": [
+        "Salas de los Pueblos del Pacífico, Asia y África",
+        "Colección de artefactos de las culturas de las Llanuras y del Noroeste de Norteamérica",
+        "Antropología biológica y evolución humana"
+      ],
+      "nota": "Combina la antropología cultural con la historia natural y la evolución humana."
+    },
+    {
+      "nombre": "Museo Nacional de Antropología (MNA - España)",
+      "ubicacion": "Madrid, España",
+      "enfoque": "Global/Etnología",
+      "colecciones_destacadas": [
+        "Colecciones de culturas de América, África, Asia y Oceanía",
+        "Objetos etnográficos de Guinea Ecuatorial y Filipinas",
+        "Antropología física y biológica"
+      ]
+    },
+    {
+      "nombre": "Museo Real de África Central (RMCA)",
+      "ubicacion": "Tervuren, Bélgica",
+      "enfoque": "Regional (África)",
+      "colecciones_destacadas": [
+        "Colecciones etnográficas, zoológicas y geológicas de la cuenca del Congo (antiguo Congo Belga)",
+        "Artefactos culturales de la vida diaria y rituales africanos"
+      ],
+      "nota": "Se especializa en la historia natural y cultural de África Central."
+    },
+    {
+      "nombre": "Museo de las Culturas del Mundo (Weltkulturen Museum)",
+      "ubicacion": "Fráncfort del Meno, Alemania",
+      "enfoque": "Etnología Global",
+      "colecciones_destacadas": [
+        "Arte y etnografía de Oceanía, África y las Américas",
+        "Colecciones especiales de textiles y fotografía etnográfica"
+      ]
+    }
+  ]
+}

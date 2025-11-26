@@ -1,0 +1,59 @@
+{
+  "museos_enfoque_dialogo": [
+    {
+      "nombre": "Museo de las Civilizaciones de Europa y el Mediterráneo (MuCEM)",
+      "ubicacion": "Marsella, Francia",
+      "enfoque": "Diálogo Intercultural y Europa Contemporánea",
+      "colecciones_destacadas": [
+        "Objetos de arte y etnografía que documentan la interconexión de las culturas del Mediterráneo",
+        "Exposiciones sobre migración, identidad, y la formación de la cultura europea moderna",
+        "Enfoque en las colecciones del antiguo Museo Nacional de Artes y Tradiciones Populares (MNATP)"
+      ],
+      "nota": "Diseñado para ser un foro de diálogo entre las dos orillas del Mediterráneo, con gran relevancia social."
+    },
+    {
+      "nombre": "Humboldt Forum (Museo Etnológico y de Arte Asiático)",
+      "ubicacion": "Berlín, Alemania",
+      "enfoque": "Diálogo Global y Decolonización",
+      "colecciones_destacadas": [
+        "Colecciones de etnología mundial (África, Oceanía, Américas) con un nuevo enfoque crítico sobre su adquisición",
+        "Exposiciones que abordan el pasado colonial de Alemania y el debate sobre la restitución de artefactos",
+        "Arte asiático y colecciones de historia de Berlín"
+      ],
+      "nota": "Un complejo cultural diseñado para ser un espacio de debate abierto sobre los orígenes de las colecciones globales."
+    },
+    {
+      "nombre": "Museo Nacional de Historia y Cultura Afroamericana (NMAAHC)",
+      "ubicacion": "Washington D.C., Estados Unidos",
+      "enfoque": "Diálogo Racial, Identidad y Memoria",
+      "colecciones_destacadas": [
+        "Artefactos que cubren la historia de la esclavitud, la Reconstrucción y el Movimiento por los Derechos Civiles",
+        "Exposiciones sobre el impacto cultural de los afroamericanos en la música, el arte y el deporte",
+        "Testimonios y documentación de la vida cotidiana y la lucha por la igualdad"
+      ],
+      "nota": "Busca narrar una historia completa de la experiencia afroamericana como diálogo central de la identidad estadounidense."
+    },
+    {
+      "nombre": "Museo de la Memoria y los Derechos Humanos",
+      "ubicacion": "Santiago, Chile",
+      "enfoque": "Memoria Histórica y Derechos Humanos",
+      "colecciones_destacadas": [
+        "Documentos, testimonios y artefactos sobre las violaciones a los derechos humanos durante la dictadura militar chilena (1973-1990)",
+        "Exposiciones que promueven la reflexión sobre la importancia de la democracia y la dignidad humana",
+        "Archivos de la solidaridad y la resistencia"
+      ],
+      "nota": "Un ejemplo clave de museo que utiliza la historia para fomentar el diálogo sobre justicia social."
+    },
+    {
+      "nombre": "Museo del Holocausto (Yad Vashem)",
+      "ubicacion": "Jerusalén, Israel",
+      "enfoque": "Memoria Histórica, Ética y Educación",
+      "colecciones_destacadas": [
+        "Documentación, fotografías y objetos personales de las víctimas del Holocausto",
+        "El Salón de los Nombres y el Bosque de los Justos entre las Naciones",
+        "Exposiciones que promueven la reflexión ética sobre el genocidio y la intolerancia"
+      ],
+      "nota": "Aunque es un museo de memoria, su misión educativa se centra en el diálogo sobre las consecuencias del odio."
+    }
+  ]
+}

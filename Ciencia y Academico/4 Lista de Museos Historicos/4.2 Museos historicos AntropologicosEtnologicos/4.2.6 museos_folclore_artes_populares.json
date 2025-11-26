@@ -1,0 +1,69 @@
+{
+  "museos_folclore_artes_populares": [
+    {
+      "nombre": "Museo Internacional de Artes y Tradiciones Populares (antiguo MNATP)",
+      "ubicacion": "Marsella, Francia (Colección principal en MuCEM)",
+      "enfoque": "Europa y el Mediterráneo",
+      "colecciones_destacadas": [
+        "Objetos de la vida rural francesa y europea",
+        "Artesanía popular, cerámica, juguetes y mobiliario tradicional",
+        "Documentación sobre las tradiciones, mitos y creencias del Mediterráneo"
+      ],
+      "nota": "Su colección se integra en el MuCEM (Museo de las Civilizaciones de Europa y del Mediterráneo), que se enfoca en las culturas de esta área geográfica."
+    },
+    {
+      "nombre": "Museo de Artes y Tradiciones Populares de Sevilla",
+      "ubicacion": "Sevilla, España",
+      "enfoque": "Folclore Andaluz y Español",
+      "colecciones_destacadas": [
+        "Colección de cerámica, tejidos y bordados andaluces (especialmente de Triana)",
+        "Vestimenta tradicional (trajes de flamenca y otros trajes regionales)",
+        "Objetos relacionados con las fiestas populares, la tauromaquia y la vida cotidiana del sur de España"
+      ]
+    },
+    {
+      "nombre": "Museo Folclórico Nacional de Corea (National Folk Museum of Korea)",
+      "ubicacion": "Seúl, Corea del Sur",
+      "enfoque": "Folclore Coreano",
+      "colecciones_destacadas": [
+        "Exposiciones sobre las costumbres, festivales y ciclo de vida coreano (nacimiento, boda, muerte)",
+        "Utensilios domésticos, herramientas agrícolas y vestimenta tradicional (Hanbok)",
+        "Recreaciones de la vida diaria y arquitectura tradicional (Hanok)"
+      ],
+      "nota": "Documenta la historia de la vida cotidiana del pueblo coreano a lo largo de la historia."
+    },
+    {
+      "nombre": "Museo de Artes Populares (Museo de Arte Popular - MAP)",
+      "ubicacion": "Ciudad de México, México",
+      "enfoque": "Artesanía Mexicana",
+      "colecciones_destacadas": [
+        "Piezas icónicas de artesanía mexicana (alebrijes, textiles, cerámica de Talavera)",
+        "Arte popular relacionado con el Día de Muertos y otras festividades religiosas y laicas",
+        "Colecciones de alfarería, metalurgia y juguetes tradicionales de diversas regiones"
+      ],
+      "nota": "Se centra en la preservación y promoción del arte folclórico mexicano."
+    },
+    {
+      "nombre": "Museo Etnográfico y de Artes Populares de Lviv (Museo del Folclore y Artes Aplicadas)",
+      "ubicacion": "Lviv, Ucrania",
+      "enfoque": "Folclore Ucraniano y de los Cárpatos",
+      "colecciones_destacadas": [
+        "Vasta colección de vestimenta tradicional ucraniana (Vyshyvanka)",
+        "Artesanía popular de las regiones de Hutsul y Polissia",
+        "Cerámica, carpintería y bordados históricos"
+      ],
+      "nota": "Excelente recurso para el estudio de las tradiciones folclóricas de Europa del Este."
+    },
+    {
+      "nombre": "Skansen (Museo al Aire Libre y Folclore)",
+      "ubicacion": "Estocolmo, Suecia",
+      "enfoque": "Folclore Nórdico",
+      "colecciones_destacadas": [
+        "Casas y granjas históricas que muestran la vida rural y las costumbres suecas de los siglos XVIII y XIX",
+        "Demostraciones de oficios tradicionales (vidriería, panadería, etc.)",
+        "Artesanía folclórica, vestimenta y objetos cotidianos"
+      ],
+      "nota": "El primer museo al aire libre del mundo, un modelo para los museos de folclore."
+    }
+  ]
+}

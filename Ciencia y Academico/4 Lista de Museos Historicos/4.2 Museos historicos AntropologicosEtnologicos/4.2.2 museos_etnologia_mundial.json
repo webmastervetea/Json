@@ -1,0 +1,57 @@
+{
+  "museos_etnologia_mundial": [
+    {
+      "nombre": "Museo del Quai Branly - Jacques Chirac",
+      "ubicacion": "París, Francia",
+      "enfoque": "África, Asia, Oceanía y Américas",
+      "colecciones_destacadas": [
+        "Arte y civilizaciones de culturas no occidentales",
+        "Colección de máscaras rituales y objetos de arte ceremonial de África y Oceanía",
+        "Instrumentos musicales, textiles y esculturas de Asia y las Américas"
+      ],
+      "nota": "Abierto en 2006, con un enfoque moderno en la antropología cultural y el arte primitivo."
+    },
+    {
+      "nombre": "Museo Etnológico de Berlín (Ethnologisches Museum)",
+      "ubicacion": "Berlín, Alemania",
+      "enfoque": "Etnografía Global (Colecciones de Oceanía y Américas)",
+      "colecciones_destacadas": [
+        "Arte y artefactos de las culturas del Pacífico y Oceanía (incluyendo el famoso canoa de Luf de Papúa Nueva Guinea)",
+        "Grandes colecciones de culturas nativas americanas y mesoamericanas",
+        "Objetos de África y Asia Oriental"
+      ],
+      "nota": "Parte del Foro Humboldt, una de las colecciones de etnología más grandes de Europa."
+    },
+    {
+      "nombre": "Museo Británico (Departamento de África, Oceanía y las Américas)",
+      "ubicacion": "Londres, Reino Unido",
+      "enfoque": "Culturas Mundiales",
+      "colecciones_destacadas": [
+        "Bronces de Benín (actualmente objeto de debate sobre restitución)",
+        "Artefactos de las culturas del Pacífico y Melanesia",
+        "Máscaras y objetos de las culturas nativas de Norteamérica"
+      ],
+      "nota": "Posee vastas colecciones etnográficas reunidas durante la época imperial."
+    },
+    {
+      "nombre": "Museo de Culturas del Mundo (Weltkulturen Museum)",
+      "ubicacion": "Fráncfort del Meno, Alemania",
+      "enfoque": "Etnología Global",
+      "colecciones_destacadas": [
+        "Extensas colecciones de Oceanía, África y las Américas",
+        "Enfoque en textiles y fotografías etnográficas",
+        "Colección de arte ritual y chamanismo"
+      ]
+    },
+    {
+      "nombre": "Museo Etnológico de Viena (Weltmuseum Wien)",
+      "ubicacion": "Viena, Austria",
+      "enfoque": "Etnología Mundial",
+      "colecciones_destacadas": [
+        "Colección de artefactos de las expediciones del Capitán James Cook (Oceanía)",
+        "Penacho de Moctezuma (Artefacto mexica)",
+        "Objetos de las culturas de África, Asia y América"
+      ]
+    }
+  ]
+}

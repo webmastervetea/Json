@@ -1,0 +1,56 @@
+{
+  "museos_culturas_indigenas": [
+    {
+      "nombre": "Museo Nacional del Indio Americano (NMAI)",
+      "ubicacion": "Washington D.C., Nueva York (EE. UU.)",
+      "region": "Américas (Nativa)",
+      "colecciones_destacadas": [
+        "Artefactos que representan más de 12,000 años de historia de los pueblos nativos del hemisferio occidental",
+        "Colecciones de objetos ceremoniales, vestimenta, textiles y arte contemporáneo indígena",
+        "Exposiciones desarrolladas en colaboración con las comunidades nativas"
+      ],
+      "nota": "Parte del Instituto Smithsonian, con sedes en D.C. y Nueva York (antiguo Museo Heye)."
+    },
+    {
+      "nombre": "Museo de Oro de San Pedro de Atacama (Museo R.P. Gustavo Le Paige S.J.)",
+      "ubicacion": "San Pedro de Atacama, Chile",
+      "region": "Andina (Atacama)",
+      "colecciones_destacadas": [
+        "Artefactos de la cultura atacameña y de los pueblos precolombinos del Desierto de Atacama",
+        "Colecciones de cerámica, metalurgia (oro y cobre) y textiles bien conservados"
+      ],
+      "nota": "Se centra en la arqueología y etnografía de los pueblos del Norte Grande de Chile."
+    },
+    {
+      "nombre": "Museo Canadiense de Historia (First Peoples Hall)",
+      "ubicacion": "Gatineau, Quebec, Canadá",
+      "region": "Norteamérica (Canadá)",
+      "colecciones_destacadas": [
+        "La colección más grande de artefactos de las Primeras Naciones, Métis e Inuit de Canadá",
+        "Máscaras de las Primeras Naciones de la costa del Pacífico (Haida, Kwakwaka'wakw)",
+        "Documentación sobre la historia y el impacto del colonialismo"
+      ],
+      "nota": "El museo nacional que alberga la historia de los pueblos originarios de Canadá."
+    },
+    {
+      "nombre": "Museo de Artes e Historia de la India (Museo Nacional)",
+      "ubicacion": "Nueva Delhi, India",
+      "region": "Asia (Tribal/Regional)",
+      "colecciones_destacadas": [
+        "Sección de Etnología y Arte Tribal de la India",
+        "Colecciones de arte folclórico, máscaras, vestimenta y artefactos de las tribus de Odisha y el Noreste de la India"
+      ],
+      "nota": "Aunque es un museo general, tiene colecciones vitales para las culturas tribales de la India."
+    },
+    {
+      "nombre": "Museo Nacional de las Culturas del Mundo",
+      "ubicacion": "Ciudad de México, México",
+      "region": "Global/Etnológico (Énfasis en México)",
+      "colecciones_destacadas": [
+        "Colecciones etnográficas de culturas del mundo (Asia, África, Oceanía) y su diálogo con México",
+        "Exposiciones sobre la diversidad cultural mexicana contemporánea y sus raíces prehispánicas"
+      ],
+      "nota": "Ubicado en el edificio de la antigua Casa de Moneda, ofrece una visión global con enfoque en México."
+    }
+  ]
+}

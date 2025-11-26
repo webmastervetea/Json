@@ -1,0 +1,59 @@
+{
+  "museos_historia_conflictos_regionales_tempranos": [
+    {
+      "nombre": "Museo Nacional de las Intervenciones",
+      "ubicacion": "Ciudad de México, México",
+      "enfoque": "Guerras de Intervención Extranjera en México (Siglos XIX-XX)",
+      "colecciones_destacadas": [
+        "Ubicado en el ex Convento de Churubusco, sitio de la Batalla de Churubusco (Guerra de 1847)",
+        "Objetos, armas y uniformes de las intervenciones francesas y estadounidenses",
+        "Documentación sobre la historia militar del país y las guerras de reforma y la Revolución"
+      ],
+      "nota": "Se centra en la defensa de la soberanía nacional frente a potencias extranjeras."
+    },
+    {
+      "nombre": "Museo y Centro de Visitantes de Gettysburg",
+      "ubicacion": "Gettysburg, Pensilvania, Estados Unidos",
+      "enfoque": "Guerra de Secesión de EE. UU. (Batalla de Gettysburg)",
+      "colecciones_destacadas": [
+        "El Ciclomara de Gettysburg (pintura circular gigante que recrea la batalla)",
+        "Artefactos, armas y uniformes de los ejércitos de la Unión y Confederado",
+        "Documentación sobre el Discurso de Gettysburg y el impacto de la guerra civil"
+      ],
+      "nota": "El principal museo dedicado a la batalla que marcó el punto de inflexión de la Guerra Civil estadounidense."
+    },
+    {
+      "nombre": "Torre de Londres (Royal Armouries Collection)",
+      "ubicacion": "Londres, Reino Unido",
+      "enfoque": "Historia Militar Medieval y Monárquica Temprana",
+      "colecciones_destacadas": [
+        "Las Joyas de la Corona (simbolismo del poder militar y político de la monarquía)",
+        "Colección de armaduras de Enrique VIII y otros monarcas",
+        "Exposiciones sobre la historia de la Torre como fortaleza, prisión y armería"
+      ],
+      "nota": "Aunque no es un museo 'de guerra' per se, sus colecciones son fundamentales para la historia militar temprana de Inglaterra."
+    },
+    {
+      "nombre": "Museo Nacional del Combate de San Lorenzo",
+      "ubicacion": "San Lorenzo, Argentina",
+      "enfoque": "Guerras de Independencia de Argentina (Batalla de San Lorenzo)",
+      "colecciones_destacadas": [
+        "Ubicado en el convento donde se libró la Batalla de San Lorenzo, la única de José de San Martín en suelo argentino",
+        "Objetos de la época de la independencia y del Regimiento de Granaderos a Caballo",
+        "Documentos y mapas de las campañas militares"
+      ],
+      "nota": "Un museo de sitio esencial para la historia de la independencia sudamericana."
+    },
+    {
+      "nombre": "Museo de la Guerra de Vietnam (War Remnants Museum)",
+      "ubicacion": "Ciudad Ho Chi Minh, Vietnam",
+      "enfoque": "Conflicto Regional (Guerra de Vietnam/Segunda Guerra de Indochina)",
+      "colecciones_destacadas": [
+        "Fotografías y exposiciones sobre el impacto de la guerra en la población civil",
+        "Maquinaria de guerra estadounidense (tanques, helicópteros, bombarderos)",
+        "Documentación sobre los crímenes de guerra y los efectos del Agente Naranja"
+      ],
+      "nota": "Un museo crucial para entender la Guerra de Vietnam desde la perspectiva vietnamita, con un fuerte enfoque en el impacto civil."
+    }
+  ]
+}

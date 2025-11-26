@@ -1,0 +1,59 @@
+{
+  "museos_arsenal_tecnologia_militar": [
+    {
+      "nombre": "Museo Nacional del Aire y del Espacio (NASM) - Centro Udvar-Hazy",
+      "ubicacion": "Chantilly, Virginia, Estados Unidos",
+      "enfoque": "Tecnología Aérea y Aeroespacial (Militar y Civil)",
+      "colecciones_destacadas": [
+        "Transbordador espacial 'Discovery', bombardero Enola Gay (B-29)",
+        "Aviones de combate de la Segunda Guerra Mundial y de la Guerra Fría",
+        "Colección de cohetes, misiles y motores de propulsión"
+      ],
+      "nota": "Aunque incluye tecnología civil, sus colecciones de aviones militares históricos son insuperables."
+    },
+    {
+      "nombre": "El Museo del Tanque de Bovington (The Tank Museum)",
+      "ubicacion": "Bovington, Reino Unido",
+      "enfoque": "Historia y Tecnología de Vehículos Blindados",
+      "colecciones_destacadas": [
+        "Más de 300 vehículos blindados de 26 países (desde el primer tanque Mark I hasta tanques modernos)",
+        "Tanques alemanes raros (incluyendo el Tigre I)",
+        "Exposiciones sobre la evolución de la guerra terrestre blindada"
+      ],
+      "nota": "Posee la colección más grande y completa de tanques y vehículos blindados del mundo."
+    },
+    {
+      "nombre": "Royal Armouries Museum (Leeds)",
+      "ubicacion": "Leeds, Reino Unido",
+      "enfoque": "Armamento y Artillería (desde la Antigüedad hasta la Actualidad)",
+      "colecciones_destacadas": [
+        "Colección de armaduras de la Torre de Londres y artillería histórica",
+        "Armas de fuego de época y de colección, espadas y armas blancas",
+        "Exposiciones sobre la tecnología y el impacto de las armas a través de la historia"
+      ],
+      "nota": "La colección nacional de armas y armaduras del Reino Unido, con un enfoque en la tecnología del armamento."
+    },
+    {
+      "nombre": "Museo de la Armada Central (Central Naval Museum)",
+      "ubicacion": "San Petersburgo, Rusia",
+      "enfoque": "Tecnología Naval Rusa y Soviética",
+      "colecciones_destacadas": [
+        "Modelos a escala de buques de guerra históricos rusos y soviéticos",
+        "Armamento naval, uniformes y banderas históricas de la Armada rusa",
+        "Artefactos de la construcción naval y la evolución de los submarinos"
+      ],
+      "nota": "Uno de los museos navales más antiguos y grandes del mundo."
+    },
+    {
+      "nombre": "Museo del Ejército Polaco (Muzeum Wojska Polskiego)",
+      "ubicacion": "Varsovia, Polonia",
+      "enfoque": "Tecnología Militar Polaca y Europea",
+      "colecciones_destacadas": [
+        "Vasta colección de armas, uniformes y armaduras polacas desde el siglo X",
+        "Exposición al aire libre de equipos pesados (aviones, tanques, artillería) soviéticos y del Pacto de Varsovia",
+        "Artefactos de la Segunda Guerra Mundial y la lucha por la independencia polaca"
+      ],
+      "nota": "Muestra la evolución del armamento militar en el contexto de la historia polaca."
+    }
+  ]
+}

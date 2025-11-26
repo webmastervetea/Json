@@ -1,0 +1,59 @@
+{
+  "museos_pow_crimenes_guerra": [
+    {
+      "nombre": "Museo Estatal de Auschwitz-Birkenau",
+      "ubicacion": "Oświęcim, Polonia",
+      "enfoque": "Sitio de Conmemoración, Crímenes de Guerra y Holocausto (Segunda Guerra Mundial)",
+      "colecciones_destacadas": [
+        "El sitio físico preservado de los campos de concentración y exterminio (barracones, cámaras de gas y hornos crematorios)",
+        "Objetos personales de las víctimas, pelo, prótesis, maletas y otros efectos de las personas internadas",
+        "Documentación histórica y archivos originales del funcionamiento del campo"
+      ],
+      "nota": "El principal memorial de los crímenes de guerra y crímenes contra la humanidad del Eje durante la SGM."
+    },
+    {
+      "nombre": "Andersonville National Historic Site",
+      "ubicacion": "Andersonville, Georgia, Estados Unidos",
+      "enfoque": "Prisioneros de Guerra (POW) de la Guerra de Secesión de EE. UU.",
+      "colecciones_destacadas": [
+        "Las ruinas y la recreación del Campo Sumter (uno de los campos de POW más infames de la Confederación)",
+        "Museo de Prisioneros de Guerra que narra la historia de los cautivos de todas las guerras de EE. UU.",
+        "Lápidas y registros de los más de 13,000 soldados de la Unión que murieron allí"
+      ],
+      "nota": "El único sitio federal en EE. UU. dedicado a la historia de los prisioneros de guerra."
+    },
+    {
+      "nombre": "Museo Conmemorativo de la Prisión de Changi (Changi Chapel and Museum)",
+      "ubicacion": "Singapur",
+      "enfoque": "Prisioneros de Guerra (POW) y Civiles Internados en Asia (Segunda Guerra Mundial)",
+      "colecciones_destacadas": [
+        "Artefactos y objetos personales de los prisioneros de guerra y civiles internados por las fuerzas japonesas",
+        "Réplicas de la capilla y los famosos murales de Changi (pintados por el prisionero Stanley Warren)",
+        "Testimonios, diarios y dibujos que detallan la vida y las condiciones de la prisión"
+      ],
+      "nota": "Se centra en la experiencia del cautiverio aliado en el Teatro del Pacífico."
+    },
+    {
+      "nombre": "Museo del Genocidio de Tuol Sleng (S-21)",
+      "ubicacion": "Nom Pen, Camboya",
+      "enfoque": "Crímenes de Guerra / Crímenes contra la Humanidad (Régimen Jemer Rojo)",
+      "colecciones_destacadas": [
+        "El sitio físico preservado de la antigua escuela utilizada como centro de detención, interrogatorio y tortura (S-21)",
+        "Miles de fotografías de las víctimas antes de ser ejecutadas",
+        "Instrumentos de tortura, celdas de ladrillo y documentación del régimen de Pol Pot"
+      ],
+      "nota": "Documenta los crímenes atroces cometidos por el Jemer Rojo contra su propia población y prisioneros (1975-1979)."
+    },
+    {
+      "nombre": "Museo del Recuerdo y los Derechos Humanos",
+      "ubicacion": "Santiago, Chile",
+      "enfoque": "Memoria Histórica, Prisioneros Políticos y Derechos Humanos",
+      "colecciones_destacadas": [
+        "Documentos, testimonios y artefactos sobre las violaciones a los derechos humanos y los presos políticos durante la dictadura militar chilena (1973-1990)",
+        "Archivos de solidaridad, exilio y resistencia",
+        "Exposiciones sobre la importancia de la democracia y la no repetición de crímenes de Estado"
+      ],
+      "nota": "Aunque enfocado en crímenes de Estado post-conflicto, es un museo clave sobre la memoria de la prisión política y la tortura."
+    }
+  ]
+}

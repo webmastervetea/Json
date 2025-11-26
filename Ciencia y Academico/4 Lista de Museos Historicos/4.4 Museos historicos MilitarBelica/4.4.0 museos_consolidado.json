@@ -1,0 +1,346 @@
+{
+  "museos_consolidado": {
+    "museos_historia_militar_general": [
+      {
+        "nombre": "Museo Nacional de la Segunda Guerra Mundial (National WWII Museum)",
+        "ubicacion": "Nueva Orleans, Estados Unidos",
+        "enfoque": "Participación de EE. UU. en la Segunda Guerra Mundial",
+        "colecciones_destacadas": [
+          "Exposiciones interactivas sobre la campaña del Pacífico y el Teatro Europeo",
+          "Colección de aeronaves de la época (como el bombardero B-17 y el P-51 Mustang)",
+          "Testimonios orales y artefactos personales de los veteranos"
+        ],
+        "nota": "Anteriormente conocido como el Museo del Día D, es el museo oficial de EE. UU. dedicado al conflicto."
+      },
+      {
+        "nombre": "Museo Imperial de la Guerra (Imperial War Museum - IWM)",
+        "ubicacion": "Londres, Reino Unido",
+        "enfoque": "Conflictos Británicos y de la Commonwealth (Desde 1914 hasta la actualidad)",
+        "colecciones_destacadas": [
+          "Artillería, vehículos y uniformes de la Primera y Segunda Guerra Mundial",
+          "Exhibiciones profundas sobre el Holocausto y la vida en el frente interno",
+          "Vasta colección de fotografías, diarios y correspondencia de soldados"
+        ],
+        "nota": "Tiene sedes satélite como el IWM North y el Museo de Churchill/Gabinetes de Guerra."
+      },
+      {
+        "nombre": "Museo del Ejército (Musée de l'Armée)",
+        "ubicacion": "París, Francia (Les Invalides)",
+        "enfoque": "Historia Militar Francesa (Desde la Antigüedad hasta el Siglo XX)",
+        "colecciones_destacadas": [
+          "Tumba de Napoleón Bonaparte, ubicada bajo la cúpula dorada",
+          "Colección de armaduras y armas antiguas (la tercera más grande del mundo)",
+          "Objetos de las Guerras Mundiales y la historia militar de la monarquía francesa"
+        ],
+        "nota": "Uno de los museos militares más grandes del mundo, albergado en un complejo histórico."
+      },
+      {
+        "nombre": "Museo de la Historia Militar (Militärhistorisches Museum der Bundeswehr)",
+        "ubicacion": "Dresde, Alemania",
+        "enfoque": "Guerra, Paz y Cultura (Perspectiva Cuestionadora)",
+        "colecciones_destacadas": [
+          "Exhibiciones que exploran la guerra como fenómeno cultural y social, no solo militar",
+          "Vasta colección de uniformes, armas y vehículos de los siglos XVII hasta el presente",
+          "Documentación crítica de la historia militar alemana, incluyendo la era nazi y la Guerra Fría"
+        ],
+        "nota": "Destaca por su enfoque revisionista y moderno, contrastando con narrativas triunfalistas."
+      },
+      {
+        "nombre": "Museo de la Guerra de Corea (War Memorial of Korea)",
+        "ubicacion": "Seúl, Corea del Sur",
+        "enfoque": "Historia Militar de Corea y la Guerra de Corea",
+        "colecciones_destacadas": [
+          "Exposiciones sobre la historia de las Fuerzas Armadas de Corea del Sur (ROK)",
+          "Tanques, aviones y armamento utilizados en la Guerra de Corea (1950-1953)",
+          "Recreaciones de batallas históricas y documentación sobre la división de la península"
+        ],
+        "nota": "Dedicado a la memoria de los conflictos pasados y la paz futura en la península."
+      }
+    ],
+    "museos_guerras_mundiales_especificas": [
+      {
+        "nombre": "Museo Conmemorativo del Holocausto de EE. UU. (USHMM)",
+        "ubicacion": "Washington D.C., Estados Unidos",
+        "guerra_enfoque": "Segunda Guerra Mundial (El Holocausto)",
+        "colecciones_destacadas": [
+          "Vastas colecciones de artefactos, fotografías y documentación del Holocausto",
+          "Testimonios de sobrevivientes y documentos originales nazis",
+          "Vagones de tren utilizados para el transporte a campos de concentración y exterminio"
+        ],
+        "nota": "Aunque centrado en la historia del genocidio, es un museo esencial de la historia social y política de la SGM."
+      },
+      {
+        "nombre": "Museo Histórico de la Segunda Guerra Mundial de Moscú (Museo de la Gran Guerra Patriótica)",
+        "ubicacion": "Moscú, Rusia",
+        "guerra_enfoque": "Segunda Guerra Mundial (Frente Oriental)",
+        "colecciones_destacadas": [
+          "Dioramas masivos que recrean batallas clave (Moscú, Stalingrado, Kursk)",
+          "El Salón de la Gloria y el Salón de la Memoria",
+          "Vasto material documental sobre la participación soviética y las pérdidas humanas"
+        ],
+        "nota": "Se enfoca en el papel crucial de la Unión Soviética en la derrota de la Alemania nazi."
+      },
+      {
+        "nombre": "Mémorial de Caen (Memorial de la Paz)",
+        "ubicacion": "Caen, Francia",
+        "guerra_enfoque": "Segunda Guerra Mundial (Batalla de Normandía y Siglo XX)",
+        "colecciones_destacadas": [
+          "Exposiciones sobre la Batalla de Normandía, el Día D y la vida bajo la Ocupación",
+          "Documentación sobre la Guerra Fría y el siglo XX como transición de guerra a paz",
+          "Artefactos relacionados con la Resistencia francesa y las fuerzas aliadas"
+        ],
+        "nota": "Ubicado cerca de los sitios de desembarco del Día D, promueve la paz y la reconciliación."
+      },
+      {
+        "nombre": "Museo de la Gran Guerra (Historial de la Grande Guerre)",
+        "ubicacion": "Péronne, Francia",
+        "guerra_enfoque": "Primera Guerra Mundial (La Batalla del Somme)",
+        "colecciones_destacadas": [
+          "Se centra en la vida cotidiana de soldados y civiles durante la PGM",
+          "Artefactos y uniformes de las principales naciones combatientes (Alemania, Francia, Reino Unido)",
+          "Documentos y fotografías que narran la brutalidad de la guerra de trincheras en el Somme"
+        ],
+        "nota": "Ubicado en el corazón de los campos de batalla de la Primera Guerra Mundial."
+      },
+      {
+        "nombre": "Museo del Holocausto (Yad Vashem)",
+        "ubicacion": "Jerusalén, Israel",
+        "guerra_enfoque": "Segunda Guerra Mundial (El Holocausto)",
+        "colecciones_destacadas": [
+          "El Salón de los Nombres (archivo central de las víctimas del Holocausto)",
+          "Arte y objetos personales creados o utilizados en guetos y campos",
+          "El Archivo fotográfico y fílmico más grande del mundo sobre el Holocausto"
+        ],
+        "nota": "Centro de documentación, investigación y conmemoración del genocidio judío."
+      }
+    ],
+    "museos_historia_conflictos_regionales_tempranos": [
+      {
+        "nombre": "Museo Nacional de las Intervenciones",
+        "ubicacion": "Ciudad de México, México",
+        "enfoque": "Guerras de Intervención Extranjera en México (Siglos XIX-XX)",
+        "colecciones_destacadas": [
+          "Ubicado en el ex Convento de Churubusco, sitio de la Batalla de Churubusco (Guerra de 1847)",
+          "Objetos, armas y uniformes de las intervenciones francesas y estadounidenses",
+          "Documentación sobre la historia militar del país y las guerras de reforma y la Revolución"
+        ],
+        "nota": "Se centra en la defensa de la soberanía nacional frente a potencias extranjeras."
+      },
+      {
+        "nombre": "Museo y Centro de Visitantes de Gettysburg",
+        "ubicacion": "Gettysburg, Pensilvania, Estados Unidos",
+        "enfoque": "Guerra de Secesión de EE. UU. (Batalla de Gettysburg)",
+        "colecciones_destacadas": [
+          "El Ciclomara de Gettysburg (pintura circular gigante que recrea la batalla)",
+          "Artefactos, armas y uniformes de los ejércitos de la Unión y Confederado",
+          "Documentación sobre el Discurso de Gettysburg y el impacto de la guerra civil"
+        ],
+        "nota": "El principal museo dedicado a la batalla que marcó el punto de inflexión de la Guerra Civil estadounidense."
+      },
+      {
+        "nombre": "Torre de Londres (Royal Armouries Collection)",
+        "ubicacion": "Londres, Reino Unido",
+        "enfoque": "Historia Militar Medieval y Monárquica Temprana",
+        "colecciones_destacadas": [
+          "Las Joyas de la Corona (simbolismo del poder militar y político de la monarquía)",
+          "Colección de armaduras de Enrique VIII y otros monarcas",
+          "Exposiciones sobre la historia de la Torre como fortaleza, prisión y armería"
+        ],
+        "nota": "Aunque no es un museo 'de guerra' per se, sus colecciones son fundamentales para la historia militar temprana de Inglaterra."
+      },
+      {
+        "nombre": "Museo Nacional del Combate de San Lorenzo",
+        "ubicacion": "San Lorenzo, Argentina",
+        "enfoque": "Guerras de Independencia de Argentina (Batalla de San Lorenzo)",
+        "colecciones_destacadas": [
+          "Ubicado en el convento donde se libró la Batalla de San Lorenzo, la única de José de San Martín en suelo argentino",
+          "Objetos de la época de la independencia y del Regimiento de Granaderos a Caballo",
+          "Documentos y mapas de las campañas militares"
+        ],
+        "nota": "Un museo de sitio esencial para la historia de la independencia sudamericana."
+      },
+      {
+        "nombre": "Museo de la Guerra de Vietnam (War Remnants Museum)",
+        "ubicacion": "Ciudad Ho Chi Minh, Vietnam",
+        "enfoque": "Conflicto Regional (Guerra de Vietnam/Segunda Guerra de Indochina)",
+        "colecciones_destacadas": [
+          "Fotografías y exposiciones sobre el impacto de la guerra en la población civil",
+          "Maquinaria de guerra estadounidense (tanques, helicópteros, bombarderos)",
+          "Documentación sobre los crímenes de guerra y los efectos del Agente Naranja"
+        ],
+        "nota": "Un museo crucial para entender la Guerra de Vietnam desde la perspectiva vietnamita, con un fuerte enfoque en el impacto civil."
+      }
+    ],
+    "museos_arsenal_tecnologia_militar": [
+      {
+        "nombre": "Museo Nacional del Aire y del Espacio (NASM) - Centro Udvar-Hazy",
+        "ubicacion": "Chantilly, Virginia, Estados Unidos",
+        "enfoque": "Tecnología Aérea y Aeroespacial (Militar y Civil)",
+        "colecciones_destacadas": [
+          "Transbordador espacial 'Discovery', bombardero Enola Gay (B-29)",
+          "Aviones de combate de la Segunda Guerra Mundial y de la Guerra Fría",
+          "Colección de cohetes, misiles y motores de propulsión"
+        ],
+        "nota": "Aunque incluye tecnología civil, sus colecciones de aviones militares históricos son insuperables."
+      },
+      {
+        "nombre": "El Museo del Tanque de Bovington (The Tank Museum)",
+        "ubicacion": "Bovington, Reino Unido",
+        "enfoque": "Historia y Tecnología de Vehículos Blindados",
+        "colecciones_destacadas": [
+          "Más de 300 vehículos blindados de 26 países (desde el primer tanque Mark I hasta tanques modernos)",
+          "Tanques alemanes raros (incluyendo el Tigre I)",
+          "Exposiciones sobre la evolución de la guerra terrestre blindada"
+        ],
+        "nota": "Posee la colección más grande y completa de tanques y vehículos blindados del mundo."
+      },
+      {
+        "nombre": "Royal Armouries Museum (Leeds)",
+        "ubicacion": "Leeds, Reino Unido",
+        "enfoque": "Armamento y Artillería (desde la Antigüedad hasta la Actualidad)",
+        "colecciones_destacadas": [
+          "Colección de armaduras de la Torre de Londres y artillería histórica",
+          "Armas de fuego de época y de colección, espadas y armas blancas",
+          "Exposiciones sobre la tecnología y el impacto de las armas a través de la historia"
+        ],
+        "nota": "La colección nacional de armas y armaduras del Reino Unido, con un enfoque en la tecnología del armamento."
+      },
+      {
+        "nombre": "Museo de la Armada Central (Central Naval Museum)",
+        "ubicacion": "San Petersburgo, Rusia",
+        "enfoque": "Tecnología Naval Rusa y Soviética",
+        "colecciones_destacadas": [
+          "Modelos a escala de buques de guerra históricos rusos y soviéticos",
+          "Armamento naval, uniformes y banderas históricas de la Armada rusa",
+          "Artefactos de la construcción naval y la evolución de los submarinos"
+        ],
+        "nota": "Uno de los museos navales más antiguos y grandes del mundo."
+      },
+      {
+        "nombre": "Museo del Ejército Polaco (Muzeum Wojska Polskiego)",
+        "ubicacion": "Varsovia, Polonia",
+        "enfoque": "Tecnología Militar Polaca y Europea",
+        "colecciones_destacadas": [
+          "Vasta colección de armas, uniformes y armaduras polacas desde el siglo X",
+          "Exposición al aire libre de equipos pesados (aviones, tanques, artillería) soviéticos y del Pacto de Varsovia",
+          "Artefactos de la Segunda Guerra Mundial y la lucha por la independencia polaca"
+        ],
+        "nota": "Muestra la evolución del armamento militar en el contexto de la historia polaca."
+      }
+    ],
+    "museos_sitios_batalla_insitu": [
+      {
+        "nombre": "Museo y Memorial Estatal de Auschwitz-Birkenau",
+        "ubicacion": "Oświęcim, Polonia",
+        "enfoque": "Sitio de Conmemoración e Historia del Holocausto (Segunda Guerra Mundial)",
+        "colecciones_destacadas": [
+          "Las cámaras de gas y crematorios originales (ruinas y restos)",
+          "Los barracones, torres de vigilancia y estructuras del campo de concentración y exterminio (Auschwitz I y Birkenau II)",
+          "Objetos personales de las víctimas (zapatos, maletas, pelo) y archivos originales del campo"
+        ],
+        "nota": "El museo se encuentra **directamente en el sitio** del antiguo campo, siendo el principal museo de memoria del Holocausto."
+      },
+      {
+        "nombre": "Parque Histórico Nacional de Gettysburg",
+        "ubicacion": "Gettysburg, Pensilvania, Estados Unidos",
+        "enfoque": "Guerra de Secesión de EE. UU. (Batalla de Gettysburg)",
+        "colecciones_destacadas": [
+          "El campo de batalla preservado, incluyendo Little Round Top y Devil's Den",
+          "El Ciclomara de Gettysburg (pintura circular gigante de la Carga de Pickett)",
+          "Museo y Centro de Visitantes con artefactos, uniformes y armamento de la batalla clave de 1863"
+        ],
+        "nota": "Uno de los campos de batalla militares **mejor conservados** y más visitados del mundo."
+      },
+      {
+        "nombre": "Memorial Nacional del USS Arizona",
+        "ubicacion": "Pearl Harbor, Hawái, Estados Unidos",
+        "enfoque": "Ataque a Pearl Harbor (Segunda Guerra Mundial)",
+        "colecciones_destacadas": [
+          "El memorial flotante construido sobre los restos hundidos del acorazado **USS Arizona** (tumba de los marineros caídos)",
+          "Centro de visitantes con artefactos rescatados, efectos personales de las víctimas y documentos históricos",
+          "Exposiciones sobre el evento del 7 de diciembre de 1941 que llevó a EE. UU. a la guerra"
+        ],
+        "nota": "Un sitio de conmemoración y de batalla naval **in-situ** que mantiene los restos de la nave bajo el agua."
+      },
+      {
+        "nombre": "Memorial Nacional de Vimy Ridge",
+        "ubicacion": "Vimy, Francia",
+        "enfoque": "Primera Guerra Mundial (Batalla de Vimy Ridge)",
+        "colecciones_destacadas": [
+          "El imponente monumento conmemorativo a los soldados canadienses caídos",
+          "Un sistema de **trincheras y túneles originales** restaurados y preservados in-situ, accesibles para el público",
+          "Cráteres de explosiones y un paisaje marcado por la guerra de trincheras de 1917"
+        ],
+        "nota": "El sitio es un parque conmemorativo con **infraestructura de batalla original**."
+      },
+      {
+        "nombre": "Túneles de Cu Chi (Cu Chi Tunnels)",
+        "ubicacion": "Ciudad Ho Chi Minh, Vietnam",
+        "enfoque": "Guerra de Vietnam (Operaciones de Guerrilla)",
+        "colecciones_destacadas": [
+          "Una extensa red de túneles subterráneos utilizada por el Viet Cong, con secciones accesibles para los visitantes",
+          "Exposiciones sobre las trampas, las estrategias de guerrilla y la vida bajo tierra de los combatientes",
+          "Restos de maquinaria militar (tanques y armamento) de la Guerra de Vietnam"
+        ],
+        "nota": "Sitio de batalla y base de operaciones clave de la Guerra de Vietnam que muestra la infraestructura militar."
+      }
+    ],
+    "museos_pow_crimenes_guerra": [
+      {
+        "nombre": "Museo Estatal de Auschwitz-Birkenau",
+        "ubicacion": "Oświęcim, Polonia",
+        "enfoque": "Sitio de Conmemoración, Crímenes de Guerra y Holocausto (Segunda Guerra Mundial)",
+        "colecciones_destacadas": [
+          "El sitio físico preservado de los campos de concentración y exterminio (barracones, cámaras de gas y hornos crematorios)",
+          "Objetos personales de las víctimas, pelo, prótesis, maletas y otros efectos de las personas internadas",
+          "Documentación histórica y archivos originales del funcionamiento del campo"
+        ],
+        "nota": "El principal memorial de los crímenes de guerra y crímenes contra la humanidad del Eje durante la SGM."
+      },
+      {
+        "nombre": "Andersonville National Historic Site",
+        "ubicacion": "Andersonville, Georgia, Estados Unidos",
+        "enfoque": "Prisioneros de Guerra (POW) de la Guerra de Secesión de EE. UU.",
+        "colecciones_destacadas": [
+          "Las ruinas y la recreación del Campo Sumter (uno de los campos de POW más infames de la Confederación)",
+          "Museo de Prisioneros de Guerra que narra la historia de los cautivos de todas las guerras de EE. UU.",
+          "Lápidas y registros de los más de 13,000 soldados de la Unión que murieron allí"
+        ],
+        "nota": "El único sitio federal en EE. UU. dedicado a la historia de los prisioneros de guerra."
+      },
+      {
+        "nombre": "Museo Conmemorativo de la Prisión de Changi (Changi Chapel and Museum)",
+        "ubicacion": "Singapur",
+        "enfoque": "Prisioneros de Guerra (POW) y Civiles Internados en Asia (Segunda Guerra Mundial)",
+        "colecciones_destacadas": [
+          "Artefactos y objetos personales de los prisioneros de guerra y civiles internados por las fuerzas japonesas",
+          "Réplicas de la capilla y los famosos murales de Changi (pintados por el prisionero Stanley Warren)",
+          "Testimonios, diarios y dibujos que detallan la vida y las condiciones de la prisión"
+        ],
+        "nota": "Se centra en la experiencia del cautiverio aliado en el Teatro del Pacífico."
+      },
+      {
+        "nombre": "Museo del Genocidio de Tuol Sleng (S-21)",
+        "ubicacion": "Nom Pen, Camboya",
+        "enfoque": "Crímenes de Guerra / Crímenes contra la Humanidad (Régimen Jemer Rojo)",
+        "colecciones_destacadas": [
+          "El sitio físico preservado de la antigua escuela utilizada como centro de detención, interrogatorio y tortura (S-21)",
+          "Miles de fotografías de las víctimas antes de ser ejecutadas",
+          "Instrumentos de tortura, celdas de ladrillo y documentación del régimen de Pol Pot"
+        ],
+        "nota": "Documenta los crímenes atroces cometidos por el Jemer Rojo contra su propia población y prisioneros (1975-1979)."
+      },
+      {
+        "nombre": "Museo del Recuerdo y los Derechos Humanos",
+        "ubicacion": "Santiago, Chile",
+        "enfoque": "Memoria Histórica, Prisioneros Políticos y Derechos Humanos",
+        "colecciones_destacadas": [
+          "Documentos, testimonios y artefactos sobre las violaciones a los derechos humanos y los presos políticos durante la dictadura militar chilena (1973-1990)",
+          "Archivos de solidaridad, exilio y resistencia",
+          "Exposiciones sobre la importancia de la democracia y la no repetición de crímenes de Estado"
+        ],
+        "nota": "Aunque enfocado en crímenes de Estado post-conflicto, es un museo clave sobre la memoria de la prisión política y la tortura."
+      }
+    ]
+  }
+}

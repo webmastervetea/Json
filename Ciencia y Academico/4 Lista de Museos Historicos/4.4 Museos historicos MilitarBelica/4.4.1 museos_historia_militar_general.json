@@ -1,0 +1,59 @@
+{
+  "museos_historia_militar_general": [
+    {
+      "nombre": "Museo Nacional de la Segunda Guerra Mundial (National WWII Museum)",
+      "ubicacion": "Nueva Orleans, Estados Unidos",
+      "enfoque": "Participación de EE. UU. en la Segunda Guerra Mundial",
+      "colecciones_destacadas": [
+        "Exposiciones interactivas sobre la campaña del Pacífico y el Teatro Europeo",
+        "Colección de aeronaves de la época (como el bombardero B-17 y el P-51 Mustang)",
+        "Testimonios orales y artefactos personales de los veteranos"
+      ],
+      "nota": "Anteriormente conocido como el Museo del Día D, es el museo oficial de EE. UU. dedicado al conflicto."
+    },
+    {
+      "nombre": "Museo Imperial de la Guerra (Imperial War Museum - IWM)",
+      "ubicacion": "Londres, Reino Unido",
+      "enfoque": "Conflictos Británicos y de la Commonwealth (Desde 1914 hasta la actualidad)",
+      "colecciones_destacadas": [
+        "Artillería, vehículos y uniformes de la Primera y Segunda Guerra Mundial",
+        "Exhibiciones profundas sobre el Holocausto y la vida en el frente interno",
+        "Vasta colección de fotografías, diarios y correspondencia de soldados"
+      ],
+      "nota": "Tiene sedes satélite como el IWM North y el Museo de Churchill/Gabinetes de Guerra."
+    },
+    {
+      "nombre": "Museo del Ejército (Musée de l'Armée)",
+      "ubicacion": "París, Francia (Les Invalides)",
+      "enfoque": "Historia Militar Francesa (Desde la Antigüedad hasta el Siglo XX)",
+      "colecciones_destacadas": [
+        "Tumba de Napoleón Bonaparte, ubicada bajo la cúpula dorada",
+        "Colección de armaduras y armas antiguas (la tercera más grande del mundo)",
+        "Objetos de las Guerras Mundiales y la historia militar de la monarquía francesa"
+      ],
+      "nota": "Uno de los museos militares más grandes del mundo, albergado en un complejo histórico."
+    },
+    {
+      "nombre": "Museo de la Historia Militar (Militärhistorisches Museum der Bundeswehr)",
+      "ubicacion": "Dresde, Alemania",
+      "enfoque": "Guerra, Paz y Cultura (Perspectiva Cuestionadora)",
+      "colecciones_destacadas": [
+        "Exhibiciones que exploran la guerra como fenómeno cultural y social, no solo militar",
+        "Vasta colección de uniformes, armas y vehículos de los siglos XVII hasta el presente",
+        "Documentación crítica de la historia militar alemana, incluyendo la era nazi y la Guerra Fría"
+      ],
+      "nota": "Destaca por su enfoque revisionista y moderno, contrastando con narrativas triunfalistas."
+    },
+    {
+      "nombre": "Museo de la Guerra de Corea (War Memorial of Korea)",
+      "ubicacion": "Seúl, Corea del Sur",
+      "enfoque": "Historia Militar de Corea y la Guerra de Corea",
+      "colecciones_destacadas": [
+        "Exposiciones sobre la historia de las Fuerzas Armadas de Corea del Sur (ROK)",
+        "Tanques, aviones y armamento utilizados en la Guerra de Corea (1950-1953)",
+        "Recreaciones de batallas históricas y documentación sobre la división de la península"
+      ],
+      "nota": "Dedicado a la memoria de los conflictos pasados y la paz futura en la península."
+    }
+  ]
+}

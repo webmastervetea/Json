@@ -1,0 +1,59 @@
+{
+  "museos_sitios_batalla_insitu": [
+    {
+      "nombre": "Museo y Memorial Estatal de Auschwitz-Birkenau",
+      "ubicacion": "Oświęcim, Polonia",
+      "enfoque": "Sitio de Conmemoración e Historia del Holocausto (Segunda Guerra Mundial)",
+      "colecciones_destacadas": [
+        "Las cámaras de gas y crematorios originales (ruinas y restos)",
+        "Los barracones, torres de vigilancia y estructuras del campo de concentración y exterminio (Auschwitz I y Birkenau II)",
+        "Objetos personales de las víctimas (zapatos, maletas, pelo) y archivos originales del campo"
+      ],
+      "nota": "El museo se encuentra **directamente en el sitio** del antiguo campo, siendo el principal museo de memoria del Holocausto."
+    },
+    {
+      "nombre": "Parque Histórico Nacional de Gettysburg",
+      "ubicacion": "Gettysburg, Pensilvania, Estados Unidos",
+      "enfoque": "Guerra de Secesión de EE. UU. (Batalla de Gettysburg)",
+      "colecciones_destacadas": [
+        "El campo de batalla preservado, incluyendo Little Round Top y Devil's Den",
+        "El Ciclomara de Gettysburg (pintura circular gigante de la Carga de Pickett)",
+        "Museo y Centro de Visitantes con artefactos, uniformes y armamento de la batalla clave de 1863"
+      ],
+      "nota": "Uno de los campos de batalla militares **mejor conservados** y más visitados del mundo."
+    },
+    {
+      "nombre": "Memorial Nacional del USS Arizona",
+      "ubicacion": "Pearl Harbor, Hawái, Estados Unidos",
+      "enfoque": "Ataque a Pearl Harbor (Segunda Guerra Mundial)",
+      "colecciones_destacadas": [
+        "El memorial flotante construido sobre los restos hundidos del acorazado **USS Arizona** (tumba de los marineros caídos)",
+        "Centro de visitantes con artefactos rescatados, efectos personales de las víctimas y documentos históricos",
+        "Exposiciones sobre el evento del 7 de diciembre de 1941 que llevó a EE. UU. a la guerra"
+      ],
+      "nota": "Un sitio de conmemoración y de batalla naval **in-situ** que mantiene los restos de la nave bajo el agua."
+    },
+    {
+      "nombre": "Memorial Nacional de Vimy Ridge",
+      "ubicacion": "Vimy, Francia",
+      "enfoque": "Primera Guerra Mundial (Batalla de Vimy Ridge)",
+      "colecciones_destacadas": [
+        "El imponente monumento conmemorativo a los soldados canadienses caídos",
+        "Un sistema de **trincheras y túneles originales** restaurados y preservados in-situ, accesibles para el público",
+        "Cráteres de explosiones y un paisaje marcado por la guerra de trincheras de 1917"
+      ],
+      "nota": "El sitio es un parque conmemorativo con **infraestructura de batalla original**."
+    },
+    {
+      "nombre": "Túneles de Cu Chi (Cu Chi Tunnels)",
+      "ubicacion": "Ciudad Ho Chi Minh, Vietnam",
+      "enfoque": "Guerra de Vietnam (Operaciones de Guerrilla)",
+      "colecciones_destacadas": [
+        "Una extensa red de túneles subterráneos utilizada por el Viet Cong, con secciones accesibles para los visitantes",
+        "Exposiciones sobre las trampas, las estrategias de guerrilla y la vida bajo tierra de los combatientes",
+        "Restos de maquinaria militar (tanques y armamento) de la Guerra de Vietnam"
+      ],
+      "nota": "Sitio de batalla y base de operaciones clave de la Guerra de Vietnam que muestra la infraestructura militar."
+    }
+  ]
+}

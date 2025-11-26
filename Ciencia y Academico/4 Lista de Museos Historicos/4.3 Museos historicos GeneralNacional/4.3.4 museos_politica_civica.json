@@ -1,0 +1,59 @@
+{
+  "museos_politica_civica": [
+    {
+      "nombre": "Museo Nacional de Historia y Cultura Afroamericana (NMAAHC)",
+      "ubicacion": "Washington D.C., Estados Unidos",
+      "enfoque": "Derechos Civiles y Participación Cívica",
+      "colecciones_destacadas": [
+        "Artefactos relacionados con el Movimiento por los Derechos Civiles",
+        "Documentación sobre la abolición de la esclavitud y la lucha por el sufragio",
+        "Objetos que ilustran el impacto afroamericano en la formación de la democracia estadounidense"
+      ],
+      "nota": "Aunque cubre la cultura, su enfoque principal es la lucha por la plena ciudadanía y los derechos cívicos."
+    },
+    {
+      "nombre": "Centro de la Constitución Nacional (National Constitution Center)",
+      "ubicacion": "Filadelfia, Estados Unidos",
+      "enfoque": "Historia Constitucional y Documentos Fundacionales",
+      "colecciones_destacadas": [
+        "Exhibiciones interactivas sobre la Constitución de EE. UU. y sus enmiendas",
+        "Modelos de jurados y ceremonias de ciudadanía",
+        "Las firmas originales de la Constitución (la Constitución, la Declaración de Independencia y la Carta de Derechos no están aquí, sino en los Archivos Nacionales)"
+      ],
+      "nota": "Dedicado a la educación y el debate sobre la Carta Magna del país."
+    },
+    {
+      "nombre": "Museo Nacional de las Cámaras (Museum of National Legislatures)",
+      "ubicacion": "Seúl, Corea del Sur",
+      "enfoque": "Historia Parlamentaria y Democrática",
+      "colecciones_destacadas": [
+        "Documentación sobre la formación del sistema parlamentario moderno de Corea del Sur",
+        "Exposiciones sobre el proceso legislativo, los partidos políticos y las elecciones",
+        "Artefactos y registros de debates históricos de la Asamblea Nacional"
+      ],
+      "nota": "Se enfoca en la historia de la legislación y la vida política de la nación."
+    },
+    {
+      "nombre": "Casa de la Historia de la República Federal de Alemania (Haus der Geschichte)",
+      "ubicacion": "Bonn, Alemania",
+      "enfoque": "Historia Democrática de la Posguerra y Reunificación",
+      "colecciones_destacadas": [
+        "Objetos de la vida cotidiana y política de la República Federal de Alemania (RFA) y la República Democrática Alemana (RDA)",
+        "Documentación de la Guerra Fría, la construcción del Muro de Berlín y la Reunificación",
+        "Exposiciones sobre el sistema parlamentario y la integración europea"
+      ],
+      "nota": "Narra la historia política y social de Alemania desde 1945."
+    },
+    {
+      "nombre": "Museo de la Democracia y la Libertad (Museo del Pueblo)",
+      "ubicacion": "Taipéi, Taiwán",
+      "enfoque": "Transición a la Democracia y Derechos Humanos",
+      "colecciones_destacadas": [
+        "Exposiciones sobre el período de la Ley Marcial y la evolución del sistema político taiwanés",
+        "Documentación de las luchas por la libertad de expresión y los derechos civiles",
+        "Artefactos y fotografías de las elecciones y movimientos sociales"
+      ],
+      "nota": "Ubicado en el antiguo Cuartel de la Ley Marcial, se centra en la historia de la democratización."
+    }
+  ]
+}

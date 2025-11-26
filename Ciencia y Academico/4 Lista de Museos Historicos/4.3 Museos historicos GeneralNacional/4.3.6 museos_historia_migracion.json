@@ -1,0 +1,59 @@
+{
+  "museos_historia_migracion": [
+    {
+      "nombre": "Museo de la Inmigración de la Isla Ellis (Ellis Island National Museum of Immigration)",
+      "ubicacion": "Isla Ellis, Nueva York, Estados Unidos",
+      "enfoque": "Inmigración Masiva a EE. UU. (1892-1954)",
+      "colecciones_destacadas": [
+        "El Registro de la Gran Sala (The Registry Room), donde se procesaban a los inmigrantes",
+        "Documentación, fotografías y testimonios de las oleadas de inmigración europea",
+        "Objetos personales y archivos de las familias que pasaron por la isla"
+      ],
+      "nota": "El principal centro de procesamiento de inmigrantes en EE. UU. y un ícono de la experiencia migratoria."
+    },
+    {
+      "nombre": "Museo de la Inmigración (Museu da Imigração do Estado de São Paulo)",
+      "ubicacion": "São Paulo, Brasil",
+      "enfoque": "Inmigración a Brasil y la Cultura Paulista",
+      "colecciones_destacadas": [
+        "Ubicado en la antigua Hospedaria do Imigrante (hospedería de inmigrantes)",
+        "Documentos, registros de llegada y objetos de familias inmigrantes (principalmente italianas, japonesas y árabes)",
+        "Exposiciones sobre el impacto de la migración en la economía y cultura de Brasil"
+      ],
+      "nota": "Documenta la historia de la inmigración en el mayor puerto de entrada de Brasil."
+    },
+    {
+      "nombre": "Museo de la Emigración de Irlanda (EPIC The Irish Emigration Museum)",
+      "ubicacion": "Dublín, Irlanda",
+      "enfoque": "Emigración y Diáspora Irlandesa",
+      "colecciones_destacadas": [
+        "Exposiciones interactivas sobre las razones de la emigración irlandesa (incluyendo la Gran Hambruna)",
+        "Historias de la diáspora y la contribución de los irlandeses a la cultura mundial",
+        "Documentación de los principales destinos de los migrantes irlandeses (EE. UU., Reino Unido, Australia)"
+      ],
+      "nota": "Se centra en la perspectiva del país de origen y su diáspora global."
+    },
+    {
+      "nombre": "Museo de la Historia de la Migración Alemana (Deutsches Auswandererhaus)",
+      "ubicacion": "Bremerhaven, Alemania",
+      "enfoque": "Emigración Alemana y Europea a las Américas",
+      "colecciones_destacadas": [
+        "Recorrido por la experiencia de los emigrantes que partían desde Bremerhaven, el mayor puerto de emigración continental",
+        "Exposiciones sobre la vida a bordo de los barcos y el destino final en el Nuevo Mundo",
+        "Sección dedicada a la historia de la inmigración a Alemania desde 1950"
+      ],
+      "nota": "Presenta tanto la emigración alemana como la inmigración a la Alemania moderna."
+    },
+    {
+      "nombre": "Museo de la Inmigración de Melbourne (Immigration Museum)",
+      "ubicacion": "Melbourne, Australia",
+      "enfoque": "Inmigración a Australia y la Identidad Multicultural",
+      "colecciones_destacadas": [
+        "Ubicado en la histórica Old Customs House (Casa de Aduanas)",
+        "Historias y objetos de las diversas comunidades inmigrantes que han dado forma a la Australia moderna",
+        "Documentación sobre las políticas de 'Australia Blanca' y el cambio a un enfoque multicultural"
+      ],
+      "nota": "Se centra en la diversidad cultural de Australia a través de la lente de la migración."
+    }
+  ]
+}

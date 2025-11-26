@@ -1,0 +1,70 @@
+{
+  "museos_historico_dinasticos": [
+    {
+      "nombre": "Museo del Palacio (La Ciudad Prohibida)",
+      "ubicacion": "Pekín, China",
+      "dinastía_imperio": "Dinastías Ming y Qing (Imperio Chino)",
+      "colecciones_destacadas": [
+        "El complejo palaciego imperial completo (980 edificios)",
+        "Colecciones de arte, mobiliario y artefactos utilizados por los emperadores Ming y Qing",
+        "Tesoro imperial y objetos ceremoniales de la corte"
+      ],
+      "nota": "El complejo en sí mismo es el museo, conservando el ambiente y la arquitectura del poder imperial."
+    },
+    {
+      "nombre": "Palacio de Versalles",
+      "ubicacion": "Versalles, Francia",
+      "dinastía_imperio": "Casa de Borbón (Monarquía Francesa)",
+      "colecciones_destacadas": [
+        "Los Grandes Apartamentos del Rey y de la Reina",
+        "La Galería de los Espejos (símbolo del poder absoluto)",
+        "El Museo de la Historia de Francia (incluido en el palacio)"
+      ],
+      "nota": "Más que un museo de arte, es el museo de la monarquía absoluta francesa, centrado en Luis XIV."
+    },
+    {
+      "nombre": "Palacio de Topkapi",
+      "ubicacion": "Estambul, Turquía",
+      "dinastía_imperio": "Imperio Otomano",
+      "colecciones_destacadas": [
+        "El Tesoro Imperial Otomano (incluyendo el Diamante del Cuchillero)",
+        "Colección de reliquias sagradas islámicas",
+        "El Harem imperial y las cocinas, que ilustran la vida de la corte"
+      ],
+      "nota": "Fue la residencia principal de los sultanes otomanos durante casi 400 años."
+    },
+    {
+      "nombre": "Palacio de Buckingham / Colección Real",
+      "ubicacion": "Londres, Reino Unido",
+      "dinastía_imperio": "Casa de Windsor (Monarquía Británica)",
+      "colecciones_destacadas": [
+        "La Galería de la Reina (exhibe objetos de la Colección Real: pinturas, esculturas, joyas)",
+        "Los Salones de Estado (abiertos al público en verano) que muestran el aparato ceremonial de la monarquía",
+        "Objetos históricos y regalos de Estado relacionados con la jefatura de la Commonwealth"
+      ],
+      "nota": "Exhibe la historia y las posesiones de la monarquía británica, aunque no es un museo histórico en el sentido tradicional."
+    },
+    {
+      "nombre": "El Hermitage (Palacio de Invierno)",
+      "ubicacion": "San Petersburgo, Rusia",
+      "dinastía_imperio": "Casa Romanov (Imperio Ruso)",
+      "colecciones_destacadas": [
+        "La arquitectura y decoración del Palacio de Invierno (antigua residencia de los zares)",
+        "Salones de gala y la Escalera de Jordania, que ilustran la pompa imperial",
+        "Colecciones de arte occidental y antigüedades reunidas por los zares, especialmente Catalina la Grande"
+      ],
+      "nota": "Aunque principalmente un museo de arte, el edificio es un poderoso testimonio de la dinastía Romanov."
+    },
+    {
+      "nombre": "Castillo de Chapultepec (Museo Nacional de Historia)",
+      "ubicacion": "Ciudad de México, México",
+      "dinastía_imperio": "Imperio Mexicano (Maximiliano de Habsburgo)",
+      "colecciones_destacadas": [
+        "Los antiguos apartamentos del emperador Maximiliano y la emperatriz Carlota",
+        "Mobiliario, carruajes y objetos del Segundo Imperio Mexicano",
+        "Artefactos y objetos relacionados con el Virreinato y la Independencia de México"
+      ],
+      "nota": "Es el único castillo real en Norteamérica, residencia de Maximiliano y posteriormente de presidentes mexicanos."
+    }
+  ]
+}

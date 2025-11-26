@@ -1,0 +1,421 @@
+{
+  "museos_historia_nacional": [
+    {
+      "nombre": "Museo Nacional de Historia Estadounidense (National Museum of American History)",
+      "ubicacion": "Washington D.C., Estados Unidos",
+      "enfoque": "Historia Cívica, Política y Social de EE. UU.",
+      "colecciones_destacadas": [
+        "La bandera original que inspiró 'The Star-Spangled Banner' (el himno nacional)",
+        "Objetos de la presidencia y la vida política (como el sombrero de Lincoln)",
+        "Exhibiciones sobre transporte, tecnología e innovación estadounidenses"
+      ],
+      "nota": "Parte del Instituto Smithsonian, narra la historia del país desde el siglo XVII hasta el presente."
+    },
+    {
+      "nombre": "Museo Británico (British Museum)",
+      "ubicacion": "Londres, Reino Unido",
+      "enfoque": "Historia Global y Británica (Hasta cierto punto)",
+      "colecciones_destacadas": [
+        "Colecciones de objetos de la época romana y medieval británica (artefactos de Sutton Hoo)",
+        "Documentos y objetos clave que formaron el Imperio y la nación británica"
+      ],
+      "nota": "Aunque es global, sus galerías tempranas son cruciales para la historia de Gran Bretaña. El Museo de Londres se enfoca en la ciudad, mientras que el Británico es más amplio."
+    },
+    {
+      "nombre": "Museo Histórico Alemán (Deutsches Historisches Museum - DHM)",
+      "ubicacion": "Berlín, Alemania",
+      "enfoque": "Historia Alemana (Desde sus orígenes hasta la actualidad)",
+      "colecciones_destacadas": [
+        "Vasta exposición cronológica sobre los acontecimientos clave de la historia alemana (Sacro Imperio, Unificación, Guerras Mundiales, División y Reunificación)",
+        "Objetos y documentos relacionados con figuras históricas y movimientos sociales"
+      ],
+      "nota": "Ubicado en el histórico edificio Zeughaus (antiguo arsenal)."
+    },
+    {
+      "nombre": "Museo Nacional de Historia (Museo Nacional de Historia - Castillo de Chapultepec)",
+      "ubicacion": "Ciudad de México, México",
+      "enfoque": "Historia de México (Virreinato hasta la Revolución)",
+      "colecciones_destacadas": [
+        "Artefactos del Virreinato (Nueva España), el Imperio de Maximiliano y la Independencia de México",
+        "Objetos personales de héroes nacionales y presidentes",
+        "Murales de artistas como Siqueiros y Orozco que narran la historia del país"
+      ],
+      "nota": "El museo es en sí mismo un monumento histórico, ya que fue residencia imperial y presidencial."
+    },
+    {
+      "nombre": "Museo de Australia (National Museum of Australia - NMA)",
+      "ubicacion": "Canberra, Australia",
+      "enfoque": "Historia, Cultura y Entorno Australianos",
+      "colecciones_destacadas": [
+        "Exposiciones sobre la historia indígena australiana (Primeras Naciones)",
+        "Artefactos de la colonización, la Federación y la vida contemporánea",
+        "Objetos relacionados con la interacción del pueblo australiano con el paisaje y el entorno"
+      ],
+      "nota": "Busca entrelazar la historia indígena, colonial y contemporánea del país."
+    },
+    {
+      "nombre": "Museo Nacional de Historia de China",
+      "ubicacion": "Pekín, China",
+      "enfoque": "Historia China (Desde el Paleolítico hasta el Siglo XX)",
+      "colecciones_destacadas": [
+        "Grandes colecciones de bronces, jades y cerámicas históricas",
+        "Exposiciones cronológicas sobre las dinastías chinas, el imperialismo y la fundación de la República Popular China",
+        "Artefactos clave de las excavaciones arqueológicas más importantes del país"
+      ],
+      "nota": "Uno de los museos más grandes del mundo, ubicado en la Plaza de Tiananmén."
+    }
+  ],
+  "museos_historia_regional_local": [
+    {
+      "nombre": "Museo de Londres (Museum of London)",
+      "ubicacion": "Londres, Reino Unido",
+      "enfoque": "Historia de la Ciudad de Londres",
+      "colecciones_destacadas": [
+        "Artefactos que cubren la historia de Londres desde la prehistoria hasta el presente",
+        "Colección de hallazgos romanos (Londinium), la Gran Plaga y el Gran Incendio",
+        "Objetos de la vida cotidiana y la moda en la era victoriana y moderna"
+      ],
+      "nota": "Se centra específicamente en el desarrollo y la gente de la capital británica."
+    },
+    {
+      "nombre": "Museo de la Ciudad de Nueva York (Museum of the City of New York - MCNY)",
+      "ubicacion": "Nueva York, Estados Unidos",
+      "enfoque": "Historia Social y Urbana de la Ciudad de Nueva York",
+      "colecciones_destacadas": [
+        "Exposiciones sobre la arquitectura, el diseño y la planificación urbana de la ciudad",
+        "Objetos relacionados con el teatro, el jazz y la vida social neoyorquina",
+        "Fotografías e impresiones que documentan la inmigración y los cambios demográficos"
+      ],
+      "nota": "Cubre las transformaciones de la ciudad desde la época holandesa hasta hoy."
+    },
+    {
+      "nombre": "Museo de Historia de Barcelona (MUHBA)",
+      "ubicacion": "Barcelona, España",
+      "enfoque": "Historia de la Ciudad de Barcelona",
+      "colecciones_destacadas": [
+        "Recorridos por el subsuelo arqueológico romano de Barcino",
+        "Exposiciones sobre el desarrollo medieval y contemporáneo de la ciudad",
+        "Documentación sobre los cambios urbanísticos y la Guerra Civil Española en Barcelona"
+      ],
+      "nota": "Utiliza sitios arqueológicos y monumentos históricos en toda la ciudad como parte de su exposición."
+    },
+    {
+      "nombre": "Casa de Ana Frank (Anne Frank Huis)",
+      "ubicacion": "Ámsterdam, Países Bajos",
+      "enfoque": "Historia Local (Ocupación Nazi y Holocausto)",
+      "colecciones_destacadas": [
+        "El Anexo Secreto y el diario original de Ana Frank",
+        "Documentación sobre la persecución de los judíos en Ámsterdam durante la Segunda Guerra Mundial",
+        "Objetos personales de la familia Frank y los protectores"
+      ],
+      "nota": "Aunque enfocado en una persona, es un testimonio clave de la historia local durante la guerra."
+    },
+    {
+      "nombre": "Museo de Historia de Shanghái",
+      "ubicacion": "Shanghái, China",
+      "enfoque": "Historia Urbana y Desarrollo de Shanghái",
+      "colecciones_destacadas": [
+        "Dioramas y modelos a escala que muestran el desarrollo de la ciudad desde la época imperial hasta el auge moderno",
+        "Objetos relacionados con las concesiones extranjeras y el comercio del opio en el siglo XIX",
+        "Fotografías históricas y objetos de la vida social de la ciudad"
+      ],
+      "nota": "Destaca la transformación de Shanghái de un pueblo de pescadores a un centro global."
+    }
+  ],
+  "museos_historico_dinasticos": [
+    {
+      "nombre": "Museo del Palacio (La Ciudad Prohibida)",
+      "ubicacion": "Pekín, China",
+      "dinastía_imperio": "Dinastías Ming y Qing (Imperio Chino)",
+      "colecciones_destacadas": [
+        "El complejo palaciego imperial completo (980 edificios)",
+        "Colecciones de arte, mobiliario y artefactos utilizados por los emperadores Ming y Qing",
+        "Tesoro imperial y objetos ceremoniales de la corte"
+      ],
+      "nota": "El complejo en sí mismo es el museo, conservando el ambiente y la arquitectura del poder imperial."
+    },
+    {
+      "nombre": "Palacio de Versalles",
+      "ubicacion": "Versalles, Francia",
+      "dinastía_imperio": "Casa de Borbón (Monarquía Francesa)",
+      "colecciones_destacadas": [
+        "Los Grandes Apartamentos del Rey y de la Reina",
+        "La Galería de los Espejos (símbolo del poder absoluto)",
+        "El Museo de la Historia de Francia (incluido en el palacio)"
+      ],
+      "nota": "Más que un museo de arte, es el museo de la monarquía absoluta francesa, centrado en Luis XIV."
+    },
+    {
+      "nombre": "Palacio de Topkapi",
+      "ubicacion": "Estambul, Turquía",
+      "dinastía_imperio": "Imperio Otomano",
+      "colecciones_destacadas": [
+        "El Tesoro Imperial Otomano (incluyendo el Diamante del Cuchillero)",
+        "Colección de reliquias sagradas islámicas",
+        "El Harem imperial y las cocinas, que ilustran la vida de la corte"
+      ],
+      "nota": "Fue la residencia principal de los sultanes otomanos durante casi 400 años."
+    },
+    {
+      "nombre": "Palacio de Buckingham / Colección Real",
+      "ubicacion": "Londres, Reino Unido",
+      "dinastía_imperio": "Casa de Windsor (Monarquía Británica)",
+      "colecciones_destacadas": [
+        "La Galería de la Reina (exhibe objetos de la Colección Real: pinturas, esculturas, joyas)",
+        "Los Salones de Estado (abiertos al público en verano) que muestran el aparato ceremonial de la monarquía",
+        "Objetos históricos y regalos de Estado relacionados con la jefatura de la Commonwealth"
+      ],
+      "nota": "Exhibe la historia y las posesiones de la monarquía británica, aunque no es un museo histórico en el sentido tradicional."
+    },
+    {
+      "nombre": "El Hermitage (Palacio de Invierno)",
+      "ubicacion": "San Petersburgo, Rusia",
+      "dinastía_imperio": "Casa Romanov (Imperio Ruso)",
+      "colecciones_destacadas": [
+        "La arquitectura y decoración del Palacio de Invierno (antigua residencia de los zares)",
+        "Salones de gala y la Escalera de Jordania, que ilustran la pompa imperial",
+        "Colecciones de arte occidental y antigüedades reunidas por los zares, especialmente Catalina la Grande"
+      ],
+      "nota": "Aunque principalmente un museo de arte, el edificio es un poderoso testimonio de la dinastía Romanov."
+    },
+    {
+      "nombre": "Castillo de Chapultepec (Museo Nacional de Historia)",
+      "ubicacion": "Ciudad de México, México",
+      "dinastía_imperio": "Imperio Mexicano (Maximiliano de Habsburgo)",
+      "colecciones_destacadas": [
+        "Los antiguos apartamentos del emperador Maximiliano y la emperatriz Carlota",
+        "Mobiliario, carruajes y objetos del Segundo Imperio Mexicano",
+        "Artefactos y objetos relacionados con el Virreinato y la Independencia de México"
+      ],
+      "nota": "Es el único castillo real en Norteamérica, residencia de Maximiliano y posteriormente de presidentes mexicanos."
+    }
+  ],
+  "museos_politica_civica": [
+    {
+      "nombre": "Museo Nacional de Historia y Cultura Afroamericana (NMAAHC)",
+      "ubicacion": "Washington D.C., Estados Unidos",
+      "enfoque": "Derechos Civiles y Participación Cívica",
+      "colecciones_destacadas": [
+        "Artefactos relacionados con el Movimiento por los Derechos Civiles",
+        "Documentación sobre la abolición de la esclavitud y la lucha por el sufragio",
+        "Objetos que ilustran el impacto afroamericano en la formación de la democracia estadounidense"
+      ],
+      "nota": "Aunque cubre la cultura, su enfoque principal es la lucha por la plena ciudadanía y los derechos cívicos."
+    },
+    {
+      "nombre": "Centro de la Constitución Nacional (National Constitution Center)",
+      "ubicacion": "Filadelfia, Estados Unidos",
+      "enfoque": "Historia Constitucional y Documentos Fundacionales",
+      "colecciones_destacadas": [
+        "Exhibiciones interactivas sobre la Constitución de EE. UU. y sus enmiendas",
+        "Modelos de jurados y ceremonias de ciudadanía",
+        "Las firmas originales de la Constitución (la Constitución, la Declaración de Independencia y la Carta de Derechos no están aquí, sino en los Archivos Nacionales)"
+      ],
+      "nota": "Dedicado a la educación y el debate sobre la Carta Magna del país."
+    },
+    {
+      "nombre": "Museo Nacional de las Cámaras (Museum of National Legislatures)",
+      "ubicacion": "Seúl, Corea del Sur",
+      "enfoque": "Historia Parlamentaria y Democrática",
+      "colecciones_destacadas": [
+        "Documentación sobre la formación del sistema parlamentario moderno de Corea del Sur",
+        "Exposiciones sobre el proceso legislativo, los partidos políticos y las elecciones",
+        "Artefactos y registros de debates históricos de la Asamblea Nacional"
+      ],
+      "nota": "Se enfoca en la historia de la legislación y la vida política de la nación."
+    },
+    {
+      "nombre": "Casa de la Historia de la República Federal de Alemania (Haus der Geschichte)",
+      "ubicacion": "Bonn, Alemania",
+      "enfoque": "Historia Democrática de la Posguerra y Reunificación",
+      "colecciones_destacadas": [
+        "Objetos de la vida cotidiana y política de la República Federal de Alemania (RFA) y la República Democrática Alemana (RDA)",
+        "Documentación de la Guerra Fría, la construcción del Muro de Berlín y la Reunificación",
+        "Exposiciones sobre el sistema parlamentario y la integración europea"
+      ],
+      "nota": "Narra la historia política y social de Alemania desde 1945."
+    },
+    {
+      "nombre": "Museo de la Democracia y la Libertad (Museo del Pueblo)",
+      "ubicacion": "Taipéi, Taiwán",
+      "enfoque": "Transición a la Democracia y Derechos Humanos",
+      "colecciones_destacadas": [
+        "Exposiciones sobre el período de la Ley Marcial y la evolución del sistema político taiwanés",
+        "Documentación de las luchas por la libertad de expresión y los derechos civiles",
+        "Artefactos y fotografías de las elecciones y movimientos sociales"
+      ],
+      "nota": "Ubicado en el antiguo Cuartel de la Ley Marcial, se centra en la historia de la democratización."
+    }
+  ],
+  "museos_historia_social_cotidiana": [
+    {
+      "nombre": "Museo de Historia Social de Ámsterdam (Amsterdam Museum)",
+      "ubicacion": "Ámsterdam, Países Bajos",
+      "enfoque": "Vida Urbana y Social",
+      "colecciones_destacadas": [
+        "Exhibiciones sobre el crecimiento de Ámsterdam, desde el siglo de oro hasta la vida moderna",
+        "Artefactos de la vida cotidiana, moda, comercio y las familias de la ciudad",
+        "Documentación de la tolerancia social y la evolución de las libertades civiles en la ciudad"
+      ],
+      "nota": "Se enfoca en las experiencias de los habitantes comunes de la ciudad."
+    },
+    {
+      "nombre": "Casa de la Historia de la República Federal de Alemania (Haus der Geschichte)",
+      "ubicacion": "Bonn, Alemania",
+      "enfoque": "Vida Cotidiana en la Posguerra",
+      "colecciones_destacadas": [
+        "Objetos de la vida diaria en Alemania Occidental (RFA) y Alemania Oriental (RDA) después de 1945",
+        "Exposiciones sobre la cultura juvenil, la publicidad, el consumo y la vivienda",
+        "Documentación de las costumbres laborales y la emancipación social"
+      ],
+      "nota": "Excelente para comparar la vida cotidiana de dos sistemas políticos opuestos."
+    },
+    {
+      "nombre": "Museo de la Historia de las Clases Trabajadoras (The People's History Museum)",
+      "ubicacion": "Mánchester, Reino Unido",
+      "enfoque": "Historia Laboral, Política y Social",
+      "colecciones_destacadas": [
+        "Archivos y objetos relacionados con el movimiento obrero, los sindicatos y las protestas",
+        "Exposiciones sobre el sufragio femenino y otras luchas por los derechos sociales",
+        "Banderas, carteles y objetos de propaganda de las campañas políticas y sociales"
+      ],
+      "nota": "Dedicado a la historia de la democracia y la vida de la clase trabajadora británica."
+    },
+    {
+      "nombre": "Museo de la Cultura Doméstica de Japón (Edo-Tokyo Museum)",
+      "ubicacion": "Tokio, Japón",
+      "enfoque": "Vida Urbana Japonesa Histórica",
+      "colecciones_destacadas": [
+        "Modelos a escala de viviendas, puentes y barrios de la era Edo (1603-1868)",
+        "Objetos que ilustran la vida de los samuráis, artesanos y comerciantes",
+        "Documentación sobre los desastres, la reconstrucción y la vida social en Tokio"
+      ],
+      "nota": "Se centra en cómo vivían y trabajaban los habitantes de la ciudad (antes y después de ser Tokio)."
+    },
+    {
+      "nombre": "Museo de la Vida Rural (Museu de la Vida Rural)",
+      "ubicacion": "L'Espluga de Francolí, España (Cataluña)",
+      "enfoque": "Vida Campesina y Agrícola",
+      "colecciones_destacadas": [
+        "Herramientas agrícolas, maquinaria y utensilios domésticos de la España rural",
+        "Exhibiciones sobre las costumbres, la alimentación, las festividades y la arquitectura tradicional",
+        "Documentación sobre la transformación de la agricultura y la emigración rural"
+      ],
+      "nota": "Un enfoque en la historia de las comunidades agrarias y su cultura material."
+    }
+  ],
+  "museos_historia_migracion": [
+    {
+      "nombre": "Museo de la Inmigración de la Isla Ellis (Ellis Island National Museum of Immigration)",
+      "ubicacion": "Isla Ellis, Nueva York, Estados Unidos",
+      "enfoque": "Inmigración Masiva a EE. UU. (1892-1954)",
+      "colecciones_destacadas": [
+        "El Registro de la Gran Sala (The Registry Room), donde se procesaban a los inmigrantes",
+        "Documentación, fotografías y testimonios de las oleadas de inmigración europea",
+        "Objetos personales y archivos de las familias que pasaron por la isla"
+      ],
+      "nota": "El principal centro de procesamiento de inmigrantes en EE. UU. y un ícono de la experiencia migratoria."
+    },
+    {
+      "nombre": "Museo de la Inmigración (Museu da Imigração do Estado de São Paulo)",
+      "ubicacion": "São Paulo, Brasil",
+      "enfoque": "Inmigración a Brasil y la Cultura Paulista",
+      "colecciones_destacadas": [
+        "Ubicado en la antigua Hospedaria do Imigrante (hospedería de inmigrantes)",
+        "Documentos, registros de llegada y objetos de familias inmigrantes (principalmente italianas, japonesas y árabes)",
+        "Exposiciones sobre el impacto de la migración en la economía y cultura de Brasil"
+      ],
+      "nota": "Documenta la historia de la inmigración en el mayor puerto de entrada de Brasil."
+    },
+    {
+      "nombre": "Museo de la Emigración de Irlanda (EPIC The Irish Emigration Museum)",
+      "ubicacion": "Dublín, Irlanda",
+      "enfoque": "Emigración y Diáspora Irlandesa",
+      "colecciones_destacadas": [
+        "Exposiciones interactivas sobre las razones de la emigración irlandesa (incluyendo la Gran Hambruna)",
+        "Historias de la diáspora y la contribución de los irlandeses a la cultura mundial",
+        "Documentación de los principales destinos de los migrantes irlandeses (EE. UU., Reino Unido, Australia)"
+      ],
+      "nota": "Se centra en la perspectiva del país de origen y su diáspora global."
+    },
+    {
+      "nombre": "Museo de la Historia de la Migración Alemana (Deutsches Auswandererhaus)",
+      "ubicacion": "Bremerhaven, Alemania",
+      "enfoque": "Emigración Alemana y Europea a las Américas",
+      "colecciones_destacadas": [
+        "Recorrido por la experiencia de los emigrantes que partían desde Bremerhaven, el mayor puerto de emigración continental",
+        "Exposiciones sobre la vida a bordo de los barcos y el destino final en el Nuevo Mundo",
+        "Sección dedicada a la historia de la inmigración a Alemania desde 1950"
+      ],
+      "nota": "Presenta tanto la emigración alemana como la inmigración a la Alemania moderna."
+    },
+    {
+      "nombre": "Museo de la Inmigración de Melbourne (Immigration Museum)",
+      "ubicacion": "Melbourne, Australia",
+      "enfoque": "Inmigración a Australia y la Identidad Multicultural",
+      "colecciones_destacadas": [
+        "Ubicado en la histórica Old Customs House (Casa de Aduanas)",
+        "Historias y objetos de las diversas comunidades inmigrantes que han dado forma a la Australia moderna",
+        "Documentación sobre las políticas de 'Australia Blanca' y el cambio a un enfoque multicultural"
+      ],
+      "nota": "Se centra en la diversidad cultural de Australia a través de la lente de la migración."
+    }
+  ],
+  "museos_historia_industrial_laboral": [
+    {
+      "nombre": "Museo del Trabajo de Mánchester (The People's History Museum)",
+      "ubicacion": "Mánchester, Reino Unido",
+      "enfoque": "Historia Laboral y Social de la Clase Trabajadora",
+      "colecciones_destacadas": [
+        "Archivos y objetos relacionados con el movimiento obrero, los sindicatos y las protestas",
+        "Colección de pancartas y banderas de protestas y manifestaciones históricas",
+        "Documentación sobre las luchas por la reforma parlamentaria y el sufragio femenino"
+      ],
+      "nota": "Se enfoca en la vida de los trabajadores y la historia de la democracia en el Reino Unido."
+    },
+    {
+      "nombre": "Museo Alemán de la Minería (Deutsches Bergbau-Museum)",
+      "ubicacion": "Bochum, Alemania",
+      "enfoque": "Historia de la Minería y la Revolución Industrial del Ruhr",
+      "colecciones_destacadas": [
+        "Un pozo minero de visitantes completamente operativo (recreación de una mina de carbón)",
+        "Maquinaria, herramientas y vestimenta de la industria minera a lo largo de los siglos",
+        "Exposiciones sobre la geología, la tecnología y el impacto social de la minería del carbón"
+      ],
+      "nota": "Uno de los museos de tecnología y minería más visitados del mundo."
+    },
+    {
+      "nombre": "Museo de la Historia de la Industria de Taiwán",
+      "ubicacion": "Kaohsiung, Taiwán",
+      "enfoque": "Desarrollo Industrial de Taiwán (Puertos y Manufactura)",
+      "colecciones_destacadas": [
+        "Documentación y maquinaria de las industrias clave de Taiwán (azúcar, cemento, textil)",
+        "Exposiciones sobre la evolución del puerto de Kaohsiung y el transporte marítimo",
+        "Objetos relacionados con la vida de los trabajadores de las fábricas y los sindicatos locales"
+      ],
+      "nota": "Se enfoca en el desarrollo industrial y económico de la isla después de la Segunda Guerra Mundial."
+    },
+    {
+      "nombre": "Museo del Patrimonio Industrial de Nueva Inglaterra (Slater Mill)",
+      "ubicacion": "Pawtucket, Rhode Island, Estados Unidos",
+      "enfoque": "Inicios de la Revolución Industrial Estadounidense",
+      "colecciones_destacadas": [
+        "Ubicado en la primera fábrica textil de Estados Unidos impulsada por agua (fundada en 1793)",
+        "Maquinaria textil y demostraciones de hilado y tejido de la época temprana de la fábrica",
+        "Exposiciones sobre el sistema de trabajo y la vida de los primeros trabajadores de fábrica en América"
+      ],
+      "nota": "Un sitio histórico nacional clave para entender el inicio de la era de la fábrica en EE. UU."
+    },
+    {
+      "nombre": "Museo de la Ciencia y la Industria (Science and Industry Museum)",
+      "ubicacion": "Mánchester, Reino Unido",
+      "enfoque": "Innovación Tecnológica e Industrial",
+      "colecciones_destacadas": [
+        "Ubicado en el sitio de la estación de tren de pasajeros más antigua del mundo",
+        "Grandes colecciones de máquinas textiles de la Revolución Industrial",
+        "Maquinaria a vapor, motores de avión y exposiciones sobre el desarrollo de la energía y el transporte"
+      ],
+      "nota": "Aunque es de ciencia, gran parte de su enfoque está en la historia de la industria de Mánchester."
+    }
+  ]
+}

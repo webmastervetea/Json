@@ -1,0 +1,68 @@
+{
+  "museos_historia_nacional": [
+    {
+      "nombre": "Museo Nacional de Historia Estadounidense (National Museum of American History)",
+      "ubicacion": "Washington D.C., Estados Unidos",
+      "enfoque": "Historia Cívica, Política y Social de EE. UU.",
+      "colecciones_destacadas": [
+        "La bandera original que inspiró 'The Star-Spangled Banner' (el himno nacional)",
+        "Objetos de la presidencia y la vida política (como el sombrero de Lincoln)",
+        "Exhibiciones sobre transporte, tecnología e innovación estadounidenses"
+      ],
+      "nota": "Parte del Instituto Smithsonian, narra la historia del país desde el siglo XVII hasta el presente."
+    },
+    {
+      "nombre": "Museo Británico (British Museum)",
+      "ubicacion": "Londres, Reino Unido",
+      "enfoque": "Historia Global y Británica (Hasta cierto punto)",
+      "colecciones_destacadas": [
+        "Colecciones de objetos de la época romana y medieval británica (artefactos de Sutton Hoo)",
+        "Documentos y objetos clave que formaron el Imperio y la nación británica"
+      ],
+      "nota": "Aunque es global, sus galerías tempranas son cruciales para la historia de Gran Bretaña. El Museo de Londres se enfoca en la ciudad, mientras que el Británico es más amplio."
+    },
+    {
+      "nombre": "Museo Histórico Alemán (Deutsches Historisches Museum - DHM)",
+      "ubicacion": "Berlín, Alemania",
+      "enfoque": "Historia Alemana (Desde sus orígenes hasta la actualidad)",
+      "colecciones_destacadas": [
+        "Vasta exposición cronológica sobre los acontecimientos clave de la historia alemana (Sacro Imperio, Unificación, Guerras Mundiales, División y Reunificación)",
+        "Objetos y documentos relacionados con figuras históricas y movimientos sociales"
+      ],
+      "nota": "Ubicado en el histórico edificio Zeughaus (antiguo arsenal)."
+    },
+    {
+      "nombre": "Museo Nacional de Historia (Museo Nacional de Historia - Castillo de Chapultepec)",
+      "ubicacion": "Ciudad de México, México",
+      "enfoque": "Historia de México (Virreinato hasta la Revolución)",
+      "colecciones_destacadas": [
+        "Artefactos del Virreinato (Nueva España), el Imperio de Maximiliano y la Independencia de México",
+        "Objetos personales de héroes nacionales y presidentes",
+        "Murales de artistas como Siqueiros y Orozco que narran la historia del país"
+      ],
+      "nota": "El museo es en sí mismo un monumento histórico, ya que fue residencia imperial y presidencial."
+    },
+    {
+      "nombre": "Museo de Australia (National Museum of Australia - NMA)",
+      "ubicacion": "Canberra, Australia",
+      "enfoque": "Historia, Cultura y Entorno Australianos",
+      "colecciones_destacadas": [
+        "Exposiciones sobre la historia indígena australiana (Primeras Naciones)",
+        "Artefactos de la colonización, la Federación y la vida contemporánea",
+        "Objetos relacionados con la interacción del pueblo australiano con el paisaje y el entorno"
+      ],
+      "nota": "Busca entrelazar la historia indígena, colonial y contemporánea del país."
+    },
+    {
+      "nombre": "Museo Nacional de Historia de China",
+      "ubicacion": "Pekín, China",
+      "enfoque": "Historia China (Desde el Paleolítico hasta el Siglo XX)",
+      "colecciones_destacadas": [
+        "Grandes colecciones de bronces, jades y cerámicas históricas",
+        "Exposiciones cronológicas sobre las dinastías chinas, el imperialismo y la fundación de la República Popular China",
+        "Artefactos clave de las excavaciones arqueológicas más importantes del país"
+      ],
+      "nota": "Uno de los museos más grandes del mundo, ubicado en la Plaza de Tiananmén."
+    }
+  ]
+}

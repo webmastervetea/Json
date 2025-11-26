@@ -1,0 +1,59 @@
+{
+  "museos_historia_industrial_laboral": [
+    {
+      "nombre": "Museo del Trabajo de Mánchester (The People's History Museum)",
+      "ubicacion": "Mánchester, Reino Unido",
+      "enfoque": "Historia Laboral y Social de la Clase Trabajadora",
+      "colecciones_destacadas": [
+        "Archivos y objetos relacionados con el movimiento obrero, el socialismo y los sindicatos británicos",
+        "Colección de pancartas y banderas de protestas y manifestaciones históricas",
+        "Documentación sobre las luchas por la reforma parlamentaria y el sufragio femenino"
+      ],
+      "nota": "Se enfoca en la vida de los trabajadores y la historia de la democracia en el Reino Unido."
+    },
+    {
+      "nombre": "Museo Alemán de la Minería (Deutsches Bergbau-Museum)",
+      "ubicacion": "Bochum, Alemania",
+      "enfoque": "Historia de la Minería y la Revolución Industrial del Ruhr",
+      "colecciones_destacadas": [
+        "Un pozo minero de visitantes completamente operativo (recreación de una mina de carbón)",
+        "Maquinaria, herramientas y vestimenta de la industria minera a lo largo de los siglos",
+        "Exposiciones sobre la geología, la tecnología y el impacto social de la minería del carbón"
+      ],
+      "nota": "Uno de los museos de tecnología y minería más visitados del mundo."
+    },
+    {
+      "nombre": "Museo de la Historia de la Industria de Taiwán",
+      "ubicacion": "Kaohsiung, Taiwán",
+      "enfoque": "Desarrollo Industrial de Taiwán (Puertos y Manufactura)",
+      "colecciones_destacadas": [
+        "Documentación y maquinaria de las industrias clave de Taiwán (azúcar, cemento, textil)",
+        "Exposiciones sobre la evolución del puerto de Kaohsiung y el transporte marítimo",
+        "Objetos relacionados con la vida de los trabajadores de las fábricas y los sindicatos locales"
+      ],
+      "nota": "Se enfoca en el desarrollo industrial y económico de la isla después de la Segunda Guerra Mundial."
+    },
+    {
+      "nombre": "Museo del Patrimonio Industrial de Nueva Inglaterra (Slater Mill)",
+      "ubicacion": "Pawtucket, Rhode Island, Estados Unidos",
+      "enfoque": "Inicios de la Revolución Industrial Estadounidense",
+      "colecciones_destacadas": [
+        "Ubicado en la primera fábrica textil de Estados Unidos impulsada por agua (fundada en 1793)",
+        "Maquinaria textil y demostraciones de hilado y tejido de la época temprana de la fábrica",
+        "Exposiciones sobre el sistema de trabajo y la vida de los primeros trabajadores de fábrica en América"
+      ],
+      "nota": "Un sitio histórico nacional clave para entender el inicio de la era de la fábrica en EE. UU."
+    },
+    {
+      "nombre": "Museo de la Ciencia y la Industria (Science and Industry Museum)",
+      "ubicacion": "Mánchester, Reino Unido",
+      "enfoque": "Innovación Tecnológica e Industrial",
+      "colecciones_destacadas": [
+        "Ubicado en el sitio de la estación de tren de pasajeros más antigua del mundo",
+        "Grandes colecciones de máquinas textiles de la Revolución Industrial",
+        "Maquinaria a vapor, motores de avión y exposiciones sobre el desarrollo de la energía y el transporte"
+      ],
+      "nota": "Aunque es de ciencia, gran parte de su enfoque está en la historia de la industria de Mánchester."
+    }
+  ]
+}

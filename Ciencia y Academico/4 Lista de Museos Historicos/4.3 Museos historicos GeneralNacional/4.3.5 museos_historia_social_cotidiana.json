@@ -1,0 +1,59 @@
+{
+  "museos_historia_social_cotidiana": [
+    {
+      "nombre": "Museo de Historia Social de Ámsterdam (Amsterdam Museum)",
+      "ubicacion": "Ámsterdam, Países Bajos",
+      "enfoque": "Vida Urbana y Social",
+      "colecciones_destacadas": [
+        "Exhibiciones sobre el crecimiento de Ámsterdam, desde el siglo de oro hasta la vida moderna",
+        "Artefactos de la vida cotidiana, moda, comercio y las familias de la ciudad",
+        "Documentación de la tolerancia social y la evolución de las libertades civiles en la ciudad"
+      ],
+      "nota": "Se enfoca en las experiencias de los habitantes comunes de la ciudad."
+    },
+    {
+      "nombre": "Casa de la Historia de la República Federal de Alemania (Haus der Geschichte)",
+      "ubicacion": "Bonn, Alemania",
+      "enfoque": "Vida Cotidiana en la Posguerra",
+      "colecciones_destacadas": [
+        "Objetos de la vida diaria en Alemania Occidental (RFA) y Alemania Oriental (RDA) después de 1945",
+        "Exposiciones sobre la cultura juvenil, la publicidad, el consumo y la vivienda",
+        "Documentación de las costumbres laborales y la emancipación social"
+      ],
+      "nota": "Excelente para comparar la vida cotidiana de dos sistemas políticos opuestos."
+    },
+    {
+      "nombre": "Museo de la Historia de las Clases Trabajadoras (The People's History Museum)",
+      "ubicacion": "Mánchester, Reino Unido",
+      "enfoque": "Historia Laboral, Política y Social",
+      "colecciones_destacadas": [
+        "Archivos y objetos relacionados con el movimiento obrero, los sindicatos y las protestas",
+        "Exposiciones sobre el sufragio femenino y otras luchas por los derechos sociales",
+        "Banderas, carteles y objetos de propaganda de las campañas políticas y sociales"
+      ],
+      "nota": "Dedicado a la historia de la democracia y la vida de la clase trabajadora británica."
+    },
+    {
+      "nombre": "Museo de la Cultura Doméstica de Japón (Edo-Tokyo Museum)",
+      "ubicacion": "Tokio, Japón",
+      "enfoque": "Vida Urbana Japonesa Histórica",
+      "colecciones_destacadas": [
+        "Modelos a escala de viviendas, puentes y barrios de la era Edo (1603-1868)",
+        "Objetos que ilustran la vida de los samuráis, artesanos y comerciantes",
+        "Documentación sobre los desastres, la reconstrucción y la vida social en Tokio"
+      ],
+      "nota": "Se centra en cómo vivían y trabajaban los habitantes de la ciudad (antes y después de ser Tokio)."
+    },
+    {
+      "nombre": "Museo de la Vida Rural (Museu de la Vida Rural)",
+      "ubicacion": "L'Espluga de Francolí, España (Cataluña)",
+      "enfoque": "Vida Campesina y Agrícola",
+      "colecciones_destacadas": [
+        "Herramientas agrícolas, maquinaria y utensilios domésticos de la España rural",
+        "Exhibiciones sobre las costumbres, la alimentación, las festividades y la arquitectura tradicional",
+        "Documentación sobre la transformación de la agricultura y la emigración rural"
+      ],
+      "nota": "Un enfoque en la historia de las comunidades agrarias y su cultura material."
+    }
+  ]
+}

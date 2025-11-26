@@ -1,0 +1,59 @@
+{
+  "museos_historia_regional_local": [
+    {
+      "nombre": "Museo de Londres (Museum of London)",
+      "ubicacion": "Londres, Reino Unido",
+      "enfoque": "Historia de la Ciudad de Londres",
+      "colecciones_destacadas": [
+        "Artefactos que cubren la historia de Londres desde la prehistoria hasta el presente",
+        "Colección de hallazgos romanos (Londinium), la Gran Plaga y el Gran Incendio",
+        "Objetos de la vida cotidiana y la moda en la era victoriana y moderna"
+      ],
+      "nota": "Se centra específicamente en el desarrollo y la gente de la capital británica."
+    },
+    {
+      "nombre": "Museo de la Ciudad de Nueva York (Museum of the City of New York - MCNY)",
+      "ubicacion": "Nueva York, Estados Unidos",
+      "enfoque": "Historia Social y Urbana de la Ciudad de Nueva York",
+      "colecciones_destacadas": [
+        "Exposiciones sobre la arquitectura, el diseño y la planificación urbana de la ciudad",
+        "Objetos relacionados con el teatro, el jazz y la vida social neoyorquina",
+        "Fotografías e impresiones que documentan la inmigración y los cambios demográficos"
+      ],
+      "nota": "Cubre las transformaciones de la ciudad desde la época holandesa hasta hoy."
+    },
+    {
+      "nombre": "Museo de Historia de Barcelona (MUHBA)",
+      "ubicacion": "Barcelona, España",
+      "enfoque": "Historia de la Ciudad de Barcelona",
+      "colecciones_destacadas": [
+        "Recorridos por el subsuelo arqueológico romano de Barcino",
+        "Exposiciones sobre el desarrollo medieval y contemporáneo de la ciudad",
+        "Documentación sobre los cambios urbanísticos y la Guerra Civil Española en Barcelona"
+      ],
+      "nota": "Utiliza sitios arqueológicos y monumentos históricos en toda la ciudad como parte de su exposición."
+    },
+    {
+      "nombre": "Casa de Ana Frank (Anne Frank Huis)",
+      "ubicacion": "Ámsterdam, Países Bajos",
+      "enfoque": "Historia Local (Ocupación Nazi y Holocausto)",
+      "colecciones_destacadas": [
+        "El Anexo Secreto y el diario original de Ana Frank",
+        "Documentación sobre la persecución de los judíos en Ámsterdam durante la Segunda Guerra Mundial",
+        "Objetos personales de la familia Frank y los protectores"
+      ],
+      "nota": "Aunque enfocado en una persona, es un testimonio clave de la historia local durante la guerra."
+    },
+    {
+      "nombre": "Museo de Historia de Shanghái",
+      "ubicacion": "Shanghái, China",
+      "enfoque": "Historia Urbana y Desarrollo de Shanghái",
+      "colecciones_destacadas": [
+        "Dioramas y modelos a escala que muestran el desarrollo de la ciudad desde la época imperial hasta el auge moderno",
+        "Objetos relacionados con las concesiones extranjeras y el comercio del opio en el siglo XIX",
+        "Fotografías históricas y objetos de la vida social de la ciudad"
+      ],
+      "nota": "Destaca la transformación de Shanghái de un pueblo de pescadores a un centro global."
+    }
+  ]
+}

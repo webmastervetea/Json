@@ -1,0 +1,160 @@
+{
+  "museos_historicos_america_del_norte_destacados": [
+    {
+      "nombre": "Museo Nacional de Historia Americana, Smithsonian",
+      "ubicacion": {
+        "ciudad": "Washington D.C.",
+        "pais": "Estados Unidos"
+      },
+      "colecciones_destacadas": [
+        "Bandera de la guerra de 1812 ('Star-Spangled Banner')",
+        "Colección de primeros presidentes y la historia política de EE. UU.",
+        "Historia del transporte, tecnología y cultura popular"
+      ]
+    },
+    {
+      "nombre": "Museo Nacional de Antropología (MNA)",
+      "ubicacion": {
+        "ciudad": "Ciudad de México",
+        "pais": "México"
+      },
+      "colecciones_destacadas": [
+        "Piedra del Sol (Calendario Azteca)",
+        "Colecciones de las culturas Maya, Azteca, Olmeca y Zapoteca",
+        "Salas de etnografía de los pueblos indígenas de México"
+      ]
+    },
+    {
+      "nombre": "Museo Canadiense de Historia",
+      "ubicacion": {
+        "ciudad": "Gatineau",
+        "pais": "Canadá"
+      },
+      "colecciones_destacadas": [
+        "Historia de Canadá, desde los primeros pueblos hasta el presente",
+        "Grandes Tótems y pabellón de las Primeras Naciones",
+        "Sala de la Historia Canadiense"
+      ]
+    },
+    {
+      "nombre": "Museo Metropolitano de Arte (MET) - Colecciones de Arte Americano y Antiguo",
+      "ubicacion": {
+        "ciudad": "Nueva York",
+        "pais": "Estados Unidos"
+      },
+      "colecciones_destacadas": [
+        "Arte americano y mobiliario colonial",
+        "Artefactos del antiguo Egipto, Grecia y Roma",
+        "Períodos históricos y arte de todo el mundo"
+      ]
+    },
+    {
+      "nombre": "Museo Nacional de la Historia de la Inmigración de la Isla Ellis",
+      "ubicacion": {
+        "ciudad": "Nueva York",
+        "pais": "Estados Unidos"
+      },
+      "colecciones_destacadas": [
+        "Historia de la inmigración a los EE. UU. (1892-1954)",
+        "Documentos, fotografías y objetos personales de los inmigrantes",
+        "El Registro de la Inmigración"
+      ]
+    },
+    {
+      "nombre": "Museo del Templo Mayor",
+      "ubicacion": {
+        "ciudad": "Ciudad de México",
+        "pais": "México"
+      },
+      "colecciones_destacadas": [
+        "Restos del centro ceremonial azteca (Templo Mayor de Tenochtitlan)",
+        "Monolito de la diosa Coyolxauhqui y Tlaltecuhtli",
+        "Ofrendas mexicas encontradas en el sitio"
+      ]
+    },
+    {
+      "nombre": "Museo Real de Ontario (ROM)",
+      "ubicacion": {
+        "ciudad": "Toronto",
+        "pais": "Canadá"
+      },
+      "colecciones_destacadas": [
+        "Historia Natural y colecciones de arte y arqueología mundial",
+        "Galerías de las Primeras Naciones y de la Historia Canadiense",
+        "Artefactos de la China y el Mediterráneo antiguos"
+      ]
+    },
+    {
+      "nombre": "Museo Nacional de Historia Natural, Smithsonian",
+      "ubicacion": {
+        "ciudad": "Washington D.C.",
+        "pais": "Estados Unidos"
+      },
+      "colecciones_destacadas": [
+        "Fósiles de homínidos y evolución humana",
+        "Antropología cultural y arqueología de las Américas",
+        "Colecciones de mamíferos y el Tiranosaurio Rex"
+      ]
+    },
+    {
+      "nombre": "Museo de Antropología de Xalapa (MAX)",
+      "ubicacion": {
+        "ciudad": "Xalapa",
+        "pais": "México"
+      },
+      "colecciones_destacadas": [
+        "Arte y arqueología de Veracruz",
+        "Cabezas Colosales Olmecas",
+        "Artefactos Totonacas y Huastecas"
+      ]
+    },
+    {
+      "nombre": "Museo Nacional de Historia y Cultura Afroamericana, Smithsonian",
+      "ubicacion": {
+        "ciudad": "Washington D.C.",
+        "pais": "Estados Unidos"
+      },
+      "colecciones_destacadas": [
+        "Historia de la esclavitud, los derechos civiles y la cultura afroamericana",
+        "Objetos de la época de la segregación",
+        "Arte, música y deportes afroamericanos"
+      ]
+    },
+    {
+      "nombre": "Museo Canadiense de la Guerra",
+      "ubicacion": {
+        "ciudad": "Ottawa",
+        "pais": "Canadá"
+      },
+      "colecciones_destacadas": [
+        "Historia militar de Canadá desde las primeras batallas hasta las operaciones modernas",
+        "Armas, uniformes y vehículos militares",
+        "Memoriales de guerra y exposiciones sobre el Holocausto"
+      ]
+    },
+    {
+      "nombre": "Museo del Castillo de Chapultepec (Museo Nacional de Historia)",
+      "ubicacion": {
+        "ciudad": "Ciudad de México",
+        "pais": "México"
+      },
+      "colecciones_destacadas": [
+        "Historia de México desde el Virreinato hasta la Revolución",
+        "Colecciones relacionadas con la Independencia y la Reforma",
+        "Objetos personales de Maximiliano, Carlota y Benito Juárez"
+      ]
+    },
+    {
+      "nombre": "Museo de Historia de Chicago",
+      "ubicacion": {
+        "ciudad": "Chicago",
+        "pais": "Estados Unidos"
+      },
+      "colecciones_destacadas": [
+        "Historia de Chicago y su impacto en la historia de EE. UU.",
+        "El Gran Incendio de Chicago, la Guerra Civil y la historia social",
+        "Colección de fotografías y documentos"
+      ]
+    }
+  ]
+}

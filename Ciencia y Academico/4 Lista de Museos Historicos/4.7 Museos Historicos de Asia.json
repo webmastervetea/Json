@@ -1,0 +1,220 @@
+{
+  "museos_historicos_asia_destacados": [
+    {
+      "nombre": "Museo de Qin Guerreros de Terracota y Caballos",
+      "ubicacion": {
+        "ciudad": "Xi'an",
+        "pais": "China"
+      },
+      "colecciones_destacadas": [
+        "Ejército de terracota a tamaño real (más de 8,000 figuras)",
+        "Carros y caballos de bronce",
+        "Armamento de la época de Qin Shi Huang (siglo III a.C.)"
+      ]
+    },
+    {
+      "nombre": "Museo Nacional del Palacio",
+      "ubicacion": {
+        "ciudad": "Taipéi",
+        "pais": "Taiwán"
+      },
+      "colecciones_destacadas": [
+        "Colección imperial de arte y artefactos chinos",
+        "Porcelana, bronces, pinturas y caligrafía (más de 690,000 piezas)",
+        "El repollo de jade y la piedra con forma de carne"
+      ]
+    },
+    {
+      "nombre": "Museo Nacional de Tokio",
+      "ubicacion": {
+        "ciudad": "Tokio",
+        "pais": "Japón"
+      },
+      "colecciones_destacadas": [
+        "Arte y arqueología japonesa (incluyendo esculturas budistas y espadas)",
+        "Ukiyo-e (grabados en madera)",
+        "Arte asiático de diferentes regiones"
+      ]
+    },
+    {
+      "nombre": "Museo de la Ciudad Prohibida (Palacio Museo)",
+      "ubicacion": {
+        "ciudad": "Pekín",
+        "pais": "China"
+      },
+      "colecciones_destacadas": [
+        "Arte y artefactos imperiales de las dinastías Ming y Qing",
+        "Relojes, cerámicas, jade, pinturas"
+      ]
+    },
+    {
+      "nombre": "Museo Nacional de Irán",
+      "ubicacion": {
+        "ciudad": "Teherán",
+        "pais": "Irán"
+      },
+      "colecciones_destacadas": [
+        "Arqueología de la antigua Persia",
+        "Arte preislámico e islámico",
+        "Cerámica, objetos de metal y sellos"
+      ]
+    },
+    {
+      "nombre": "Museo Nacional",
+      "ubicacion": {
+        "ciudad": "Nueva Delhi",
+        "pais": "India"
+      },
+      "colecciones_destacadas": [
+        "Arte, arqueología y patrimonio cultural indio",
+        "Manuscritos, pinturas en miniatura, armas y armaduras",
+        "Artefactos de la civilización del Valle del Indo"
+      ]
+    },
+    {
+      "nombre": "Museo Nacional de Historia de Shaanxi",
+      "ubicacion": {
+        "ciudad": "Xi'an",
+        "pais": "China"
+      },
+      "colecciones_destacadas": [
+        "Artefactos de las antiguas capitales chinas (especialmente Dinastía Tang)",
+        "Cerámicas, murales y bronces"
+      ]
+    },
+    {
+      "nombre": "Museo de los Restos de la Guerra",
+      "ubicacion": {
+        "ciudad": "Ho Chi Minh",
+        "pais": "Vietnam"
+      },
+      "colecciones_destacadas": [
+        "Documentación, fotografías y artefactos de la Guerra de Vietnam"
+      ]
+    },
+    {
+      "nombre": "Museo Nacional de Historia",
+      "ubicacion": {
+        "ciudad": "Kuala Lumpur",
+        "pais": "Malasia"
+      },
+      "colecciones_destacadas": [
+        "Historia de Malasia desde la prehistoria hasta la independencia",
+        "Objetos culturales y artefactos arqueológicos"
+      ]
+    },
+    {
+      "nombre": "Museo Nacional de Corea",
+      "ubicacion": {
+        "ciudad": "Seúl",
+        "pais": "Corea del Sur"
+      },
+      "colecciones_destacadas": [
+        "Arte y reliquias históricas coreanas (incluyendo la Corona de Oro de Silla)",
+        "Esculturas budistas y cerámicas de Goryeo"
+      ]
+    },
+    {
+      "nombre": "Museo Nacional de Tailandia",
+      "ubicacion": {
+        "ciudad": "Bangkok",
+        "pais": "Tailandia"
+      },
+      "colecciones_destacadas": [
+        "Arqueología, historia y arte tailandés",
+        "Bronces de la época de Sukhothai",
+        "Objetos reales y armas"
+      ]
+    },
+    {
+      "nombre": "Museo Nacional de Indonesia (Museo del Elefante)",
+      "ubicacion": {
+        "ciudad": "Yakarta",
+        "pais": "Indonesia"
+      },
+      "colecciones_destacadas": [
+        "Arqueología e historia de las islas de Indonesia",
+        "Esculturas prehistóricas e hindú-budistas",
+        "Colección etnográfica"
+      ]
+    },
+    {
+      "nombre": "Museo de Arte Islámico de Malasia",
+      "ubicacion": {
+        "ciudad": "Kuala Lumpur",
+        "pais": "Malasia"
+      },
+      "colecciones_destacadas": [
+        "Artefactos islámicos de todo el mundo, incluyendo Malasia",
+        "Manuscritos, textiles y armaduras"
+      ]
+    },
+    {
+      "nombre": "Museo Nacional de Singapur",
+      "ubicacion": {
+        "ciudad": "Singapur",
+        "pais": "Singapur"
+      },
+      "colecciones_destacadas": [
+        "Historia y patrimonio de Singapur a través de los siglos",
+        "Galería de Historia de Singapur"
+      ]
+    },
+    {
+      "nombre": "Museo de Bagdad",
+      "ubicacion": {
+        "ciudad": "Bagdad",
+        "pais": "Irak"
+      },
+      "colecciones_destacadas": [
+        "Artefactos de la antigua Mesopotamia (Sumeria, Acadia, Asiria y Babilonia)",
+        "Esculturas y tablillas cuneiformes"
+      ]
+    },
+    {
+      "nombre": "Museo Nacional de Sri Lanka",
+      "ubicacion": {
+        "ciudad": "Colombo",
+        "pais": "Sri Lanka"
+      },
+      "colecciones_destacadas": [
+        "Historia natural y cultural de Sri Lanka",
+        "Colección real de Kandy",
+        "Artefactos de la antigüedad y la era colonial"
+      ]
+    },
+    {
+      "nombre": "Museo Nacional de Filipinas",
+      "ubicacion": {
+        "ciudad": "Manila",
+        "pais": "Filipinas"
+      },
+      "colecciones_destacadas": [
+        "Arqueología, etnografía e historia natural de Filipinas",
+        "Artefactos prehistóricos y de la era colonial"
+      ]
+    },
+    {
+      "nombre": "Museo de Civilizaciones de Anatolia",
+      "ubicacion": {
+        "ciudad": "Ankara",
+        "pais": "Turquía"
+      },
+      "colecciones_destacadas": [
+        "Artefactos hititas, frigios, urartianos y de la edad de piedra",
+        "Arqueología de Anatolia"
+      ]
+    },
+    {
+      "nombre": "Museo de Qatar",
+      "ubicacion": {
+        "ciudad": "Doha",
+        "pais": "Qatar"
+      },
+      "colecciones_destacadas": [
+        "Historia y patrimonio de Qatar",
+        "Arte islámico y arqueología regional"
+      ]
+    }
+  ]
+}

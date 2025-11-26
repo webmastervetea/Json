@@ -1,0 +1,163 @@
+{
+  "museos_historicos_africa_destacados": [
+    {
+      "nombre": "Museo Egipcio (Museo de El Cairo)",
+      "ubicacion": {
+        "ciudad": "El Cairo",
+        "pais": "Egipto"
+      },
+      "colecciones_destacadas": [
+        "Tesoros de Tutankamón (incluida la máscara funeraria)",
+        "Momias reales y sarcófagos",
+        "Artefactos del Antiguo, Medio y Nuevo Reino"
+      ]
+    },
+    {
+      "nombre": "Museo Nacional de Sudáfrica (Iziko)",
+      "ubicacion": {
+        "ciudad": "Ciudad del Cabo",
+        "pais": "Sudáfrica"
+      },
+      "colecciones_destacadas": [
+        "Historia social y cultural de Sudáfrica",
+        "Artefactos Khoisan y colecciones etnográficas",
+        "Historia natural y restos arqueológicos"
+      ]
+    },
+    {
+      "nombre": "Museo Nacional de Kenia",
+      "ubicacion": {
+        "ciudad": "Nairobi",
+        "pais": "Kenia"
+      },
+      "colecciones_destacadas": [
+        "Prehistoria y arqueología de Kenia (incluidos los descubrimientos de Leakey)",
+        "Etnografía de las culturas kenianas",
+        "Historia natural y fósiles de homínidos"
+      ]
+    },
+    {
+      "nombre": "Museo Nacional de Lagos",
+      "ubicacion": {
+        "ciudad": "Lagos",
+        "pais": "Nigeria"
+      },
+      "colecciones_destacadas": [
+        "Máscaras y esculturas Nok (cultura Nok)",
+        "Bronces de Benín y artefactos Igboukwu",
+        "Artefactos etnográficos e históricos nigerianos"
+      ]
+    },
+    {
+      "nombre": "Museo Nacional de Cartago",
+      "ubicacion": {
+        "ciudad": "Cartago",
+        "pais": "Túnez"
+      },
+      "colecciones_destacadas": [
+        "Artefactos fenicios, púnicos, romanos y bizantinos",
+        "Mosaicos y esculturas encontradas en el sitio arqueológico de Cartago"
+      ]
+    },
+    {
+      "nombre": "Museo Nacional de Malí",
+      "ubicacion": {
+        "ciudad": "Bamako",
+        "pais": "Malí"
+      },
+      "colecciones_destacadas": [
+        "Riqueza etnográfica y arqueológica de Malí",
+        "Máscaras, textiles y objetos rituales de la región"
+      ]
+    },
+    {
+      "nombre": "Museo de la Historia de Senegal (IFAN)",
+      "ubicacion": {
+        "ciudad": "Dakar",
+        "pais": "Senegal"
+      },
+      "colecciones_destacadas": [
+        "Historia, vida social y cultura de Senegal y África Occidental",
+        "Objetos etnográficos y de arte tradicional"
+      ]
+    },
+    {
+      "nombre": "Museo Nacional de Etiopía",
+      "ubicacion": {
+        "ciudad": "Adís Abeba",
+        "pais": "Etiopía"
+      },
+      "colecciones_destacadas": [
+        "Fósiles de homínidos (incluido el esqueleto de 'Lucy', *Australopithecus afarensis*)",
+        "Artefactos de la antigua civilización Aksumita",
+        "Colecciones históricas y etnográficas"
+      ]
+    },
+    {
+      "nombre": "Museo de Historia Natural de Zimbabue",
+      "ubicacion": {
+        "ciudad": "Bulawayo",
+        "pais": "Zimbabue"
+      },
+      "colecciones_destacadas": [
+        "Arqueología de la civilización de Gran Zimbabue",
+        "Historia del país y colecciones geológicas"
+      ]
+    },
+    {
+      "nombre": "Museo Mohamed VI para la Civilización del Agua en Marruecos",
+      "ubicacion": {
+        "ciudad": "Marrakech",
+        "pais": "Marruecos"
+      },
+      "colecciones_destacadas": [
+        "Historia de la gestión del agua y técnicas hidráulicas en Marruecos",
+        "Patrimonio del agua y su impacto en la civilización marroquí"
+      ]
+    },
+    {
+      "nombre": "Museo Nacional de Historia Natural (NMNH)",
+      "ubicacion": {
+        "ciudad": "Jartum",
+        "pais": "Sudán"
+      },
+      "colecciones_destacadas": [
+        "Arqueología y etnografía de Sudán",
+        "Artefactos del Reino de Kush y de Nubia"
+      ]
+    },
+    {
+      "nombre": "Museo de la Civilización Ruandesa",
+      "ubicacion": {
+        "ciudad": "Butare (Huye)",
+        "pais": "Ruanda"
+      },
+      "colecciones_destacadas": [
+        "Historia precolonial y colonial de Ruanda",
+        "Artefactos que ilustran la vida social, cultural y artesanal ruandesa"
+      ]
+    },
+    {
+      "nombre": "Museo Nacional de Argelia",
+      "ubicacion": {
+        "ciudad": "Argel",
+        "pais": "Argelia"
+      },
+      "colecciones_destacadas": [
+        "Restos arqueológicos prehistóricos, romanos y fenicios",
+        "Arte y cultura de la Argelia antigua y moderna"
+      ]
+    },
+    {
+      "nombre": "Museo de la Antigua Civilización de Benín",
+      "ubicacion": {
+        "ciudad": "Abomey",
+        "pais": "Benín"
+      },
+      "colecciones_destacadas": [
+        "Historia del Reino de Dahomey (actual Benín)",
+        "Artefactos reales, tronos y objetos ceremoniales"
+      ]
+    }
+  ]
+}

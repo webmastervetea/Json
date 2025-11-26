@@ -1,0 +1,154 @@
+{
+  "museos_historicos_america_del_sur_destacados": [
+    {
+      "nombre": "Museo del Oro",
+      "ubicacion": {
+        "ciudad": "Bogotá",
+        "pais": "Colombia"
+      },
+      "colecciones_destacadas": [
+        "La colección más grande de objetos de orfebrería prehispánica del mundo",
+        "Artefactos de las culturas Quimbaya, Calima, Tayrona, Muisca y Zenú",
+        "Objetos de cerámica y piedra"
+      ]
+    },
+    {
+      "nombre": "Museo Nacional de Arqueología, Antropología e Historia del Perú (MNAAHP)",
+      "ubicacion": {
+        "ciudad": "Lima",
+        "pais": "Perú"
+      },
+      "colecciones_destacadas": [
+        "Artefactos y restos de las culturas preíncas e incas (Chavín, Paracas, Nazca, Moche)",
+        "Piezas de la época virreinal y republicana",
+        "Cerámica, textiles y metales prehispánicos"
+      ]
+    },
+    {
+      "nombre": "Museo Histórico Nacional (MHN)",
+      "ubicacion": {
+        "ciudad": "Buenos Aires",
+        "pais": "Argentina"
+      },
+      "colecciones_destacadas": [
+        "Historia argentina desde la época precolombina hasta 1950",
+        "Objetos de la Revolución de Mayo, la Independencia y la organización nacional",
+        "Armas, uniformes y mobiliario histórico"
+      ]
+    },
+    {
+      "nombre": "Museo Nacional de Brasil (Museu Nacional)",
+      "ubicacion": {
+        "ciudad": "Río de Janeiro",
+        "pais": "Brasil"
+      },
+      "colecciones_destacadas": [
+        "Antropología, arqueología, geología y paleontología brasileña",
+        "Colección de momias andinas y la mayor colección de meteoritos de América Latina"
+      ]
+    },
+    {
+      "nombre": "Museo Chileno de Arte Precolombino",
+      "ubicacion": {
+        "ciudad": "Santiago",
+        "pais": "Chile"
+      },
+      "colecciones_destacadas": [
+        "Arte y arqueología de diversas culturas de América (incluyendo Mesoamérica y los Andes)",
+        "Textiles andinos y piezas de las culturas Diaguita, Mapuche y Arica"
+      ]
+    },
+    {
+      "nombre": "Museo Histórico Nacional de Uruguay (MHNU)",
+      "ubicacion": {
+        "ciudad": "Montevideo",
+        "pais": "Uruguay"
+      },
+      "colecciones_destacadas": [
+        "Historia de Uruguay desde el período colonial hasta el siglo XX",
+        "Colecciones de mobiliario, indumentaria, documentos y obras de arte relacionadas con figuras históricas"
+      ]
+    },
+    {
+      "nombre": "Museo de La Casa de la Moneda",
+      "ubicacion": {
+        "ciudad": "Potosí",
+        "pais": "Bolivia"
+      },
+      "colecciones_destacadas": [
+        "Historia de la minería y acuñación de monedas durante la época colonial española",
+        "Maquinaria de acuñación original",
+        "Arte virreinal y republicano"
+      ]
+    },
+    {
+      "nombre": "Museo de la Ciudad",
+      "ubicacion": {
+        "ciudad": "Quito",
+        "pais": "Ecuador"
+      },
+      "colecciones_destacadas": [
+        "Historia de Quito, desde la época prehispánica y la fundación española hasta el siglo XX",
+        "Objetos de la vida cotidiana colonial y republicana"
+      ]
+    },
+    {
+      "nombre": "Museo de Ciencias Naturales",
+      "ubicacion": {
+        "ciudad": "Caracas",
+        "pais": "Venezuela"
+      },
+      "colecciones_destacadas": [
+        "Arqueología de la costa venezolana y los Andes",
+        "Etnografía de las poblaciones indígenas",
+        "Colecciones de historia natural y fósiles"
+      ]
+    },
+    {
+      "nombre": "Museo Etnográfico Andrés Barbero",
+      "ubicacion": {
+        "ciudad": "Asunción",
+        "pais": "Paraguay"
+      },
+      "colecciones_destacadas": [
+        "Arqueología y etnografía de Paraguay",
+        "Objetos de las misiones jesuíticas",
+        "Cultura de los pueblos indígenas Guaraníes"
+      ]
+    },
+    {
+      "nombre": "Museo Nacional de Surinam",
+      "ubicacion": {
+        "ciudad": "Paramaribo",
+        "pais": "Surinam"
+      },
+      "colecciones_destacadas": [
+        "Historia colonial neerlandesa y la esclavitud",
+        "Etnografía y arte de los cimarrones (Maroons)",
+        "Desarrollo histórico y cultural del país"
+      ]
+    },
+    {
+      "nombre": "Museo Marítimo de Guyana",
+      "ubicacion": {
+        "ciudad": "Georgetown",
+        "pais": "Guyana"
+      },
+      "colecciones_destacadas": [
+        "Historia de la navegación y la pesca en Guyana",
+        "Impacto cultural y económico de la Guayana Británica y los indios caribeños"
+      ]
+    },
+    {
+      "nombre": "Museo Histórico Nacional de Chile",
+      "ubicacion": {
+        "ciudad": "Santiago",
+        "pais": "Chile"
+      },
+      "colecciones_destacadas": [
+        "Historia política y social de Chile desde la Conquista hasta el siglo XX",
+        "Objetos relacionados con la Independencia y el periodo republicano"
+      ]
+    }
+  ]
+}

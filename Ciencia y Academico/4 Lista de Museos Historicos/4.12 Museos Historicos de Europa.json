@@ -1,0 +1,150 @@
+{
+  "museos_historicos_europa_destacados": [
+    {
+      "nombre": "Museo Británico (British Museum)",
+      "ubicacion": {
+        "ciudad": "Londres",
+        "pais": "Reino Unido"
+      },
+      "colecciones_destacadas": [
+        "Piedra de Rosetta",
+        "Frisos del Partenón (Mármoles de Elgin)",
+        "Momias egipcias y la colección de restos asirios",
+        "Artefactos de la prehistoria y del mundo antiguo"
+      ]
+    },
+    {
+      "nombre": "Museo del Louvre (con colecciones de Antigüedades)",
+      "ubicacion": {
+        "ciudad": "París",
+        "pais": "Francia"
+      },
+      "colecciones_destacadas": [
+        "Antigüedades egipcias (Esfinge del Tanis)",
+        "Antigüedades orientales (Código de Hammurabi)",
+        "Arte romano y griego (Victoria de Samotracia, Venus de Milo)"
+      ]
+    },
+    {
+      "nombre": "Museos Vaticanos (con énfasis en colecciones de Antigüedades)",
+      "ubicacion": {
+        "ciudad": "Ciudad del Vaticano",
+        "pais": "Ciudad del Vaticano"
+      },
+      "colecciones_destacadas": [
+        "Antigüedades egipcias y etruscas",
+        "Esculturas clásicas (Grupo de Laocoonte, Apolo del Belvedere)",
+        "Mapas y artefactos históricos del Vaticano"
+      ]
+    },
+    {
+      "nombre": "Museo de Pérgamo (Pergamonmuseum)",
+      "ubicacion": {
+        "ciudad": "Berlín",
+        "pais": "Alemania"
+      },
+      "colecciones_destacadas": [
+        "Altar de Pérgamo (Griego helenístico)",
+        "Puerta de Ishtar y Vía Procesional de Babilonia",
+        "Fachada de Mshatta (Arte islámico)"
+      ]
+    },
+    {
+      "nombre": "Museo Arqueológico Nacional de Atenas",
+      "ubicacion": {
+        "ciudad": "Atenas",
+        "pais": "Grecia"
+      },
+      "colecciones_destacadas": [
+        "Artefactos de la prehistoria (neolítico y cicládico)",
+        "Esculturas griegas clásicas y helenísticas (Máscara de Agamenón)",
+        "Cerámica y metalurgia de la Antigüedad"
+      ]
+    },
+    {
+      "nombre": "Museo Arqueológico Nacional (MAN)",
+      "ubicacion": {
+        "ciudad": "Madrid",
+        "pais": "España"
+      },
+      "colecciones_destacadas": [
+        "Dama de Elche (Arte íbero)",
+        "Artefactos romanos y visigodos",
+        "Tesoro de Guarrazar (Coronas visigodas)",
+        "Monedas y objetos de las culturas prehistóricas de la Península Ibérica"
+      ]
+    },
+    {
+      "nombre": "Museo del Hermitage (con colecciones de Historia Antigua)",
+      "ubicacion": {
+        "ciudad": "San Petersburgo",
+        "pais": "Rusia"
+      },
+      "colecciones_destacadas": [
+        "Artefactos de la antigua Escitia y Asia Central",
+        "Antigüedades griegas y romanas",
+        "Historia cultural rusa desde la Edad Media"
+      ]
+    },
+    {
+      "nombre": "Rijksmuseum",
+      "ubicacion": {
+        "ciudad": "Ámsterdam",
+        "pais": "Países Bajos"
+      },
+      "colecciones_destacadas": [
+        "Historia de los Países Bajos y su Siglo de Oro",
+        "Objetos de la historia naval y colonial holandesa",
+        "Pintura y arte decorativo desde la Edad Media hasta el siglo XX"
+      ]
+    },
+    {
+      "nombre": "Museo Nacional Romano (Museo Nazionale Romano)",
+      "ubicacion": {
+        "ciudad": "Roma",
+        "pais": "Italia"
+      },
+      "colecciones_destacadas": [
+        "Esculturas y objetos de la Roma antigua (incluido el Discóforo)",
+        "Numismática romana y artefactos arqueológicos de la ciudad",
+        "Termas de Diocleciano y el Palacio Massimo alle Terme"
+      ]
+    },
+    {
+      "nombre": "Museo Nacional de Arqueología (MNAC)",
+      "ubicacion": {
+        "ciudad": "Lisboa",
+        "pais": "Portugal"
+      },
+      "colecciones_destacadas": [
+        "Artefactos del Egipto antiguo (la mayor colección de Portugal)",
+        "Arqueología portuguesa (prehistórica, romana e islámica)",
+        "Colecciones de orfebrería"
+      ]
+    },
+    {
+      "nombre": "Museo Nacional de Hungría (Magyar Nemzeti Múzeum)",
+      "ubicacion": {
+        "ciudad": "Budapest",
+        "pais": "Hungría"
+      },
+      "colecciones_destacadas": [
+        "Historia de Hungría desde la fundación hasta el comunismo",
+        "Joyas de la coronación y el pasado austrohúngaro",
+        "Arqueología de la cuenca de los Cárpatos"
+      ]
+    },
+    {
+      "nombre": "Museo Nacional de Irlanda",
+      "ubicacion": {
+        "ciudad": "Dublín",
+        "pais": "Irlanda"
+      },
+      "colecciones_destacadas": [
+        "Arqueología (incluidos el tesoro de Tara y el cáliz de Ardagh)",
+        "Historia de la Irlanda antigua y medieval",
+        "Objetos de la época vikinga"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "paises_con_museos_historicos_destacados": {
+    "Asia": [
+      "China",
+      "Taiwán",
+      "Japón",
+      "Irán",
+      "India",
+      "Vietnam",
+      "Malasia",
+      "Corea del Sur",
+      "Tailandia",
+      "Indonesia",
+      "Singapur",
+      "Irak",
+      "Sri Lanka",
+      "Filipinas",
+      "Turquía",
+      "Qatar"
+    ],
+    "África": [
+      "Egipto",
+      "Sudáfrica",
+      "Kenia",
+      "Nigeria",
+      "Túnez",
+      "Malí",
+      "Senegal",
+      "Etiopía",
+      "Zimbabue",
+      "Marruecos",
+      "Sudán",
+      "Ruanda",
+      "Argelia",
+      "Benín"
+    ],
+    "América del Norte": [
+      "Estados Unidos",
+      "México",
+      "Canadá"
+    ],
+    "América del Sur": [
+      "Colombia",
+      "Perú",
+      "Argentina",
+      "Brasil",
+      "Chile",
+      "Uruguay",
+      "Bolivia",
+      "Ecuador",
+      "Venezuela",
+      "Paraguay",
+      "Surinam",
+      "Guyana"
+    ],
+    "Europa": [
+      "Reino Unido",
+      "Francia",
+      "Ciudad del Vaticano",
+      "Alemania",
+      "Grecia",
+      "España",
+      "Rusia",
+      "Polonia",
+      "Dinamarca",
+      "Países Bajos",
+      "Italia",
+      "Portugal",
+      "Hungría",
+      "Irlanda"
+    ],
+    "Oceanía": [
+      "Australia"
+    ]
+  }
+}

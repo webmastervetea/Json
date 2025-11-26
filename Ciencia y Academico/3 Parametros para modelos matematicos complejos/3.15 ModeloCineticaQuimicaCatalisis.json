@@ -1,0 +1,41 @@
+{
+  "tipo_modelo": "Cinética Química/Catálisis",
+  "aplicacion": "Diseño de reactores químicos, optimización de procesos catalíticos, modelado de reacciones biológicas.",
+  "parametros": [
+    {
+      "nombre": "Constante de Velocidad de Reacción",
+      "simbolo": "$ k $",
+      "modelo_ejemplo": "Ley de Velocidad de Reacción",
+      "descripcion": "Un parámetro empírico que relaciona la velocidad de una reacción química con las concentraciones de los reactivos.",
+      "ejemplo_rango": "$ (0, \\infty) $ (unidades variables)"
+    },
+    {
+      "nombre": "Energía de Activación",
+      "simbolo": "$ E_a $",
+      "modelo_ejemplo": "Ecuación de Arrhenius",
+      "descripcion": "La energía mínima requerida para que una reacción química tenga lugar. Determina la dependencia de la constante de velocidad con la temperatura.",
+      "ejemplo_rango": "$ (0, \\infty) $ $ J/mol $ "
+    },
+    {
+      "nombre": "Factor Pre-Exponencial (Factor de Frecuencia)",
+      "simbolo": "$ A $",
+      "modelo_ejemplo": "Ecuación de Arrhenius",
+      "descripcion": "Representa la frecuencia de las colisiones moleculares con la orientación correcta para reaccionar. Es la parte de $ k $ que no depende de la temperatura.",
+      "ejemplo_rango": "$ (0, \\infty) $"
+    },
+    {
+      "nombre": "Órdenes de Reacción",
+      "simbolo": "$ n, m, ... $",
+      "modelo_ejemplo": "Ley de Velocidad",
+      "descripcion": "Exponentes en la ley de velocidad que indican cómo la velocidad de reacción depende de la concentración de cada reactivo (ej. $ \\text{velocidad} \\propto [A]^n[B]^m $).",
+      "ejemplo_rango": "$ [0, 3] $"
+    },
+    {
+      "nombre": "Constante de Adsorción (Catalizador)",
+      "simbolo": "$ K_i $",
+      "modelo_ejemplo": "Modelo de Langmuir-Hinshelwood",
+      "descripcion": "Mide la fuerza con la que una especie química se une a la superficie del catalizador. Clave para modelar la catálisis heterogénea.",
+      "ejemplo_rango": "$ (0, \\infty) $"
+    }
+  ]
+}

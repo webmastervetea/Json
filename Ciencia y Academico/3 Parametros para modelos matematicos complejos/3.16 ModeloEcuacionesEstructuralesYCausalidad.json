@@ -1,0 +1,41 @@
+{
+  "tipo_modelo": "Ecuaciones Estructurales y Causalidad",
+  "aplicacion": "Ciencias sociales, economía, psicología, modelos de camino (path analysis).",
+  "parametros": [
+    {
+      "nombre": "Cargas Factoriales (Factor Loadings)",
+      "simbolo": "$ \\lambda_{ij} $",
+      "modelo_ejemplo": "Análisis Factorial Confirmatorio (CFA)",
+      "descripcion": "Miden la fuerza de la relación entre una variable observada (ítems de un cuestionario) y su variable latente (factor) subyacente. Es análogo a un coeficiente de regresión.",
+      "ejemplo_rango": "$ [-1, 1] $"
+    },
+    {
+      "nombre": "Varianza de Error",
+      "simbolo": "$ \\theta_{\\epsilon} $",
+      "modelo_ejemplo": "Modelos SEM (Structural Equation Modeling)",
+      "descripcion": "La porción de la varianza de una variable observada que NO es explicada por su variable latente. Representa el error de medición o la varianza específica del ítem.",
+      "ejemplo_rango": "$ [0, \\infty) $"
+    },
+    {
+      "nombre": "Coeficientes de Trayectoria (Path Coefficients)",
+      "simbolo": "$ \\beta $ o $ \\gamma $",
+      "modelo_ejemplo": "Análisis de Trayectoria (Path Analysis)",
+      "descripcion": "Miden el efecto directo de una variable (latente o observada) sobre otra. Son coeficientes de regresión entre las variables del modelo.",
+      "ejemplo_rango": "$ (-\\infty, \\infty) $"
+    },
+    {
+      "nombre": "Correlación entre Factores Latentes",
+      "simbolo": "$ \\phi_{ij} $",
+      "modelo_ejemplo": "Modelos de Ecuaciones Estructurales",
+      "descripcion": "Mide el grado de asociación entre dos variables latentes (no observadas directamente).",
+      "ejemplo_rango": "$ [-1, 1] $"
+    },
+    {
+      "nombre": "Parámetro de Intercepto (Regresión)",
+      "simbolo": "$ \\alpha $",
+      "modelo_ejemplo": "Modelos de Regresión y SEM",
+      "descripcion": "El valor predicho de la variable dependiente cuando todas las variables independientes son cero.",
+      "ejemplo_rango": "$ (-\\infty, \\infty) $"
+    }
+  ]
+}

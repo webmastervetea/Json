@@ -1,0 +1,48 @@
+{
+  "tipo_modelo": "Geofísica/Modelos de la Tierra",
+  "aplicacion": "Sismología, hidrología, meteorología, exploración de recursos naturales.",
+  "parametros": [
+    {
+      "nombre": "Permeabilidad del Medio",
+      "simbolo": "$ k $",
+      "modelo_ejemplo": "Ley de Darcy (Flujo de Aguas Subterráneas)",
+      "descripcion": "Mide la capacidad de un material poroso (roca o suelo) para permitir el paso de fluidos. Es fundamental en modelos hidrológicos.",
+      "ejemplo_rango": "$ (0, \\infty) $ (unidades de Darcios)"
+    },
+    {
+      "nombre": "Porosidad del Medio",
+      "simbolo": "$ \\phi $",
+      "modelo_ejemplo": "Modelos de Almacenamiento de Fluidos",
+      "descripcion": "El porcentaje del volumen total de un material que está ocupado por espacios vacíos o poros. Afecta la capacidad de almacenamiento.",
+      "ejemplo_rango": "$ [0, 1] $"
+    },
+    {
+      "nombre": "Velocidad de Onda P (Primaria)",
+      "simbolo": "$ v_p $",
+      "modelo_ejemplo": "Sismología",
+      "descripcion": "La velocidad a la que viajan las ondas sísmicas de compresión a través del medio. Depende de la densidad y los módulos elásticos del material.",
+      "ejemplo_rango": "$ (0, \\infty) $"
+    },
+    {
+      "nombre": "Viscosidad Dinámica",
+      "simbolo": "$ \\mu $",
+      "modelo_ejemplo": "Ecuaciones de Navier-Stokes (Meteorología)",
+      "descripcion": "Una medida de la resistencia interna de un fluido al flujo. Afecta la forma en que el aire o el agua circulan en el planeta.",
+      "ejemplo_rango": "$ (0, \\infty) $"
+    },
+    {
+      "nombre": "Densidad del Manto/Núcleo",
+      "simbolo": "$ \\rho_i $",
+      "modelo_ejemplo": "Modelos de Estructura de la Tierra",
+      "descripcion": "La densidad promedio de las diferentes capas internas de la Tierra. Afecta el campo gravitatorio y la dinámica geológica.",
+      "ejemplo_rango": "$ (2000, 13000) $ $ kg/m^3 $ "
+    },
+    {
+      "nombre": "Fuerza de Coriolis",
+      "simbolo": "$ f $",
+      "modelo_ejemplo": "Modelos Atmosféricos y Oceánicos",
+      "descripcion": "El parámetro que representa el efecto de la rotación de la Tierra en el movimiento de las masas de aire y agua, causando desviaciones en las trayectorias.",
+      "ejemplo_rango": "$ (-\\infty, \\infty) $"
+    }
+  ]
+}

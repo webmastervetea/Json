@@ -1,0 +1,41 @@
+{
+  "tipo_modelo": "Física de Partículas/Astrofísica",
+  "aplicacion": "Cosmología, física de altas energías, simulación de la evolución estelar.",
+  "parametros": [
+    {
+      "nombre": "Masa de las Partículas Elementales",
+      "simbolo": "$ m_e, m_{\\mu}, m_{\\tau}, ... $",
+      "modelo_ejemplo": "Modelo Estándar de la Física de Partículas",
+      "descripcion": "Las masas de los leptones (electrón, muón, tau) y los quarks (up, down, etc.) son parámetros que deben medirse experimentalmente y no son predichos por el Modelo Estándar.",
+      "ejemplo_rango": "$ [0, \\infty) $ (unidades de $ MeV/c^2 $)"
+    },
+    {
+      "nombre": "Constante de Estructura Fina",
+      "simbolo": "$ \\alpha $",
+      "modelo_ejemplo": "Electrodinámica Cuántica (QED)",
+      "descripcion": "Mide la fuerza de la interacción electromagnética. Su valor es aproximadamente $ 1/137 $ y es adimensional.",
+      "ejemplo_rango": "Fijo ($ \\approx 1/137.036 $)"
+    },
+    {
+      "nombre": "Constante Cosmológica",
+      "simbolo": "$ \\Lambda $",
+      "modelo_ejemplo": "Modelo Estándar de la Cosmología ($ \\Lambda \\text{CDM} $)",
+      "descripcion": "Representa la densidad de energía del vacío (energía oscura) que está causando la expansión acelerada del universo. Es el parámetro principal que introduce la energía oscura.",
+      "ejemplo_rango": "$ (0, \\infty) $ (unidades de densidad)"
+    },
+    {
+      "nombre": "Densidad de Materia Oscura",
+      "simbolo": "$ \\Omega_{c} $",
+      "modelo_ejemplo": "Modelo $ \\Lambda \\text{CDM} $",
+      "descripcion": "La proporción de la densidad total del universo que está compuesta por materia oscura fría. Un componente crucial de la masa total del universo que no interactúa con la luz.",
+      "ejemplo_rango": "$ [0, 1] $"
+    },
+    {
+      "nombre": "Parámetro de Hubble (Constante de Hubble)",
+      "simbolo": "$ H_0 $",
+      "modelo_ejemplo": "Expansión del Universo (Ley de Hubble)",
+      "descripcion": "Mide la tasa actual de expansión del universo (la velocidad a la que una galaxia se aleja de nosotros por unidad de distancia).",
+      "ejemplo_rango": "$ [60, 80] $ $ km/s/Mpc $ "
+    }
+  ]
+}

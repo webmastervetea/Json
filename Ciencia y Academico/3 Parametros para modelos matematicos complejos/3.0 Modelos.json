@@ -1,0 +1,200 @@
+{
+  "lista_completa_de_modelos": [
+    {
+      "nombre_modelo": "General y Mixto (Parámetros Comunes)",
+      "descripcion": "Parámetros genéricos aplicables a optimización, simulación dinámica y modelos de crecimiento.",
+      "parametros": [
+        {"nombre": "Tasa de Aprendizaje (Learning Rate)", "simbolo": "$ \\alpha $", "tipo_modelo": "Aprendizaje Automático"},
+        {"nombre": "Época (Epoch)", "simbolo": "N_epochs", "tipo_modelo": "Aprendizaje Automático"},
+        {"nombre": "Tamaño del Lote (Batch Size)", "simbolo": "B", "tipo_modelo": "Aprendizaje Automático"},
+        {"nombre": "Coeficiente de Amortiguamiento (Damping Ratio)", "simbolo": "$ \\zeta $", "tipo_modelo": "Sistemas Dinámicos"},
+        {"nombre": "Frecuencia Natural No Amortiguada", "simbolo": "$ \\omega_n $", "tipo_modelo": "Sistemas Dinámicos"},
+        {"nombre": "Inercia/Momento (Momentum)", "simbolo": "$ \\beta $", "tipo_modelo": "Optimización"},
+        {"nombre": "Constante de Tiempo (Time Constant)", "simbolo": "$ \\tau $", "tipo_modelo": "Sistemas de Control"},
+        {"nombre": "Término de Regularización", "simbolo": "$ \\lambda $", "tipo_modelo": "Aprendizaje Automático"},
+        {"nombre": "Capacidad de Carga", "simbolo": "$ K $", "tipo_modelo": "Modelos Poblacionales"},
+        {"nombre": "Tasa de Crecimiento Intrínseca", "simbolo": "$ r $", "tipo_modelo": "Modelos Poblacionales"},
+        {"nombre": "Paso de Tiempo", "simbolo": "$ \\Delta t $", "tipo_modelo": "Simulación Numérica"},
+        {"nombre": "Tamaño de Malla", "simbolo": "$ h $", "tipo_modelo": "Métodos de Elementos Finitos"},
+        {"nombre": "Probabilidad de Mutación", "simbolo": "$ P_m $", "tipo_modelo": "Algoritmos Genéticos"},
+        {"nombre": "Número de Individuos", "simbolo": "$ N_{pop} $", "tipo_modelo": "Algoritmos Genéticos"},
+        {"nombre": "Umbral de Activación", "simbolo": "$ \\theta $", "tipo_modelo": "Redes Neuronales"}
+      ]
+    },
+    {
+      "nombre_modelo": "Financiero y Económico",
+      "descripcion": "Modelos de valoración de activos y series temporales estocásticas.",
+      "parametros": [
+        {"nombre": "Volatilidad Histórica/Implícita", "simbolo": "$ \\sigma $", "modelo_ejemplo": "Black-Scholes"},
+        {"nombre": "Tasa de Interés Libre de Riesgo", "simbolo": "$ r $", "modelo_ejemplo": "Valoración de Opciones"},
+        {"nombre": "Precio Actual del Activo Subyacente", "simbolo": "$ S $", "modelo_ejemplo": "Valoración de Derivados"},
+        {"nombre": "Precio de Ejercicio (Strike Price)", "simbolo": "$ K $", "modelo_ejemplo": "Modelos de Opciones"},
+        {"nombre": "Horizonte Temporal (Tiempo hasta el Vencimiento)", "simbolo": "$ T $", "modelo_ejemplo": "Modelos de Series Temporales"},
+        {"nombre": "Factor de Descuento/Depreciación", "simbolo": "$ \\delta $", "modelo_ejemplo": "Modelos Macroeconómicos"}
+      ]
+    },
+    {
+      "nombre_modelo": "Biológico y Ecológico",
+      "descripcion": "Modelos de dinámica de poblaciones y epidemiología.",
+      "parametros": [
+        {"nombre": "Tasa de Crecimiento Intrínseca", "simbolo": "$ r $", "modelo_ejemplo": "Logístico/Lotka-Volterra"},
+        {"nombre": "Capacidad de Carga", "simbolo": "$ K $", "modelo_ejemplo": "Modelo Logístico"},
+        {"nombre": "Tasa de Contacto/Transmisión", "simbolo": "$ \\beta $", "modelo_ejemplo": "Modelo SIR"},
+        {"nombre": "Tasa de Recuperación", "simbolo": "$ \\gamma $", "modelo_ejemplo": "Modelo SIR"},
+        {"nombre": "Eficiencia/Tasa de Depredación", "simbolo": "$ a $", "modelo_ejemplo": "Lotka-Volterra"},
+        {"nombre": "Tasa de Muerte de Depredadores", "simbolo": "$ \\delta $", "modelo_ejemplo": "Lotka-Volterra"}
+      ]
+    },
+    {
+      "nombre_modelo": "Control y Robótica",
+      "descripcion": "Parámetros de controladores y dinámica de sistemas robóticos.",
+      "parametros": [
+        {"nombre": "Ganancia Proporcional", "simbolo": "$ K_p $", "modelo_ejemplo": "Controlador PID"},
+        {"nombre": "Ganancia Integral", "simbolo": "$ K_i $", "modelo_ejemplo": "Controlador PID"},
+        {"nombre": "Ganancia Derivativa", "simbolo": "$ K_d $", "modelo_ejemplo": "Controlador PID"},
+        {"nombre": "Masa de Carga/Efector Final", "simbolo": "$ m_L $", "modelo_ejemplo": "Dinámica Robótica"},
+        {"nombre": "Longitud/Dimensión del Eslabón", "simbolo": "$ L_i $", "modelo_ejemplo": "Cinemática Robótica"},
+        {"nombre": "Parámetros de Observación del Ruido", "simbolo": "$ R $", "modelo_ejemplo": "Filtro de Kalman"}
+      ]
+    },
+    {
+      "nombre_modelo": "Estocástico y Series Temporales",
+      "descripcion": "Modelos que incorporan incertidumbre y dependencia temporal.",
+      "parametros": [
+        {"nombre": "Media de Largo Plazo", "simbolo": "$ \\mu $", "modelo_ejemplo": "Ornstein-Uhlenbeck"},
+        {"nombre": "Velocidad de Reversión a la Media", "simbolo": "$ \\theta $ o $ \\kappa $", "modelo_ejemplo": "Ornstein-Uhlenbeck"},
+        {"nombre": "Volatilidad del Ruido", "simbolo": "$ \\sigma $", "modelo_ejemplo": "Movimiento Browniano Geométrico"},
+        {"nombre": "Orden Autorregresivo", "simbolo": "$ p $", "modelo_ejemplo": "Modelos ARIMA"},
+        {"nombre": "Orden de Media Móvil", "simbolo": "$ q $", "modelo_ejemplo": "Modelos ARIMA"},
+        {"nombre": "Grado de Diferenciación", "simbolo": "$ d $", "modelo_ejemplo": "Modelos ARIMA"}
+      ]
+    },
+    {
+      "nombre_modelo": "Aprendizaje Automático y Regresión",
+      "descripcion": "Hiperparámetros que controlan la complejidad y el rendimiento de los modelos ML.",
+      "parametros": [
+        {"nombre": "Número de Estimadores/Árboles", "simbolo": "$ N_{estimators} $", "modelo_ejemplo": "Random Forest"},
+        {"nombre": "Profundidad Máxima del Árbol", "simbolo": "$ max\_depth $", "modelo_ejemplo": "Árboles de Decisión"},
+        {"nombre": "Número de Vecinos", "simbolo": "$ k $", "modelo_ejemplo": "k-NN"},
+        {"nombre": "Término de Suavizado (C)", "simbolo": "$ C $", "modelo_ejemplo": "SVM"},
+        {"nombre": "Factor de Inercia", "simbolo": "$ \\omega $", "modelo_ejemplo": "Optimización PSO"},
+        {"nombre": "Coeficiente de Regulación (Alpha)", "simbolo": "$ \\alpha $", "modelo_ejemplo": "Regresión Ridge/Lasso"}
+      ]
+    },
+    {
+      "nombre_modelo": "Termodinámica y Transferencia de Calor",
+      "descripcion": "Modelos de flujo de energía y propiedades de materiales.",
+      "parametros": [
+        {"nombre": "Conductividad Térmica", "simbolo": "$ k $", "modelo_ejemplo": "Ley de Fourier"},
+        {"nombre": "Capacidad Calorífica Específica", "simbolo": "$ c_p $", "modelo_ejemplo": "Balance de Energía"},
+        {"nombre": "Densidad del Material", "simbolo": "$ \\rho $", "modelo_ejemplo": "Ecuación de Continuidad"},
+        {"nombre": "Coeficiente de Transferencia de Calor por Convección", "simbolo": "$ h $", "modelo_ejemplo": "Ley de Enfriamiento de Newton"},
+        {"nombre": "Emisividad", "simbolo": "$ \\varepsilon $", "modelo_ejemplo": "Ley de Stefan-Boltzmann"},
+        {"nombre": "Presión Crítica", "simbolo": "$ P_c $", "modelo_ejemplo": "Ecuaciones de Estado"}
+      ]
+    },
+    {
+      "nombre_modelo": "Redes y Teoría de Grafos",
+      "descripcion": "Modelos de sistemas de relaciones complejas y topologías.",
+      "parametros": [
+        {"nombre": "Número de Nodos (Vértices)", "simbolo": "$ |V| $", "modelo_ejemplo": "Cualquier Grafo"},
+        {"nombre": "Número de Aristas (Enlaces)", "simbolo": "$ |E| $", "modelo_ejemplo": "Cualquier Grafo"},
+        {"nombre": "Probabilidad de Conexión", "simbolo": "$ p $", "modelo_ejemplo": "Grafo Aleatorio"},
+        {"nombre": "Exponente de Escala", "simbolo": "$ \\gamma $", "modelo_ejemplo": "Barabási-Albert"},
+        {"nombre": "Peso del Enlace", "simbolo": "$ w_{ij} $", "modelo_ejemplo": "Algoritmo de Dijkstra"},
+        {"nombre": "Coeficiente de Agrupamiento Promedio", "simbolo": "$ C $", "modelo_ejemplo": "Redes Pequeño Mundo"}
+      ]
+    },
+    {
+      "nombre_modelo": "Mecánica Cuántica y Ondas",
+      "descripcion": "Parámetros de la Ecuación de Schrödinger y fenómenos ondulatorios.",
+      "parametros": [
+        {"nombre": "Masa de la Partícula", "simbolo": "$ m $", "modelo_ejemplo": "Ecuación de Schrödinger"},
+        {"nombre": "Constante de Planck Reducida", "simbolo": "$ \\hbar $", "modelo_ejemplo": "Todas las ecuaciones cuánticas"},
+        {"nombre": "Potencial (Energía Potencial)", "simbolo": "$ V(\\mathbf{r}) $", "modelo_ejemplo": "Ecuación de Schrödinger"},
+        {"nombre": "Longitud de Onda", "simbolo": "$ \\lambda $", "modelo_ejemplo": "Óptica/Difracción"},
+        {"nombre": "Índice de Refracción", "simbolo": "$ n $", "modelo_ejemplo": "Óptica/Ecuaciones de Fresnel"},
+        {"nombre": "Número de Orbitales/Bases", "simbolo": "$ N_{orb} $", "modelo_ejemplo": "Química Cuántica"}
+      ]
+    },
+    {
+      "nombre_modelo": "Procesamiento de Imágenes y Visión por Computadora",
+      "descripcion": "Parámetros de filtros, kernels y capas de redes neuronales convolucionales.",
+      "parametros": [
+        {"nombre": "Tamaño del Kernel (Filtro)", "simbolo": "$ K \\times K $", "modelo_ejemplo": "CNN/Filtros"},
+        {"nombre": "Stride (Paso)", "simbolo": "$ s $", "modelo_ejemplo": "CNN"},
+        {"nombre": "Padding (Relleno)", "simbolo": "$ p $", "modelo_ejemplo": "CNN"},
+        {"nombre": "Umbral de Binarización", "simbolo": "$ T $", "modelo_ejemplo": "Umbral de Otsu"},
+        {"nombre": "Número de Capas Convolucionales", "simbolo": "$ N_{layers} $", "modelo_ejemplo": "CNN Profunda"},
+        {"nombre": "Radio de Búsqueda/Varianza", "simbolo": "$ \\sigma $", "modelo_ejemplo": "Filtros Gaussianos"}
+      ]
+    },
+    {
+      "nombre_modelo": "Control Robusto y Óptimo",
+      "descripcion": "Parámetros de optimización de trayectoria y robustez del sistema.",
+      "parametros": [
+        {"nombre": "Horizonte de Control", "simbolo": "$ N_u $", "modelo_ejemplo": "MPC"},
+        {"nombre": "Horizonte de Predicción", "simbolo": "$ N_p $", "modelo_ejemplo": "MPC"},
+        {"nombre": "Matriz de Costo del Estado", "simbolo": "$ Q $", "modelo_ejemplo": "LQR/MPC"},
+        {"nombre": "Matriz de Costo del Actuador", "simbolo": "$ R $", "modelo_ejemplo": "LQR/MPC"},
+        {"nombre": "Ganancia de Límite $ H_{\\infty} $", "simbolo": "$ \\gamma $", "modelo_ejemplo": "Control $ H_{\\infty} $"}
+      ]
+    },
+    {
+      "nombre_modelo": "Geofísicos y de la Tierra",
+      "descripcion": "Modelos de flujo de fluidos, sismología y dinámica planetaria.",
+      "parametros": [
+        {"nombre": "Permeabilidad del Medio", "simbolo": "$ k $", "modelo_ejemplo": "Ley de Darcy"},
+        {"nombre": "Porosidad del Medio", "simbolo": "$ \\phi $", "modelo_ejemplo": "Almacenamiento de Fluidos"},
+        {"nombre": "Velocidad de Onda P (Primaria)", "simbolo": "$ v_p $", "modelo_ejemplo": "Sismología"},
+        {"nombre": "Viscosidad Dinámica", "simbolo": "$ \\mu $", "modelo_ejemplo": "Navier-Stokes"},
+        {"nombre": "Densidad del Manto/Núcleo", "simbolo": "$ \\rho_i $", "modelo_ejemplo": "Estructura de la Tierra"},
+        {"nombre": "Fuerza de Coriolis", "simbolo": "$ f $", "modelo_ejemplo": "Modelos Atmosféricos"}
+      ]
+    },
+    {
+      "nombre_modelo": "Mecánica de Sólidos y Materiales",
+      "descripcion": "Modelos de deformación, elasticidad y fatiga de materiales.",
+      "parametros": [
+        {"nombre": "Módulo de Young", "simbolo": "$ E $", "modelo_ejemplo": "Ley de Hooke"},
+        {"nombre": "Coeficiente de Poisson", "simbolo": "$ \\nu $", "modelo_ejemplo": "Teoría de la Elasticidad"},
+        {"nombre": "Límite Elástico (Yield Strength)", "simbolo": "$ \\sigma_y $", "modelo_ejemplo": "Plasticidad (Von Mises)"},
+        {"nombre": "Factor de Intensidad de Esfuerzo", "simbolo": "$ K_I $", "modelo_ejemplo": "Mecánica de Fractura"},
+        {"nombre": "Coeficiente de Histéresis", "simbolo": "$ \\eta $", "modelo_ejemplo": "Modelos Viscoelásticos"}
+      ]
+    },
+    {
+      "nombre_modelo": "Cinética Química y Catálisis",
+      "descripcion": "Modelos de velocidad de reacción, energía y catálisis.",
+      "parametros": [
+        {"nombre": "Constante de Velocidad de Reacción", "simbolo": "$ k $", "modelo_ejemplo": "Ley de Velocidad"},
+        {"nombre": "Energía de Activación", "simbolo": "$ E_a $", "modelo_ejemplo": "Ecuación de Arrhenius"},
+        {"nombre": "Factor Pre-Exponencial", "simbolo": "$ A $", "modelo_ejemplo": "Ecuación de Arrhenius"},
+        {"nombre": "Órdenes de Reacción", "simbolo": "$ n, m, ... $", "modelo_ejemplo": "Ley de Velocidad"},
+        {"nombre": "Constante de Adsorción (Catalizador)", "simbolo": "$ K_i $", "modelo_ejemplo": "Langmuir-Hinshelwood"}
+      ]
+    },
+    {
+      "nombre_modelo": "Ecuaciones Estructurales y Causalidad",
+      "descripcion": "Modelos de relaciones causales y variables latentes (Ciencias Sociales y Economía).",
+      "parametros": [
+        {"nombre": "Cargas Factoriales (Factor Loadings)", "simbolo": "$ \\lambda_{ij} $", "modelo_ejemplo": "CFA"},
+        {"nombre": "Varianza de Error", "simbolo": "$ \\theta_{\\epsilon} $", "modelo_ejemplo": "Modelos SEM"},
+        {"nombre": "Coeficientes de Trayectoria", "simbolo": "$ \\beta $ o $ \\gamma $", "modelo_ejemplo": "Análisis de Trayectoria"},
+        {"nombre": "Correlación entre Factores Latentes", "simbolo": "$ \\phi_{ij} $", "modelo_ejemplo": "Modelos SEM"},
+        {"nombre": "Parámetro de Intercepto", "simbolo": "$ \\alpha $", "modelo_ejemplo": "Regresión y SEM"}
+      ]
+    },
+    {
+      "nombre_modelo": "Física de Partículas y Astrofísica",
+      "descripcion": "Parámetros del Modelo Estándar, Cosmología y Fuerzas Fundamentales.",
+      "parametros": [
+        {"nombre": "Masa de las Partículas Elementales", "simbolo": "$ m_e, m_{\\mu}, ... $", "modelo_ejemplo": "Modelo Estándar"},
+        {"nombre": "Constante de Estructura Fina", "simbolo": "$ \\alpha $", "modelo_ejemplo": "Electrodinámica Cuántica"},
+        {"nombre": "Constante Cosmológica", "simbolo": "$ \\Lambda $", "modelo_ejemplo": "Modelo $ \\Lambda \\text{CDM} $"},
+        {"nombre": "Densidad de Materia Oscura", "simbolo": "$ \\Omega_{c} $", "modelo_ejemplo": "Modelo $ \\Lambda \\text{CDM} $"},
+        {"nombre": "Parámetro de Hubble", "simbolo": "$ H_0 $", "modelo_ejemplo": "Expansión del Universo"}
+      ]
+    }
+  ]
+}

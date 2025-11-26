@@ -1,0 +1,41 @@
+{
+  "tipo_modelo": "Teoría de Control Robusto/Óptimo",
+  "aplicacion": "Diseño de sistemas de control para aeronáutica, control de procesos complejos, robótica avanzada.",
+  "parametros": [
+    {
+      "nombre": "Horizonte de Control (Control Horizon)",
+      "simbolo": "$ N_u $",
+      "modelo_ejemplo": "Control Predictivo Basado en Modelo (MPC)",
+      "descripcion": "El número de pasos futuros en los que el controlador calcula o 'predice' las acciones de control. Define cuántas decisiones futuras se optimizan.",
+      "ejemplo_rango": "$ [1, 20] $"
+    },
+    {
+      "nombre": "Horizonte de Predicción (Prediction Horizon)",
+      "simbolo": "$ N_p $",
+      "modelo_ejemplo": "Control Predictivo Basado en Modelo (MPC)",
+      "descripcion": "El número de pasos futuros en los que el controlador predice el estado del sistema. Suele ser mayor o igual al horizonte de control.",
+      "ejemplo_rango": "$ [5, 100] $"
+    },
+    {
+      "nombre": "Matriz de Costo del Estado",
+      "simbolo": "$ Q $",
+      "modelo_ejemplo": "Control Lineal Cuadrático (LQR) / MPC",
+      "descripcion": "Pondera el costo de desviarse del estado deseado (error). Se utiliza para minimizar las desviaciones del sistema en la función de costo.",
+      "ejemplo_rango": "Matriz de pesos (valores positivos)"
+    },
+    {
+      "nombre": "Matriz de Costo del Actuador",
+      "simbolo": "$ R $",
+      "modelo_ejemplo": "Control Lineal Cuadrático (LQR) / MPC",
+      "descripcion": "Pondera el costo de las acciones de control (esfuerzo del actuador). Se utiliza para evitar un uso excesivo o innecesario de la energía de control.",
+      "ejemplo_rango": "Matriz de pesos (valores positivos)"
+    },
+    {
+      "nombre": "Ganancia de Límite $ H_{\\infty} $",
+      "simbolo": "$ \\gamma $",
+      "modelo_ejemplo": "Control Robusto $ H_{\\infty} $",
+      "descripcion": "Un límite superior aceptable en la ganancia en lazo cerrado desde la entrada de perturbación hasta la salida controlada. Mide la robustez.",
+      "ejemplo_rango": "$ (0, \\infty) $"
+    }
+  ]
+}

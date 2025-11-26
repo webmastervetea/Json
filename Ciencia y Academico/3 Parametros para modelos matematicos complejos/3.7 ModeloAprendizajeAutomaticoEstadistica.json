@@ -1,0 +1,48 @@
+{
+  "tipo_modelo": "Aprendizaje Automático/Estadística",
+  "aplicacion": "Clasificación, regresión, reducción de dimensionalidad.",
+  "parametros": [
+    {
+      "nombre": "Número de Estimadores/Árboles",
+      "simbolo": "$ N_{estimators} $",
+      "modelo_ejemplo": "Random Forest / Gradient Boosting",
+      "descripcion": "El número de árboles de decisión individuales que se construyen en el conjunto. A más árboles, mayor precisión, pero mayor coste computacional.",
+      "ejemplo_rango": "$ [10, 1000] $"
+    },
+    {
+      "nombre": "Profundidad Máxima del Árbol",
+      "simbolo": "$ max\_depth $",
+      "modelo_ejemplo": "Árboles de Decisión / Ensembles",
+      "descripcion": "El camino más largo desde la raíz hasta una hoja. Controla la complejidad del árbol y previene el sobreajuste (overfitting).",
+      "ejemplo_rango": "$ [1, \\infty) $"
+    },
+    {
+      "nombre": "Número de Vecinos",
+      "simbolo": "$ k $",
+      "modelo_ejemplo": "k-Nearest Neighbors (k-NN)",
+      "descripcion": "El número de puntos de datos más cercanos a un nuevo punto que se consideran para su clasificación o regresión. Determina la suavidad de la frontera de decisión.",
+      "ejemplo_rango": "$ [1, \\infty) $"
+    },
+    {
+      "nombre": "Término de Suavizado (C)",
+      "simbolo": "$ C $",
+      "modelo_ejemplo": "Support Vector Machines (SVM)",
+      "descripcion": "Controla la penalización por una clasificación errónea. Un $ C $ alto busca una frontera estricta (puede sobreajustar); un $ C $ bajo permite más errores (subajuste).",
+      "ejemplo_rango": "$ [0, \\infty) $"
+    },
+    {
+      "nombre": "Factor de Inercia (Inertia Weight)",
+      "simbolo": "$ \\omega $",
+      "modelo_ejemplo": "Optimización por Enjambre de Partículas (PSO)",
+      "descripcion": "Controla la tendencia de cada partícula a mantener su velocidad actual. Un valor alto fomenta la exploración global.",
+      "ejemplo_rango": "$ [0, 1] $"
+    },
+    {
+      "nombre": "Coeficiente de Regulación (Alpha)",
+      "simbolo": "$ \\alpha $",
+      "modelo_ejemplo": "Regresión Ridge / Lasso",
+      "descripcion": "La magnitud de la penalización impuesta a los coeficientes del modelo para reducir su varianza y prevenir el sobreajuste.",
+      "ejemplo_rango": "$ [0, \\infty) $"
+    }
+  ]
+}

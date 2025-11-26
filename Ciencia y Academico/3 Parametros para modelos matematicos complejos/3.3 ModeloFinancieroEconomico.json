@@ -1,0 +1,76 @@
+{
+  "tipo_modelo": "General/Extendido",
+  "descripcion": "Lista extendida de parámetros comunes para diversos modelos matemáticos complejos, incluyendo Simulación, Optimización y EDP.",
+  "parametros": [
+    {
+      "nombre": "Tasa de Aprendizaje (Learning Rate)",
+      "simbolo": "$ \\alpha $",
+      "tipo_modelo": "Aprendizaje Automático/Optimización",
+      "descripcion": "Determina el tamaño del paso en cada iteración al buscar el mínimo de una función de coste. Un valor crucial para la convergencia.",
+      "ejemplo_rango": "[0.001, 0.1]"
+    },
+    {
+      "nombre": "Coeficiente de Difusión (Diffusion Coefficient)",
+      "simbolo": "$ D $",
+      "tipo_modelo": "EDP/Simulación (Física/Química)",
+      "descripcion": "Mide la velocidad a la que una sustancia o propiedad (como el calor) se propaga en un medio. Clave en la Ecuación del Calor o Fick.",
+      "ejemplo_rango": "$ (0, \\infty] $"
+    },
+    {
+      "nombre": "Número de Reynolds",
+      "simbolo": "$ Re $",
+      "tipo_modelo": "Dinámica de Fluidos (EDP)",
+      "descripcion": "Parámetro adimensional que relaciona las fuerzas inerciales con las fuerzas viscosas y predice los patrones de flujo (Laminar vs. Turbulento). ",
+      "ejemplo_rango": "$ (0, \\infty) $"
+    },
+    {
+      "nombre": "Masa del Sistema (System Mass)",
+      "simbolo": "$ m $",
+      "tipo_modelo": "Sistemas Dinámicos/Mecánica",
+      "descripcion": "Fundamental en modelos de sistemas masa-resorte o en la ley de movimiento de Newton ($ F=ma $).",
+      "ejemplo_rango": "$ (0, \\infty] $"
+    },
+    {
+      "nombre": "Rigidez del Resorte (Spring Stiffness)",
+      "simbolo": "$ k $",
+      "tipo_modelo": "Sistemas Dinámicos/Mecánica",
+      "descripcion": "Mide la resistencia de un objeto elástico a la deformación bajo una fuerza. Clave en la ley de Hooke.",
+      "ejemplo_rango": "$ (0, \\infty] $"
+    },
+    {
+      "nombre": "Paso de Tiempo (Time Step)",
+      "simbolo": "$ \\Delta t $",
+      "tipo_modelo": "Simulación Numérica/EDP",
+      "descripcion": "El incremento discreto de tiempo utilizado en la integración numérica de ecuaciones diferenciales. Su tamaño afecta la estabilidad y precisión.",
+      "ejemplo_rango": "$ (0, \\text{máx}) $"
+    },
+    {
+      "nombre": "Tamaño de Malla (Mesh Size)",
+      "simbolo": "$ h $",
+      "tipo_modelo": "Métodos de Elementos Finitos/EDP",
+      "descripcion": "La distancia característica entre nodos en la discretización espacial del dominio. Afecta la precisión de la solución de EDP.",
+      "ejemplo_rango": "$ (0, \\text{máx}) $"
+    },
+    {
+      "nombre": "Probabilidad de Mutación (Mutation Probability)",
+      "simbolo": "$ P_m $",
+      "tipo_modelo": "Algoritmos Genéticos/Optimización Estocástica",
+      "descripcion": "La probabilidad de que un gen (un parámetro del modelo) en un individuo sea alterado. Controla la exploración del espacio de búsqueda.",
+      "ejemplo_rango": "[0, 1]"
+    },
+    {
+      "nombre": "Número de Individuos (Population Size)",
+      "simbolo": "$ N_{pop} $",
+      "tipo_modelo": "Algoritmos Genéticos/Optimización Estocástica",
+      "descripcion": "El número de soluciones candidatas que se mantienen en cada generación. Afecta la diversidad y la convergencia.",
+      "ejemplo_rango": "[10, 1000]"
+    },
+    {
+      "nombre": "Umbral de Activación (Activation Threshold)",
+      "simbolo": "$ \\theta $",
+      "tipo_modelo": "Redes Neuronales/Modelos Cognitivos",
+      "descripcion": "El valor de entrada que debe superarse para que un elemento (neurona) genere una salida o 'se dispare'.",
+      "ejemplo_rango": "$ (-\\infty, \\infty) $"
+    }
+  ]
+}

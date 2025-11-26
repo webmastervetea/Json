@@ -1,0 +1,48 @@
+{
+  "tipo_modelo": "Estocástico/Series Temporales",
+  "aplicacion": "Predicción, simulación de incertidumbre, valoración de derivados.",
+  "parametros": [
+    {
+      "nombre": "Media de Largo Plazo (Long-Term Mean)",
+      "simbolo": "$ \\mu $",
+      "modelo_ejemplo": "Proceso de Ornstein-Uhlenbeck (OU)",
+      "descripcion": "El nivel al que el proceso estocástico tiende a volver con el tiempo (fenómeno de 'reversión a la media').",
+      "ejemplo_rango": "$ (-\\infty, \\infty) $"
+    },
+    {
+      "nombre": "Velocidad de Reversión a la Media",
+      "simbolo": "$ \\theta $ o $ \\kappa $",
+      "modelo_ejemplo": "Proceso de Ornstein-Uhlenbeck (OU)",
+      "descripcion": "Mide la fuerza con la que el proceso es atraído hacia su media de largo plazo. Valores altos implican una reversión rápida.",
+      "ejemplo_rango": "$ (0, \\infty) $"
+    },
+    {
+      "nombre": "Volatilidad del Ruido (Wiener Process Std. Dev.)",
+      "simbolo": "$ \\sigma $",
+      "modelo_ejemplo": "Movimiento Browniano Geométrico (GBM)",
+      "descripcion": "Mide la magnitud del componente aleatorio (ruido) en el proceso estocástico. Relacionado con la volatilidad en finanzas.",
+      "ejemplo_rango": "$ (0, \\infty) $"
+    },
+    {
+      "nombre": "Orden Autorregresivo",
+      "simbolo": "$ p $",
+      "modelo_ejemplo": "Modelos ARIMA / AR",
+      "descripcion": "El número de términos de rezago (lags) de la variable que se incluyen en el modelo para la predicción. Define la dependencia del presente con el pasado inmediato.",
+      "ejemplo_rango": "$ [0, \\infty) $"
+    },
+    {
+      "nombre": "Orden de Media Móvil",
+      "simbolo": "$ q $",
+      "modelo_ejemplo": "Modelos ARIMA / MA",
+      "descripcion": "El número de errores de predicción rezagados que se incluyen en el modelo.",
+      "ejemplo_rango": "$ [0, \\infty) $"
+    },
+    {
+      "nombre": "Grado de Diferenciación",
+      "simbolo": "$ d $",
+      "modelo_ejemplo": "Modelos ARIMA / I",
+      "descripcion": "El número de veces que se deben diferenciar los datos para hacer que la serie temporal sea estacionaria.",
+      "ejemplo_rango": "$ [0, 2] $"
+    }
+  ]
+}

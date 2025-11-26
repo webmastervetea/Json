@@ -1,0 +1,48 @@
+{
+  "tipo_modelo": "Financiero/Económico",
+  "aplicacion": "Valoración de activos, gestión de riesgos, previsión macroeconómica.",
+  "parametros": [
+    {
+      "nombre": "Volatilidad Histórica/Implícita",
+      "simbolo": "$ \\sigma $",
+      "modelo_ejemplo": "Modelo de Black-Scholes",
+      "descripcion": "Mide la desviación estándar de los rendimientos de un activo. Crucial para valorar opciones; a menudo se distingue entre volatilidad histórica (observada) e implícita (proyectada por el mercado).",
+      "ejemplo_rango": "[0.05, 0.8]"
+    },
+    {
+      "nombre": "Tasa de Interés Libre de Riesgo",
+      "simbolo": "$ r $",
+      "modelo_ejemplo": "Modelos de fijación de precios de opciones",
+      "descripcion": "El rendimiento de una inversión teórica sin riesgo (ej. bonos del gobierno a corto plazo). Se utiliza para descontar flujos de caja futuros.",
+      "ejemplo_rango": "[0.0, 0.1]"
+    },
+    {
+      "nombre": "Precio Actual del Activo Subyacente",
+      "simbolo": "$ S $",
+      "modelo_ejemplo": "Cualquier modelo de valoración de derivados",
+      "descripcion": "El precio de mercado actual del activo que se está modelando (ej. una acción o materia prima).",
+      "ejemplo_rango": "$ (0, \\infty) $"
+    },
+    {
+      "nombre": "Precio de Ejercicio (Strike Price)",
+      "simbolo": "$ K $",
+      "modelo_ejemplo": "Modelos de opciones",
+      "descripcion": "El precio al que el titular de una opción puede comprar o vender el activo subyacente.",
+      "ejemplo_rango": "$ (0, \\infty) $"
+    },
+    {
+      "nombre": "Horizonte Temporal (Tiempo hasta el Vencimiento)",
+      "simbolo": "$ T $",
+      "modelo_ejemplo": "Modelos de series temporales",
+      "descripcion": "El tiempo restante hasta que el derivado expira o el horizonte de previsión del modelo, expresado a menudo en años.",
+      "ejemplo_rango": "$ (0, 30] $"
+    },
+    {
+      "nombre": "Factor de Descuento/Depreciación",
+      "simbolo": "$ \\delta $",
+      "modelo_ejemplo": "Modelos macroeconómicos dinámicos",
+      "descripcion": "Mide el valor de descontar una variable futura a su valor presente. En finanzas, puede ser la tasa de dividendos. En economía, la tasa de depreciación de capital.",
+      "ejemplo_rango": "[0.0, 1.0]"
+    }
+  ]
+}

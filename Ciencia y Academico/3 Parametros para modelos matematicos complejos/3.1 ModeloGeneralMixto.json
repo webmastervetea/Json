@@ -1,0 +1,76 @@
+{
+  "tipo_modelo": "General/Mixto",
+  "descripcion": "Lista de parámetros comunes encontrados en diversos modelos matemáticos complejos (Machine Learning, Simulación Dinámica, Ecuaciones Diferenciales).",
+  "parametros": [
+    {
+      "nombre": "Tasa de Aprendizaje (Learning Rate)",
+      "simbolo": "$ \\alpha $",
+      "tipo_modelo": "Aprendizaje Automático/Optimización",
+      "descripcion": "Determina el tamaño del paso en cada iteración al buscar el mínimo de una función de coste. Un valor crucial para la convergencia.",
+      "ejemplo_rango": "[0.001, 0.1]"
+    },
+    {
+      "nombre": "Época (Epoch)",
+      "simbolo": "N_epochs",
+      "tipo_modelo": "Aprendizaje Automático (Redes Neuronales)",
+      "descripcion": "El número de veces que el algoritmo de entrenamiento verá todo el conjunto de datos de entrenamiento.",
+      "ejemplo_rango": "[1, 1000]"
+    },
+    {
+      "nombre": "Tamaño del Lote (Batch Size)",
+      "simbolo": "B",
+      "tipo_modelo": "Aprendizaje Automático/Optimización",
+      "descripcion": "El número de muestras de entrenamiento procesadas en una sola iteración antes de actualizar los pesos del modelo.",
+      "ejemplo_rango": "[32, 2048]"
+    },
+    {
+      "nombre": "Coeficiente de Amortiguamiento (Damping Ratio)",
+      "simbolo": "$ \\zeta $",
+      "tipo_modelo": "Sistemas Dinámicos/Ingeniería",
+      "descripcion": "Describe cómo oscilaciones en un sistema decaen después de una perturbación. Común en modelos de ecuaciones diferenciales.",
+      "ejemplo_rango": "[0, 1]"
+    },
+    {
+      "nombre": "Frecuencia Natural No Amortiguada (Natural Frequency)",
+      "simbolo": "$ \\omega_n $",
+      "tipo_modelo": "Sistemas Dinámicos/Ingeniería",
+      "descripcion": "La frecuencia a la que un sistema oscilaría si no hubiese amortiguamiento. Fundamental en modelos vibratorios.",
+      "ejemplo_rango": "[0, \\infty]"
+    },
+    {
+      "nombre": "Inercia/Momento (Momentum)",
+      "simbolo": "$ \\beta $",
+      "tipo_modelo": "Optimización (Gradiente Descendente)",
+      "descripcion": "Acelera el Gradiente Descendente en la dirección relevante y amortigua las oscilaciones. Ayuda a escapar de mínimos locales.",
+      "ejemplo_rango": "[0, 1]"
+    },
+    {
+      "nombre": "Constante de Tiempo (Time Constant)",
+      "simbolo": "$ \\tau $",
+      "tipo_modelo": "Sistemas de Control/Ecuaciones Diferenciales",
+      "descripcion": "Parámetro que describe la velocidad de respuesta en un sistema de primer orden a un cambio en la entrada. ",
+      "ejemplo_rango": "$ (0, \\infty] $"
+    },
+    {
+      "nombre": "Término de Regularización (Regularization Term)",
+      "simbolo": "$ \\lambda $",
+      "tipo_modelo": "Aprendizaje Automático/Estadística",
+      "descripcion": "Penaliza la complejidad del modelo (ej. L1 o L2) para prevenir el sobreajuste (overfitting).",
+      "ejemplo_rango": "[0, 1]"
+    },
+    {
+      "nombre": "Capacidad de Carga (Carrying Capacity)",
+      "simbolo": "$ K $",
+      "tipo_modelo": "Modelos Poblacionales (Ecológicos)",
+      "descripcion": "El tamaño máximo de población que el medio ambiente puede soportar de manera sostenible. Usado en el modelo Logístico.",
+      "ejemplo_rango": "$ [0, \\infty] $"
+    },
+    {
+      "nombre": "Tasa de Crecimiento Intrínseca (Intrinsic Growth Rate)",
+      "simbolo": "$ r $",
+      "tipo_modelo": "Modelos Poblacionales (Ecológicos)",
+      "descripcion": "La tasa a la que una población crece en condiciones ideales (sin limitaciones).",
+      "ejemplo_rango": "$ (-\\infty, \\infty) $"
+    }
+  ]
+}

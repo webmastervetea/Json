@@ -1,0 +1,48 @@
+{
+  "tipo_modelo": "Mecánica Cuántica/Física de Ondas",
+  "aplicacion": "Simulación de átomos y moléculas, diseño de materiales, óptica.",
+  "parametros": [
+    {
+      "nombre": "Masa de la Partícula",
+      "simbolo": "$ m $",
+      "modelo_ejemplo": "Ecuación de Schrödinger (Independiente del Tiempo)",
+      "descripcion": "La masa de la partícula cuántica (electrón, protón, etc.) que se está modelando. Afecta directamente la energía cinética del sistema.",
+      "ejemplo_rango": "$ (0, \\infty) $"
+    },
+    {
+      "nombre": "Constante de Planck Reducida",
+      "simbolo": "$ \\hbar $",
+      "modelo_ejemplo": "Todas las ecuaciones cuánticas",
+      "descripcion": "Una constante fundamental de la física que relaciona la energía con la frecuencia y es la unidad fundamental del momento angular. Su valor es $ h / 2\\pi $.",
+      "ejemplo_rango": "Fijo ($ 1.054 \\times 10^{-34} \\ J \\cdot s $)"
+    },
+    {
+      "nombre": "Potencial (Energía Potencial)",
+      "simbolo": "$ V(\\mathbf{r}) $",
+      "modelo_ejemplo": "Ecuación de Schrödinger",
+      "descripcion": "La función que describe las fuerzas externas o el entorno que actúa sobre la partícula cuántica (ej. potencial de Coulomb para el átomo de hidrógeno).",
+      "ejemplo_rango": "$ (-\\infty, \\infty) $"
+    },
+    {
+      "nombre": "Longitud de Onda",
+      "simbolo": "$ \\lambda $",
+      "modelo_ejemplo": "Modelos de Difracción/Óptica",
+      "descripcion": "La distancia espacial entre puntos repetidos de una onda. Es fundamental en modelos que describen la interacción de la luz o la materia con estructuras.",
+      "ejemplo_rango": "$ (0, \\infty) $"
+    },
+    {
+      "nombre": "Índice de Refracción",
+      "simbolo": "$ n $",
+      "modelo_ejemplo": "Óptica/Ecuaciones de Fresnel",
+      "descripcion": "Mide la reducción en la velocidad de la luz u otra radiación al pasar a través de un medio. Afecta la refracción y la reflexión.",
+      "ejemplo_rango": "$ [1, \\infty) $"
+    },
+    {
+      "nombre": "Número de Orbitales/Bases",
+      "simbolo": "$ N_{orb} $",
+      "modelo_ejemplo": "Cálculos de Química Cuántica (ej. DFT)",
+      "descripcion": "El tamaño del conjunto de funciones base utilizadas para expandir la función de onda. Controla la precisión y el coste computacional.",
+      "ejemplo_rango": "$ [1, 10^5] $"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "tipo_modelo": "Biológico/Ecológico",
+  "aplicacion": "Dinámica de poblaciones, modelado de ecosistemas, epidemiología.",
+  "parametros": [
+    {
+      "nombre": "Tasa de Crecimiento Intrínseca",
+      "simbolo": "$ r $",
+      "modelo_ejemplo": "Modelo Logístico (Población)",
+      "descripcion": "Tasa a la que una población crece por individuo en condiciones ideales (ilimitadas). Es la diferencia entre la tasa de natalidad y la de mortalidad.",
+      "ejemplo_rango": "$ (-\\infty, \\infty) $"
+    },
+    {
+      "nombre": "Capacidad de Carga",
+      "simbolo": "$ K $",
+      "modelo_ejemplo": "Modelo Logístico (Población)",
+      "descripcion": "El tamaño máximo de población que el medio ambiente puede soportar indefinidamente. Es el límite superior de la población.",
+      "ejemplo_rango": "$ (0, \\infty] $"
+    },
+    {
+      "nombre": "Tasa de Contacto/Transmisión",
+      "simbolo": "$ \\beta $",
+      "modelo_ejemplo": "Modelo SIR (Epidemiología)",
+      "descripcion": "La tasa a la que un individuo susceptible entra en contacto con un individuo infeccioso y es infectado. Clave para el número reproductivo básico ($ R_0 $).",
+      "ejemplo_rango": "$ [0, \\infty) $"
+    },
+    {
+      "nombre": "Tasa de Recuperación",
+      "simbolo": "$ \\gamma $",
+      "modelo_ejemplo": "Modelo SIR (Epidemiología)",
+      "descripcion": "La tasa a la que un individuo infeccioso se recupera y se vuelve inmune o entra en la clase 'removida'.",
+      "ejemplo_rango": "$ (0, \\infty) $"
+    },
+    {
+      "nombre": "Eficiencia/Tasa de Depredación",
+      "simbolo": "$ a $",
+      "modelo_ejemplo": "Modelos de Lotka-Volterra",
+      "descripcion": "Mide cuán eficientemente los depredadores capturan a sus presas. Representa la fuerza de la interacción entre especies.",
+      "ejemplo_rango": "$ [0, \\infty) $"
+    },
+    {
+      "nombre": "Tasa de Muerte de Depredadores",
+      "simbolo": "$ \\delta $",
+      "modelo_ejemplo": "Modelos de Lotka-Volterra",
+      "descripcion": "La tasa de mortalidad per cápita de los depredadores en ausencia de presas.",
+      "ejemplo_rango": "$ [0, \\infty) $"
+    }
+  ]
+}

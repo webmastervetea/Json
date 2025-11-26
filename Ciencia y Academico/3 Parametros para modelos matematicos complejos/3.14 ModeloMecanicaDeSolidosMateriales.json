@@ -1,0 +1,41 @@
+{
+  "tipo_modelo": "Mecánica de Sólidos/Materiales",
+  "aplicacion": "Análisis de estructuras, diseño de componentes, simulación de fatiga.",
+  "parametros": [
+    {
+      "nombre": "Módulo de Young (Módulo de Elasticidad)",
+      "simbolo": "$ E $",
+      "modelo_ejemplo": "Ley de Hooke (Esfuerzo-Deformación)",
+      "descripcion": "Mide la rigidez de un material: la relación entre el esfuerzo (stress) y la deformación (strain) en la región elástica. Determina cuánto se estira o comprime un material.",
+      "ejemplo_rango": "$ (0, 400) $ GPa"
+    },
+    {
+      "nombre": "Coeficiente de Poisson",
+      "simbolo": "$ \\nu $",
+      "modelo_ejemplo": "Teoría de la Elasticidad",
+      "descripcion": "La razón de la deformación lateral (transversal) a la deformación axial (longitudinal). Típicamente entre 0 y 0.5 para materiales isotrópicos.",
+      "ejemplo_rango": "$ [0, 0.5] $"
+    },
+    {
+      "nombre": "Límite Elástico (Yield Strength)",
+      "simbolo": "$ \\sigma_y $",
+      "modelo_ejemplo": "Modelos de Plasticidad (ej. Von Mises)",
+      "descripcion": "El punto de esfuerzo en el que un material comienza a deformarse plásticamente (permanentemente). Fundamental para el diseño seguro de estructuras.",
+      "ejemplo_rango": "$ (0, 1000) $ MPa"
+    },
+    {
+      "nombre": "Factor de Intensidad de Esfuerzo",
+      "simbolo": "$ K_I $",
+      "modelo_ejemplo": "Mecánica de Fractura",
+      "descripcion": "Mide la magnitud del campo de esfuerzo cerca de la punta de una grieta. Se utiliza para predecir si una grieta crecerá.",
+      "ejemplo_rango": "$ [0, \\infty) $"
+    },
+    {
+      "nombre": "Coeficiente de Histéresis",
+      "simbolo": "$ \\eta $",
+      "modelo_ejemplo": "Modelos Viscoelásticos",
+      "descripcion": "Mide la energía disipada (pérdida de energía) durante un ciclo de carga y descarga, común en polímeros y materiales con amortiguamiento.",
+      "ejemplo_rango": "$ [0, 1] $"
+    }
+  ]
+}

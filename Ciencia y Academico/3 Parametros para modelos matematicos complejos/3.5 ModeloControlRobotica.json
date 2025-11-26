@@ -1,0 +1,48 @@
+{
+  "tipo_modelo": "Control/Robótica",
+  "aplicacion": "Diseño de controladores, sistemas de movimiento, automatización.",
+  "parametros": [
+    {
+      "nombre": "Ganancia Proporcional",
+      "simbolo": "$ K_p $",
+      "modelo_ejemplo": "Controlador PID",
+      "descripcion": "Ajusta la respuesta del controlador a la magnitud del error actual. Una $ K_p $ alta reduce el tiempo de subida, pero puede causar sobreimpulso o inestabilidad.",
+      "ejemplo_rango": "$ [0, \\infty) $"
+    },
+    {
+      "nombre": "Ganancia Integral",
+      "simbolo": "$ K_i $",
+      "modelo_ejemplo": "Controlador PID",
+      "descripcion": "Ajusta la respuesta basada en el error acumulado a lo largo del tiempo. Elimina el error en estado estacionario.",
+      "ejemplo_rango": "$ [0, \\infty) $"
+    },
+    {
+      "nombre": "Ganancia Derivativa",
+      "simbolo": "$ K_d $",
+      "modelo_ejemplo": "Controlador PID",
+      "descripcion": "Ajusta la respuesta basada en la tasa de cambio del error. Reduce el sobreimpulso y mejora la estabilidad.",
+      "ejemplo_rango": "$ [0, \\infty) $"
+    },
+    {
+      "nombre": "Masa de Carga/Efector Final",
+      "simbolo": "$ m_L $",
+      "modelo_ejemplo": "Modelos cinemáticos/dinámicos de robots",
+      "descripcion": "La masa que el sistema de control debe mover o soportar. Afecta directamente la inercia del sistema.",
+      "ejemplo_rango": "$ [0, \\infty] $"
+    },
+    {
+      "nombre": "Longitud/Dimensión del Eslabón (Link Length)",
+      "simbolo": "$ L_i $",
+      "modelo_ejemplo": "Modelos cinemáticos de robots",
+      "descripcion": "Parámetro geométrico que define la longitud de las uniones entre articulaciones en un brazo robótico. Crucial para el espacio de trabajo.",
+      "ejemplo_rango": "$ (0, \\infty] $"
+    },
+    {
+      "nombre": "Parámetros de Observación del Ruido",
+      "simbolo": "$ R $",
+      "modelo_ejemplo": "Filtro de Kalman",
+      "descripcion": "Una matriz de covarianza que describe la incertidumbre o el ruido de las mediciones del sensor (observación).",
+      "ejemplo_rango": "$ [0, \\infty) $"
+    }
+  ]
+}

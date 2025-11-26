@@ -1,0 +1,48 @@
+{
+  "tipo_modelo": "Procesamiento de Imágenes/Visión por Computadora",
+  "aplicacion": "Detección de objetos, segmentación, reconocimiento de patrones.",
+  "parametros": [
+    {
+      "nombre": "Tamaño del Kernel (Filtro)",
+      "simbolo": "$ K \\times K $",
+      "modelo_ejemplo": "Redes Neuronales Convolucionales (CNN) / Filtros de Imagen",
+      "descripcion": "La dimensión de la matriz del filtro (kernel) que se desliza sobre la imagen. Típicamente $ 3\\times3 $ o $ 5\\times5 $.",
+      "ejemplo_rango": "$ [1, 15] $ (impar)"
+    },
+    {
+      "nombre": "Stride (Paso)",
+      "simbolo": "$ s $",
+      "modelo_ejemplo": "Redes Neuronales Convolucionales (CNN)",
+      "descripcion": "El número de píxeles que se desplaza el kernel en cada paso de la convolución o el pool. Afecta la reducción de dimensionalidad.",
+      "ejemplo_rango": "$ [1, 3] $"
+    },
+    {
+      "nombre": "Padding (Relleno)",
+      "simbolo": "$ p $",
+      "modelo_ejemplo": "Redes Neuronales Convolucionales (CNN)",
+      "descripcion": "Añadir píxeles (generalmente ceros) alrededor del borde de la imagen de entrada para mantener el tamaño espacial de la salida después de la convolución.",
+      "ejemplo_rango": "$ [0, 2] $"
+    },
+    {
+      "nombre": "Umbral de Binarización",
+      "simbolo": "$ T $",
+      "modelo_ejemplo": "Modelos de Umbral (ej. Otsu) / Detección de Bordes",
+      "descripcion": "El valor de intensidad que se utiliza para clasificar un píxel como negro (por debajo) o blanco (por encima), simplificando la imagen a dos colores.",
+      "ejemplo_rango": "$ [0, 255] $"
+    },
+    {
+      "nombre": "Número de Capas Convolucionales",
+      "simbolo": "$ N_{layers} $",
+      "modelo_ejemplo": "Redes Neuronales Convolucionales Profundas",
+      "descripcion": "La cantidad de bloques de extracción de características en la red. A mayor número, mayor profundidad y capacidad de aprendizaje de características complejas.",
+      "ejemplo_rango": "$ [1, 100] $"
+    },
+    {
+      "nombre": "Radio de Búsqueda/Varianza",
+      "simbolo": "$ \\sigma $",
+      "modelo_ejemplo": "Filtros Gaussianos / Búsqueda por Media",
+      "descripcion": "Define la extensión espacial (radio) o la varianza de la distribución del kernel. Un valor clave para el desenfoque y la reducción de ruido.",
+      "ejemplo_rango": "$ [0.5, 5.0] $"
+    }
+  ]
+}

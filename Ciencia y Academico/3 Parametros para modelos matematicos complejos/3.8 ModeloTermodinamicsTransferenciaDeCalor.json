@@ -1,0 +1,48 @@
+{
+  "tipo_modelo": "Termodinámica/Transferencia de Calor",
+  "aplicacion": "Diseño de intercambiadores de calor, procesos químicos, dinámica de materiales.",
+  "parametros": [
+    {
+      "nombre": "Conductividad Térmica",
+      "simbolo": "$ k $",
+      "modelo_ejemplo": "Ley de Fourier de Conducción",
+      "descripcion": "Mide la capacidad de un material para conducir calor. Es crucial en la Ecuación del Calor para determinar la rapidez con la que la temperatura cambia en un medio.",
+      "ejemplo_rango": "$ (0, \\infty) $"
+    },
+    {
+      "nombre": "Capacidad Calorífica Específica",
+      "simbolo": "$ c_p $",
+      "modelo_ejemplo": "Balance de Energía",
+      "descripcion": "La cantidad de energía térmica requerida para elevar la temperatura de una unidad de masa de una sustancia en un grado. Afecta la inercia térmica del sistema.",
+      "ejemplo_rango": "$ (0, \\infty) $"
+    },
+    {
+      "nombre": "Densidad del Material",
+      "simbolo": "$ \\rho $",
+      "modelo_ejemplo": "Ecuación de Continuidad / Balance de Energía",
+      "descripcion": "Masa por unidad de volumen del medio. Fundamental para calcular la energía total (almacenada o cinética) en un volumen.",
+      "ejemplo_rango": "$ (0, \\infty) $"
+    },
+    {
+      "nombre": "Coeficiente de Transferencia de Calor por Convección",
+      "simbolo": "$ h $",
+      "modelo_ejemplo": "Ley de Enfriamiento de Newton",
+      "descripcion": "Mide la eficiencia de la transferencia de calor entre una superficie sólida y un fluido en movimiento (convección).",
+      "ejemplo_rango": "$ (0, \\infty) $"
+    },
+    {
+      "nombre": "Emisividad",
+      "simbolo": "$ \\varepsilon $",
+      "modelo_ejemplo": "Ley de Stefan-Boltzmann (Radiación)",
+      "descripcion": "La efectividad de una superficie para emitir energía como radiación térmica. Varía de 0 (reflector perfecto) a 1 (cuerpo negro perfecto).",
+      "ejemplo_rango": "$ [0, 1] $"
+    },
+    {
+      "nombre": "Presión Crítica",
+      "simbolo": "$ P_c $",
+      "modelo_ejemplo": "Ecuaciones de Estado (ej. Van der Waals)",
+      "descripcion": "La presión requerida para licuar una sustancia a su temperatura crítica. Define el punto límite entre la fase líquida y la gaseosa pura.",
+      "ejemplo_rango": "$ (0, \\infty) $"
+    }
+  ]
+}

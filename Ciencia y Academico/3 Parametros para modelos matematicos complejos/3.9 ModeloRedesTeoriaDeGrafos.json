@@ -1,0 +1,48 @@
+{
+  "tipo_modelo": "Redes/Teoría de Grafos",
+  "aplicacion": "Análisis de redes sociales, optimización de rutas, modelado de sistemas complejos.",
+  "parametros": [
+    {
+      "nombre": "Número de Nodos (Vértices)",
+      "simbolo": "$ |V| $",
+      "modelo_ejemplo": "Cualquier modelo de grafo",
+      "descripcion": "La cantidad total de entidades o puntos en la red (personas, ordenadores, ciudades).",
+      "ejemplo_rango": "$ [1, \\infty) $"
+    },
+    {
+      "nombre": "Número de Aristas (Ejes/Enlaces)",
+      "simbolo": "$ |E| $",
+      "modelo_ejemplo": "Cualquier modelo de grafo",
+      "descripcion": "La cantidad total de conexiones o relaciones entre los nodos.",
+      "ejemplo_rango": "$ [0, \\infty) $"
+    },
+    {
+      "nombre": "Probabilidad de Conexión",
+      "simbolo": "$ p $",
+      "modelo_ejemplo": "Modelo de Erdős-Rényi (Grafo Aleatorio)",
+      "descripcion": "La probabilidad de que exista un enlace entre cualquier par de nodos en la red. Controla la densidad de la red.",
+      "ejemplo_rango": "$ [0, 1] $"
+    },
+    {
+      "nombre": "Exponente de Escala (Scale-Free Exponent)",
+      "simbolo": "$ \\gamma $",
+      "modelo_ejemplo": "Modelo de Barabási-Albert (Redes sin Escala)",
+      "descripcion": "Define la distribución de grado (cuántas conexiones tiene cada nodo). Para muchas redes reales, $ \\gamma \\approx 2-3 $.",
+      "ejemplo_rango": "$ [2, 3] $"
+    },
+    {
+      "nombre": "Peso del Enlace (Link Weight)",
+      "simbolo": "$ w_{ij} $",
+      "modelo_ejemplo": "Algoritmos de Ruta Más Corta (Dijkstra)",
+      "descripcion": "El valor numérico asignado a un enlace, que representa su costo, distancia, capacidad o fuerza.",
+      "ejemplo_rango": "$ [0, \\infty) $"
+    },
+    {
+      "nombre": "Coeficiente de Agrupamiento Promedio",
+      "simbolo": "$ C $",
+      "modelo_ejemplo": "Análisis de Redes Pequeño Mundo",
+      "descripcion": "Mide la tendencia de los nodos a agruparse. Se utiliza para caracterizar redes de 'Mundo Pequeño'.",
+      "ejemplo_rango": "$ [0, 1] $"
+    }
+  ]
+}

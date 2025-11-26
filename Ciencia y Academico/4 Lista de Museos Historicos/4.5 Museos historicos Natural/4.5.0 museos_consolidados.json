@@ -1,0 +1,406 @@
+{
+  "museos_paleontologia": [
+    {
+      "nombre": "Museo Field de Historia Natural (Field Museum of Natural History)",
+      "ubicacion": "Chicago, Estados Unidos",
+      "colecciones_destacadas": [
+        "El esqueleto de *Tyrannosaurus rex* más grande y completo conocido, 'Sue'",
+        "Amplia galería de la 'Evolución de los Vertebrados'",
+        "Fósiles y reconstrucciones de los principales grupos de dinosaurios y vida prehistórica"
+      ],
+      "nota": "Considerado uno de los mejores del mundo en paleontología."
+    },
+    {
+      "nombre": "Museo Americano de Historia Natural (American Museum of Natural History - AMNH)",
+      "ubicacion": "Nueva York, Estados Unidos",
+      "colecciones_destacadas": [
+        "El esqueleto del Titanesaurio (*Patagotitan mayorum*) que se extiende fuera de la sala",
+        "Salas de los Dinosaurios con especímenes icónicos de *Barosaurus*, *Allosaurus* y mamíferos extintos",
+        "Vasta colección de fósiles de la Era Paleozoica y Mesozoica"
+      ],
+      "nota": "Famoso por sus montajes y dioramas paleontológicos."
+    },
+    {
+      "nombre": "Museo de Historia Natural de Londres (Natural History Museum)",
+      "ubicacion": "Londres, Reino Unido",
+      "colecciones_destacadas": [
+        "La Galería de Dinosaurios, con el esqueleto de *Triceratops* y el famoso molde del *Diplodocus* ('Dippy', ahora en itinerancia, sustituido por una ballena azul)",
+        "Colecciones de fósiles procedentes del Museo Británico y del Museo Geológico",
+        "Especímenes de *Archaeopteryx* y otros fósiles clave para el estudio de la evolución"
+      ],
+      "nota": "Su colección paleontológica es una de las más importantes del mundo."
+    },
+    {
+      "nombre": "Museo Nacional de Historia Natural Smithsonian",
+      "ubicacion": "Washington D. C., Estados Unidos",
+      "colecciones_destacadas": [
+        "La Sala de los Dinosaurios (Deep Time) con un colosal *Tyrannosaurus rex* y *Diplodocus*",
+        "Más de 40 millones de especímenes de fósiles de plantas, animales y minerales",
+        "Evolución humana temprana y mamuts lanudos"
+      ],
+      "nota": "Administrado por la Institución Smithsonian, destaca por su enfoque en 'Deep Time'."
+    },
+    {
+      "nombre": "Museo de La Plata",
+      "ubicacion": "Buenos Aires, Argentina",
+      "colecciones_destacadas": [
+        "Sala de Osteología Comparada e Histórica",
+        "Fósiles de la megafauna sudamericana extinta (Glyptodon, Mylodon)",
+        "Vastas colecciones de mamíferos cenozoicos de la Patagonia"
+      ],
+      "nota": "Considerado un referente en América del Sur por sus colecciones de paleontología regional."
+    },
+    {
+      "nombre": "Museo Nacional de Ciencias Naturales (MNCN)",
+      "ubicacion": "Madrid, España",
+      "colecciones_destacadas": [
+        "Sala de Paleontología con esqueletos de grandes mamíferos cuaternarios y dinosaurios",
+        "Fósiles de las distintas formaciones geológicas de España",
+        "Réplicas y modelos de especies prehistóricas"
+      ],
+      "nota": "Es uno de los museos de ciencias naturales más antiguos del mundo."
+    },
+    {
+      "nombre": "Museo de Historia Natural de Viena (Naturhistorisches Museum Wien)",
+      "ubicacion": "Viena, Austria",
+      "colecciones_destacadas": [
+        "La Venus de Willendorf (artefacto prehistórico no fósil, pero clave en la exposición)",
+        "Grandes colecciones de dinosaurios y vida marina extinta",
+        "Meteoritos y minerales que complementan la historia de la Tierra"
+      ],
+      "nota": "Albergado en un imponente edificio histórico, con salas dedicadas a la paleontología."
+    }
+  ],
+  "museos_geologia_mineralogia": [
+    {
+      "nombre": "Museo de Historia Natural de Londres (Natural History Museum)",
+      "ubicacion": "Londres, Reino Unido",
+      "colecciones_destacadas": [
+        "La Galería de la Tierra, que incluye exposiciones sobre terremotos, volcanes y la estructura terrestre.",
+        "Más de 500,000 especímenes de rocas, minerales, meteoritos y gemas.",
+        "La colección de gemas y minerales de la Reina María."
+      ],
+      "nota": "Considerado uno de los centros de referencia mundial en Geología y Mineralogía."
+    },
+    {
+      "nombre": "Museo Nacional de Historia Natural Smithsonian (Smithsonian National Museum of Natural History)",
+      "ubicacion": "Washington D. C., Estados Unidos",
+      "colecciones_destacadas": [
+        "La Colección Nacional de Gemas y Minerales, que incluye el 'Diamante Hope' (45.52 quilates).",
+        "Más de 350,000 especímenes de minerales y gemas, y 500,000 especímenes de rocas y menas.",
+        "Exposición de geología histórica que narra los procesos de formación de la Tierra."
+      ],
+      "nota": "Posee la colección más visitada de objetos de historia natural del mundo."
+    },
+    {
+      "nombre": "Museo de Mineralogía 'Minas ParisTech' (Musée de Minéralogie)",
+      "ubicacion": "París, Francia",
+      "colecciones_destacadas": [
+        "Más de 100,000 muestras de minerales de todo el mundo, muchas de ellas históricas.",
+        "Colecciones de gemas, meteoritos y rocas raras.",
+        "Una de las colecciones de mineralogía más antiguas y ricas de Europa, mantenida por la Escuela Nacional Superior de Minas."
+      ],
+      "nota": "Famoso por su valor histórico y la calidad cristalina de sus especímenes."
+    },
+    {
+      "nombre": "Museo de Geología y Paleontología 'Giovanni Capellini'",
+      "ubicacion": "Bolonia, Italia",
+      "colecciones_destacadas": [
+        "La colección mineralógica de la Universidad de Bolonia, una de las más antiguas de Europa (fundada en 1742).",
+        "Colección histórica de rocas y fósiles de la región de Emilia-Romaña.",
+        "Piezas significativas de minerales italianos y de los Alpes."
+      ],
+      "nota": "Vinculado a la universidad más antigua del mundo, con un gran valor científico y patrimonial."
+    },
+    {
+      "nombre": "Museo de la Tierra (Geologiska Museet)",
+      "ubicacion": "Estocolmo, Suecia",
+      "colecciones_destacadas": [
+        "Grandes colecciones de rocas, minerales y fósiles escandinavos.",
+        "Una de las colecciones de meteoritos más importantes de Europa, incluyendo el famoso meteorito 'Muonionalusta'.",
+        "Exposiciones detalladas sobre la formación geológica de la península escandinava."
+      ],
+      "nota": "Forma parte del Museo Sueco de Historia Natural, con un fuerte enfoque en la geología regional."
+    },
+    {
+      "nombre": "Museo y Galería de Mineralogía de la Universidad de Harvard",
+      "ubicacion": "Cambridge, Massachusetts, Estados Unidos",
+      "colecciones_destacadas": [
+        "Más de 100,000 especímenes de minerales y meteoritos, con un enfoque en la investigación universitaria.",
+        "Muestras de rocas lunares y meteoritos de impacto.",
+        "Colecciones históricas utilizadas por científicos prominentes de la universidad."
+      ],
+      "nota": "Aunque es un museo universitario, sus colecciones son de clase mundial para la investigación geológica."
+    },
+    {
+      "nombre": "Museo de Mineralogía 'A. E. Fersman' (Fersman Mineralogical Museum)",
+      "ubicacion": "Moscú, Rusia",
+      "colecciones_destacadas": [
+        "Una de las colecciones mineralógicas más grandes y antiguas de Rusia (fundada en 1716).",
+        "Más de 135,000 especímenes, incluyendo raros minerales de los Montes Urales y Siberia.",
+        "Colecciones de gemas, menas y meteoritos que reflejan la riqueza geológica de Eurasia."
+      ],
+      "nota": "La colección es gestionada por la Academia de Ciencias de Rusia, lo que subraya su importancia científica."
+    }
+  ],
+  "museos_zoologia_botanica": [
+    {
+      "nombre": "Museo de Historia Natural de Londres (Natural History Museum)",
+      "ubicacion": "Londres, Reino Unido",
+      "colecciones_destacadas": [
+        "El Hall principal (Hintze Hall) con el esqueleto de ballena azul ('Hope').",
+        "Colecciones de zoología de Charles Darwin y Alfred Russel Wallace.",
+        "Más de 80 millones de especímenes de plantas, insectos y animales, incluyendo el Herbario más grande del mundo."
+      ],
+      "nota": "Famoso por su arquitectura victoriana y sus inmensas colecciones biológicas."
+    },
+    {
+      "nombre": "Museo Nacional de Historia Natural Smithsonian (Smithsonian National Museum of Natural History)",
+      "ubicacion": "Washington D. C., Estados Unidos",
+      "colecciones_destacadas": [
+        "La Galería de los Mamíferos, con montajes de animales en dioramas realistas.",
+        "Vastas colecciones de insectos y plantas (el Herbario Nacional de EE. UU.).",
+        "Especímenes de fauna marina, incluyendo calamares gigantes y colecciones ictiológicas."
+      ],
+      "nota": "Alberga algunas de las colecciones de vertebrados más grandes del mundo."
+    },
+    {
+      "nombre": "Museo Nacional de Historia Natural (Muséum National d'Histoire Naturelle)",
+      "ubicacion": "París, Francia",
+      "colecciones_destacadas": [
+        "La Gran Galería de la Evolución (Grande Galerie de l'Évolution), con miles de animales montados en procesión.",
+        "Colecciones históricas de Botánica y Zoología provenientes de las grandes expediciones del siglo XVIII y XIX.",
+        "El Jardín de Plantas (Jardin des Plantes) y sus invernaderos históricos asociados."
+      ],
+      "nota": "Una de las instituciones científicas más antiguas del mundo, con un patrimonio biológico excepcional."
+    },
+    {
+      "nombre": "Museo Americano de Historia Natural (American Museum of Natural History - AMNH)",
+      "ubicacion": "Nueva York, Estados Unidos",
+      "colecciones_destacadas": [
+        "Salas de biodiversidad y medio ambiente con dioramas detallados de fauna mundial.",
+        "La Galería de la Vida Oceánica, con el modelo de ballena azul de 29 metros.",
+        "Extensas colecciones de invertebrados, entomología y botánica."
+      ],
+      "nota": "Destaca por la calidad artística y científica de sus dioramas de fauna."
+    },
+    {
+      "nombre": "Museo de Zoología de San Petersburgo (Zoological Museum of the Zoological Institute)",
+      "ubicacion": "San Petersburgo, Rusia",
+      "colecciones_destacadas": [
+        "Más de 30 millones de especímenes, incluyendo una de las mayores colecciones de insectos del mundo.",
+        "El famoso espécimen del mamut de Berezovka (uno de los mamuts más completos encontrados en permafrost).",
+        "Colecciones de fauna siberiana y del Ártico, únicas en el mundo."
+      ],
+      "nota": "Vinculado al Instituto Zoológico de la Academia de Ciencias de Rusia, con un gran valor histórico."
+    },
+    {
+      "nombre": "Museo Real de África Central (Royal Museum for Central Africa)",
+      "ubicacion": "Tervuren, Bélgica",
+      "colecciones_destacadas": [
+        "Amplia colección de fauna y flora del Congo Belga (actualmente República Democrática del Congo).",
+        "Dioramas de la vida animal africana de principios del siglo XX.",
+        "Colecciones históricas de especies endémicas africanas."
+      ],
+      "nota": "Aunque enfocado en África Central, su patrimonio biológico es inmenso y significativo."
+    }
+  ],
+  "museos_antropologia_biologica": [
+    {
+      "nombre": "Museo Nacional de Historia Natural Smithsonian",
+      "ubicacion": "Washington D. C., Estados Unidos",
+      "colecciones_destacadas": [
+        "La exhibición 'Orígenes Humanos' (Human Origins) y la Sala de la Evolución Humana.",
+        "Más de 17,000 especímenes de homínidos (fósiles y moldes) que documentan la evolución humana.",
+        "Colecciones de paleoantropología, genética de poblaciones y variación humana."
+      ],
+      "nota": "Posee una de las colecciones de referencia más importantes del mundo para el estudio de los orígenes humanos."
+    },
+    {
+      "nombre": "Museo del Hombre (Musée de l'Homme)",
+      "ubicacion": "París, Francia",
+      "colecciones_destacadas": [
+        "Vastas colecciones de restos humanos prehistóricos, incluyendo el cráneo de 'Hombre de Cro-Magnon'.",
+        "Colecciones de etnobiología y la evolución de las sociedades humanas.",
+        "Exposiciones que integran la biología, la cultura y la diversidad de la especie *Homo sapiens*."
+      ],
+      "nota": "Un museo emblemático con una rica historia en investigación antropológica y biológica."
+    },
+    {
+      "nombre": "Museo de Historia Natural de Londres (Natural History Museum)",
+      "ubicacion": "Londres, Reino Unido",
+      "colecciones_destacadas": [
+        "La Galería de la Evolución Humana (Human Evolution), que incluye fósiles y herramientas de la Edad de Piedra.",
+        "Colección de esqueletos y cráneos de homínidos, con énfasis en los descubrimientos británicos.",
+        "Estudios sobre la variación y adaptación de las poblaciones humanas modernas."
+      ],
+      "nota": "Sus colecciones son esenciales para el estudio de la paleontología humana en Europa."
+    },
+    {
+      "nombre": "Museo Nacional de Antropología (MNA)",
+      "ubicacion": "Ciudad de México, México",
+      "colecciones_destacadas": [
+        "Aunque es más conocido por su arqueología y etnografía, su Sala de Antropología Física contiene valiosos restos esqueléticos prehistóricos.",
+        "Colecciones que documentan la migración y la diversidad biológica de los pueblos prehispánicos de América.",
+        "Estudios de genética y adaptación biológica en Mesoamérica."
+      ],
+      "nota": "El museo más importante de Latinoamérica, con una sección clave dedicada a la biología humana de la región."
+    },
+    {
+      "nombre": "Instituto de Evolución Humana en África (Institute for Human Evolution - Wits)",
+      "ubicacion": "Johannesburgo, Sudáfrica",
+      "colecciones_destacadas": [
+        "Acceso indirecto o exhibiciones de los homínidos descubiertos en la 'Cuna de la Humanidad' (Sterkfontein, Swartkrans).",
+        "Moldes de fósiles cruciales como 'Mrs. Ples' (*Australopithecus africanus*) y 'Little Foot'.",
+        "Investigación sobre la diversidad de homínidos tempranos de Sudáfrica."
+      ],
+      "nota": "Un centro de investigación de vanguardia, con galerías públicas que muestran los orígenes del género *Homo*."
+    },
+    {
+      "nombre": "Museo de Antropología de la Universidad de California en Berkeley (Phoebe A. Hearst Museum)",
+      "ubicacion": "Berkeley, Estados Unidos",
+      "colecciones_destacadas": [
+        "Extensas colecciones de esqueletos y restos humanos de poblaciones nativas americanas e internacionales (aunque el acceso está regulado por NAGPRA).",
+        "Exposiciones sobre la paleoantropología y la biología de las poblaciones humanas del Pacífico y América.",
+        "Colecciones de referencia para la antropología forense y biológica."
+      ],
+      "nota": "Famoso por sus vastos archivos de restos esqueléticos para investigación científica."
+    }
+  ],
+  "museos_globales_nacionales": [
+    {
+      "nombre": "El Museo Británico (The British Museum)",
+      "ubicacion": "Londres, Reino Unido",
+      "enfoque_principal": "Historia Humana, Arte y Cultura Mundial",
+      "colecciones_destacadas": [
+        "La Piedra de Rosetta (clave para descifrar los jeroglíficos egipcios).",
+        "Los Mármoles del Partenón (Esculturas de Elgin).",
+        "Colección egipcia (incluyendo momias) y asiria, una de las más extensas fuera de Egipto y Asia."
+      ],
+      "nota": "Fundado en 1753, es uno de los museos más antiguos y completos del mundo, cubriendo dos millones de años de historia humana."
+    },
+    {
+      "nombre": "Museo del Louvre",
+      "ubicacion": "París, Francia",
+      "enfoque_principal": "Arte (desde la Antigüedad hasta 1848) e Historia",
+      "colecciones_destacadas": [
+        "La *Mona Lisa* de Leonardo da Vinci.",
+        "La *Venus de Milo* y la *Victoria Alada de Samotracia*.",
+        "Extensas colecciones de antigüedades egipcias, griegas, romanas y arte islámico."
+      ],
+      "nota": "El museo de arte más visitado del mundo, albergado en el histórico Palacio del Louvre."
+    },
+    {
+      "nombre": "Museo Metropolitano de Arte (The Met)",
+      "ubicacion": "Nueva York, Estados Unidos",
+      "enfoque_principal": "Arte Universal, Antropología e Historia",
+      "colecciones_destacadas": [
+        "El Templo de Dendur (Antigüedad egipcia).",
+        "Vastas colecciones de Arte Europeo, Arte Americano y Arte Asiático.",
+        "Colecciones de Arte Africano, Oceánico y de las Américas, y el Instituto del Traje (Costume Institute)."
+      ],
+      "nota": "El museo más grande de arte en EE. UU. y uno de los más grandes del mundo, con una colección que abarca 5,000 años de cultura."
+    },
+    {
+      "nombre": "Museo del Palacio (Palace Museum / Ciudad Prohibida)",
+      "ubicacion": "Pekín, China",
+      "enfoque_principal": "Historia Imperial China, Arte y Cultura Nacional",
+      "colecciones_destacadas": [
+        "Artefactos, mobiliario y tesoros imperiales de las dinastías Ming y Qing.",
+        "Vasta colección de pinturas, caligrafía, cerámica y jade.",
+        "El propio complejo de la Ciudad Prohibida, un patrimonio arquitectónico y cultural."
+      ],
+      "nota": "Establecido en el antiguo palacio imperial, representa la colección más importante de la historia y cultura china."
+    },
+    {
+      "nombre": "Museo Nacional de Antropología (MNA)",
+      "ubicacion": "Ciudad de México, México",
+      "enfoque_principal": "Arqueología, Antropología y Etnografía de México",
+      "colecciones_destacadas": [
+        "La Piedra del Sol (Calendario Azteca).",
+        "El tesoro de la tumba del Rey Pakal de Palenque (Cultura Maya).",
+        "Exhibiciones dedicadas a las culturas prehispánicas (Azteca, Maya, Olmeca, etc.) y la etnografía contemporánea de México."
+      ],
+      "nota": "Considerado el museo más importante de Latinoamérica y un referente mundial en el estudio de las culturas mesoamericanas."
+    },
+    {
+      "nombre": "Los Museos Vaticanos (Musei Vaticani)",
+      "ubicacion": "Ciudad del Vaticano, Vaticano (Roma, Italia)",
+      "enfoque_principal": "Arte, Historia y Cultura de la Iglesia y Antigüedades",
+      "colecciones_destacadas": [
+        "La Capilla Sixtina (con frescos de Miguel Ángel).",
+        "El Grupo Laocoonte y el Torso del Belvedere (esculturas clásicas).",
+        "Colecciones de Antigüedades Griegas, Romanas y Egipcias, y la Pinacoteca Vaticana (arte religioso)."
+      ],
+      "nota": "Incluye algunas de las obras maestras del Renacimiento y vastas colecciones de objetos acumulados por la Iglesia Católica a lo largo de los siglos."
+    }
+  ],
+  "museos_regionales_locales": [
+    {
+      "nombre": "Museo de la Evolución Humana (MEH)",
+      "ubicacion": "Burgos, España",
+      "enfoque_principal": "Evolución Humana y Arqueología Local/Regional",
+      "colecciones_destacadas": [
+        "Fósiles originales de homínidos encontrados en los yacimientos cercanos de la Sierra de Atapuerca (Patrimonio de la Humanidad).",
+        "Recreaciones de los ecosistemas y la vida de los primeros pobladores de Europa.",
+        "Tecnología lítica y herramientas prehistóricas de la región."
+      ],
+      "nota": "Un ejemplo de museo regional dedicado a un hito científico de importancia mundial descubierto en su zona."
+    },
+    {
+      "nombre": "Museo del Área del Muro de Berlín (DDR Museum)",
+      "ubicacion": "Berlín, Alemania",
+      "enfoque_principal": "Historia Local de la Guerra Fría y la RDA",
+      "colecciones_destacadas": [
+        "Exposiciones interactivas sobre la vida cotidiana en la República Democrática Alemana (RDA).",
+        "Artefactos y documentos relacionados con el Muro de Berlín y los intentos de fuga.",
+        "Un coche original 'Trabant' que los visitantes pueden 'conducir'."
+      ],
+      "nota": "Se enfoca en un período histórico muy específico y local de la ciudad de Berlín, contrastando con la narrativa nacional alemana."
+    },
+    {
+      "nombre": "Museo de Historia de Barcelona (MUHBA)",
+      "ubicacion": "Barcelona, España",
+      "enfoque_principal": "Historia de la Ciudad de Barcelona",
+      "colecciones_destacadas": [
+        "Un circuito subterráneo por las ruinas de la ciudad romana de Barcino.",
+        "Exposiciones sobre la Barcelona medieval, industrial y contemporánea.",
+        "Artefactos y documentos relacionados con el desarrollo urbano y social de la capital catalana."
+      ],
+      "nota": "El museo utiliza el propio subsuelo de la ciudad como pieza central de su narrativa histórica."
+    },
+    {
+      "nombre": "Museo de la Industria y el Arte de la Herrería (Ironbridge Gorge Museums)",
+      "ubicacion": "Telford, Reino Unido",
+      "enfoque_principal": "Historia Industrial Regional (Cuna de la Revolución Industrial)",
+      "colecciones_destacadas": [
+        "El Puente de Hierro original (Iron Bridge), la primera gran estructura de hierro fundido del mundo.",
+        "Sitios de museos in situ que muestran las minas, fábricas y la vida de los trabajadores del siglo XVIII.",
+        "Exposiciones sobre la fundición de hierro y la tecnología que impulsó la Revolución Industrial."
+      ],
+      "nota": "Un conjunto de diez museos que preservan el patrimonio industrial de una región clave."
+    },
+    {
+      "nombre": "Museo de la Cultura Prehispánica de Chan Chan",
+      "ubicacion": "Trujillo, Perú",
+      "enfoque_principal": "Arqueología Regional de la Cultura Chimú",
+      "colecciones_destacadas": [
+        "Cerámicas, textiles, orfebrería y artefactos recuperados de la ciudadela de Chan Chan (la ciudad de adobe más grande de América).",
+        "Documentación sobre las prácticas sociales y la organización política del reino Chimú.",
+        "Ubicado cerca de los restos de la propia ciudadela, Patrimonio de la Humanidad."
+      ],
+      "nota": "Dedicado exclusivamente a la arqueología e historia de una civilización específica de la costa norte peruana."
+    },
+    {
+      "nombre": "Museo de la Costa Oriental de Escocia (Scottish Fisheries Museum)",
+      "ubicacion": "Anstruther, Escocia, Reino Unido",
+      "enfoque_principal": "Historia Local de la Pesca y la Vida Marítima",
+      "colecciones_destacadas": [
+        "Barcos de pesca tradicionales, equipos, redes y vestimenta de los pescadores escoceses.",
+        "Exposiciones sobre la vida social de los pueblos pesqueros y la evolución de la industria marítima.",
+        "Documentos y fotografías de los puertos y las cofradías locales."
+      ],
+      "nota": "Un ejemplo de museo local que preserva la historia económica y social de una actividad regional."
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "museos_antropologia_biologica": [
+    {
+      "nombre": "Museo Nacional de Historia Natural Smithsonian",
+      "ubicacion": "Washington D. C., Estados Unidos",
+      "colecciones_destacadas": [
+        "La exhibición 'Orígenes Humanos' (Human Origins) y la Sala de la Evolución Humana.",
+        "Más de 17,000 especímenes de homínidos (fósiles y moldes) que documentan la evolución humana.",
+        "Colecciones de paleoantropología, genética de poblaciones y variación humana."
+      ],
+      "nota": "Posee una de las colecciones de referencia más importantes del mundo para el estudio de los orígenes humanos."
+    },
+    {
+      "nombre": "Museo del Hombre (Musée de l'Homme)",
+      "ubicacion": "París, Francia",
+      "colecciones_destacadas": [
+        "Vastas colecciones de restos humanos prehistóricos, incluyendo el cráneo de 'Hombre de Cro-Magnon'.",
+        "Colecciones de etnobiología y la evolución de las sociedades humanas.",
+        "Exposiciones que integran la biología, la cultura y la diversidad de la especie *Homo sapiens*."
+      ],
+      "nota": "Un museo emblemático con una rica historia en investigación antropológica y biológica."
+    },
+    {
+      "nombre": "Museo de Historia Natural de Londres (Natural History Museum)",
+      "ubicacion": "Londres, Reino Unido",
+      "colecciones_destacadas": [
+        "La Galería de la Evolución Humana (Human Evolution), que incluye fósiles y herramientas de la Edad de Piedra.",
+        "Colección de esqueletos y cráneos de homínidos, con énfasis en los descubrimientos británicos.",
+        "Estudios sobre la variación y adaptación de las poblaciones humanas modernas."
+      ],
+      "nota": "Sus colecciones son esenciales para el estudio de la paleontología humana en Europa."
+    },
+    {
+      "nombre": "Museo Nacional de Antropología (MNA)",
+      "ubicacion": "Ciudad de México, México",
+      "colecciones_destacadas": [
+        "Aunque es más conocido por su arqueología y etnografía, su Sala de Antropología Física contiene valiosos restos esqueléticos prehistóricos.",
+        "Colecciones que documentan la migración y la diversidad biológica de los pueblos prehispánicos de América.",
+        "Estudios de genética y adaptación biológica en Mesoamérica."
+      ],
+      "nota": "El museo más importante de Latinoamérica, con una sección clave dedicada a la biología humana de la región."
+    },
+    {
+      "nombre": "Instituto de Evolución Humana en África (Institute for Human Evolution - Wits)",
+      "ubicacion": "Johannesburgo, Sudáfrica",
+      "colecciones_destacadas": [
+        "Acceso indirecto o exhibiciones de los homínidos descubiertos en la 'Cuna de la Humanidad' (Sterkfontein, Swartkrans).",
+        "Moldes de fósiles cruciales como 'Mrs. Ples' (*Australopithecus africanus*) y 'Little Foot'.",
+        "Investigación sobre la diversidad de homínidos tempranos de Sudáfrica."
+      ],
+      "nota": "Un centro de investigación de vanguardia, con galerías públicas que muestran los orígenes del género *Homo*."
+    },
+    {
+      "nombre": "Museo de Antropología de la Universidad de California en Berkeley (Phoebe A. Hearst Museum)",
+      "ubicacion": "Berkeley, Estados Unidos",
+      "colecciones_destacadas": [
+        "Extensas colecciones de esqueletos y restos humanos de poblaciones nativas americanas e internacionales (aunque el acceso está regulado por NAGPRA).",
+        "Exposiciones sobre la paleoantropología y la biología de las poblaciones humanas del Pacífico y América.",
+        "Colecciones de referencia para la antropología forense y biológica."
+      ],
+      "nota": "Famoso por sus vastos archivos de restos esqueléticos para investigación científica."
+    }
+  ]
+}

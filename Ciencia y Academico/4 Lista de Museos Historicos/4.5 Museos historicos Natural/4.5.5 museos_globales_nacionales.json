@@ -1,0 +1,70 @@
+{
+  "museos_globales_nacionales": [
+    {
+      "nombre": "El Museo Británico (The British Museum)",
+      "ubicacion": "Londres, Reino Unido",
+      "enfoque_principal": "Historia Humana, Arte y Cultura Mundial",
+      "colecciones_destacadas": [
+        "La Piedra de Rosetta (clave para descifrar los jeroglíficos egipcios).",
+        "Los Mármoles del Partenón (Esculturas de Elgin).",
+        "Colección egipcia (incluyendo momias) y asiria, una de las más extensas fuera de Egipto y Asia."
+      ],
+      "nota": "Fundado en 1753, es uno de los museos más antiguos y completos del mundo, cubriendo dos millones de años de historia humana."
+    },
+    {
+      "nombre": "Museo del Louvre",
+      "ubicacion": "París, Francia",
+      "enfoque_principal": "Arte (desde la Antigüedad hasta 1848) e Historia",
+      "colecciones_destacadas": [
+        "La *Mona Lisa* de Leonardo da Vinci.",
+        "La *Venus de Milo* y la *Victoria Alada de Samotracia*.",
+        "Extensas colecciones de antigüedades egipcias, griegas, romanas y arte islámico."
+      ],
+      "nota": "El museo de arte más visitado del mundo, albergado en el histórico Palacio del Louvre."
+    },
+    {
+      "nombre": "Museo Metropolitano de Arte (The Met)",
+      "ubicacion": "Nueva York, Estados Unidos",
+      "enfoque_principal": "Arte Universal, Antropología e Historia",
+      "colecciones_destacadas": [
+        "El Templo de Dendur (Antigüedad egipcia).",
+        "Vastas colecciones de Arte Europeo, Arte Americano y Arte Asiático.",
+        "Colecciones de Arte Africano, Oceánico y de las Américas, y el Instituto del Traje (Costume Institute)."
+      ],
+      "nota": "El museo más grande de arte en EE. UU. y uno de los más grandes del mundo, con una colección que abarca 5,000 años de cultura."
+    },
+    {
+      "nombre": "Museo del Palacio (Palace Museum / Ciudad Prohibida)",
+      "ubicacion": "Pekín, China",
+      "enfoque_principal": "Historia Imperial China, Arte y Cultura Nacional",
+      "colecciones_destacadas": [
+        "Artefactos, mobiliario y tesoros imperiales de las dinastías Ming y Qing.",
+        "Vasta colección de pinturas, caligrafía, cerámica y jade.",
+        "El propio complejo de la Ciudad Prohibida, un patrimonio arquitectónico y cultural."
+      ],
+      "nota": "Establecido en el antiguo palacio imperial, representa la colección más importante de la historia y cultura china."
+    },
+    {
+      "nombre": "Museo Nacional de Antropología (MNA)",
+      "ubicacion": "Ciudad de México, México",
+      "enfoque_principal": "Arqueología, Antropología y Etnografía de México",
+      "colecciones_destacadas": [
+        "La Piedra del Sol (Calendario Azteca).",
+        "El tesoro de la tumba del Rey Pakal de Palenque (Cultura Maya).",
+        "Exhibiciones dedicadas a las culturas prehispánicas (Azteca, Maya, Olmeca, etc.) y la etnografía contemporánea de México."
+      ],
+      "nota": "Considerado el museo más importante de Latinoamérica y un referente mundial en el estudio de las culturas mesoamericanas."
+    },
+    {
+      "nombre": "Los Museos Vaticanos (Musei Vaticani)",
+      "ubicacion": "Ciudad del Vaticano, Vaticano (Roma, Italia)",
+      "enfoque_principal": "Arte, Historia y Cultura de la Iglesia y Antigüedades",
+      "colecciones_destacadas": [
+        "La Capilla Sixtina (con frescos de Miguel Ángel).",
+        "El Grupo Laocoonte y el Torso del Belvedere (esculturas clásicas).",
+        "Colecciones de Antigüedades Griegas, Romanas y Egipcias, y la Pinacoteca Vaticana (arte religioso)."
+      ],
+      "nota": "Incluye algunas de las obras maestras del Renacimiento y vastas colecciones de objetos acumulados por la Iglesia Católica a lo largo de los siglos."
+    }
+  ]
+}

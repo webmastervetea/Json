@@ -1,0 +1,70 @@
+{
+  "museos_regionales_locales": [
+    {
+      "nombre": "Museo de la Evolución Humana (MEH)",
+      "ubicacion": "Burgos, España",
+      "enfoque_principal": "Evolución Humana y Arqueología Local/Regional",
+      "colecciones_destacadas": [
+        "Fósiles originales de homínidos encontrados en los yacimientos cercanos de la Sierra de Atapuerca (Patrimonio de la Humanidad).",
+        "Recreaciones de los ecosistemas y la vida de los primeros pobladores de Europa.",
+        "Tecnología lítica y herramientas prehistóricas de la región."
+      ],
+      "nota": "Un ejemplo de museo regional dedicado a un hito científico de importancia mundial descubierto en su zona."
+    },
+    {
+      "nombre": "Museo del Área del Muro de Berlín (DDR Museum)",
+      "ubicacion": "Berlín, Alemania",
+      "enfoque_principal": "Historia Local de la Guerra Fría y la RDA",
+      "colecciones_destacadas": [
+        "Exposiciones interactivas sobre la vida cotidiana en la República Democrática Alemana (RDA).",
+        "Artefactos y documentos relacionados con el Muro de Berlín y los intentos de fuga.",
+        "Un coche original 'Trabant' que los visitantes pueden 'conducir'."
+      ],
+      "nota": "Se enfoca en un período histórico muy específico y local de la ciudad de Berlín, contrastando con la narrativa nacional alemana."
+    },
+    {
+      "nombre": "Museo de Historia de Barcelona (MUHBA)",
+      "ubicacion": "Barcelona, España",
+      "enfoque_principal": "Historia de la Ciudad de Barcelona",
+      "colecciones_destacadas": [
+        "Un circuito subterráneo por las ruinas de la ciudad romana de Barcino.",
+        "Exposiciones sobre la Barcelona medieval, industrial y contemporánea.",
+        "Artefactos y documentos relacionados con el desarrollo urbano y social de la capital catalana."
+      ],
+      "nota": "El museo utiliza el propio subsuelo de la ciudad como pieza central de su narrativa histórica."
+    },
+    {
+      "nombre": "Museo de la Industria y el Arte de la Herrería (Ironbridge Gorge Museums)",
+      "ubicacion": "Telford, Reino Unido",
+      "enfoque_principal": "Historia Industrial Regional (Cuna de la Revolución Industrial)",
+      "colecciones_destacadas": [
+        "El Puente de Hierro original (Iron Bridge), la primera gran estructura de hierro fundido del mundo.",
+        "Sitios de museos in situ que muestran las minas, fábricas y la vida de los trabajadores del siglo XVIII.",
+        "Exposiciones sobre la fundición de hierro y la tecnología que impulsó la Revolución Industrial."
+      ],
+      "nota": "Un conjunto de diez museos que preservan el patrimonio industrial de una región clave."
+    },
+    {
+      "nombre": "Museo de la Cultura Prehispánica de Chan Chan",
+      "ubicacion": "Trujillo, Perú",
+      "enfoque_principal": "Arqueología Regional de la Cultura Chimú",
+      "colecciones_destacadas": [
+        "Cerámicas, textiles, orfebrería y artefactos recuperados de la ciudadela de Chan Chan (la ciudad de adobe más grande de América).",
+        "Documentación sobre las prácticas sociales y la organización política del reino Chimú.",
+        "Ubicado cerca de los restos de la propia ciudadela, Patrimonio de la Humanidad."
+      ],
+      "nota": "Dedicado exclusivamente a la arqueología e historia de una civilización específica de la costa norte peruana."
+    },
+    {
+      "nombre": "Museo de la Costa Oriental de Escocia (Scottish Fisheries Museum)",
+      "ubicacion": "Anstruther, Escocia, Reino Unido",
+      "enfoque_principal": "Historia Local de la Pesca y la Vida Marítima",
+      "colecciones_destacadas": [
+        "Barcos de pesca tradicionales, equipos, redes y vestimenta de los pescadores escoceses.",
+        "Exposiciones sobre la vida social de los pueblos pesqueros y la evolución de la industria marítima.",
+        "Documentos y fotografías de los puertos y las cofradías locales."
+      ],
+      "nota": "Un ejemplo de museo local que preserva la historia económica y social de una actividad regional."
+    }
+  ]
+}

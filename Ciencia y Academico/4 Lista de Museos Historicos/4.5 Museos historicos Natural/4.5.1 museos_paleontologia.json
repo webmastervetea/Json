@@ -1,0 +1,74 @@
+{
+  "museos_paleontologia": [
+    {
+      "nombre": "Museo Field de Historia Natural (Field Museum of Natural History)",
+      "ubicacion": "Chicago, Estados Unidos",
+      "colecciones_destacadas": [
+        "El esqueleto de *Tyrannosaurus rex* más grande y completo conocido, 'Sue'",
+        "Amplia galería de la 'Evolución de los Vertebrados'",
+        "Fósiles y reconstrucciones de los principales grupos de dinosaurios y vida prehistórica"
+      ],
+      "nota": "Considerado uno de los mejores del mundo en paleontología."
+    },
+    {
+      "nombre": "Museo Americano de Historia Natural (American Museum of Natural History - AMNH)",
+      "ubicacion": "Nueva York, Estados Unidos",
+      "colecciones_destacadas": [
+        "El esqueleto del Titanesaurio (*Patagotitan mayorum*) que se extiende fuera de la sala",
+        "Salas de los Dinosaurios con especímenes icónicos de *Barosaurus*, *Allosaurus* y mamíferos extintos",
+        "Vasta colección de fósiles de la Era Paleozoica y Mesozoica"
+      ],
+      "nota": "Famoso por sus montajes y dioramas paleontológicos."
+    },
+    {
+      "nombre": "Museo de Historia Natural de Londres (Natural History Museum)",
+      "ubicacion": "Londres, Reino Unido",
+      "colecciones_destacadas": [
+        "La Galería de Dinosaurios, con el esqueleto de *Triceratops* y el famoso molde del *Diplodocus* ('Dippy', ahora en itinerancia, sustituido por una ballena azul)",
+        "Colecciones de fósiles procedentes del Museo Británico y del Museo Geológico",
+        "Especímenes de *Archaeopteryx* y otros fósiles clave para el estudio de la evolución"
+      ],
+      "nota": "Su colección paleontológica es una de las más importantes del mundo."
+    },
+    {
+      "nombre": "Museo Nacional de Historia Natural Smithsonian",
+      "ubicacion": "Washington D. C., Estados Unidos",
+      "colecciones_destacadas": [
+        "La Sala de los Dinosaurios (Deep Time) con un colosal *Tyrannosaurus rex* y *Diplodocus*",
+        "Más de 40 millones de especímenes de fósiles de plantas, animales y minerales",
+        "Evolución humana temprana y mamuts lanudos"
+      ],
+      "nota": "Administrado por la Institución Smithsonian, destaca por su enfoque en 'Deep Time'."
+    },
+    {
+      "nombre": "Museo de La Plata",
+      "ubicacion": "Buenos Aires, Argentina",
+      "colecciones_destacadas": [
+        "Sala de Osteología Comparada e Histórica",
+        "Fósiles de la megafauna sudamericana extinta (Glyptodon, Mylodon)",
+        "Vastas colecciones de mamíferos cenozoicos de la Patagonia"
+      ],
+      "nota": "Considerado un referente en América del Sur por sus colecciones de paleontología regional."
+    },
+    {
+      "nombre": "Museo Nacional de Ciencias Naturales (MNCN)",
+      "ubicacion": "Madrid, España",
+      "colecciones_destacadas": [
+        "Sala de Paleontología con esqueletos de grandes mamíferos cuaternarios y dinosaurios",
+        "Fósiles de las distintas formaciones geológicas de España",
+        "Réplicas y modelos de especies prehistóricas"
+      ],
+      "nota": "Es uno de los museos de ciencias naturales más antiguos del mundo."
+    },
+    {
+      "nombre": "Museo de Historia Natural de Viena (Naturhistorisches Museum Wien)",
+      "ubicacion": "Viena, Austria",
+      "colecciones_destacadas": [
+        "La Venus de Willendorf (artefacto prehistórico no fósil, pero clave en la exposición)",
+        "Grandes colecciones de dinosaurios y vida marina extinta",
+        "Meteoritos y minerales que complementan la historia de la Tierra"
+      ],
+      "nota": "Albergado en un imponente edificio histórico, con salas dedicadas a la paleontología."
+    }
+  ]
+}

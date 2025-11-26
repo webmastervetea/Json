@@ -1,0 +1,64 @@
+{
+  "museos_zoologia_botanica": [
+    {
+      "nombre": "Museo de Historia Natural de Londres (Natural History Museum)",
+      "ubicacion": "Londres, Reino Unido",
+      "colecciones_destacadas": [
+        "El Hall principal (Hintze Hall) con el esqueleto de ballena azul ('Hope').",
+        "Colecciones de zoología de Charles Darwin y Alfred Russel Wallace.",
+        "Más de 80 millones de especímenes de plantas, insectos y animales, incluyendo el Herbario más grande del mundo."
+      ],
+      "nota": "Famoso por su arquitectura victoriana y sus inmensas colecciones biológicas."
+    },
+    {
+      "nombre": "Museo Nacional de Historia Natural Smithsonian (Smithsonian National Museum of Natural History)",
+      "ubicacion": "Washington D. C., Estados Unidos",
+      "colecciones_destacadas": [
+        "La Galería de los Mamíferos, con montajes de animales en dioramas realistas.",
+        "Vastas colecciones de insectos y plantas (el Herbario Nacional de EE. UU.).",
+        "Especímenes de fauna marina, incluyendo calamares gigantes y colecciones ictiológicas."
+      ],
+      "nota": "Alberga algunas de las colecciones de vertebrados más grandes del mundo."
+    },
+    {
+      "nombre": "Museo Nacional de Historia Natural (Muséum National d'Histoire Naturelle)",
+      "ubicacion": "París, Francia",
+      "colecciones_destacadas": [
+        "La Gran Galería de la Evolución (Grande Galerie de l'Évolution), con miles de animales montados en procesión.",
+        "Colecciones históricas de Botánica y Zoología provenientes de las grandes expediciones del siglo XVIII y XIX.",
+        "El Jardín de Plantas (Jardin des Plantes) y sus invernaderos históricos asociados."
+      ],
+      "nota": "Una de las instituciones científicas más antiguas del mundo, con un patrimonio biológico excepcional."
+    },
+    {
+      "nombre": "Museo Americano de Historia Natural (American Museum of Natural History - AMNH)",
+      "ubicacion": "Nueva York, Estados Unidos",
+      "colecciones_destacadas": [
+        "Salas de biodiversidad y medio ambiente con dioramas detallados de fauna mundial.",
+        "La Galería de la Vida Oceánica, con el modelo de ballena azul de 29 metros.",
+        "Extensas colecciones de invertebrados, entomología y botánica."
+      ],
+      "nota": "Destaca por la calidad artística y científica de sus dioramas de fauna."
+    },
+    {
+      "nombre": "Museo de Zoología de San Petersburgo (Zoological Museum of the Zoological Institute)",
+      "ubicacion": "San Petersburgo, Rusia",
+      "colecciones_destacadas": [
+        "Más de 30 millones de especímenes, incluyendo una de las mayores colecciones de insectos del mundo.",
+        "El famoso espécimen del mamut de Berezovka (uno de los mamuts más completos encontrados en permafrost).",
+        "Colecciones de fauna siberiana y del Ártico, únicas en el mundo."
+      ],
+      "nota": "Vinculado al Instituto Zoológico de la Academia de Ciencias de Rusia, con un gran valor histórico."
+    },
+    {
+      "nombre": "Museo Real de África Central (Royal Museum for Central Africa)",
+      "ubicacion": "Tervuren, Bélgica",
+      "colecciones_destacadas": [
+        "Amplia colección de fauna y flora del Congo Belga (actualmente República Democrática del Congo).",
+        "Dioramas de la vida animal africana de principios del siglo XX.",
+        "Colecciones históricas de especies endémicas africanas."
+      ],
+      "nota": "Aunque enfocado en África Central, su patrimonio biológico es inmenso y significativo."
+    }
+  ]
+}

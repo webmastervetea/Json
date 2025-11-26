@@ -1,0 +1,74 @@
+{
+  "museos_geologia_mineralogia": [
+    {
+      "nombre": "Museo de Historia Natural de Londres (Natural History Museum)",
+      "ubicacion": "Londres, Reino Unido",
+      "colecciones_destacadas": [
+        "La Galería de la Tierra, que incluye exposiciones sobre terremotos, volcanes y la estructura terrestre.",
+        "Más de 500,000 especímenes de rocas, minerales, meteoritos y gemas.",
+        "La colección de gemas y minerales de la Reina María."
+      ],
+      "nota": "Considerado uno de los centros de referencia mundial en Geología y Mineralogía."
+    },
+    {
+      "nombre": "Museo Nacional de Historia Natural Smithsonian (Smithsonian National Museum of Natural History)",
+      "ubicacion": "Washington D. C., Estados Unidos",
+      "colecciones_destacadas": [
+        "La Colección Nacional de Gemas y Minerales, que incluye el 'Diamante Hope' (45.52 quilates).",
+        "Más de 350,000 especímenes de minerales y gemas, y 500,000 especímenes de rocas y menas.",
+        "Exposición de geología histórica que narra los procesos de formación de la Tierra."
+      ],
+      "nota": "Posee la colección más visitada de objetos de historia natural del mundo."
+    },
+    {
+      "nombre": "Museo de Mineralogía 'Minas ParisTech' (Musée de Minéralogie)",
+      "ubicacion": "París, Francia",
+      "colecciones_destacadas": [
+        "Más de 100,000 muestras de minerales de todo el mundo, muchas de ellas históricas.",
+        "Colecciones de gemas, meteoritos y rocas raras.",
+        "Una de las colecciones de mineralogía más antiguas y ricas de Europa, mantenida por la Escuela Nacional Superior de Minas."
+      ],
+      "nota": "Famoso por su valor histórico y la calidad cristalina de sus especímenes."
+    },
+    {
+      "nombre": "Museo de Geología y Paleontología 'Giovanni Capellini'",
+      "ubicacion": "Bolonia, Italia",
+      "colecciones_destacadas": [
+        "La colección mineralógica de la Universidad de Bolonia, una de las más antiguas de Europa (fundada en 1742).",
+        "Colección histórica de rocas y fósiles de la región de Emilia-Romaña.",
+        "Piezas significativas de minerales italianos y de los Alpes."
+      ],
+      "nota": "Vinculado a la universidad más antigua del mundo, con un gran valor científico y patrimonial."
+    },
+    {
+      "nombre": "Museo de la Tierra (Geologiska Museet)",
+      "ubicacion": "Estocolmo, Suecia",
+      "colecciones_destacadas": [
+        "Grandes colecciones de rocas, minerales y fósiles escandinavos.",
+        "Una de las colecciones de meteoritos más importantes de Europa, incluyendo el famoso meteorito 'Muonionalusta'.",
+        "Exposiciones detalladas sobre la formación geológica de la península escandinava."
+      ],
+      "nota": "Forma parte del Museo Sueco de Historia Natural, con un fuerte enfoque en la geología regional."
+    },
+    {
+      "nombre": "Museo y Galería de Mineralogía de la Universidad de Harvard",
+      "ubicacion": "Cambridge, Massachusetts, Estados Unidos",
+      "colecciones_destacadas": [
+        "Más de 100,000 especímenes de minerales y meteoritos, con un enfoque en la investigación universitaria.",
+        "Muestras de rocas lunares y meteoritos de impacto.",
+        "Colecciones históricas utilizadas por científicos prominentes de la universidad."
+      ],
+      "nota": "Aunque es un museo universitario, sus colecciones son de clase mundial para la investigación geológica."
+    },
+    {
+      "nombre": "Museo de Mineralogía 'A. E. Fersman' (Fersman Mineralogical Museum)",
+      "ubicacion": "Moscú, Rusia",
+      "colecciones_destacadas": [
+        "Una de las colecciones mineralógicas más grandes y antiguas de Rusia (fundada en 1716).",
+        "Más de 135,000 especímenes, incluyendo raros minerales de los Montes Urales y Siberia.",
+        "Colecciones de gemas, menas y meteoritos que reflejan la riqueza geológica de Eurasia."
+      ],
+      "nota": "La colección es gestionada por la Academia de Ciencias de Rusia, lo que subraya su importancia científica."
+    }
+  ]
+}

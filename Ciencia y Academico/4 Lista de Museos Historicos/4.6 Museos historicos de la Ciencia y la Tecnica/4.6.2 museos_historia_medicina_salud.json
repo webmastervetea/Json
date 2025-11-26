@@ -1,0 +1,70 @@
+{
+  "museos_historia_medicina_salud": [
+    {
+      "nombre": "Museo de Historia de la Medicina Hunterian (Hunterian Museum)",
+      "ubicacion": "Londres, Reino Unido",
+      "enfoque_principal": "Anatomía, Cirugía y Medicina del siglo XVIII",
+      "colecciones_destacadas": [
+        "La colección original de John Hunter, el 'Padre de la Cirugía Científica'.",
+        "Especímenes quirúrgicos, patológicos y anatómicos históricos.",
+        "Instrumental médico antiguo, incluyendo herramientas de cirugía y odontología."
+      ],
+      "nota": "Alberga una de las colecciones de especímenes patológicos y anatómicos más importantes del mundo."
+    },
+    {
+      "nombre": "Museo Mütter (Mütter Museum)",
+      "ubicacion": "Filadelfia, Estados Unidos",
+      "enfoque_principal": "Anatomía Patológica e Historia de la Medicina Clínica",
+      "colecciones_destacadas": [
+        "Cráneos y esqueletos humanos que muestran patologías y deformidades históricas.",
+        "Colección de objetos extraídos del cuerpo humano por Samuel D. Gross.",
+        "Modelos de cera que representan enfermedades dermatológicas y otros especímenes médicos raros."
+      ],
+      "nota": "Conocido por su enfoque en la patología y las curiosidades médicas, con un alto valor educativo."
+    },
+    {
+      "nombre": "Museo Alemán de Historia de la Medicina (Deutsches Medizinhistorisches Museum)",
+      "ubicacion": "Ingolstadt, Alemania",
+      "enfoque_principal": "Historia General de la Medicina, Cirugía y Farmacia",
+      "colecciones_destacadas": [
+        "Extensas colecciones de instrumental médico y quirúrgico de los siglos XVII al XX.",
+        "Exposiciones sobre la farmacia histórica, la botánica médica y la obstetricia.",
+        "Modelos anatómicos y equipos de diagnóstico tempranos."
+      ],
+      "nota": "Ubicado en el edificio de la antigua escuela de anatomía, ofrece una visión amplia de la medicina en Europa."
+    },
+    {
+      "nombre": "Museo de Historia de la Medicina (Museo Storico Nazionale dell'Arte Sanitaria)",
+      "ubicacion": "Roma, Italia",
+      "enfoque_principal": "Arte Sanitario, Medicina y Farmacia desde la Antigüedad",
+      "colecciones_destacadas": [
+        "Instrumental quirúrgico romano y egipcio.",
+        "Colección de frascos y herramientas de farmacia históricas.",
+        "Salas temáticas dedicadas a la patología, la anatomía y la medicina del Renacimiento."
+      ],
+      "nota": "Se centra en la evolución de la medicina en Italia y el Mediterráneo."
+    },
+    {
+      "nombre": "Old Operating Theatre Museum and Herb Garret",
+      "ubicacion": "Londres, Reino Unido",
+      "enfoque_principal": "Cirugía Pre-Anestesia",
+      "colecciones_destacadas": [
+        "El quirófano operativo más antiguo que se conserva en Europa (construido en 1822).",
+        "Instrumentos de cirugía de la época victoriana, antes del uso de anestesia y antisépticos.",
+        "Colección de hierbas medicinales utilizadas en el hospital."
+      ],
+      "nota": "Un museo de sitio único que ofrece una perspectiva directa sobre las condiciones quirúrgicas del siglo XIX."
+    },
+    {
+      "nombre": "Museo de Anatomía Patológica (Museo di Anatomia Patologica 'Andrea Vesalio')",
+      "ubicacion": "Roma, Italia",
+      "enfoque_principal": "Anatomía Patológica y Desarrollo de la Enfermedad",
+      "colecciones_destacadas": [
+        "Colección de especímenes humanos y animales con diversas patologías.",
+        "Modelos de cera y moldes de yeso que ilustran enfermedades raras y efectos de traumas.",
+        "Instrumental de laboratorio y microscopía temprana."
+      ],
+      "nota": "Parte de la Universidad La Sapienza, utilizado para la enseñanza e investigación histórica."
+    }
+  ]
+}

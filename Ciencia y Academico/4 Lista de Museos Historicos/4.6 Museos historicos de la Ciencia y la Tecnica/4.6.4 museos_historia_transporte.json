@@ -1,0 +1,70 @@
+{
+  "museos_historia_transporte": [
+    {
+      "nombre": "Museo del Transporte de Londres (London Transport Museum)",
+      "ubicacion": "Londres, Reino Unido",
+      "enfoque_principal": "Historia del Transporte Urbano (Metro, Autobuses, Taxis)",
+      "colecciones_destacadas": [
+        "Una colección histórica de autobuses de dos pisos, tranvías y trolebuses.",
+        "Modelos de vagones de metro antiguos (Underground) y la evolución de la señalización y el diseño gráfico.",
+        "Carteles y material de archivo que documentan el desarrollo de la red de transporte de Londres."
+      ],
+      "nota": "Se centra en la evolución de los sistemas de transporte que dan forma a la ciudad de Londres."
+    },
+    {
+      "nombre": "Museo Nacional del Ferrocarril (National Railway Museum)",
+      "ubicacion": "York, Reino Unido",
+      "enfoque_principal": "Historia y Tecnología Ferroviaria",
+      "colecciones_destacadas": [
+        "Más de 100 locomotoras históricas, incluyendo la locomotora japonesa 'Shinkansen' y la 'Duquesa de Hamilton'.",
+        "El coche de tren de la Reina Victoria y una réplica del 'Rocket' de George Stephenson.",
+        "Vagones y coches de lujo de época, y una vasta colección de artefactos ferroviarios."
+      ],
+      "nota": "Uno de los museos de ferrocarriles más grandes y prestigiosos del mundo."
+    },
+    {
+      "nombre": "Museo del Automóvil Henry Ford (Henry Ford Museum of American Innovation)",
+      "ubicacion": "Dearborn, Míchigan, Estados Unidos",
+      "enfoque_principal": "Innovación, Tecnología y Transporte Terrestre",
+      "colecciones_destacadas": [
+        "El coche presidencial que llevaba a John F. Kennedy cuando fue asesinado (Lincoln Continental de 1961).",
+        "El autobús donde Rosa Parks se negó a ceder su asiento (catalizador del Movimiento por los Derechos Civiles).",
+        "Una extensa colección de automóviles históricos, locomotoras y máquinas industriales."
+      ],
+      "nota": "Aunque enfocado en la innovación, sus colecciones de transporte son fundamentales para la historia americana."
+    },
+    {
+      "nombre": "Museo Alemán de la Navegación (Deutsches Schifffahrtsmuseum)",
+      "ubicacion": "Bremerhaven, Alemania",
+      "enfoque_principal": "Historia Naval y Marina",
+      "colecciones_destacadas": [
+        "El pecio de un cog de Bremen (un barco mercante medieval) excelentemente conservado.",
+        "Modelos de barcos, instrumentos de navegación y artefactos de la exploración marítima.",
+        "Exposiciones sobre la navegación de la Edad Media hasta la tecnología moderna de buques."
+      ],
+      "nota": "El museo marítimo líder en Alemania, centrado en la ingeniería y la historia de la navegación."
+    },
+    {
+      "nombre": "Museo Nacional del Aire y del Espacio (National Air and Space Museum - NASM)",
+      "ubicacion": "Washington D. C., Estados Unidos",
+      "enfoque_principal": "Aviación y Transporte Aeroespacial",
+      "colecciones_destacadas": [
+        "El avión de los hermanos Wright (*Wright Flyer* de 1903).",
+        "El avión *Spirit of St. Louis* de Charles Lindbergh.",
+        "El Módulo de Comando del Apolo 11 y una vasta colección de aviones militares y civiles históricos."
+      ],
+      "nota": "El museo de transporte aéreo y espacial más visitado del mundo."
+    },
+    {
+      "nombre": "Museo del Ferrocarril de Cataluña (Museu del Ferrocarril de Catalunya)",
+      "ubicacion": "Vilanova i la Geltrú, España",
+      "enfoque_principal": "Historia Ferroviaria Española",
+      "colecciones_destacadas": [
+        "Una rotonda de locomotoras con más de 60 vehículos históricos, incluyendo locomotoras de vapor y eléctricas.",
+        "La locomotora 'Mataró', la más antigua conservada en España.",
+        "Exposiciones sobre la infraestructura ferroviaria, los talleres y la vida del maquinista."
+      ],
+      "nota": "Un referente en España, ubicado en las antiguas instalaciones ferroviarias de Vilanova."
+    }
+  ]
+}

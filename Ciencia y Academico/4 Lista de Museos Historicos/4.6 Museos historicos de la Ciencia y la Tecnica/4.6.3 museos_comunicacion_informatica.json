@@ -1,0 +1,70 @@
+{
+  "museos_comunicacion_informatica": [
+    {
+      "nombre": "Museo de la Historia de la Computación (Computer History Museum - CHM)",
+      "ubicacion": "Mountain View, California, Estados Unidos",
+      "enfoque_principal": "Historia y evolución de la informática, software y hardware",
+      "colecciones_destacadas": [
+        "Una de las colecciones de artefactos informáticos más grandes del mundo.",
+        "Máquinas históricas, incluyendo el motor de diferencia de Charles Babbage y el superordenador Cray-1.",
+        "Exhibiciones sobre la historia de Internet, los semiconductores y los videojuegos."
+      ],
+      "nota": "Considerado el principal centro de documentación histórica de la Silicon Valley."
+    },
+    {
+      "nombre": "Museo de la Ciencia (Science Museum)",
+      "ubicacion": "Londres, Reino Unido",
+      "enfoque_principal": "Telecomunicaciones, Computación y Medición",
+      "colecciones_destacadas": [
+        "Colecciones históricas de telégrafos, teléfonos y radio.",
+        "Instrumentos científicos y matemáticos, incluyendo las bases de la criptografía.",
+        "Uno de los primeros modelos de la Máquina de Turing y la primera máquina contable de Elliott Brothers."
+      ],
+      "nota": "Su galería 'Information Age' es clave para entender la evolución de las comunicaciones."
+    },
+    {
+      "nombre": "Museo Nacional de Cómputo Bletchley Park (The National Museum of Computing)",
+      "ubicacion": "Bletchley Park, Reino Unido",
+      "enfoque_principal": "Criptografía, Decodificación y Computación de la Segunda Guerra Mundial",
+      "colecciones_destacadas": [
+        "El sitio histórico donde se descifró el código Enigma (Bletchley Park).",
+        "Una reconstrucción operativa de la máquina Colossus (el primer ordenador electrónico programable).",
+        "Máquinas Enigma originales y colecciones sobre Alan Turing y la decodificación."
+      ],
+      "nota": "Se centra en la historia militar de la informática y el nacimiento de la computación moderna."
+    },
+    {
+      "nombre": "Heinz Nixdorf MuseumsForum (HNF)",
+      "ubicacion": "Paderborn, Alemania",
+      "enfoque_principal": "Historia de la Informática, desde el ábaco hasta Internet",
+      "colecciones_destacadas": [
+        "El museo de informática más grande del mundo, con 6,000 años de historia de la información.",
+        "Máquinas de calcular históricas, terminales y ordenadores personales de los años 80 y 90.",
+        "Exposiciones sobre la mecanización de la oficina, la inteligencia artificial y la robótica."
+      ],
+      "nota": "Ofrece un recorrido exhaustivo por la historia de la comunicación y el procesamiento de datos."
+    },
+    {
+      "nombre": "Museo del Telégrafo, Teléfono y Correos (Museo Storico della Comunicazione)",
+      "ubicacion": "Roma, Italia",
+      "enfoque_principal": "Telecomunicaciones, Correos y Filatelia",
+      "colecciones_destacadas": [
+        "Instrumentos de telégrafo y teléfono de la era temprana.",
+        "Una vasta colección filatélica con sellos raros e históricos.",
+        "Artefactos relacionados con la radio, la televisión y las primeras transmisiones satelitales."
+      ],
+      "nota": "Dedicado a la evolución de los métodos de comunicación a distancia en Italia."
+    },
+    {
+      "nombre": "Museo Miraikan (Museo Nacional Japonés de Ciencias Emergentes e Innovación)",
+      "ubicacion": "Tokio, Japón",
+      "enfoque_principal": "Robótica, Ciencia de Datos y Tecnología de Vanguardia",
+      "colecciones_destacadas": [
+        "Exposiciones sobre el futuro de la robótica (incluyendo el robot humanoide ASIMO de Honda).",
+        "Tecnología de la información espacial y la detección de terremotos.",
+        "Exhibiciones sobre la ciencia de los datos, la supercomputación y las redes globales."
+      ],
+      "nota": "Aunque moderno, es clave para la historia de la informática en Japón y el avance de la IA y la robótica."
+    }
+  ]
+}

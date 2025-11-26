@@ -1,0 +1,70 @@
+{
+  "museos_ciencia_ingenieria": [
+    {
+      "nombre": "Deutsches Museum",
+      "ubicacion": "Múnich, Alemania",
+      "enfoque_principal": "Ciencia, Tecnología, Ingeniería y Navegación",
+      "colecciones_destacadas": [
+        "Más de 28,000 objetos expuestos en 50 áreas temáticas (el museo de ciencia y tecnología más grande del mundo).",
+        "Colección de máquinas históricas, como el primer generador eléctrico y prototipos de vehículos.",
+        "Exposiciones detalladas sobre minería, túneles, navegación, astronomía y física atómica."
+      ],
+      "nota": "Famoso por su amplitud y por albergar artefactos clave de la Revolución Industrial y la tecnología alemana."
+    },
+    {
+      "nombre": "Museo de la Ciencia (Science Museum)",
+      "ubicacion": "Londres, Reino Unido",
+      "enfoque_principal": "Ciencia, Medicina, Industria y Telecomunicaciones",
+      "colecciones_destacadas": [
+        "La máquina de vapor *Puffing Billy* (la locomotora más antigua del mundo).",
+        "Artefactos clave de la historia de la computación, la aviación (incluyendo el módulo de comando del Apolo 10).",
+        "La Galería de Matemáticas diseñada por Zaha Hadid y la colección Wellcome de historia médica."
+      ],
+      "nota": "Uno de los principales museos de ciencia del mundo, conocido por sus colecciones históricas de la era victoriana."
+    },
+    {
+      "nombre": "Museo de Ciencia e Industria (Museum of Science and Industry - MOSI)",
+      "ubicacion": "Chicago, Estados Unidos",
+      "enfoque_principal": "Ciencia Aplicada, Tecnología y Transporte",
+      "colecciones_destacadas": [
+        "Un submarino alemán U-505 capturado durante la Segunda Guerra Mundial.",
+        "Una mina de carbón recreada y operativa, y un modelo de tren a escala gigante.",
+        "Exhibiciones interactivas sobre energía, agricultura y la cápsula espacial Apolo 8."
+      ],
+      "nota": "Ubicado en el antiguo Palacio de Bellas Artes de la Exposición Mundial Colombina de 1893, con un fuerte enfoque en la interacción."
+    },
+    {
+      "nombre": "Museo Nacional del Aire y del Espacio (National Air and Space Museum - NASM)",
+      "ubicacion": "Washington D. C., Estados Unidos (y Centro Udvar-Hazy)",
+      "enfoque_principal": "Aeroespacial, Aviación e Ingeniería Aeronáutica",
+      "colecciones_destacadas": [
+        "El avión de los hermanos Wright (el *Wright Flyer* de 1903).",
+        "El módulo de comando del Apolo 11 y el avión *Spirit of St. Louis* de Charles Lindbergh.",
+        "Una colección inigualable de aeronaves militares y civiles, cohetes y satélites históricos."
+      ],
+      "nota": "Aunque específico en temática, es esencial para la historia de la ingeniería de la propulsión y vuelo."
+    },
+    {
+      "nombre": "Museo Nacional de Ciencia y Tecnología Leonardo Da Vinci",
+      "ubicacion": "Milán, Italia",
+      "enfoque_principal": "Ciencia, Técnica y el Pensamiento de Leonardo Da Vinci",
+      "colecciones_destacadas": [
+        "La mayor colección mundial de modelos históricos basados en los dibujos de Leonardo Da Vinci.",
+        "Secciones dedicadas al transporte (marítimo, terrestre y aéreo), energía y comunicaciones.",
+        "El submarino Enrico Toti y el único fragmento de la Luna expuesto en Italia."
+      ],
+      "nota": "Rinde homenaje a la figura de Da Vinci como inventor, científico e ingeniero."
+    },
+    {
+      "nombre": "Museo de Artes y Oficios (Musée des Arts et Métiers)",
+      "ubicacion": "París, Francia",
+      "enfoque_principal": "Historia de la Técnica y las Invenciones Científicas",
+      "colecciones_destacadas": [
+        "Instrumentos científicos históricos, incluyendo el péndulo original de Foucault.",
+        "Primeros modelos de aviones, vehículos de motor y máquinas industriales.",
+        "La colección del Conservatorio Nacional de Artes y Oficios, un vasto archivo de invenciones francesas."
+      ],
+      "nota": "Colección histórica que traza el desarrollo de la tecnología desde el siglo XVIII."
+    }
+  ]
+}

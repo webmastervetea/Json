@@ -1,0 +1,59 @@
+{
+  "museos_sitio_industrial": [
+    {
+      "nombre": "Museo de la Revolución Industrial (Paisaje Cultural Industrial de Fray Bentos)",
+      "ubicacion": "Fray Bentos, Uruguay",
+      "enfoque_principal": "Industria Cárnica y Conservación de Alimentos (Frigorífico Anglo)",
+      "colecciones_destacadas": [
+        "El complejo industrial completo del Frigorífico Anglo, declarado Patrimonio de la Humanidad por la UNESCO.",
+        "Maquinaria original, la Sala de Máquinas, y los talleres de herrería y carpintería del siglo XX.",
+        "Documentación y objetos sobre la vida de los obreros y la producción de carne enlatada a escala mundial (corned beef)."
+      ],
+      "nota": "Conocido como 'La Gran Cocina del Mundo', ilustra la cadena productiva global de alimentos del siglo XX."
+    },
+    {
+      "nombre": "Museo del Acero Horno 3 (Parque Fundidora)",
+      "ubicacion": "Monterrey, México",
+      "enfoque_principal": "Siderurgia, Fundición y Metalurgia",
+      "colecciones_destacadas": [
+        "El Horno Alto No. 3, la estructura de fundición más emblemática, transformada en un museo interactivo.",
+        "Exposiciones sobre el proceso de fabricación del acero, la historia de Fundidora de Fierro y Acero de Monterrey.",
+        "Recorridos por la cumbre del horno con vistas panorámicas de la ciudad."
+      ],
+      "nota": "Un ejemplo de reconversión de un sitio industrial histórico en un centro cultural y educativo."
+    },
+    {
+      "nombre": "Museo Histórico de la Fábrica de Boina La Encartada",
+      "ubicacion": "Balmaseda, País Vasco, España",
+      "enfoque_principal": "Industria Textil y Género de Punto (Boinas)",
+      "colecciones_destacadas": [
+        "Las instalaciones y maquinaria textil **originales y completas** (cardas, hiladoras y telares) de 1892.",
+        "La antigua turbina hidráulica que generaba la energía de la fábrica.",
+        "Documentación sobre la vida de los trabajadores en la colonia industrial asociada."
+      ],
+      "nota": "Un museo de sitio único que conserva la atmósfera y el proceso productivo de una fábrica textil del siglo XIX."
+    },
+    {
+      "nombre": "Museo del Cemento Asland (Antigua Fábrica de Cemento)",
+      "ubicacion": "Castellar de n'Hug, Cataluña, España",
+      "enfoque_principal": "Producción de Cemento y la Arquitectura Industrial",
+      "colecciones_destacadas": [
+        "Las ruinas y estructuras originales de la fábrica de cemento de principios del siglo XX, diseñada por Rafael Guastavino.",
+        "Exposiciones sobre el proceso de producción del cemento y su impacto en la construcción.",
+        "Integrado en el Parque Natural del Alto Berguedà, destacando la relación entre industria y entorno."
+      ],
+      "nota": "Destaca por su espectacular ubicación en el desfiladero del río Llobregat y su arquitectura modernista."
+    },
+    {
+      "nombre": "Museo de la Minería de Carbón de Zollverein (Zollverein Coal Mine Industrial Complex)",
+      "ubicacion": "Essen, Alemania",
+      "enfoque_principal": "Minería del Carbón y la Industria Pesada del Ruhr",
+      "colecciones_destacadas": [
+        "El sitio completo de la mina de carbón y la planta de coque, declarado Patrimonio de la Humanidad por la UNESCO.",
+        "Las imponentes estructuras de acero, maquinaria y el pozo de extracción (Pozo 12).",
+        "Exposiciones sobre la historia de la minería, la vida de los mineros y la transformación del paisaje industrial."
+      ],
+      "nota": "Considerado la mina de carbón más bella del mundo, es un ícono de la arquitectura y la ingeniería industrial moderna."
+    }
+  ]
+}

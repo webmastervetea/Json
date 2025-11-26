@@ -1,0 +1,65 @@
+{
+  "museos_biograficos_ciencia": [
+    {
+      "nombre": "Museo Galileo (Instituto y Museo de Historia de la Ciencia)",
+      "cientifico_principal": "Galileo Galilei",
+      "ubicacion": "Florencia, Italia",
+      "enfoque_principal": "Instrumentos científicos y la revolución científica",
+      "colecciones_destacadas": [
+        "Los dos únicos telescopios y la lente objetivo original de Galileo que se conservan.",
+        "El dedo medio de Galileo (relíquia biológica).",
+        "Colecciones de instrumentos astronómicos, matemáticos y de navegación del Renacimiento y Barroco."
+      ],
+      "nota": "Aunque cubre un período amplio, es el centro mundial de la memoria de Galileo."
+    },
+    {
+      "nombre": "Down House - Casa de Charles Darwin",
+      "cientifico_principal": "Charles Darwin",
+      "ubicacion": "Downe, Kent, Reino Unido",
+      "enfoque_principal": "El desarrollo de la Teoría de la Evolución por Selección Natural",
+      "colecciones_destacadas": [
+        "El estudio de Darwin, conservado tal como él lo dejó.",
+        "El 'Sandwalk' o 'Thinking Path', sendero donde Darwin desarrollaba sus ideas.",
+        "Objetos, muebles y archivos personales que reflejan su vida familiar y científica."
+      ],
+      "nota": "El lugar donde Darwin vivió, trabajó y escribió *El origen de las especies*."
+    },
+    {
+      "nombre": "Museo de Marie Curie (Musée Curie)",
+      "cientifico_principal": "Marie Curie y la Familia Curie (Pierre, Irène y Frédéric)",
+      "ubicacion": "París, Francia",
+      "enfoque_principal": "Descubrimiento de la Radiactividad y la Física Nuclear",
+      "colecciones_destacadas": [
+        "El laboratorio original de Marie Curie en el Instituto del Radio.",
+        "Instrumentos científicos y dispositivos utilizados en el descubrimiento del Polonio y el Radio.",
+        "Documentos y cartas personales de la familia, incluyendo sus premios Nobel."
+      ],
+      "nota": "El museo es, de hecho, el antiguo laboratorio donde trabajó Marie Curie hasta su muerte."
+    },
+    {
+      "nombre": "Woolsthorpe Manor - Casa Natal de Isaac Newton",
+      "cientifico_principal": "Isaac Newton",
+      "ubicacion": "Woolsthorpe-by-Colsterworth, Lincolnshire, Reino Unido",
+      "enfoque_principal": "Leyes del Movimiento, Gravedad y Óptica (El *Annus Mirabilis*)",
+      "colecciones_destacadas": [
+        "La habitación donde Newton realizó sus experimentos con la luz y el prisma.",
+        "El famoso manzano, cuya caída se dice que inspiró su ley de la gravitación universal.",
+        "Recreaciones de la vida rural y la época en que Newton formuló sus ideas más importantes."
+      ],
+      "nota": "Conocida como el lugar donde Newton se refugió durante la peste y gestó sus descubrimientos."
+    },
+    {
+      "nombre": "Casa Natal y Museo de Louis Pasteur",
+      "cientifico_principal": "Louis Pasteur",
+      "ubicacion": "Dôle, Francia",
+      "enfoque_principal": "Microbiología, Inmunología y la Pasteurización",
+      "colecciones_destacadas": [
+        "La casa donde nació y pasó su infancia, conservada con el mobiliario de la época.",
+        "Exposiciones sobre sus investigaciones de la fermentación y la esterilización.",
+        "Documentación sobre el desarrollo de las vacunas, especialmente la de la rabia."
+      ],
+      "nota": "Un museo de sitio que traza el origen del hombre clave en la medicina moderna."
+    }
+  ]
+}
+

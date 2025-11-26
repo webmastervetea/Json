@@ -1,0 +1,70 @@
+{
+  "centros_ciencia_interactivos": [
+    {
+      "nombre": "Exploratorium",
+      "ubicacion": "San Francisco, California, Estados Unidos",
+      "enfoque_principal": "Aprendizaje Experimental y Fenómenos Perceptuales",
+      "colecciones_destacadas": [
+        "Más de 600 exhibiciones interactivas basadas en la física, biología, psicología y arte.",
+        "La 'Máquina de Niebla' (Fog Bridge) y exposiciones sobre óptica y ondas.",
+        "Pionero en el concepto de 'Museo de la Experiencia' (Hands-on Museum)."
+      ],
+      "nota": "Fundado en 1969 por el físico Frank Oppenheimer. Es el modelo para la mayoría de los 'science centers' modernos."
+    },
+    {
+      "nombre": "Deutsches Museum (Sucursal de Múnich, parte interactiva)",
+      "ubicacion": "Múnich, Alemania",
+      "enfoque_principal": "Ciencia, Tecnología e Ingeniería (con fuerte componente interactivo)",
+      "colecciones_destacadas": [
+        "Aunque es un museo histórico, cuenta con grandes áreas de demostraciones interactivas de física y química.",
+        "La sección de 'Física Interactiva' donde se pueden probar experimentos clásicos.",
+        "Demostraciones diarias sobre alto voltaje, motores y navegación."
+      ],
+      "nota": "El museo de ciencia y tecnología más grande del mundo, con una mezcla de objetos históricos y experiencias interactivas."
+    },
+    {
+      "nombre": "Science City (Centro de Ciencias)",
+      "ubicacion": "Calcuta, India",
+      "enfoque_principal": "Ciencia Aplicada, Evolución y Tecnología para la Divulgación Masiva",
+      "colecciones_destacadas": [
+        "Galería de la Evolución, exposición sobre el espacio y la Tierra.",
+        "Un sistema de teleférico para experimentar vistas aéreas y un Parque de Ciencias al aire libre.",
+        "El Centro Marítimo con simuladores de navegación y exhibiciones de vida marina."
+      ],
+      "nota": "Uno de los centros interactivos más grandes de Asia, enfatizando la educación pública masiva."
+    },
+    {
+      "nombre": "Heureka, el Centro de Ciencias Finlandés",
+      "ubicacion": "Vantaa (Helsinki), Finlandia",
+      "enfoque_principal": "Ciencia, Matemáticas y Aplicaciones Tecnológicas en la Vida Cotidiana",
+      "colecciones_destacadas": [
+        "Exhibiciones permanentes y temporales sobre el cuerpo humano, matemáticas y el entorno construido.",
+        "Un planetario digital de cúpula completa para proyecciones astronómicas.",
+        "Exposiciones interactivas que invitan a los visitantes a resolver problemas y realizar experimentos."
+      ],
+      "nota": "Conocido por su diseño moderno y su fuerte vínculo con el sistema educativo finlandés."
+    },
+    {
+      "nombre": "CosmoCaixa Barcelona",
+      "ubicacion": "Barcelona, España",
+      "enfoque_principal": "Naturaleza, Evolución, Física y Medio Ambiente",
+      "colecciones_destacadas": [
+        "El 'Bosque Inundado' (recreación de un ecosistema amazónico vivo de 1,000 m²).",
+        "El 'Muro Geológico', una sección de rocas que ilustran la historia geológica de la Tierra.",
+        "Exposiciones interactivas sobre la física y la materia, y la Sala de la Materia con modelos a escala."
+      ],
+      "nota": "Destaca por su integración de la ciencia natural y la física, con un énfasis en los ecosistemas."
+    },
+    {
+      "nombre": "Ontario Science Centre",
+      "ubicacion": "Toronto, Canadá",
+      "enfoque_principal": "Ciencia, Tecnología, Comunicaciones e Innovación",
+      "colecciones_destacadas": [
+        "Pionero en el concepto de 'Hands-on' en Norteamérica, abierto en 1969.",
+        "Exhibiciones históricas sobre música, matemáticas, y ciencia espacial.",
+        "El área de ciencias de la Tierra, con demostraciones de tormentas eléctricas y geología."
+      ],
+      "nota": "Uno de los primeros centros de ciencia interactivos de gran escala y un referente en la divulgación educativa."
+    }
+  ]
+}

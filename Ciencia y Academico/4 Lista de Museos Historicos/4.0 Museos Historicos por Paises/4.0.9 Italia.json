@@ -1,0 +1,122 @@
+{
+  "museos_historicos_italia_destacados": [
+    {
+      "nombre": "Museo Nacional Romano (Museo Nazionale Romano)",
+      "ubicacion": {
+        "ciudad": "Roma",
+        "secciones": "Palacio Massimo, Termas de Diocleciano, Cripta Balbi, Palacio Altemps"
+      },
+      "colecciones_destacadas": [
+        "Esculturas y objetos de la **Roma antigua** (incluido el Discóforo y el Boxeador en reposo)",
+        "Numismática romana (monedas) y artefactos arqueológicos de la ciudad",
+        "Mosaicos, frescos y hallazgos de la época imperial"
+      ]
+    },
+    {
+      "nombre": "Museo Arqueológico Nacional de Nápoles (MANN)",
+      "ubicacion": {
+        "ciudad": "Nápoles",
+        "jurisdiccion": "Piazza Museo"
+      },
+      "colecciones_destacadas": [
+        "Artefactos y objetos recuperados de **Pompeya y Herculano** tras la erupción del Vesubio",
+        "La colección Farnese de esculturas clásicas (incluido el Hércules Farnese)",
+        "Mosaicos y frescos romanos"
+      ]
+    },
+    {
+      "nombre": "Museos Capitolinos (Musei Capitolini)",
+      "ubicacion": {
+        "ciudad": "Roma",
+        "jurisdiccion": "Piazza del Campidoglio"
+      },
+      "colecciones_destacadas": [
+        "El museo público más antiguo del mundo (fundado en 1471)",
+        "Esculturas clásicas (incluida la Loba Capitolina original y la estatua ecuestre de Marco Aurelio)",
+        "Historia del gobierno de la ciudad y hallazgos arqueológicos"
+      ]
+    },
+    {
+      "nombre": "Museo Egipcio de Turín (Museo Egizio)",
+      "ubicacion": {
+        "ciudad": "Turín",
+        "jurisdiccion": "Via Accademia delle Scienze"
+      },
+      "colecciones_destacadas": [
+        "La segunda colección de **artefactos egipcios** más grande fuera de Egipto",
+        "Papiros, sarcófagos, estatuas y objetos del Nuevo Reino",
+        "Tumba de Kha y Merit"
+      ]
+    },
+    {
+      "nombre": "Museo Nacional Etrusco de Villa Giulia",
+      "ubicacion": {
+        "ciudad": "Roma",
+        "jurisdiccion": "Villa Giulia"
+      },
+      "colecciones_destacadas": [
+        "Arte y artefactos de las **civilizaciones etrusca** y falisca",
+        "El Sarcófago de los Esposos (Sarcofago degli Sposi)",
+        "Objetos funerarios y orfebrería"
+      ]
+    },
+    {
+      "nombre": "Museo Arqueológico Regional Antonio Salinas",
+      "ubicacion": {
+        "ciudad": "Palermo",
+        "jurisdiccion": "Sicilia"
+      },
+      "colecciones_destacadas": [
+        "Arqueología de **Sicilia**, incluyendo artefactos fenicios, púnicos y griegos",
+        "Restos del Templo de Selinunte y esculturas"
+      ]
+    },
+    {
+      "nombre": "Galería de los Uffizi (con enfoque en el período histórico)",
+      "ubicacion": {
+        "ciudad": "Florencia",
+        "jurisdiccion": "Toscana"
+      },
+      "colecciones_destacadas": [
+        "Arte del **Renacimiento Italiano** (Botticelli, Leonardo, Miguel Ángel)",
+        "Historia de la familia **Médici** y su patrocinio cultural",
+        "Historia social y política de Florencia en los siglos XV y XVI"
+      ]
+    },
+    {
+      "nombre": "Museo Arqueológico Nacional de Florencia",
+      "ubicacion": {
+        "ciudad": "Florencia",
+        "jurisdiccion": "Toscana"
+      },
+      "colecciones_destacadas": [
+        "Una de las colecciones **egipcias** más importantes de Italia",
+        "Vastas colecciones **etruscas** y grecorromanas",
+        "El bronce de la 'Quimera de Arezzo'"
+      ]
+    },
+    {
+      "nombre": "Castillo Sforzesco y Museos",
+      "ubicacion": {
+        "ciudad": "Milán",
+        "jurisdiccion": "Lombardía"
+      },
+      "colecciones_destacadas": [
+        "Historia del **Ducado de Milán** y la familia Sforza (Edad Media y Renacimiento)",
+        "Museo de la Prehistoria y la Protohistoria",
+        "Colecciones de mobiliario histórico, armas y armaduras"
+      ]
+    },
+    {
+      "nombre": "Museo del Risorgimento",
+      "ubicacion": {
+        "ciudad": "Roma",
+        "jurisdiccion": "Complesso del Vittoriano"
+      },
+      "colecciones_destacadas": [
+        "Historia de la **Unificación de Italia** (Risorgimento) en el siglo XIX",
+        "Documentos, uniformes y objetos personales de figuras clave como Garibaldi y Mazzini"
+      ]
+    }
+  ]
+}

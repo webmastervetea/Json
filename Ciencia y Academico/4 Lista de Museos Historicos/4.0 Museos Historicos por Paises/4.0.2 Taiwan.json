@@ -1,0 +1,74 @@
+{
+  "museos_historicos_taiwan_destacados": [
+    {
+      "nombre": "Museo Nacional del Palacio (National Palace Museum - NPM)",
+      "ubicacion": {
+        "ciudad": "Taipéi",
+        "jurisdiccion": "Shilin District"
+      },
+      "colecciones_destacadas": [
+        "Colección imperial de arte y artefactos chinos (la colección más grande del mundo)",
+        "Porcelana, bronces, pinturas y caligrafía de las dinastías chinas",
+        "El Repollo de Jade y la Piedra con Forma de Carne"
+      ]
+    },
+    {
+      "nombre": "Museo Nacional de Taiwán (National Taiwan Museum - NTM)",
+      "ubicacion": {
+        "ciudad": "Taipéi",
+        "jurisdiccion": "Zhongzheng District"
+      },
+      "colecciones_destacadas": [
+        "Historia, antropología y ciencias naturales de Taiwán",
+        "Arqueología de las primeras culturas (período neolítico y edad del hierro)",
+        "Artefactos del período colonial japonés y el período de la posguerra"
+      ]
+    },
+    {
+      "nombre": "Museo Nacional de Prehistoria (National Museum of Prehistory - NMP)",
+      "ubicacion": {
+        "ciudad": "Taitung",
+        "jurisdiccion": "Taitung City"
+      },
+      "colecciones_destacadas": [
+        "Cultura y prehistoria de Taiwán (incluyendo el sitio de Peinan)",
+        "Herramientas de piedra, cerámica y objetos funerarios de las culturas antiguas",
+        "Historia de los pueblos indígenas taiwaneses"
+      ]
+    },
+    {
+      "nombre": "Museo Nacional de Historia de Taiwán (National Museum of Taiwan History - NMTH)",
+      "ubicacion": {
+        "ciudad": "Tainan",
+        "jurisdiccion": "Anding District"
+      },
+      "colecciones_destacadas": [
+        "Historia integral de Taiwán (desde el siglo XVII hasta el presente)",
+        "Períodos de gobierno neerlandés, Koxinga, Qing, y japonés",
+        "Documentos y objetos de la vida social y política taiwanesa"
+      ]
+    },
+    {
+      "nombre": "Museo de la Historia de Keelung (Keelung Municipal History Museum)",
+      "ubicacion": {
+        "ciudad": "Keelung",
+        "jurisdiccion": "Zhongzheng District"
+      },
+      "colecciones_destacadas": [
+        "Historia local de Keelung como puerto marítimo estratégico",
+        "Artefactos relacionados con la historia militar y el comercio en el norte de Taiwán"
+      ]
+    },
+    {
+      "nombre": "Museo de Oro de Jinguashi (Jinguashi Gold Museum)",
+      "ubicacion": {
+        "ciudad": "Nuevo Taipéi",
+        "jurisdiccion": "Ruifang District"
+      },
+      "colecciones_destacadas": [
+        "Historia de la minería de oro en Taiwán (período japonés)",
+        "Equipamiento minero, documentos y la historia de los trabajadores"
+      ]
+    }
+  ]
+}

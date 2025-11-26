@@ -1,0 +1,76 @@
+{
+  "museos_historicos_dinamarca_destacados": [
+    {
+      "nombre": "Museo Nacional de Dinamarca (Nationalmuseet)",
+      "ubicacion": {
+        "ciudad": "Copenhague",
+        "jurisdiccion": "Ny Vestergade"
+      },
+      "colecciones_destacadas": [
+        "Historia de Dinamarca desde la prehistoria hasta el presente",
+        "Colección de objetos de la **Edad Vikinga** y de la Edad del Bronce (El Carro del Sol de Trundholm)",
+        "Etnografía (colecciones de Groenlandia y las islas Feroe)",
+        "Monedas y medallas históricas"
+      ]
+    },
+    {
+      "nombre": "Museo de los Barcos Vikingos (Vikingeskibsmuseet)",
+      "ubicacion": {
+        "ciudad": "Roskilde",
+        "jurisdiccion": "Fiordo de Roskilde"
+      },
+      "colecciones_destacadas": [
+        "Cinco **barcos vikingos originales** del siglo XI (los Skuldelev Ships)",
+        "Historia de la navegación, construcción naval y la guerra vikinga",
+        "Arqueología marítima y la importancia del fiordo de Roskilde"
+      ]
+    },
+    {
+      "nombre": "Museo Den Gamle By (La Ciudad Vieja)",
+      "ubicacion": {
+        "ciudad": "Aarhus",
+        "jurisdiccion": "Aarhus C"
+      },
+      "colecciones_destacadas": [
+        "**Museo al aire libre** que recrea la vida urbana danesa a lo largo de 400 años (desde 1500)",
+        "Más de 75 edificios históricos reubicados de todo el país",
+        "Exposiciones sobre la vida social, el comercio y las costumbres históricas"
+      ]
+    },
+    {
+      "nombre": "Museo de la Armada Real Danesa (Orlogsmuseet)",
+      "ubicacion": {
+        "ciudad": "Copenhague",
+        "jurisdiccion": "Christianshavn"
+      },
+      "colecciones_destacadas": [
+        "Historia naval de Dinamarca desde el siglo XVI hasta la actualidad",
+        "Modelos de barcos, uniformes, armas y banderas históricas",
+        "Batallas navales y la historia de la base naval de Holmen"
+      ]
+    },
+    {
+      "nombre": "Museo del Castillo de Rosenborg (Rosenborg Slot)",
+      "ubicacion": {
+        "ciudad": "Copenhague",
+        "jurisdiccion": "Centro"
+      },
+      "colecciones_destacadas": [
+        "Joyas de la Corona Danesa y Tesoros Reales",
+        "Historia de la monarquía danesa (siglo XVII al XIX)",
+        "Mobiliario, retratos y objetos de la vida de los reyes daneses"
+      ]
+    },
+    {
+      "nombre": "Museo de los Trabajadores (Arbejdermuseet)",
+      "ubicacion": {
+        "ciudad": "Copenhague",
+        "jurisdiccion": "Centro"
+      },
+      "colecciones_destacadas": [
+        "Historia del movimiento obrero, las condiciones laborales y la vida cotidiana de la clase trabajadora",
+        "Historia social y política de Dinamarca en los siglos XIX y XX"
+      ]
+    }
+  ]
+}

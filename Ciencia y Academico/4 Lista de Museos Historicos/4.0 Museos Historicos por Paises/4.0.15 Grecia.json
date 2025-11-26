@@ -1,0 +1,77 @@
+{
+  "museos_historicos_grecia_destacados": [
+    {
+      "nombre": "Museo Arqueológico Nacional de Atenas (National Archaeological Museum)",
+      "ubicacion": {
+        "ciudad": "Atenas",
+        "jurisdiccion": "Exarchia"
+      },
+      "colecciones_destacadas": [
+        "La colección más importante de **artefactos de la antigua Grecia** en el mundo",
+        "Tesoros de Micenas (Máscara de Agamenón)",
+        "Esculturas clásicas (Estatua de Poseidón de Artemision)",
+        "Colecciones de cerámica, bronces y objetos prehistóricos"
+      ]
+    },
+    {
+      "nombre": "Museo de la Acrópolis (Acropolis Museum)",
+      "ubicacion": {
+        "ciudad": "Atenas",
+        "jurisdiccion": "Makriyianni"
+      },
+      "colecciones_destacadas": [
+        "Artefactos y esculturas encontradas en el sitio de la **Acrópolis**",
+        "Frisos del Partenón (metopas y figuras de los frontones)",
+        "Las Cariátides originales del Erecteión",
+        "Restos del Partenón, el Erecteión y los Propileos"
+      ]
+    },
+    {
+      "nombre": "Museo Arqueológico de Heraclión (Heraklion Archaeological Museum)",
+      "ubicacion": {
+        "ciudad": "Heraclión",
+        "jurisdiccion": "Creta"
+      },
+      "colecciones_destacadas": [
+        "La colección más importante de **arte minoico** del mundo",
+        "Objetos de los palacios de Cnosos y Festos",
+        "El Disco de Festos y cerámica de Kamarés",
+        "Artefactos desde el Neolítico hasta la época romana"
+      ]
+    },
+    {
+      "nombre": "Museo Arqueológico de Delfos",
+      "ubicacion": {
+        "ciudad": "Delfos",
+        "jurisdiccion": "Fócida"
+      },
+      "colecciones_destacadas": [
+        "Hallazgos del **Santuario de Apolo** en Delfos (sitio del Oráculo)",
+        "El Auriga de Delfos (escultura de bronce)",
+        "El Tesoro de los Sifnios y otros artefactos votivos"
+      ]
+    },
+    {
+      "nombre": "Museo de los Tesoros Reales de Vergina",
+      "ubicacion": {
+        "ciudad": "Vergina",
+        "jurisdiccion": "Macedonia Central"
+      },
+      "colecciones_destacadas": [
+        "Tesoros encontrados en las **tumbas reales macedonias**, incluida la tumba de Filipo II (padre de Alejandro Magno)",
+        "Coronas de oro, objetos funerarios, armaduras y el larnax de oro"
+      ]
+    },
+    {
+      "nombre": "Museo de la Historia de Atenas (Museo de la Ciudad de Atenas)",
+      "ubicacion": {
+        "ciudad": "Atenas",
+        "jurisdiccion": "Plaza Klafthmonos"
+      },
+      "colecciones_destacadas": [
+        "Historia moderna de Atenas, desde 1834 (cuando se convirtió en capital) hasta el siglo XX",
+        "Mobiliario, arte y objetos de la vida de los reyes Otón y Jorge I"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "museos_historicos_espana_destacados": [
+    {
+      "nombre": "Museo Arqueológico Nacional (MAN)",
+      "ubicacion": {
+        "ciudad": "Madrid",
+        "jurisdiccion": "Barrio de Salamanca"
+      },
+      "colecciones_destacadas": [
+        "Historia de la Península Ibérica desde la Prehistoria hasta el siglo XIX",
+        "Arte ibérico: **Dama de Elche** y Dama de Baza",
+        "Tesoros visigodos: **Tesoro de Guarrazar**",
+        "Artefactos romanos y árabes"
+      ]
+    },
+    {
+      "nombre": "Museo de América",
+      "ubicacion": {
+        "ciudad": "Madrid",
+        "jurisdiccion": "Moncloa"
+      },
+      "colecciones_destacadas": [
+        "Arqueología, etnografía y arte de las culturas del continente americano",
+        "Artefactos precolombinos (culturas azteca, inca y maya)",
+        "Objetos relacionados con el descubrimiento y la colonización"
+      ]
+    },
+    {
+      "nombre": "Museo Arqueológico de Córdoba",
+      "ubicacion": {
+        "ciudad": "Córdoba",
+        "jurisdiccion": "Andalucía"
+      },
+      "colecciones_destacadas": [
+        "Arqueología de **Corduba** (romana) e **islamismo**",
+        "Restos del teatro romano, objetos de la Mezquita y Madinat al-Zahra",
+        "Cerámica, bronces y numismática"
+      ]
+    },
+    {
+      "nombre": "Museo Arqueológico Provincial de Alicante (MARQ)",
+      "ubicacion": {
+        "ciudad": "Alicante",
+        "jurisdiccion": "Comunidad Valenciana"
+      },
+      "colecciones_destacadas": [
+        "Arqueología de la provincia de Alicante, desde el Paleolítico hasta la Edad Media",
+        "Sitio arqueológico de Lucentum (ciudad romana)"
+      ]
+    },
+    {
+      "nombre": "Museo de Altamira (con Neocueva)",
+      "ubicacion": {
+        "ciudad": "Santillana del Mar",
+        "jurisdiccion": "Cantabria"
+      },
+      "colecciones_destacadas": [
+        "Arte y vida del Paleolítico Superior",
+        "Réplica de las famosas **pinturas rupestres** de la Cueva de Altamira",
+        "Arqueología de la región cantábrica"
+      ]
+    },
+    {
+      "nombre": "Museo Arqueológico de Sevilla",
+      "ubicacion": {
+        "ciudad": "Sevilla",
+        "jurisdiccion": "Andalucía"
+      },
+      "colecciones_destacadas": [
+        "Tesoros tartésicos y romanos (incluido el **Tesoro de El Carambolo**)",
+        "Esculturas de Itálica (ciudad romana cercana)",
+        "Colecciones del período prehistórico y de la Antigüedad"
+      ]
+    },
+    {
+      "nombre": "Museo de Historia de Barcelona (MUHBA)",
+      "ubicacion": {
+        "ciudad": "Barcelona",
+        "jurisdiccion": "Cataluña"
+      },
+      "colecciones_destacadas": [
+        "Historia de la ciudad de Barcelona desde los asentamientos romanos (**Barcino**) hasta la actualidad",
+        "Rutas subterráneas por las ruinas de la ciudad romana"
+      ]
+    },
+    {
+      "nombre": "Museo Vasco (Euskal Museoa)",
+      "ubicacion": {
+        "ciudad": "Bilbao",
+        "jurisdiccion": "País Vasco"
+      },
+      "colecciones_destacadas": [
+        "Historia y etnografía de la cultura vasca y su vida marítima y rural",
+        "Arqueología local, objetos folclóricos y tradiciones"
+      ]
+    },
+    {
+      "nombre": "Museo das Peregrinacións e de Santiago",
+      "ubicacion": {
+        "ciudad": "Santiago de Compostela",
+        "jurisdiccion": "Galicia"
+      },
+      "colecciones_destacadas": [
+        "Historia de las **peregrinaciones** y el **Camino de Santiago** (desde la Edad Media)",
+        "Arte sacro, objetos históricos y la historia de la ciudad de Santiago"
+      ]
+    },
+    {
+      "nombre": "Museo de la Evolución Humana (MEH)",
+      "ubicacion": {
+        "ciudad": "Burgos",
+        "jurisdiccion": "Castilla y León"
+      },
+      "colecciones_destacadas": [
+        "Restos fósiles y materiales de los **Yacimientos de Atapuerca**",
+        "Historia de la evolución humana en Europa",
+        "Fósiles del *Homo antecessor*"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "museos_historicos_rusia_destacados": [
+    {
+      "nombre": "Museo Histórico Estatal (Государственный исторический музей)",
+      "ubicacion": {
+        "ciudad": "Moscú",
+        "jurisdiccion": "Plaza Roja"
+      },
+      "colecciones_destacadas": [
+        "Historia de Rusia desde el Paleolítico hasta principios del siglo XX",
+        "Colección de hallazgos arqueológicos de todas las regiones de Rusia",
+        "Reliquias de la Rus de Kiev, manuscritos, armas y objetos de la monarquía"
+      ]
+    },
+    {
+      "nombre": "Museo del Hermitage (Эрмитаж) - Colecciones Históricas",
+      "ubicacion": {
+        "ciudad": "San Petersburgo",
+        "jurisdiccion": "Palacio de Invierno"
+      },
+      "colecciones_destacadas": [
+        "Historia de la Cultura y el Arte Mundial",
+        "Salas de la Cultura y el Arte del Cercano Oriente Antiguo y la Antigüedad Clásica",
+        "Joyas de la Corona, Artefactos Escitas y piezas de la Historia Rusa Imperial"
+      ]
+    },
+    {
+      "nombre": "Museos del Kremlin de Moscú (Московский Кремль)",
+      "ubicacion": {
+        "ciudad": "Moscú",
+        "jurisdiccion": "Kremlin"
+      },
+      "colecciones_destacadas": [
+        "**Armería** (Oruzheynaya Palata): Colección de tesoros de la monarquía rusa (tronos, vestiduras, armas, carros)",
+        "**Fondo de Diamantes** (Almazny Fond): Joyas de la Corona, diamantes y piedras preciosas históricas",
+        "Catedrales históricas (de la Dormición, del Arcángel y de la Anunciación)"
+      ]
+    },
+    {
+      "nombre": "Museo Central de las Fuerzas Armadas (Центральный музей Вооружённых Сил)",
+      "ubicacion": {
+        "ciudad": "Moscú",
+        "jurisdiccion": "Distrito de Sokolniki"
+      },
+      "colecciones_destacadas": [
+        "Historia militar de Rusia desde la formación del ejército regular hasta la actualidad",
+        "Exposiciones detalladas sobre la **Segunda Guerra Mundial** (Gran Guerra Patria)",
+        "Armamento, uniformes, condecoraciones y banderas históricas"
+      ]
+    },
+    {
+      "nombre": "Museo Ruso (Государственный Русский музей)",
+      "ubicacion": {
+        "ciudad": "San Petersburgo",
+        "jurisdiccion": "Palacio Mijáilovski"
+      },
+      "colecciones_destacadas": [
+        "Historia del arte ruso y la evolución de la identidad cultural a través del arte",
+        "Pintura, escultura y arte decorativo ruso desde el siglo X hasta el XX"
+      ]
+    },
+    {
+      "nombre": "Museo de la Historia Política de San Petersburgo",
+      "ubicacion": {
+        "ciudad": "San Petersburgo",
+        "jurisdiccion": "Calle Kuybysheva"
+      },
+      "colecciones_destacadas": [
+        "Historia política y social de Rusia (siglos XIX y XX)",
+        "Documentación sobre la Revolución Rusa, el período soviético y la disidencia",
+        "Objetos de figuras políticas clave y movimientos sociales"
+      ]
+    },
+    {
+      "nombre": "Museo de la Historia de Ekaterimburgo (Музей истории Екатеринбурга)",
+      "ubicacion": {
+        "ciudad": "Ekaterimburgo",
+        "jurisdiccion": "Urales"
+      },
+      "colecciones_destacadas": [
+        "Historia de los Urales y el papel de Ekaterimburgo como centro industrial y político",
+        "Exposiciones sobre la minería del oro, la historia de los Romanov en la región y la era soviética"
+      ]
+    }
+  ]
+}

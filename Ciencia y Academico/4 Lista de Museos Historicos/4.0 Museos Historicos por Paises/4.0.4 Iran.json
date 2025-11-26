@@ -1,0 +1,88 @@
+{
+  "museos_historicos_iran_destacados": [
+    {
+      "nombre": "Museo Nacional de Irán (National Museum of Iran)",
+      "ubicacion": {
+        "ciudad": "Teherán",
+        "seccion": "Museo de la Antigua Irán y el Museo de la Era Islámica"
+      },
+      "colecciones_destacadas": [
+        "Artefactos arqueológicos de la antigua Persia (preislámicos)",
+        "Cerámica, objetos de metal y sellos desde el Paleolítico hasta el período Sasánida",
+        "Estatua de Darío el Grande (original de Susa)",
+        "Exhibiciones sobre la civilización Elamita y Meda"
+      ]
+    },
+    {
+      "nombre": "Museo Nacional de Joyas (Treasury of National Jewels)",
+      "ubicacion": {
+        "ciudad": "Teherán",
+        "seccion": "Banco Central de Irán"
+      },
+      "colecciones_destacadas": [
+        "Joyas y objetos de valor incalculable de la monarquía iraní (Safávida, Qajar y Pahlavi)",
+        "El Darya-ye Noor (Diamante 'Mar de Luz')",
+        "El Globo de Joyas (un globo terráqueo incrustado con miles de gemas)",
+        "La Corona Kiani y la Corona Pahlavi"
+      ]
+    },
+    {
+      "nombre": "Museo Pars (Pars Museum)",
+      "ubicacion": {
+        "ciudad": "Shiraz",
+        "seccion": "Jardín Nazar"
+      },
+      "colecciones_destacadas": [
+        "Artefactos y objetos relacionados con la provincia de Fars y la era Zand",
+        "Pinturas, manuscritos y monedas antiguas",
+        "Tumba de Karim Khan Zand"
+      ]
+    },
+    {
+      "nombre": "Museo de Arte Islámico (ubicado dentro del Museo Nacional de Irán)",
+      "ubicacion": {
+        "ciudad": "Teherán",
+        "seccion": "Ala separada del Museo Nacional"
+      },
+      "colecciones_destacadas": [
+        "Artefactos y obras de arte de Irán desde el comienzo del período islámico",
+        "Cerámica, textiles, caligrafía, azulejos y manuscritos islámicos",
+        "Exhibiciones sobre las dinastías selyúcida e Ilkhanid"
+      ]
+    },
+    {
+      "nombre": "Museo de Azerbaiyán (Azerbaijan Museum)",
+      "ubicacion": {
+        "ciudad": "Tabriz",
+        "seccion": "Cerca de la Mezquita Azul"
+      },
+      "colecciones_destacadas": [
+        "Arqueología de la región de Azerbaiyán Oriental",
+        "Artefactos de las Edad del Bronce y Hierro",
+        "Esculturas y objetos del período islámico"
+      ]
+    },
+    {
+      "nombre": "Sitio Histórico de Persépolis y Museo",
+      "ubicacion": {
+        "ciudad": "Marvdasht (cerca de Shiraz)",
+        "seccion": "Dentro del complejo de Persépolis"
+      },
+      "colecciones_destacadas": [
+        "Artefactos excavados en el sitio de Persépolis (capital ceremonial aqueménida)",
+        "Relieves de piedra, fragmentos de escritura cuneiforme y objetos de la vida de la corte"
+      ]
+    },
+    {
+      "nombre": "Museo Nacional de Alfombras de Irán (Iran Carpet Museum)",
+      "ubicacion": {
+        "ciudad": "Teherán",
+        "seccion": "Cerca del Parque Laleh"
+      },
+      "colecciones_destacadas": [
+        "Historia del tejido y la fabricación de alfombras iraníes a través de los siglos",
+        "Alfombras raras y de gran valor artístico de diferentes regiones y épocas"
+      ]
+    }
+  ]
+}

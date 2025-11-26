@@ -1,0 +1,86 @@
+{
+  "museos_historicos_polonia_destacados": [
+    {
+      "nombre": "Museo Nacional de Varsovia (Muzeum Narodowe w Warszawie - MNW)",
+      "ubicacion": {
+        "ciudad": "Varsovia",
+        "jurisdiccion": "Aleje Jerozolimskie"
+      },
+      "colecciones_destacadas": [
+        "Arte e historia polaca desde la antigüedad hasta el presente",
+        "Colección de arte medieval y el Tesoro de Płock",
+        "Arte cristiano antiguo, incluyendo la Galería de Arte Lejano",
+        "Arqueología de la Edad del Bronce y el Hierro"
+      ]
+    },
+    {
+      "nombre": "Museo Nacional de Cracovia (Muzeum Narodowe w Krakowie)",
+      "ubicacion": {
+        "ciudad": "Cracovia",
+        "jurisdiccion": "Aleja 3 Maja"
+      },
+      "colecciones_destacadas": [
+        "Historia del Reino de Polonia y de la ciudad de Cracovia (antigua capital)",
+        "Colección de armas históricas, uniformes y objetos militares",
+        "Arte polaco desde el siglo XII hasta la época moderna"
+      ]
+    },
+    {
+      "nombre": "Museo Polin de Historia de los Judíos Polacos (POLIN Museum)",
+      "ubicacion": {
+        "ciudad": "Varsovia",
+        "jurisdiccion": "Muránów"
+      },
+      "colecciones_destacadas": [
+        "Historia de los **mil años** de vida judía en Polonia",
+        "Narrativa interactiva y objetos sobre la cultura, tradiciones y la vida antes y después del Holocausto",
+        "Historia del Gueto de Varsovia (ubicado en el antiguo gueto)"
+      ]
+    },
+    {
+      "nombre": "Museo de la Insurrección de Varsovia (Muzeum Powstania Warszawskiego)",
+      "ubicacion": {
+        "ciudad": "Varsovia",
+        "jurisdiccion": "Wola"
+      },
+      "colecciones_destacadas": [
+        "Documentación, fotografías y artefactos del **Alzamiento de Varsovia de 1944**",
+        "Historia de la resistencia polaca y las consecuencias de la destrucción de la ciudad"
+      ]
+    },
+    {
+      "nombre": "Museo de la Historia de Gdańsk (Muzeum Historyczne Miasta Gdańska)",
+      "ubicacion": {
+        "ciudad": "Gdańsk",
+        "jurisdiccion": "Ayuntamiento Principal"
+      },
+      "colecciones_destacadas": [
+        "Historia de la ciudad de Gdańsk (Danzig) como puerto hanseático y su relación con el Báltico",
+        "Historia de la vida urbana, el comercio y el período de la Ciudad Libre de Danzig"
+      ]
+    },
+    {
+      "nombre": "Museo Arqueológico de Biskupin",
+      "ubicacion": {
+        "ciudad": "Biskupin",
+        "jurisdiccion": "Voivodato de Cuyavia y Pomerania"
+      },
+      "colecciones_destacadas": [
+        "Sitio arqueológico de un **asentamiento fortificado de la Edad del Hierro** (cultura de Lusacia)",
+        "Reconstrucciones de viviendas y la vida en la cultura proto-eslava (c. 700 a.C.)"
+      ]
+    },
+    {
+      "nombre": "Museo de Auschwitz-Birkenau (Sitio Histórico)",
+      "ubicacion": {
+        "ciudad": "Oświęcim",
+        "jurisdiccion": "Voivodato de Pequeña Polonia"
+      },
+      "colecciones_destacadas": [
+        "Antiguo campo de concentración y exterminio alemán (visita a barracones, cámaras de gas, crematorios)",
+        "Documentos y objetos personales de las víctimas del Holocausto (Shoá)",
+        "Memoria histórica de la Segunda Guerra Mundial"
+      ]
+    }
+  ]
+}

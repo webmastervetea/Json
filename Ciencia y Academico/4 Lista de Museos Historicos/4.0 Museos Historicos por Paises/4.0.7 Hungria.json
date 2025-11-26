@@ -1,0 +1,106 @@
+{
+  "museos_historicos_hungria_destacados": [
+    {
+      "nombre": "Museo Nacional de Hungría (Magyar Nemzeti Múzeum)",
+      "ubicacion": {
+        "ciudad": "Budapest",
+        "jurisdiccion": "Palacio de la Cultura"
+      },
+      "colecciones_destacadas": [
+        "Historia de Hungría desde el asentamiento hasta la era moderna",
+        "Colección de hallazgos arqueológicos de la cuenca de los Cárpatos",
+        "Joyas de la coronación y objetos del pasado austrohúngaro"
+      ]
+    },
+    {
+      "nombre": "Museo de Historia de Budapest (Budapesti Történeti Múzeum - BTM)",
+      "ubicacion": {
+        "ciudad": "Budapest",
+        "jurisdiccion": "Castillo de Buda"
+      },
+      "colecciones_destacadas": [
+        "Historia de la ciudad de Budapest desde la época romana (Aquincum) hasta la unificación",
+        "Hallazgos arqueológicos del Castillo de Buda y la vida medieval"
+      ]
+    },
+    {
+      "nombre": "Casa del Terror (Terror Háza)",
+      "ubicacion": {
+        "ciudad": "Budapest",
+        "jurisdiccion": "Avenida Andrássy"
+      },
+      "colecciones_destacadas": [
+        "Historia del régimen fascista y comunista en Hungría (siglos XX)",
+        "Documentación y objetos relacionados con la policía secreta (ÁVH y AVO)"
+      ]
+    },
+    {
+      "nombre": "Museo de Aquincum",
+      "ubicacion": {
+        "ciudad": "Budapest",
+        "jurisdiccion": "Óbuda"
+      },
+      "colecciones_destacadas": [
+        "Restos y artefactos de la antigua ciudad romana de Aquincum (capital de Panonia Inferior)",
+        "Mosaicos, esculturas y objetos de la vida cotidiana romana"
+      ]
+    },
+    {
+      "nombre": "Museo Déri",
+      "ubicacion": {
+        "ciudad": "Debrecen",
+        "region": "Gran Llanura Húngara"
+      },
+      "colecciones_destacadas": [
+        "Historia local de Debrecen y la región oriental de Hungría",
+        "Arqueología de la Edad del Bronce y del Hierro",
+        "Historia cultural de la Gran Llanura"
+      ]
+    },
+    {
+      "nombre": "Museo Rey San Esteban (Szent István Király Múzeum)",
+      "ubicacion": {
+        "ciudad": "Székesfehérvár",
+        "region": "Hungría Central"
+      },
+      "colecciones_destacadas": [
+        "Historia de Székesfehérvár como antigua capital y lugar de coronación real (Edad Media)",
+        "Arqueología medieval y restos de las basílicas reales"
+      ]
+    },
+    {
+      "nombre": "Museo Janus Pannonius",
+      "ubicacion": {
+        "ciudad": "Pécs",
+        "region": "Transdanubia del Sur"
+      },
+      "colecciones_destacadas": [
+        "Arqueología de la época romana (Sopianae) y paleocristiana (Necrópolis de Pécs, Patrimonio de la Humanidad)",
+        "Historia del período otomano y la influencia islámica en la región",
+        "Arte e historia local"
+      ]
+    },
+    {
+      "nombre": "Museo Ferenczy",
+      "ubicacion": {
+        "ciudad": "Szentendre",
+        "region": "Condado de Pest (Cerca de Budapest)"
+      },
+      "colecciones_destacadas": [
+        "Historia y etnografía de los pueblos serbios en Hungría",
+        "Historia cultural del Danubio y la vida en la curva del Danubio"
+      ]
+    },
+    {
+      "nombre": "Museo de Historia del Castillo de Esztergom (Esztergomi Vármúzeum)",
+      "ubicacion": {
+        "ciudad": "Esztergom",
+        "region": "Transdanubia del Norte"
+      },
+      "colecciones_destacadas": [
+        "Historia de la antigua capital del Reino de Hungría y centro eclesiástico",
+        "Restos de los palacios y la vida medieval en el Castillo de Esztergom"
+      ]
+    }
+  ]
+}

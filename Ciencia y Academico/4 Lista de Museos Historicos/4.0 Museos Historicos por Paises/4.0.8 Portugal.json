@@ -1,0 +1,76 @@
+{
+  "museos_historicos_portugal_destacados": [
+    {
+      "nombre": "Museo Nacional de Arqueología (Museu Nacional de Arqueologia - MNA)",
+      "ubicacion": {
+        "ciudad": "Lisboa",
+        "jurisdiccion": "Monasterio de los Jerónimos"
+      },
+      "colecciones_destacadas": [
+        "Arqueología de Portugal (prehistórica, romana e islámica)",
+        "Artefactos del Egipto antiguo y colecciones de orfebrería",
+        "Objetos de la época de la colonización romana en la Península Ibérica"
+      ]
+    },
+    {
+      "nombre": "Museo Nacional de Soares dos Reis (Museu Nacional de Soares dos Reis)",
+      "ubicacion": {
+        "ciudad": "Oporto",
+        "jurisdiccion": "Palacio dos Carrancas"
+      },
+      "colecciones_destacadas": [
+        "Historia del arte y la cultura del norte de Portugal",
+        "Arte sacro, pintura, escultura y orfebrería desde el siglo XVI",
+        "Artefactos de la vida cotidiana y la historia industrial de Oporto"
+      ]
+    },
+    {
+      "nombre": "Museo Nacional de Arte Antiguo (Museu Nacional de Arte Antiga - MNAA)",
+      "ubicacion": {
+        "ciudad": "Lisboa",
+        "jurisdiccion": "Santos"
+      },
+      "colecciones_destacadas": [
+        "Colecciones de arte europeo y portugués desde la Edad Media hasta el siglo XIX",
+        "Historia de la influencia portuguesa en el arte asiático y africano",
+        "Los Paneles de San Vicente de Fora (Obra maestra portuguesa)"
+      ]
+    },
+    {
+      "nombre": "Museo de la Marina (Museu de Marinha)",
+      "ubicacion": {
+        "ciudad": "Lisboa",
+        "jurisdiccion": "Belém"
+      },
+      "colecciones_destacadas": [
+        "Historia naval y marítima de Portugal y la era de los descubrimientos",
+        "Modelos de barcos históricos y artefactos de navegación",
+        "Documentación de los viajes de Vasco da Gama y otros exploradores"
+      ]
+    },
+    {
+      "nombre": "Museo de Lisboa (Museu de Lisboa)",
+      "ubicacion": {
+        "ciudad": "Lisboa",
+        "jurisdiccion": "Campo Grande"
+      },
+      "colecciones_destacadas": [
+        "Historia de la ciudad de Lisboa desde la época romana hasta el siglo XX",
+        "Exposiciones sobre el terremoto de 1755 y la reconstrucción de la ciudad",
+        "Artefactos de la vida social y urbana"
+      ]
+    },
+    {
+      "nombre": "Museo Monográfico de Conímbriga (Museu Monográfico de Conímbriga)",
+      "ubicacion": {
+        "ciudad": "Condeixa-a-Nova",
+        "jurisdiccion": "Cerca de Coímbra"
+      },
+      "colecciones_destacadas": [
+        "Artefactos encontrados en las ruinas de la ciudad romana de Conímbriga",
+        "Mosaicos romanos, monedas, herramientas y objetos de uso diario",
+        "Historia del asentamiento romano en la región"
+      ]
+    }
+  ]
+}

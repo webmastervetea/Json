@@ -1,0 +1,108 @@
+{
+  "museos_historicos_irlanda_destacados": [
+    {
+      "nombre": "Museo Nacional de Irlanda - Arqueología (NMI Archaeology)",
+      "ubicacion": {
+        "ciudad": "Dublín",
+        "jurisdiccion": "Kildare Street, República de Irlanda"
+      },
+      "colecciones_destacadas": [
+        "Tesoros celtas (Cáliz de Ardagh, Broche de Tara)",
+        "Artefactos de la prehistoria, Edad Vikinga y época medieval",
+        "Objetos de turbera (Bog Bodies) y tesoros de oro"
+      ]
+    },
+    {
+      "nombre": "Museo Nacional de Irlanda - Artes Decorativas e Historia (NMI Decorative Arts & History)",
+      "ubicacion": {
+        "ciudad": "Dublín",
+        "jurisdiccion": "Collins Barracks, República de Irlanda"
+      },
+      "colecciones_destacadas": [
+        "Historia militar y política irlandesa (desde 1550)",
+        "Artefactos de la Rebelión de 1916 y la Guerra de Independencia",
+        "Moda, mobiliario y artes decorativas"
+      ]
+    },
+    {
+      "nombre": "Museo de Ulster (Ulster Museum)",
+      "ubicacion": {
+        "ciudad": "Belfast",
+        "jurisdiccion": "Botanic Gardens, Irlanda del Norte (Reino Unido)"
+      },
+      "colecciones_destacadas": [
+        "Historia de Irlanda del Norte, desde la época de los dinosaurios hasta la actualidad",
+        "Arqueología local, historia natural y arte",
+        "Artefactos de la Edad del Bronce y objetos de la colección Armada Española"
+      ]
+    },
+    {
+      "nombre": "Museo Nacional de Irlanda - Vida Rural (NMI Country Life)",
+      "ubicacion": {
+        "ciudad": "Turlough (Castlebar)",
+        "jurisdiccion": "Condado de Mayo, República de Irlanda"
+      },
+      "colecciones_destacadas": [
+        "Historia de la vida rural en Irlanda desde 1850 hasta 1950",
+        "Herramientas agrícolas, artesanía tradicional y folclore",
+        "Documentación sobre la Gran Hambruna y la emigración"
+      ]
+    },
+    {
+      "nombre": "Museo de Dublinia",
+      "ubicacion": {
+        "ciudad": "Dublín",
+        "jurisdiccion": "Cerca de la Catedral de Christ Church, República de Irlanda"
+      },
+      "colecciones_destacadas": [
+        "Recreación interactiva de la Dublín **vikinga** y **medieval**",
+        "Arqueología de las excavaciones urbanas"
+      ]
+    },
+    {
+      "nombre": "Museo de la Historia de Galway (Galway City Museum)",
+      "ubicacion": {
+        "ciudad": "Galway",
+        "jurisdiccion": "Spanish Arch, República de Irlanda"
+      },
+      "colecciones_destacadas": [
+        "Historia marítima y social de Galway y el oeste de Irlanda",
+        "Historia de los 'Clanes de Galway' (Tribes of Galway)"
+      ]
+    },
+    {
+      "nombre": "EPIC: El Museo Irlandés de la Emigración",
+      "ubicacion": {
+        "ciudad": "Dublín",
+        "jurisdiccion": "Custom House Quay, República de Irlanda"
+      },
+      "colecciones_destacadas": [
+        "Historia de la **diáspora irlandesa** y el impacto de la emigración mundial",
+        "Historias interactivas de personas irlandesas que emigraron a todo el mundo"
+      ]
+    },
+    {
+      "nombre": "Museo Histórico de Cork (Cork Public Museum)",
+      "ubicacion": {
+        "ciudad": "Cork",
+        "jurisdiccion": "Fitzgerald Park, República de Irlanda"
+      },
+      "colecciones_destacadas": [
+        "Historia local de la ciudad de Cork",
+        "Arqueología de la Edad del Bronce y la Edad de Hierro del Condado de Cork",
+        "Historia del movimiento republicano irlandés en Cork"
+      ]
+    },
+    {
+      "nombre": "Museo del Condado de Kerry (Kerry County Museum)",
+      "ubicacion": {
+        "ciudad": "Tralee",
+        "jurisdiccion": "Condado de Kerry, República de Irlanda"
+      },
+      "colecciones_destacadas": [
+        "Historia de la vida y el paisaje en el Condado de Kerry",
+        "Arqueología del Anillo de Kerry y sitios antiguos"
+      ]
+    }
+  ]
+}

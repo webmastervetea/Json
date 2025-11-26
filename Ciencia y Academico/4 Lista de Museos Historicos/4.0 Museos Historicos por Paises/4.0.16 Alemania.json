@@ -1,0 +1,108 @@
+{
+  "museos_historicos_alemania_destacados": [
+    {
+      "nombre": "Museo Histórico Alemán (Deutsches Historisches Museum - DHM)",
+      "ubicacion": {
+        "ciudad": "Berlín",
+        "jurisdiccion": "Unter den Linden"
+      },
+      "colecciones_destacadas": [
+        "Historia integral de Alemania, desde sus orígenes hasta el presente",
+        "Exposiciones sobre la Edad Media, el Sacro Imperio Romano Germánico y la Reforma",
+        "Documentos y objetos de la unificación alemana (1871) y la República de Weimar"
+      ]
+    },
+    {
+      "nombre": "Museo de Pérgamo (Pergamonmuseum)",
+      "ubicacion": {
+        "ciudad": "Berlín",
+        "jurisdiccion": "Isla de los Museos"
+      },
+      "colecciones_destacadas": [
+        "Grandes obras de la arquitectura antigua a gran escala",
+        "El **Altar de Pérgamo** (Grecia Antigua) y la **Puerta del Mercado de Mileto** (Roma)",
+        "La Puerta de Ishtar y la Vía Procesional de Babilonia (Arte del Cercano Oriente Antiguo)"
+      ]
+    },
+    {
+      "nombre": "Museo del Holocausto de Berlín (Memorial del Holocausto)",
+      "ubicacion": {
+        "ciudad": "Berlín",
+        "jurisdiccion": "Cerca de la Puerta de Brandeburgo"
+      },
+      "colecciones_destacadas": [
+        "Documentación y exposición sobre el asesinato de los judíos de Europa",
+        "Archivos y testimonios sobre la persecución nazi",
+        "El Memorial: Campo de estelas de Peter Eisenman"
+      ]
+    },
+    {
+      "nombre": "Museo de la Historia de Baviera (Haus der Bayerischen Geschichte)",
+      "ubicacion": {
+        "ciudad": "Ratisbona (Regensburg)",
+        "jurisdiccion": "Baviera"
+      },
+      "colecciones_destacadas": [
+        "Historia del Estado Libre de Baviera (desde 1806)",
+        "El papel de Baviera en el Imperio Alemán, la República de Weimar y el período de posguerra"
+      ]
+    },
+    {
+      "nombre": "Museo de Historia de Hamburgo (Hamburg Museum)",
+      "ubicacion": {
+        "ciudad": "Hamburgo",
+        "jurisdiccion": "Centro"
+      },
+      "colecciones_destacadas": [
+        "Historia de Hamburgo como ciudad hanseática, puerto y centro comercial",
+        "Modelos de barcos, artefactos marítimos y la historia del Gran Incendio de 1842"
+      ]
+    },
+    {
+      "nombre": "Museo de las Culturas Europeas (Museum Europäischer Kulturen)",
+      "ubicacion": {
+        "ciudad": "Berlín",
+        "jurisdiccion": "Dahlem"
+      },
+      "colecciones_destacadas": [
+        "Historia cultural de la vida cotidiana en Europa desde el siglo XVIII hasta el presente",
+        "Tradiciones populares, festivales y costumbres de diferentes regiones europeas"
+      ]
+    },
+    {
+      "nombre": "Museo de la Stasi (Stasi Museum)",
+      "ubicacion": {
+        "ciudad": "Berlín",
+        "jurisdiccion": "Lichtenberg (Antigua sede de la Stasi)"
+      },
+      "colecciones_destacadas": [
+        "Historia de la **policía secreta de la RDA** (Stasi)",
+        "Técnicas de vigilancia, equipos de espionaje y documentos internos de la Guerra Fría",
+        "Oficinas originales de Erich Mielke"
+      ]
+    },
+    {
+      "nombre": "Museo Romano-Germánico (Römisch-Germanisches Museum)",
+      "ubicacion": {
+        "ciudad": "Colonia (Köln)",
+        "jurisdiccion": "Junto a la Catedral"
+      },
+      "colecciones_destacadas": [
+        "Arqueología de la época romana en Colonia (Colonia Claudia Ara Agrippinensium)",
+        "El Mosaico de Dionisio y el sepulcro de Poblicio",
+        "Artefactos de la vida romana en la frontera del Rin"
+      ]
+    },
+    {
+      "nombre": "Museo Arqueológico de Frankfurt (Archäologisches Museum Frankfurt)",
+      "ubicacion": {
+        "ciudad": "Fráncfort del Meno",
+        "jurisdiccion": "Centro"
+      },
+      "colecciones_destacadas": [
+        "Arqueología de la región de Frankfurt (Edad de Piedra, época romana, Edad Media)",
+        "Hallazgos de la historia de los asentamientos y la evolución de la ciudad"
+      ]
+    }
+  ]
+}

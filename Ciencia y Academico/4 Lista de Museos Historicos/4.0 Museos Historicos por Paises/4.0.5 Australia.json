@@ -1,0 +1,108 @@
+{
+  "museos_historicos_australia_destacados": [
+    {
+      "nombre": "Museo Nacional de Australia (National Museum of Australia - NMA)",
+      "ubicacion": {
+        "ciudad": "Canberra",
+        "estado": "Territorio de la Capital Australiana (ACT)"
+      },
+      "colecciones_destacadas": [
+        "Historia social australiana y momentos clave de la nación",
+        "Patrimonio indígena australiano (cultura aborigen y isleños del Estrecho de Torres)",
+        "Historia ambiental y temas de identidad nacional"
+      ]
+    },
+    {
+      "nombre": "Museo de Sídney (Museum of Sydney)",
+      "ubicacion": {
+        "ciudad": "Sídney",
+        "estado": "Nueva Gales del Sur (NSW)"
+      },
+      "colecciones_destacadas": [
+        "Historia del primer asentamiento europeo en Sídney",
+        "Restos arqueológicos de la primera Casa de Gobierno",
+        "Vida cotidiana en la época colonial temprana"
+      ]
+    },
+    {
+      "nombre": "Museo de Melbourne (Melbourne Museum)",
+      "ubicacion": {
+        "ciudad": "Melbourne",
+        "estado": "Victoria (VIC)"
+      },
+      "colecciones_destacadas": [
+        "Historia natural y cultural de Victoria",
+        "Bunjilaka Aboriginal Cultural Centre (historia indígena)",
+        "Galerías de historia social y ambiental"
+      ]
+    },
+    {
+      "nombre": "Museo Nacional Marítimo Australiano (Australian National Maritime Museum)",
+      "ubicacion": {
+        "ciudad": "Sídney",
+        "estado": "Nueva Gales del Sur (NSW)"
+      },
+      "colecciones_destacadas": [
+        "Historia de la relación de Australia con el mar",
+        "La era de la exploración y los primeros viajes a Australia",
+        "Buques históricos y la historia de la Royal Australian Navy"
+      ]
+    },
+    {
+      "nombre": "Museo del Estado de Australia del Sur (South Australian Museum)",
+      "ubicacion": {
+        "ciudad": "Adelaida",
+        "estado": "Australia del Sur (SA)"
+      },
+      "colecciones_destacadas": [
+        "La colección más grande del mundo de artefactos aborígenes australianos",
+        "Historia cultural de Australia del Sur",
+        "Arqueología y etnografía regional"
+      ]
+    },
+    {
+      "nombre": "Museo y Galería de Arte del Territorio del Norte (MAGNT)",
+      "ubicacion": {
+        "ciudad": "Darwin",
+        "estado": "Territorio del Norte (NT)"
+      },
+      "colecciones_destacadas": [
+        "Historia del Territorio del Norte, incluyendo el Ciclón Tracy y la Segunda Guerra Mundial",
+        "Arte e historia indígena de la región"
+      ]
+    },
+    {
+      "nombre": "Museo de Tasmania y Galería de Arte (Tasmanian Museum and Art Gallery - TMAG)",
+      "ubicacion": {
+        "ciudad": "Hobart",
+        "estado": "Tasmania (TAS)"
+      },
+      "colecciones_destacadas": [
+        "Historia cultural de Tasmania, desde el pueblo aborigen hasta la colonización",
+        "Historia marítima y de los convictos"
+      ]
+    },
+    {
+      "nombre": "Museo de Australia Occidental (WA Museum)",
+      "ubicacion": {
+        "ciudad": "Perth",
+        "estado": "Australia Occidental (WA)"
+      },
+      "colecciones_destacadas": [
+        "Historia marítima (restos de naufragios holandeses)",
+        "Historia de los pueblos indígenas de WA y la minería del oro"
+      ]
+    },
+    {
+      "nombre": "Museo de la Casa del Tesoro (Treasury Museum)",
+      "ubicacion": {
+        "ciudad": "Brisbane",
+        "estado": "Queensland (QLD)"
+      },
+      "colecciones_destacadas": [
+        "Historia de Brisbane y Queensland, desde la colonización hasta la federación",
+        "Vida social, económica y política del estado"
+      ]
+    }
+  ]
+}

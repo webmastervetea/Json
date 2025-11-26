@@ -1,0 +1,235 @@
+{
+  "museos_historicos_china_destacados": [
+    {
+      "nombre": "Museo Nacional de China (National Museum of China)",
+      "ubicacion": {
+        "ciudad": "Pekín (Beijing)",
+        "provincia": "Pekín"
+      },
+      "colecciones_destacadas": [
+        "Colección integral de la historia china (más de un millón de reliquias)",
+        "Objetos de bronce de las dinastías Shang y Zhou",
+        "Vasija cuadrada con cuatro ovejas"
+      ]
+    },
+    {
+      "nombre": "Museo del Palacio (Ciudad Prohibida)",
+      "ubicacion": {
+        "ciudad": "Pekín (Beijing)",
+        "provincia": "Pekín"
+      },
+      "colecciones_destacadas": [
+        "Palacios imperiales de las dinastías Ming y Qing",
+        "Arte y antigüedades del palacio (porcelana, caligrafía, mobiliario)"
+      ]
+    },
+    {
+      "nombre": "Museo del Mausoleo del Emperador Qin Shi Huang (Guerreros de Terracota)",
+      "ubicacion": {
+        "ciudad": "Xi'an",
+        "provincia": "Shaanxi"
+      },
+      "colecciones_destacadas": [
+        "Ejército de Terracota (más de 8,000 figuras)",
+        "Carros y caballos de bronce",
+        "Armamento del período de Qin Shi Huang"
+      ]
+    },
+    {
+      "nombre": "Museo de Historia de Shaanxi",
+      "ubicacion": {
+        "ciudad": "Xi'an",
+        "provincia": "Shaanxi"
+      },
+      "colecciones_destacadas": [
+        "Artefactos del glorioso pasado imperial de Chang'an",
+        "Bronces Shang y Zhou",
+        "Objetos de oro y plata Tang"
+      ]
+    },
+    {
+      "nombre": "Museo de Shanghái",
+      "ubicacion": {
+        "ciudad": "Shanghái",
+        "provincia": "Shanghái"
+      },
+      "colecciones_destacadas": [
+        "Arte chino antiguo (Bronces, cerámica, jade)",
+        "Mobiliario de las dinastías Ming y Qing"
+      ]
+    },
+    {
+      "nombre": "Museo Sanxingdui",
+      "ubicacion": {
+        "ciudad": "Guanghan (cerca de Chengdu)",
+        "provincia": "Sichuan"
+      },
+      "colecciones_destacadas": [
+        "Artefactos de la enigmática civilización del antiguo Reino de Shu",
+        "Máscaras colosales de bronce icónicas",
+        "Objetos de jade y cetros de oro"
+      ]
+    },
+    {
+      "nombre": "Museo Banpo (Sitio Neolítico)",
+      "ubicacion": {
+        "ciudad": "Xi'an",
+        "provincia": "Shaanxi"
+      },
+      "colecciones_destacadas": [
+        "Primer museo de sitio de excavación prehistórica en China",
+        "Restos del pueblo neolítico de la cultura Yangshao (c. 5000-3000 a.C.)"
+      ]
+    },
+    {
+      "nombre": "Museo de Henan",
+      "ubicacion": {
+        "ciudad": "Zhengzhou",
+        "provincia": "Henan"
+      },
+      "colecciones_destacadas": [
+        "Arqueología de las 'Cunas de la civilización china' (Dinastía Xia y Shang)",
+        "Bronces antiguos, jade y cerámica"
+      ]
+    },
+    {
+      "nombre": "Museo de Nankín",
+      "ubicacion": {
+        "ciudad": "Nankín",
+        "provincia": "Jiangsu"
+      },
+      "colecciones_destacadas": [
+        "Arte y artefactos históricos de las Dinastías del Sur y las Seis Dinastías",
+        "Artefactos de laca y porcelana"
+      ]
+    },
+    {
+      "nombre": "Museo de Zhejiang",
+      "ubicacion": {
+        "ciudad": "Hangzhou",
+        "provincia": "Zhejiang"
+      },
+      "colecciones_destacadas": [
+        "Artefactos de la cultura Liangzhu (Neolítico)",
+        "Objetos de la Ruta Marítima de la Seda",
+        "Celadón de Yue"
+      ]
+    },
+    {
+      "nombre": "Museo Provincial de Hubei",
+      "ubicacion": {
+        "ciudad": "Wuhan",
+        "provincia": "Hubei"
+      },
+      "colecciones_destacadas": [
+        "Tesoros del Marqués Yi de Zeng (período de los Estados Combatientes)",
+        "Campanas de bronce del Marqués Yi",
+        "Artefactos del Reino Chu"
+      ]
+    },
+    {
+      "nombre": "Museo Provincial de Hunan",
+      "ubicacion": {
+        "ciudad": "Changsha",
+        "provincia": "Hunan"
+      },
+      "colecciones_destacadas": [
+        "Tesoros de la Tumba de Mawangdui (Dinastía Han Occidental)",
+        "Restos de la Dama Xin Zhui (cuerpo momificado)",
+        "Objetos de la cultura Chu"
+      ]
+    },
+    {
+      "nombre": "Museo de Xinjiang",
+      "ubicacion": {
+        "ciudad": "Urumqi",
+        "provincia": "Xinjiang"
+      },
+      "colecciones_destacadas": [
+        "Momias y restos de los antiguos pueblos de la Ruta de la Seda",
+        "Artefactos y textiles de las culturas Tocaria, Uigur y Turcas"
+      ]
+    },
+    {
+      "nombre": "Museo Provincial de Yunnan",
+      "ubicacion": {
+        "ciudad": "Kunming",
+        "provincia": "Yunnan"
+      },
+      "colecciones_destacadas": [
+        "Artefactos de la antigua cultura Dián (Reino de Dián)",
+        "Bronces con escenas de la vida cotidiana y sacrificios",
+        "Historia de los grupos étnicos minoritarios"
+      ]
+    },
+    {
+      "nombre": "Museo de Liaoning",
+      "ubicacion": {
+        "ciudad": "Shenyang",
+        "provincia": "Liaoning"
+      },
+      "colecciones_destacadas": [
+        "Historia del Noreste de China y la dinastía Qing temprana",
+        "Pinturas y caligrafía chinas",
+        "Historia de la civilización de Hongshan"
+      ]
+    },
+    {
+      "nombre": "Museo de Shandong",
+      "ubicacion": {
+        "ciudad": "Jinan",
+        "provincia": "Shandong"
+      },
+      "colecciones_destacadas": [
+        "Artefactos de las culturas Dawenkou y Longshan (Neolítico)",
+        "Historia de la región de Qi y Lu (cuna del confucianismo)",
+        "Cerámica de la Dinastía Ming y arte antiguo"
+      ]
+    },
+    {
+      "nombre": "Museo del Tíbet",
+      "ubicacion": {
+        "ciudad": "Lhasa",
+        "provincia": "Tíbet (Xizang)"
+      },
+      "colecciones_destacadas": [
+        "Historia cultural y arte religioso del Tíbet",
+        "Thangkas (pinturas religiosas tibetanas) y estatuas budistas",
+        "Objetos folclóricos y reliquias de la época de los Dalai Lamas"
+      ]
+    },
+    {
+      "nombre": "Museo de la Guerra Sino-Japonesa (Lugou Bridge)",
+      "ubicacion": {
+        "ciudad": "Pekín (Beijing)",
+        "provincia": "Pekín"
+      },
+      "colecciones_destacadas": [
+        "Documentación, fotografías y artefactos de la Guerra de Resistencia (1937-1945)",
+        "Exposiciones sobre la Masacre de Nankín"
+      ]
+    },
+    {
+      "nombre": "Museo de la Seda de China (China National Silk Museum)",
+      "ubicacion": {
+        "ciudad": "Hangzhou",
+        "provincia": "Zhejiang"
+      },
+      "colecciones_destacadas": [
+        "Historia y desarrollo de la seda en China y en la Ruta de la Seda",
+        "Textiles antiguos y técnicas de tejido históricas"
+      ]
+    },
+    {
+      "nombre": "Museo de la Cultura Prehistórica de Beiyang",
+      "ubicacion": {
+        "ciudad": "Tianjin",
+        "provincia": "Tianjin"
+      },
+      "colecciones_destacadas": [
+        "Historia del desarrollo de la cultura e industria en el período Beiyang",
+        "Artefactos del gobierno Beiyang y la historia moderna temprana de China"
+      ]
+    }
+  ]
+}

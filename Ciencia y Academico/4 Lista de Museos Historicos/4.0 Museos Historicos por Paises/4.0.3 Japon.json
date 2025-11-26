@@ -1,0 +1,100 @@
+{
+  "museos_historicos_japon_destacados": [
+    {
+      "nombre": "Museo Nacional de Tokio (Tokyo National Museum - TNM)",
+      "ubicacion": {
+        "ciudad": "Tokio",
+        "jurisdiccion": "Taitō, Parque Ueno"
+      },
+      "colecciones_destacadas": [
+        "La colección más grande y completa de artefactos y arte japonés",
+        "Tesoros nacionales (incluyendo espadas, armaduras, esculturas budistas)",
+        "Artefactos de la prehistoria Jōmon y Yayoi",
+        "Arte asiático de diferentes regiones"
+      ]
+    },
+    {
+      "nombre": "Museo Nacional de Kioto (Kyoto National Museum - KNM)",
+      "ubicacion": {
+        "ciudad": "Kioto",
+        "jurisdiccion": "Higashiyama Ward"
+      },
+      "colecciones_destacadas": [
+        "Arte y arqueología de los períodos Heian y Kamakura (Historia imperial)",
+        "Reliquias budistas, caligrafía, textiles y artefactos relacionados con la corte",
+        "Piezas de cerámica y laca"
+      ]
+    },
+    {
+      "nombre": "Museo Nacional de Nara (Nara National Museum - NNM)",
+      "ubicacion": {
+        "ciudad": "Nara",
+        "jurisdiccion": "Parque Nara"
+      },
+      "colecciones_destacadas": [
+        "Arte budista (esculturas, pinturas y objetos rituales)",
+        "Historia del budismo en Japón (período Nara)",
+        "Artefactos procedentes de los templos antiguos de la región de Kansai"
+      ]
+    },
+    {
+      "nombre": "Museo Histórico Nacional Japonés (National Museum of Japanese History - Rekihaku)",
+      "ubicacion": {
+        "ciudad": "Sakura",
+        "jurisdiccion": "Chiba"
+      },
+      "colecciones_destacadas": [
+        "Historia cultural de Japón desde la prehistoria hasta el siglo XX",
+        "Modelos a escala, artefactos históricos y documentación etnográfica",
+        "Exhibiciones sobre la vida social y el desarrollo tecnológico"
+      ]
+    },
+    {
+      "nombre": "Museo Edo-Tokio",
+      "ubicacion": {
+        "ciudad": "Tokio",
+        "jurisdiccion": "Sumida Ward"
+      },
+      "colecciones_destacadas": [
+        "Historia de Tokio desde el período Edo (1603) hasta la era moderna",
+        "Modelos de la ciudad, vida cotidiana y la era Meiji",
+        "Artefactos y tecnología de la vida urbana histórica"
+      ]
+    },
+    {
+      "nombre": "Museo de la Paz de Hiroshima",
+      "ubicacion": {
+        "ciudad": "Hiroshima",
+        "jurisdiccion": "Parque Conmemorativo de la Paz"
+      },
+      "colecciones_destacadas": [
+        "Documentación, fotografías y objetos relacionados con el bombardeo atómico de 1945",
+        "Historia del daño humano y material de la bomba",
+        "Esfuerzos por la paz mundial"
+      ]
+    },
+    {
+      "nombre": "Museo Conmemorativo de la Paz de Nagasaki",
+      "ubicacion": {
+        "ciudad": "Nagasaki",
+        "jurisdiccion": "Parque de la Paz"
+      },
+      "colecciones_destacadas": [
+        "Objetos, fotografías y testimonios del bombardeo atómico de Nagasaki",
+        "Historia de la ciudad antes y después del ataque",
+        "Colecciones centradas en la no proliferación nuclear"
+      ]
+    },
+    {
+      "nombre": "Museo del Palacio Imperial de Okinawa",
+      "ubicacion": {
+        "ciudad": "Naha",
+        "jurisdiccion": "Okinawa"
+      },
+      "colecciones_destacadas": [
+        "Historia cultural del Reino de Ryūkyū (antes de su anexión por Japón)",
+        "Artefactos, vestimenta y objetos relacionados con la realeza de Ryūkyū"
+      ]
+    }
+  ]
+}

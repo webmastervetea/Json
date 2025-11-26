@@ -1,0 +1,76 @@
+{
+  "museos_historicos_paises_bajos_destacados": [
+    {
+      "nombre": "Rijksmuseum",
+      "ubicacion": {
+        "ciudad": "Ámsterdam",
+        "jurisdiccion": "Museumplein"
+      },
+      "colecciones_destacadas": [
+        "Historia del arte y la historia de los Países Bajos desde la Edad Media hasta el siglo XX",
+        "Obras maestras de la **Edad de Oro neerlandesa** (Rembrandt, Vermeer, Frans Hals)",
+        "Objetos de la historia marítima y la Compañía Neerlandesa de las Indias Orientales (VOC)",
+        "Colecciones históricas de Delftware"
+      ]
+    },
+    {
+      "nombre": "Museo de Historia de Ámsterdam (Amsterdam Museum)",
+      "ubicacion": {
+        "ciudad": "Ámsterdam",
+        "jurisdiccion": "Kalverstraat/Nieuwezijds Voorburgwal"
+      },
+      "colecciones_destacadas": [
+        "Historia de la ciudad de Ámsterdam, desde un pequeño pueblo hasta el centro mundial de comercio",
+        "Exposiciones sobre la Edad de Oro, la vida social y la historia de la tolerancia religiosa",
+        "Pinturas, mapas, modelos y artefactos urbanos"
+      ]
+    },
+    {
+      "nombre": "Museo Nacional de Antigüedades (Rijksmuseum van Oudheden - RMO)",
+      "ubicacion": {
+        "ciudad": "Leiden",
+        "jurisdiccion": "Rapenburg"
+      },
+      "colecciones_destacadas": [
+        "**Arqueología** de los Países Bajos (prehistoria y época romana)",
+        "Importantes colecciones del Antiguo Egipto (incluido un templo egipcio)",
+        "Artefactos de las civilizaciones griega, etrusca y romana"
+      ]
+    },
+    {
+      "nombre": "Museo del Mar del Norte (Maritiem Museum Rotterdam)",
+      "ubicacion": {
+        "ciudad": "Róterdam",
+        "jurisdiccion": "Leuvehaven"
+      },
+      "colecciones_destacadas": [
+        "Historia marítima de Róterdam y los Países Bajos",
+        "Modelos de barcos, mapas, instrumentos de navegación y la historia de la construcción naval",
+        "Historia del puerto como puerta de entrada a Europa"
+      ]
+    },
+    {
+      "nombre": "Museo Central (Centraal Museum)",
+      "ubicacion": {
+        "ciudad": "Utrecht",
+        "jurisdiccion": "Nicolaaskerkhof"
+      },
+      "colecciones_destacadas": [
+        "Historia de la ciudad de Utrecht y la región circundante",
+        "Colecciones de arte desde la Edad Media hasta el presente",
+        "Hallazgos arqueológicos de la época romana y medieval"
+      ]
+    },
+    {
+      "nombre": "Museo Het Loo (Paleis Het Loo)",
+      "ubicacion": {
+        "ciudad": "Apeldoorn",
+        "jurisdiccion": "Gelderland"
+      },
+      "colecciones_destacadas": [
+        "Antigua residencia real y ahora museo de historia de la **Casa de Orange-Nassau**",
+        "Historia de la monarquía neerlandesa, mobiliario y arte del siglo XVII al XX"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,386 @@
+{
+  "museos_arqueologicos_consolidados": {
+    "arqueologia_clasica": {
+      "nucleo_greco_romano_europa": [
+        {
+          "nombre": "Museo Arqueológico Nacional de Atenas (NAM)",
+          "ubicacion": "Atenas, Grecia",
+          "colecciones_destacadas": [
+            "Escultura Griega (Bronce de Artemisión)",
+            "Tesoros Micénicos (Máscara de Agamenón)",
+            "Colección de Cerámicas"
+          ]
+        },
+        {
+          "nombre": "Museo Arqueológico Nacional de Nápoles (MANN)",
+          "ubicacion": "Nápoles, Italia",
+          "colecciones_destacadas": [
+            "Colección Farnesio (escultura romana)",
+            "Artefactos, frescos y mosaicos de Pompeya y Herculano"
+          ]
+        },
+        {
+          "nombre": "Museos Vaticanos (Pío Clementino)",
+          "ubicacion": "Ciudad del Vaticano",
+          "colecciones_destacadas": [
+            "El Laocoonte y sus hijos",
+            "Apolo del Belvedere",
+            "Esculturas Romanas de Época Imperial"
+          ]
+        },
+        {
+          "nombre": "Museos Capitolinos",
+          "ubicacion": "Roma, Italia",
+          "colecciones_destacadas": [
+            "Loba Capitolina",
+            "Estatua ecuestre de Marco Aurelio",
+            "Muerte del Galo"
+          ]
+        },
+        {
+          "nombre": "Museo de la Acrópolis",
+          "ubicacion": "Atenas, Grecia",
+          "colecciones_destacadas": [
+            "Friso y Metopas del Partenón",
+            "Cariátides originales",
+            "Hallazgos de la Acrópolis"
+          ]
+        }
+      ],
+      "grandes_colecciones_universales": [
+        {
+          "nombre": "Museo Británico (Departamento de Grecia y Roma)",
+          "ubicacion": "Londres, Reino Unido",
+          "colecciones_destacadas": [
+            "Mármoles del Partenón (Elgin)",
+            "Artefactos de la Tumba de Halicarnaso",
+            "Colecciones de Vasos Griegos"
+          ]
+        },
+        {
+          "nombre": "Museo del Louvre (Antigüedades Griegas, Etruscas y Romanas)",
+          "ubicacion": "París, Francia",
+          "colecciones_destacadas": [
+            "Venus de Milo",
+            "Victoria de Samotracia",
+            "Retratos del Fayum"
+          ]
+        },
+        {
+          "nombre": "Museo de Pérgamo (Antigüedades Clásicas)",
+          "ubicacion": "Berlín, Alemania",
+          "colecciones_destacadas": [
+            "Altar de Pérgamo (Arte Helenístico - actualmente cerrado por restauración)",
+            "Puerta del Mercado de Mileto"
+          ]
+        },
+        {
+          "nombre": "Museo Metropolitano de Arte (Departamento de Arte Griego y Romano)",
+          "ubicacion": "Nueva York, Estados Unidos",
+          "colecciones_destacadas": [
+            "Vastas colecciones de esculturas, bronces y cerámicas, incluyendo el Kélide de Euphronios"
+          ]
+        }
+      ],
+      "arqueologia_clasica_asia_menor": [
+        {
+          "nombre": "Museos Arqueológicos de Estambul",
+          "ubicacion": "Estambul, Turquía",
+          "colecciones_destacadas": [
+            "Sarcófago de Alejandro",
+            "Artefactos helenísticos y romanos de Anatolia"
+          ]
+        },
+        {
+          "nombre": "Museo Arqueológico de Éfeso (Efes Müzesi)",
+          "ubicacion": "Selçuk, Turquía",
+          "colecciones_destacadas": [
+            "Estatua de Artemisa de Éfeso",
+            "Esculturas de las excavaciones de la ciudad romana de Éfeso"
+          ]
+        }
+      ]
+    },
+    "arqueologia_egipcia": [
+      {
+        "nombre": "Gran Museo Egipcio (GEM)",
+        "ubicacion": "Guiza, Egipto",
+        "colecciones_destacadas": [
+          "El ajuar funerario completo de Tutankamón (más de 5,000 artefactos exhibidos juntos por primera vez)",
+          "Estatua colosal de Ramsés II",
+          "La colección más grande de artefactos del Antiguo Egipto exhibida en un solo lugar"
+        ],
+        "nota": "Considerado el museo de egiptología más grande del mundo, sustituyendo al antiguo Museo Egipcio de El Cairo."
+      },
+      {
+        "nombre": "Museo Egipcio de El Cairo (Antiguo)",
+        "ubicacion": "El Cairo, Egipto",
+        "colecciones_destacadas": [
+          "Colección de las momias reales (trasladadas parcialmente al NMEC)",
+          "Artefactos del Valle de los Reyes, incluyendo tumbas de faraones y nobles",
+          "Gran colección de estatuaria y sarcófagos"
+        ],
+        "nota": "Aunque su colección principal se trasladó al GEM y al NMEC, aún alberga importantes objetos en su edificio histórico."
+      },
+      {
+        "nombre": "Museo Británico (Departamento de Antiguo Egipto y Sudán)",
+        "ubicacion": "Londres, Reino Unido",
+        "colecciones_destacadas": [
+          "Piedra Rosetta",
+          "Colección de momias y sarcófagos (una de las más extensas fuera de Egipto)",
+          "Esculturas monumentales (Estatua de Ramsés II, Busto del Joven Memnón)"
+        ],
+        "nota": "Posee la colección más grande de artefactos egipcios fuera de Egipto, con más de 100,000 objetos."
+      },
+      {
+        "nombre": "Museo Egipcio de Turín (Museo Egizio)",
+        "ubicacion": "Turín, Italia",
+        "colecciones_destacadas": [
+          "Considerada la segunda colección más importante del mundo después de El Cairo",
+          "Tumba de Kha y Merit (ajuar funerario completo de un arquitecto real y su esposa)",
+          "Papiro de Turín (lista de reyes)",
+          "Colección de sarcófagos, estatuas y objetos de uso diario"
+        ]
+      },
+      {
+        "nombre": "Museo del Louvre (Antigüedades Egipcias)",
+        "ubicacion": "París, Francia",
+        "colecciones_destacadas": [
+          "El Escriba Sentado (escultura icónica del Imperio Antiguo)",
+          "La Esfinge de Tanis",
+          "Artefactos del período de Amarna",
+          "Colección de objetos coptos e islámicos tempranos"
+        ]
+      },
+      {
+        "nombre": "Museo de Berlín (Museo Neues)",
+        "ubicacion": "Berlín, Alemania",
+        "colecciones_destacadas": [
+          "Busto de Nefertiti",
+          "Artefactos de Tell el-Amarna",
+          "Objetos de la época de los faraones y el Imperio Nuevo"
+        ]
+      },
+      {
+        "nombre": "Museo Metropolitano de Arte (The Met, Arte Egipcio)",
+        "ubicacion": "Nueva York, Estados Unidos",
+        "colecciones_destacadas": [
+            "Templo de Dendur (un templo nubio completo, trasladado)",
+            "Colección de la tumba de Perneb (cámara funeraria del Imperio Antiguo)",
+            "Maquetas funerarias de Meketre"
+        ]
+      }
+    ],
+    "arqueologia_oriente_proximo": [
+      {
+        "nombre": "Museo de Pérgamo (Vorderasiatisches Museum)",
+        "ubicacion": "Berlín, Alemania",
+        "colecciones_destacadas": [
+          "Puerta de Istar y el Camino Procesional de Babilonia (época de Nabucodonosor II)",
+          "Fachada de Mshatta (Arte Islámico Temprano)",
+          "Esculturas, sellos cilíndricos y tablillas cuneiformes de Sumeria, Asiria y Babilonia"
+        ],
+        "nota": "Actualmente, algunas secciones importantes se encuentran cerradas por renovación."
+      },
+      {
+        "nombre": "Museo Británico (Departamento de Oriente Medio)",
+        "ubicacion": "Londres, Reino Unido",
+        "colecciones_destacadas": [
+          "Relieves asirios monumentales de Nimrud y Nínive (Palacios de Asurnasirpal II y Asurbanipal)",
+          "Colección de tablillas cuneiformes (incluyendo el Cilindro de Ciro y la tablilla del Diluvio)",
+          "El Tesoro de Oxus (Arte Aqueménida Persa)"
+        ],
+        "nota": "Considerada una de las colecciones más importantes y vastas del mundo de artefactos mesopotámicos."
+      },
+      {
+        "nombre": "Museo Nacional de Irak",
+        "ubicacion": "Bagdad, Irak",
+        "colecciones_destacadas": [
+          "Artefactos sumerios, acadios, asirios y babilónicos originales in situ",
+          "Tesoros de Nimrud",
+          "Artefactos de la antigua ciudad de Ur",
+          "Colección de tablillas cuneiformes y esculturas"
+        ],
+        "nota": "Alberga la colección más significativa de artefactos originales de Mesopotamia."
+      },
+      {
+        "nombre": "Museo del Louvre (Departamento de Antigüedades Orientales)",
+        "ubicacion": "París, Francia",
+        "colecciones_destacadas": [
+          "Estatua de Gudea",
+          "Código de Hammurabi (Babilonia)",
+          "Relieves del Palacio de Darío I en Susa (Persia)",
+          "Objetos hititas, sumerios, y de la civilización de Ugarit"
+        ]
+      },
+      {
+        "nombre": "Museos Arqueológicos de Estambul (Museo del Antiguo Oriente)",
+        "ubicacion": "Estambul, Turquía",
+        "colecciones_destacadas": [
+          "Artefactos de las civilizaciones de Anatolia (Hititas) y Mesopotamia",
+          "Tablillas de arcilla cuneiformes",
+          "Monumentos hititas"
+        ],
+        "nota": "Alberga el Tratado de Qadesh, el acuerdo de paz escrito más antiguo conocido."
+      },
+      {
+        "nombre": "Museo Metropolitano de Arte (Departamento de Arte del Antiguo Oriente Próximo)",
+        "ubicacion": "Nueva York, Estados Unidos",
+        "colecciones_destacadas": [
+          "Lamasu (Toros alados asirios) del palacio de Asurnasirpal II",
+          "Objetos de Anatolia, Siria, Irán y Mesopotamia",
+          "Sellos cilíndricos y joyas"
+        ]
+      },
+      {
+        "nombre": "Museo Nacional de Irán",
+        "ubicacion": "Teherán, Irán",
+        "colecciones_destacadas": [
+          "Artefactos de la civilización de Elam, del Imperio Medo, Aqueménida y Sasánida (Persia)",
+          "Grandes esculturas y relieves de Persépolis",
+          "Objetos del sitio arqueológico de Susa"
+        ]
+      }
+    ],
+    "arqueologia_precolombina": [
+      {
+        "nombre": "Museo Nacional de Antropología (MNA)",
+        "ubicacion": "Ciudad de México, México",
+        "region": "Mesoamérica",
+        "colecciones_destacadas": [
+          "Piedra del Sol (Calendario Azteca)",
+          "Escultura de Coatlicue y la Cabeza de Serpiente Emplumada",
+          "Salas dedicadas a las culturas Maya, Mexica, Olmeca y Zapoteca",
+          "Colección de arte y vida de los pueblos indígenas actuales de México"
+        ],
+        "nota": "Considerado el museo más importante de Latinoamérica, tanto por arqueología como por antropología."
+      },
+      {
+        "nombre": "Museo del Templo Mayor",
+        "ubicacion": "Ciudad de México, México",
+        "region": "Mesoamérica (Sitio)",
+        "colecciones_destacadas": [
+          "Hallazgos originales de la zona arqueológica del Templo Mayor (capital del Imperio Azteca)",
+          "Monolito de Coyolxauhqui",
+          "Monolito de Tlaltecuhtli",
+          "Ofrendas y tesoros de los mexicas"
+        ],
+        "nota": "Es un museo de sitio esencial para entender la cultura mexica."
+      },
+      {
+        "nombre": "Museo del Oro",
+        "ubicacion": "Bogotá, Colombia",
+        "region": "Andina (Sudamérica)",
+        "colecciones_destacadas": [
+          "La colección más grande del mundo de orfebrería precolombina (piezas de culturas Quimbaya, Tayrona, Muisca)",
+          "Balsa Muisca (representación de la leyenda de El Dorado)"
+        ],
+        "nota": "Destaca por la calidad y cantidad de sus artefactos de oro y tumbaga."
+      },
+      {
+        "nombre": "Museo Larco",
+        "ubicacion": "Lima, Perú",
+        "region": "Andina (Sudamérica)",
+        "colecciones_destacadas": [
+          "Vasta colección de cerámica del Antiguo Perú (culturas Moche, Nazca, Chimú)",
+          "Colección de objetos de oro y plata de la costa norte del Perú",
+          "Galería de culturas del Perú precolombino"
+        ]
+      },
+      {
+        "nombre": "Museo de Sitio de Machu Picchu ('Manuel Chávez Ballón')",
+        "ubicacion": "Machu Picchu, Perú",
+        "region": "Andina (Sitio)",
+        "colecciones_destacadas": [
+          "Artefactos y objetos de metal, cerámica y piedra recuperados de las excavaciones en la ciudad inca",
+          "Documentación sobre las excavaciones de Hiram Bingham y su equipo"
+        ],
+        "nota": "Museo de sitio que complementa la visita a la ciudadela inca."
+      },
+      {
+        "nombre": "Museo de las Culturas Mundiales (Museo Etnológico de Berlín)",
+        "ubicacion": "Berlín, Alemania",
+        "region": "Colección Global",
+        "colecciones_destacadas": [
+          "Colección de artefactos prehispánicos de Mesoamérica, incluyendo piezas mayas y mexicas",
+          "Réplicas y originales de estatuas y cerámicas andinas"
+        ],
+        "nota": "Alberga una de las mayores colecciones americanas fuera del continente."
+      }
+    ],
+    "arqueologia_lejano_oriente": [
+      {
+        "nombre": "Museo del Palacio Nacional",
+        "ubicacion": "Taipéi, Taiwán",
+        "region": "China",
+        "colecciones_destacadas": [
+          "Vastas colecciones imperiales de artefactos de las dinastías chinas (Song, Yuan, Ming, Qing)",
+          "Bronces rituales, cerámica neolítica, y objetos de jade",
+          "Piedra de Cerdo con Grasa (Meat-Shaped Stone) y Col de Jade"
+        ],
+        "nota": "Considerado el depositario de algunas de las mejores colecciones arqueológicas e imperiales chinas."
+      },
+      {
+        "nombre": "Museo del Mausoleo del Primer Emperador Qin (Ejército de Terracota)",
+        "ubicacion": "Xi'an, China",
+        "region": "China (Sitio)",
+        "colecciones_destacadas": [
+          "El Ejército de Terracota completo (figuras a tamaño real de soldados y caballos)",
+          "Armas, carros y artefactos originales del mausoleo del primer emperador Qin Shi Huang"
+        ],
+        "nota": "Un museo de sitio esencial para la arqueología de la dinastía Qin (siglo III a.C.)."
+      },
+      {
+        "nombre": "Museo Nacional de Corea",
+        "ubicacion": "Seúl, Corea del Sur",
+        "region": "Corea",
+        "colecciones_destacadas": [
+          "Artefactos del período Paleolítico y Neolítico coreano",
+          "Tesoros de los Tres Reinos de Corea (Goguryeo, Baekje, Silla)",
+          "Orfebrería y coronas de oro del Reino de Silla",
+          "Arte y arqueología de la Dinastía Joseon"
+        ]
+      },
+      {
+        "nombre": "Museo Nacional de Tokio (Honkan y Toyokan)",
+        "ubicacion": "Tokio, Japón",
+        "region": "Japón y Asia",
+        "colecciones_destacadas": [
+          "Colección de Arte y Arqueología Japonesa (artefactos Jōmon y Yayoi)",
+          "Espadas antiguas, armaduras samurai y cerámica",
+          "Colección de arte y artefactos arqueológicos de otras culturas asiáticas (Toyokan)"
+        ]
+      },
+      {
+        "nombre": "Museo de Historia de Shaanxi",
+        "ubicacion": "Xi'an, China",
+        "region": "China",
+        "colecciones_destacadas": [
+          "Artefactos de las capitales imperiales (incluyendo Chang'an, la capital Tang)",
+          "Bronces de la Dinastía Zhou",
+          "Figuras de cerámica de las dinastías Tang y Han"
+        ],
+        "nota": "Xi'an fue la capital de varias dinastías importantes."
+      },
+      {
+        "nombre": "Museo del Palacio (Ciudad Prohibida)",
+        "ubicacion": "Pekín, China",
+        "region": "China",
+        "colecciones_destacadas": [
+          "Vastas colecciones de objetos de arte, cerámica, y tesoros arqueológicos de las dinastías Ming y Qing",
+          "Artefactos recuperados de la Ciudad Prohibida"
+        ]
+      },
+      {
+        "nombre": "Museo Guimet (Museo Nacional de Artes Asiáticas)",
+        "ubicacion": "París, Francia",
+        "region": "Colección Global (Asia)",
+        "colecciones_destacadas": [
+          "Arte y arqueología de la Ruta de la Seda y Afganistán",
+          "Esculturas de Gandhāra (influencia clásica en Asia)",
+          "Colecciones de arte khmer (Camboya) y budista"
+        ]
+      }
+    ]
+  }
+}

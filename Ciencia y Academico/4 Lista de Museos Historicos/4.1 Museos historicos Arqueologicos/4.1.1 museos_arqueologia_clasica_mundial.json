@@ -1,0 +1,65 @@
+{
+  "museos_arqueologia_clasica_mundial": {
+    "nucleo_greco_romano_europa": [
+      {
+        "nombre": "Museo Arqueológico Nacional de Atenas (NAM)",
+        "ubicacion": "Atenas, Grecia",
+        "colecciones_destacadas": ["Escultura Griega (Bronce de Artemisión)", "Tesoros Micénicos (Máscara de Agamenón)", "Colección de Cerámicas"]
+      },
+      {
+        "nombre": "Museo Arqueológico Nacional de Nápoles (MANN)",
+        "ubicacion": "Nápoles, Italia",
+        "colecciones_destacadas": ["Colección Farnesio (escultura romana)", "Artefactos, frescos y mosaicos de Pompeya y Herculano"]
+      },
+      {
+        "nombre": "Museos Vaticanos (Pío Clementino)",
+        "ubicacion": "Ciudad del Vaticano",
+        "colecciones_destacadas": ["El Laocoonte y sus hijos", "Apolo del Belvedere", "Esculturas Romanas de Época Imperial"]
+      },
+      {
+        "nombre": "Museos Capitolinos",
+        "ubicacion": "Roma, Italia",
+        "colecciones_destacadas": ["Loba Capitolina", "Estatua ecuestre de Marco Aurelio", "Muerte del Galo"]
+      },
+      {
+        "nombre": "Museo de la Acrópolis",
+        "ubicacion": "Atenas, Grecia",
+        "colecciones_destacadas": ["Friso y Metopas del Partenón", "Cariátides originales", "Hallazgos de la Acrópolis"]
+      }
+    ],
+    "grandes_colecciones_universales": [
+      {
+        "nombre": "Museo Británico (Departamento de Grecia y Roma)",
+        "ubicacion": "Londres, Reino Unido",
+        "colecciones_destacadas": ["Mármoles del Partenón (Elgin)", "Artefactos de la Tumba de Halicarnaso", "Colecciones de Vasos Griegos"]
+      },
+      {
+        "nombre": "Museo del Louvre (Antigüedades Griegas, Etruscas y Romanas)",
+        "ubicacion": "París, Francia",
+        "colecciones_destacadas": ["Venus de Milo", "Victoria de Samotracia", "Retratos del Fayum"]
+      },
+      {
+        "nombre": "Museo de Pérgamo (Antigüedades Clásicas)",
+        "ubicacion": "Berlín, Alemania",
+        "colecciones_destacadas": ["Altar de Pérgamo (Arte Helenístico - actualmente cerrado por restauración)", "Puerta del Mercado de Mileto"]
+      },
+      {
+        "nombre": "Museo Metropolitano de Arte (Departamento de Arte Griego y Romano)",
+        "ubicacion": "Nueva York, Estados Unidos",
+        "colecciones_destacadas": ["Vastas colecciones de esculturas, bronces y cerámicas, incluyendo el Kélide de Euphronios"]
+      }
+    ],
+    "arqueologia_clasica_asia_menor": [
+      {
+        "nombre": "Museos Arqueológicos de Estambul",
+        "ubicacion": "Estambul, Turquía",
+        "colecciones_destacadas": ["Sarcófago de Alejandro", "Artefactos helenísticos y romanos de Anatolia"]
+      },
+      {
+        "nombre": "Museo Arqueológico de Éfeso (Efes Müzesi)",
+        "ubicacion": "Selçuk, Turquía",
+        "colecciones_destacadas": ["Estatua de Artemisa de Éfeso", "Esculturas de las excavaciones de la ciudad romana de Éfeso"]
+      }
+    ]
+  }
+}

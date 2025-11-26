@@ -1,0 +1,72 @@
+{
+  "museos_arqueologia_egipcia": [
+    {
+      "nombre": "Gran Museo Egipcio (GEM)",
+      "ubicacion": "Guiza, Egipto",
+      "colecciones_destacadas": [
+        "El ajuar funerario completo de Tutankamón (más de 5,000 artefactos exhibidos juntos por primera vez)",
+        "Estatua colosal de Ramsés II",
+        "La colección más grande de artefactos del Antiguo Egipto exhibida en un solo lugar"
+      ],
+      "nota": "Considerado el museo de egiptología más grande del mundo, sustituyendo al antiguo Museo Egipcio de El Cairo."
+    },
+    {
+      "nombre": "Museo Egipcio de El Cairo (Antiguo)",
+      "ubicacion": "El Cairo, Egipto",
+      "colecciones_destacadas": [
+        "Colección de las momias reales (trasladadas parcialmente al NMEC)",
+        "Artefactos del Valle de los Reyes, incluyendo tumbas de faraones y nobles",
+        "Gran colección de estatuaria y sarcófagos"
+      ],
+      "nota": "Aunque su colección principal se trasladó al GEM y al NMEC, aún alberga importantes objetos en su edificio histórico."
+    },
+    {
+      "nombre": "Museo Británico (Departamento de Antiguo Egipto y Sudán)",
+      "ubicacion": "Londres, Reino Unido",
+      "colecciones_destacadas": [
+        "Piedra Rosetta",
+        "Colección de momias y sarcófagos (una de las más extensas fuera de Egipto)",
+        "Esculturas monumentales (Estatua de Ramsés II, Busto del Joven Memnón)"
+      ],
+      "nota": "Posee la colección más grande de artefactos egipcios fuera de Egipto, con más de 100,000 objetos."
+    },
+    {
+      "nombre": "Museo Egipcio de Turín (Museo Egizio)",
+      "ubicacion": "Turín, Italia",
+      "colecciones_destacadas": [
+        "Considerada la segunda colección más importante del mundo después de El Cairo",
+        "Tumba de Kha y Merit (ajuar funerario completo de un arquitecto real y su esposa)",
+        "Papiro de Turín (lista de reyes)",
+        "Colección de sarcófagos, estatuas y objetos de uso diario"
+      ]
+    },
+    {
+      "nombre": "Museo del Louvre (Antigüedades Egipcias)",
+      "ubicacion": "París, Francia",
+      "colecciones_destacadas": [
+        "El Escriba Sentado (escultura icónica del Imperio Antiguo)",
+        "La Esfinge de Tanis",
+        "Artefactos del período de Amarna",
+        "Colección de objetos coptos e islámicos tempranos"
+      ]
+    },
+    {
+      "nombre": "Museo de Berlín (Museo Neues)",
+      "ubicacion": "Berlín, Alemania",
+      "colecciones_destacadas": [
+        "Busto de Nefertiti",
+        "Artefactos de Tell el-Amarna",
+        "Objetos de la época de los faraones y el Imperio Nuevo"
+      ]
+    },
+    {
+      "nombre": "Museo Metropolitano de Arte (The Met, Arte Egipcio)",
+      "ubicacion": "Nueva York, Estados Unidos",
+      "colecciones_destacadas": [
+        "Templo de Dendur (un templo nubio completo, trasladado)",
+        "Colección de la tumba de Perneb (cámara funeraria del Imperio Antiguo)",
+        "Maquetas funerarias de Meketre"
+      ]
+    }
+  ]
+}

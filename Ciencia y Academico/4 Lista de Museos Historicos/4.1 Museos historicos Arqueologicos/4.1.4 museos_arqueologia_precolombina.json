@@ -1,0 +1,68 @@
+{
+  "museos_arqueologia_precolombina": [
+    {
+      "nombre": "Museo Nacional de Antropología (MNA)",
+      "ubicacion": "Ciudad de México, México",
+      "region": "Mesoamérica",
+      "colecciones_destacadas": [
+        "Piedra del Sol (Calendario Azteca)",
+        "Escultura de Coatlicue y la Cabeza de Serpiente Emplumada",
+        "Salas dedicadas a las culturas Maya, Mexica, Olmeca y Zapoteca",
+        "Colección de arte y vida de los pueblos indígenas actuales de México"
+      ],
+      "nota": "Considerado el museo más importante de Latinoamérica, tanto por arqueología como por antropología."
+    },
+    {
+      "nombre": "Museo del Templo Mayor",
+      "ubicacion": "Ciudad de México, México",
+      "region": "Mesoamérica (Sitio)",
+      "colecciones_destacadas": [
+        "Hallazgos originales de la zona arqueológica del Templo Mayor (capital del Imperio Azteca)",
+        "Monolito de Coyolxauhqui",
+        "Monolito de Tlaltecuhtli",
+        "Ofrendas y tesoros de los mexicas"
+      ],
+      "nota": "Es un museo de sitio esencial para entender la cultura mexica."
+    },
+    {
+      "nombre": "Museo del Oro",
+      "ubicacion": "Bogotá, Colombia",
+      "region": "Andina (Sudamérica)",
+      "colecciones_destacadas": [
+        "La colección más grande del mundo de orfebrería precolombina (piezas de culturas Quimbaya, Tayrona, Muisca)",
+        "Balsa Muisca (representación de la leyenda de El Dorado)"
+      ],
+      "nota": "Destaca por la calidad y cantidad de sus artefactos de oro y tumbaga."
+    },
+    {
+      "nombre": "Museo Larco",
+      "ubicacion": "Lima, Perú",
+      "region": "Andina (Sudamérica)",
+      "colecciones_destacadas": [
+        "Vasta colección de cerámica del Antiguo Perú (culturas Moche, Nazca, Chimú)",
+        "Colección de objetos de oro y plata de la costa norte del Perú",
+        "Galería de culturas del Perú precolombino"
+      ]
+    },
+    {
+      "nombre": "Museo de Sitio de Machu Picchu ('Manuel Chávez Ballón')",
+      "ubicacion": "Machu Picchu, Perú",
+      "region": "Andina (Sitio)",
+      "colecciones_destacadas": [
+        "Artefactos y objetos de metal, cerámica y piedra recuperados de las excavaciones en la ciudad inca",
+        "Documentación sobre las excavaciones de Hiram Bingham y su equipo"
+      ],
+      "nota": "Museo de sitio que complementa la visita a la ciudadela inca."
+    },
+    {
+      "nombre": "Museo de las Culturas Mundiales (Museo Etnológico de Berlín)",
+      "ubicacion": "Berlín, Alemania",
+      "region": "Colección Global",
+      "colecciones_destacadas": [
+        "Colección de artefactos prehispánicos de Mesoamérica, incluyendo piezas mayas y mexicas",
+        "Réplicas y originales de estatuas y cerámicas andinas"
+      ],
+      "nota": "Alberga una de las mayores colecciones americanas fuera del continente."
+    }
+  ]
+}

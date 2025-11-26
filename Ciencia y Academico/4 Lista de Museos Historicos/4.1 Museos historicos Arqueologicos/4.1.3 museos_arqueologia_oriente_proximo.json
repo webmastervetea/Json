@@ -1,0 +1,73 @@
+{
+  "museos_arqueologia_oriente_proximo": [
+    {
+      "nombre": "Museo de Pérgamo (Vorderasiatisches Museum)",
+      "ubicacion": "Berlín, Alemania",
+      "colecciones_destacadas": [
+        "Puerta de Istar y el Camino Procesional de Babilonia (época de Nabucodonosor II)",
+        "Fachada de Mshatta (Arte Islámico Temprano)",
+        "Esculturas, sellos cilíndricos y tablillas cuneiformes de Sumeria, Asiria y Babilonia"
+      ],
+      "nota": "Actualmente, algunas secciones importantes se encuentran cerradas por renovación."
+    },
+    {
+      "nombre": "Museo Británico (Departamento de Oriente Medio)",
+      "ubicacion": "Londres, Reino Unido",
+      "colecciones_destacadas": [
+        "Relieves asirios monumentales de Nimrud y Nínive (Palacios de Asurnasirpal II y Asurbanipal)",
+        "Colección de tablillas cuneiformes (incluyendo el Cilindro de Ciro y la tablilla del Diluvio)",
+        "El Tesoro de Oxus (Arte Aqueménida Persa)"
+      ],
+      "nota": "Considerada una de las colecciones más importantes y vastas del mundo de artefactos mesopotámicos."
+    },
+    {
+      "nombre": "Museo Nacional de Irak",
+      "ubicacion": "Bagdad, Irak",
+      "colecciones_destacadas": [
+        "Artefactos sumerios, acadios, asirios y babilónicos originales in situ",
+        "Tesoros de Nimrud",
+        "Artefactos de la antigua ciudad de Ur",
+        "Colección de tablillas cuneiformes y esculturas"
+      ],
+      "nota": "Alberga la colección más significativa de artefactos originales de Mesopotamia."
+    },
+    {
+      "nombre": "Museo del Louvre (Departamento de Antigüedades Orientales)",
+      "ubicacion": "París, Francia",
+      "colecciones_destacadas": [
+        "Estatua de Gudea",
+        "Código de Hammurabi (Babilonia)",
+        "Relieves del Palacio de Darío I en Susa (Persia)",
+        "Objetos hititas, sumerios, y de la civilización de Ugarit"
+      ]
+    },
+    {
+      "nombre": "Museos Arqueológicos de Estambul (Museo del Antiguo Oriente)",
+      "ubicacion": "Estambul, Turquía",
+      "colecciones_destacadas": [
+        "Artefactos de las civilizaciones de Anatolia (Hititas) y Mesopotamia",
+        "Tablillas de arcilla cuneiformes",
+        "Monumentos hititas"
+      ],
+      "nota": "Alberga el Tratado de Qadesh, el acuerdo de paz escrito más antiguo conocido."
+    },
+    {
+      "nombre": "Museo Metropolitano de Arte (Departamento de Arte del Antiguo Oriente Próximo)",
+      "ubicacion": "Nueva York, Estados Unidos",
+      "colecciones_destacadas": [
+        "Lamasu (Toros alados asirios) del palacio de Asurnasirpal II",
+        "Objetos de Anatolia, Siria, Irán y Mesopotamia",
+        "Sellos cilíndricos y joyas"
+      ]
+    },
+    {
+      "nombre": "Museo Nacional de Irán",
+      "ubicacion": "Teherán, Irán",
+      "colecciones_destacadas": [
+        "Artefactos de la civilización de Elam, del Imperio Medo, Aqueménida y Sasánida (Persia)",
+        "Grandes esculturas y relieves de Persépolis",
+        "Objetos del sitio arqueológico de Susa"
+      ]
+    }
+  ]
+}

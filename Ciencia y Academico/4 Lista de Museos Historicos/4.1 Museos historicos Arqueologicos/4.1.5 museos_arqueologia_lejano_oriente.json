@@ -1,0 +1,76 @@
+{
+  "museos_arqueologia_lejano_oriente": [
+    {
+      "nombre": "Museo del Palacio Nacional",
+      "ubicacion": "Taipéi, Taiwán",
+      "region": "China",
+      "colecciones_destacadas": [
+        "Vastas colecciones imperiales de artefactos de las dinastías chinas (Song, Yuan, Ming, Qing)",
+        "Bronces rituales, cerámica neolítica, y objetos de jade",
+        "Piedra de Cerdo con Grasa (Meat-Shaped Stone) y Col de Jade"
+      ],
+      "nota": "Considerado el depositario de algunas de las mejores colecciones arqueológicas e imperiales chinas."
+    },
+    {
+      "nombre": "Museo del Mausoleo del Primer Emperador Qin (Ejército de Terracota)",
+      "ubicacion": "Xi'an, China",
+      "region": "China (Sitio)",
+      "colecciones_destacadas": [
+        "El Ejército de Terracota completo (figuras a tamaño real de soldados y caballos)",
+        "Armas, carros y artefactos originales del mausoleo del primer emperador Qin Shi Huang"
+      ],
+      "nota": "Un museo de sitio esencial para la arqueología de la dinastía Qin (siglo III a.C.)."
+    },
+    {
+      "nombre": "Museo Nacional de Corea",
+      "ubicacion": "Seúl, Corea del Sur",
+      "region": "Corea",
+      "colecciones_destacadas": [
+        "Artefactos del período Paleolítico y Neolítico coreano",
+        "Tesoros de los Tres Reinos de Corea (Goguryeo, Baekje, Silla)",
+        "Orfebrería y coronas de oro del Reino de Silla",
+        "Arte y arqueología de la Dinastía Joseon"
+      ]
+    },
+    {
+      "nombre": "Museo Nacional de Tokio (Honkan y Toyokan)",
+      "ubicacion": "Tokio, Japón",
+      "region": "Japón y Asia",
+      "colecciones_destacadas": [
+        "Colección de Arte y Arqueología Japonesa (artefactos Jōmon y Yayoi)",
+        "Espadas antiguas, armaduras samurai y cerámica",
+        "Colección de arte y artefactos arqueológicos de otras culturas asiáticas (Toyokan)"
+      ]
+    },
+    {
+      "nombre": "Museo de Historia de Shaanxi",
+      "ubicacion": "Xi'an, China",
+      "region": "China",
+      "colecciones_destacadas": [
+        "Artefactos de las capitales imperiales (incluyendo Chang'an, la capital Tang)",
+        "Bronces de la Dinastía Zhou",
+        "Figuras de cerámica de las dinastías Tang y Han"
+      ],
+      "nota": "Xi'an fue la capital de varias dinastías importantes."
+    },
+    {
+      "nombre": "Museo del Palacio (Ciudad Prohibida)",
+      "ubicacion": "Pekín, China",
+      "region": "China",
+      "colecciones_destacadas": [
+        "Vastas colecciones de objetos de arte, cerámica, y tesoros arqueológicos de las dinastías Ming y Qing",
+        "Artefactos recuperados de la Ciudad Prohibida"
+      ]
+    },
+    {
+      "nombre": "Museo Guimet (Museo Nacional de Artes Asiáticas)",
+      "ubicacion": "París, Francia",
+      "region": "Colección Global (Asia)",
+      "colecciones_destacadas": [
+        "Arte y arqueología de la Ruta de la Seda y Afganistán",
+        "Esculturas de Gandhāra (influencia clásica en Asia)",
+        "Colecciones de arte khmer (Camboya) y budista"
+      ]
+    }
+  ]
+}

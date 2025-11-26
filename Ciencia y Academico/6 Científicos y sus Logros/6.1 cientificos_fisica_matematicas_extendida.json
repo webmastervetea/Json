@@ -1,0 +1,144 @@
+{
+  "cientificos_fisica_matematicas_extendida": [
+    {
+      "nombre": "Arquímedes de Siracusa",
+      "area_estudio": "Física y Matemáticas Clásicas",
+      "logros": [
+        "Establecimiento del **Principio de Arquímedes** (hidrostática).",
+        "Invención del **Tornillo de Arquímedes** y máquinas de guerra.",
+        "Desarrollo de métodos exhaustivos para calcular áreas y volúmenes, sentando las bases del cálculo integral."
+      ]
+    },
+    {
+      "nombre": "Galileo Galilei",
+      "area_estudio": "Física Experimental y Astronomía",
+      "logros": [
+        "Pionero en la **Física Experimental** (uso del método científico).",
+        "Descubrimiento de la **Ley de la Caída de los Cuerpos** y la inercia.",
+        "Mejoras al telescopio y apoyo crucial al **modelo heliocéntrico** (Copérnico)."
+      ]
+    },
+    {
+      "nombre": "René Descartes",
+      "area_estudio": "Matemáticas y Filosofía",
+      "logros": [
+        "Creación de la **Geometría Analítica** (sistemas de coordenadas cartesianas).",
+        "Desarrollo de un método para relacionar álgebra y geometría.",
+        "Padre de la filosofía moderna."
+      ]
+    },
+    {
+      "nombre": "Isaac Newton",
+      "area_estudio": "Física, Matemáticas y Astronomía",
+      "logros": [
+        "Desarrollo del **Cálculo infinitesimal** (junto con Leibniz).",
+        "Formulación de las **Tres Leyes del Movimiento** y la **Ley de Gravitación Universal**.",
+        "Establecimiento de las bases de la **Mecánica Clásica**."
+      ]
+    },
+    {
+      "nombre": "Gottfried Wilhelm Leibniz",
+      "area_estudio": "Matemáticas y Filosofía",
+      "logros": [
+        "Desarrollo del **Cálculo infinitesimal** (independientemente de Newton), introduciendo la notación $\int$ (integral) y $d$ (diferencial).",
+        "Pionero en la lógica formal y la filosofía moderna."
+      ]
+    },
+    {
+      "nombre": "Leonhard Euler",
+      "area_estudio": "Matemáticas y Física",
+      "logros": [
+        "Pionero en el **cálculo, la teoría de grafos y la teoría de números**.",
+        "Introducción de gran parte de la **notación matemática** moderna (e, $i$, $\pi$, $\Sigma$, $f(x)$).",
+        "Formulación de la **Identidad de Euler** ($e^{i\pi} + 1 = 0$)."
+      ]
+    },
+    {
+      "nombre": "Carl Friedrich Gauss",
+      "area_estudio": "Matemáticas, Astronomía y Física",
+      "logros": [
+        "Demostración del **Teorema Fundamental del Álgebra**.",
+        "Desarrollo de la **función gaussiana** (curva de campana) en estadística.",
+        "Contribuciones fundamentales al **electromagnetismo** (Ley de Gauss)."
+      ]
+    },
+    {
+      "nombre": "James Clerk Maxwell",
+      "area_estudio": "Física Teórica",
+      "logros": [
+        "Formulación de las **Ecuaciones de Maxwell**, que describen el **electromagnetismo**.",
+        "Demostración de que la luz es una **onda electromagnética**.",
+        "Sentó las bases de la **Física Moderna**."
+      ]
+    },
+    {
+      "nombre": "Max Planck",
+      "area_estudio": "Física Teórica",
+      "logros": [
+        "Fundador de la **Teoría Cuántica**.",
+        "Introducción del concepto de **cuanto de energía** y la **Constante de Planck** ($h$).",
+        "Premio Nobel por el descubrimiento de los cuantos de energía."
+      ]
+    },
+    {
+      "nombre": "Albert Einstein",
+      "area_estudio": "Física Teórica y Cosmología",
+      "logros": [
+        "Desarrollo de las **Teorías de la Relatividad Especial y General**.",
+        "Formulación de la ecuación de equivalencia masa-energía ($E = mc^2$).",
+        "Explicación del **efecto fotoeléctrico** (Premio Nobel 1921)."
+      ]
+    },
+    {
+      "nombre": "Niels Bohr",
+      "area_estudio": "Física Cuántica",
+      "logros": [
+        "Desarrollo del **Modelo Atómico de Bohr**, introduciendo la cuantización de las órbitas electrónicas.",
+        "Contribuciones fundamentales a la comprensión de la estructura atómica y la mecánica cuántica."
+      ]
+    },
+    {
+      "nombre": "Werner Heisenberg",
+      "area_estudio": "Física Cuántica",
+      "logros": [
+        "Desarrollo de la **Mecánica Matricial**, una formulación de la mecánica cuántica.",
+        "Formulación del **Principio de Incertidumbre de Heisenberg**.",
+        "Ganador del Premio Nobel por la creación de la mecánica cuántica."
+      ]
+    },
+    {
+      "nombre": "Erwin Schrödinger",
+      "area_estudio": "Física Cuántica",
+      "logros": [
+        "Formulación de la **Ecuación de Schrödinger**, que describe el comportamiento de una función de onda en el tiempo.",
+        "Contribuciones fundamentales a la mecánica ondulatoria."
+      ]
+    },
+    {
+      "nombre": "Emmy Noether",
+      "area_estudio": "Matemáticas (Álgebra Abstracta)",
+      "logros": [
+        "Formulación de los **Teoremas de Noether**, que vinculan las **simetrías** en física con las **leyes de conservación** (energía, momento, etc.).",
+        "Considerada la matemática más importante de la historia en álgebra abstracta."
+      ]
+    },
+    {
+      "nombre": "Alan Turing",
+      "area_estudio": "Matemáticas y Computación",
+      "logros": [
+        "Considerado el **Padre de la Ciencia de la Computación** y la inteligencia artificial.",
+        "Formalización de los conceptos de algoritmo y computación con la **Máquina de Turing**.",
+        "Contribución crucial al descifrado de códigos en la Segunda Guerra Mundial."
+      ]
+    },
+    {
+      "nombre": "Stephen Hawking",
+      "area_estudio": "Física Teórica y Cosmología",
+      "logros": [
+        "Teoría de la **radiación de Hawking**, prediciendo que los agujeros negros emiten radiación.",
+        "Trabajos fundamentales sobre la **singularidad del espacio-tiempo** en el Big Bang y los agujeros negros.",
+        "Unificación de la relatividad general y la mecánica cuántica en el contexto de la gravedad."
+      ]
+    }
+  ]
+}

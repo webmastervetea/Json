@@ -1,0 +1,45 @@
+{
+  "categoria": "Científicos de Biofísica (Microscopía Electrónica y RMN)",
+  "cientificos": [
+    {
+      "nombre": "Ernst Ruska",
+      "area_estudio": "Física, Ingeniería Eléctrica",
+      "logros": "Diseñó y construyó el primer **Microscopio Electrónico de Transmisión (MET)** en 1931. Este invento permitió ver estructuras celulares y virus con una resolución nunca antes alcanzada, superando el límite de la luz visible." 
+    },
+    {
+      "nombre": "George Palade",
+      "area_estudio": "Biología Celular, Microscopía Electrónica",
+      "logros": "Pionero en el uso de la microscopía electrónica para desvelar la **ultraestructura de la célula eucariota**. Descubrió los **ribosomas** y describió la vía de secreción de proteínas (ruta biosintética secretora)."
+    },
+    {
+      "nombre": "Christian de Duve",
+      "area_estudio": "Bioquímica, Biología Celular",
+      "logros": "Utilizando la centrifugación diferencial y la microscopía electrónica, descubrió dos orgánulos fundamentales: los **lisosomas** y los **peroxisomas**."
+    },
+    {
+      "nombre": "Kurt Wüthrich",
+      "area_estudio": "Biofísica, Química Biofísica",
+      "logros": "Desarrolló la aplicación de la **Espectroscopía de Resonancia Magnética Nuclear (RMN)** multidimensional para determinar la **estructura tridimensional de las proteínas** en solución, sin necesidad de cristalizarlas."
+    },
+    {
+      "nombre": "Richard Ernst",
+      "area_estudio": "Química Física, Espectroscopía",
+      "logros": "Realizó contribuciones cruciales para el desarrollo de la **RMN de alta resolución**, inventando la RMN de transformada de Fourier y las técnicas de RMN bidimensional, esenciales para la Biofísica estructural."
+    },
+    {
+      "nombre": "Jacques Dubochet",
+      "area_estudio": "Biofísica, Microscopía Electrónica Criogénica",
+      "logros": "Desarrolló la **crio-Microscopía Electrónica (crio-ME)**, una técnica que permite congelar biomoléculas rápidamente para preservar su forma natural y obtener imágenes de alta resolución de su estructura, revolucionando la Biología Estructural."
+    },
+    {
+      "nombre": "Joachim Frank",
+      "area_estudio": "Biofísica Computacional, Microscopía Electrónica",
+      "logros": "Desarrolló los métodos de **procesamiento de imágenes** para la crio-ME, lo que hizo posible combinar muchas imágenes 2D ruidosas para reconstruir estructuras proteicas 3D de alta resolución (el motor detrás de la revolución de la crio-ME)."
+    },
+    {
+      "nombre": "Aaron Klug",
+      "area_estudio": "Cristalografía, Biofísica",
+      "logros": "Pionero en el desarrollo de la **microscopía electrónica cristalográfica** y en el análisis de imágenes de estructuras macromoleculares, incluyendo virus y el ARN de transferencia."
+    }
+  ]
+}

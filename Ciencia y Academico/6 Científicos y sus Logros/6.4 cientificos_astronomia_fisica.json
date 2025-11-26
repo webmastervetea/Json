@@ -1,0 +1,107 @@
+{
+  "cientificos_astronomia_fisica": [
+    {
+      "nombre": "Claudio Ptolomeo",
+      "area_estudio": "Astronomía Clásica y Geografía",
+      "logros": [
+        "Desarrollo y formalización del **modelo geocéntrico** (la Tierra como centro del universo) dominante durante 14 siglos.",
+        "Compilación del catálogo estelar 'Almagesto', una obra fundamental en la astronomía antigua."
+      ]
+    },
+    {
+      "nombre": "Nicolás Copérnico",
+      "area_estudio": "Astronomía",
+      "logros": [
+        "Desarrollo de la **Teoría Heliocéntrica**, proponiendo que el Sol, y no la Tierra, es el centro del sistema solar.",
+        "Inicio de la **Revolución Científica** en astronomía."
+      ]
+    },
+    {
+      "nombre": "Tycho Brahe",
+      "area_estudio": "Astronomía (Observacional)",
+      "logros": [
+        "Considerado el más grande astrónomo observacional antes del telescopio.",
+        "Realización de **mediciones astronómicas precisas** sin telescopio, especialmente de Marte.",
+        "Observación y documentación detallada de una **Supernova** (SN 1572)."
+      ]
+    },
+    {
+      "nombre": "Johannes Kepler",
+      "area_estudio": "Astronomía y Matemáticas",
+      "logros": [
+        "Formulación de las **Tres Leyes de Kepler** sobre el movimiento planetario (órbitas elípticas).",
+        "Demostración de que la velocidad de los planetas varía a lo largo de su órbita.",
+        "Contribuciones al desarrollo del telescopio."
+      ]
+    },
+    {
+      "nombre": "Galileo Galilei",
+      "area_estudio": "Astronomía y Física Experimental",
+      "logros": [
+        "Pionero en el uso del **telescopio para observaciones astronómicas**.",
+        "Descubrimiento de las **cuatro lunas más grandes de Júpiter** (lunas galileanas) y las fases de Venus.",
+        "Descubrimiento de las **leyes de la cinemática** (movimiento de caída de los cuerpos) en Física."
+      ]
+    },
+    {
+      "nombre": "Christiaan Huygens",
+      "area_estudio": "Física y Astronomía",
+      "logros": [
+        "Descubrimiento de **Titán**, la luna más grande de Saturno.",
+        "Determinación de la naturaleza del **anillo de Saturno**.",
+        "Desarrollo de la **Teoría Ondulatoria de la Luz** (frente a la teoría corpuscular de Newton)."
+      ]
+    },
+    {
+      "nombre": "Isaac Newton",
+      "area_estudio": "Física, Matemáticas y Astronomía",
+      "logros": [
+        "Formulación de la **Ley de Gravitación Universal**.",
+        "Establecimiento de las **Leyes del Movimiento** (Mecánica Clásica).",
+        "Invención del **telescopio reflector**."
+      ]
+    },
+    {
+      "nombre": "Albert Einstein",
+      "area_estudio": "Física Teórica y Cosmología",
+      "logros": [
+        "Desarrollo de la **Teoría de la Relatividad General**, que describe la gravedad como una curvatura del espacio-tiempo.",
+        "Predicción de la existencia de **agujeros negros** y **ondas gravitacionales**.",
+        "Establecimiento de la **Cosmología moderna** con su modelo del universo."
+      ]
+    },
+    {
+      "nombre": "Edwin Hubble",
+      "area_estudio": "Astronomía Observacional y Cosmología",
+      "logros": [
+        "Demostración de que la **Vía Láctea no es la única galaxia** en el universo.",
+        "Descubrimiento de la **Expansión del Universo** (Ley de Hubble).",
+        "Clasificación de las galaxias."
+      ]
+    },
+    {
+      "nombre": "Georges Lemaître",
+      "area_estudio": "Física Teórica y Cosmología",
+      "logros": [
+        "Propuesta de la teoría del **'átomo primordial'**, que más tarde se conocería como la teoría del **Big Bang**.",
+        "Pionero en la explicación de la expansión del universo."
+      ]
+    },
+    {
+      "nombre": "Stephen Hawking",
+      "area_estudio": "Física Teórica y Cosmología",
+      "logros": [
+        "Teoría de la **radiación de Hawking**, prediciendo que los agujeros negros emiten partículas (Premio Wolf en Física).",
+        "Trabajos sobre las **singularidades del espacio-tiempo** en el Big Bang y los agujeros negros."
+      ]
+    },
+    {
+      "nombre": "Vera Rubin",
+      "area_estudio": "Astronomía (Observacional)",
+      "logros": [
+        "Aportó la evidencia más sólida de la existencia de la **Materia Oscura** al estudiar las curvas de rotación de las galaxias.",
+        "Pionera en la observación y análisis de la rotación galáctica."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "categoria": "Científicos importantes de Biología y Ciencias Naturales",
+  "cientificos": [
+    {
+      "nombre": "Aristóteles",
+      "area_estudio": "Historia Natural, Zoología, Clasificación",
+      "logros": "Considerado el padre de la **Biología**. Realizó la primera clasificación sistemática de los seres vivos (Scala Naturae). Pionero en anatomía comparada y embriología."
+    },
+    {
+      "nombre": "Carl Linnaeus (Carlos Linneo)",
+      "area_estudio": "Taxonomía, Botánica",
+      "logros": "Creó el sistema moderno de **nomenclatura binomial** (género y especie) para clasificar a los seres vivos. Publicó *Systema Naturae*."
+    },
+    {
+      "nombre": "Jean-Baptiste Lamarck",
+      "area_estudio": "Evolución, Zoología",
+      "logros": "Formuló una de las primeras teorías de la **Evolución** basada en la herencia de los caracteres adquiridos (aunque luego fue refutada)."
+    },
+    {
+      "nombre": "Charles Darwin",
+      "area_estudio": "Evolución, Historia Natural",
+      "logros": "Desarrolló la **Teoría de la Evolución** por **Selección Natural**, revolucionando la Biología. Publicó *El Origen de las Especies*."
+    },
+    {
+      "nombre": "Alfred Russel Wallace",
+      "area_estudio": "Evolución, Biogeografía",
+      "logros": "Codescubridor (junto a Darwin) del principio de la **Selección Natural** como mecanismo de la Evolución. Es considerado el padre de la Biogeografía."
+    },
+    {
+      "nombre": "Gregor Mendel",
+      "area_estudio": "Genética, Botánica",
+      "logros": "Considerado el padre de la **Genética**. Estableció las **Leyes de la Herencia** a través de experimentos con guisantes, explicando la transmisión de caracteres."
+    },
+    {
+      "nombre": "Louis Pasteur",
+      "area_estudio": "Microbiología, Química",
+      "logros": "Refutó la teoría de la **Generación Espontánea**. Desarrolló el proceso de la **pasteurización** y creó las primeras vacunas para la rabia y el ántrax."
+    },
+    {
+      "nombre": "Robert Hooke",
+      "area_estudio": "Biología Celular, Física",
+      "logros": "Acuñó el término **'célula'** al observar muestras de corcho bajo un microscopio que él mismo diseñó (1665)."
+    },
+    {
+      "nombre": "Antonie van Leeuwenhoek",
+      "area_estudio": "Microscopía, Microbiología",
+      "logros": "Considerado el padre de la Microbiología. Fue el primero en observar y describir **bacterias, protozoos, espermatozoides** y glóbulos rojos utilizando sus propios microscopios avanzados."
+    },
+    {
+      "nombre": "Santiago Ramón y Cajal",
+      "area_estudio": "Neurociencia, Histología",
+      "logros": "Considerado el padre de la **Neurociencia** moderna. Demostró la **Teoría Neuronal**, que establece que el sistema nervioso está compuesto por células individuales (neuronas)."
+    },
+    {
+      "nombre": "Rosalind Franklin",
+      "area_estudio": "Biofísica, Cristalografía de Rayos X",
+      "logros": "Su trabajo de **difracción de rayos X** (la 'Fotografía 51') fue crucial para determinar la **estructura de doble hélice del ADN**."
+    },
+    {
+      "nombre": "James Watson y Francis Crick",
+      "area_estudio": "Biología Molecular, Genética",
+      "logros": "Descubrieron y publicaron el modelo de la **estructura de doble hélice del ADN** (basándose en los datos de Franklin y Wilkins)."
+    },
+    {
+      "nombre": "Alexander Fleming",
+      "area_estudio": "Microbiología, Farmacología",
+      "logros": "Descubrió la **penicilina** a partir del hongo *Penicillium notatum*, iniciando la era de los antibióticos."
+    },
+    {
+      "nombre": "Jane Goodall",
+      "area_estudio": "Primates, Etología (Comportamiento animal)",
+      "logros": "Pionera en el estudio a largo plazo de los **chimpancés salvajes** en Gombe, revolucionando nuestra comprensión del comportamiento de los primates."
+    }
+  ]
+}

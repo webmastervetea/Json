@@ -1,0 +1,53 @@
+{
+  "categoria": "Científicos de Bioinformática y Biología Computacional",
+  "cientificos": [
+    {
+      "nombre": "Margaret Oakley Dayhoff",
+      "area_estudio": "Bioinformática, Química Física",
+      "logros": "Considerada una de las fundadoras de la Bioinformática. Creó la primera **base de datos de secuencias de proteínas** y desarrolló las matrices **PAM** (Percent Accepted Mutation) para modelar la evolución proteica, cruciales en el alineamiento de secuencias."
+    },
+    {
+      "nombre": "Linus Pauling",
+      "area_estudio": "Química Cuántica, Biofísica Molecular",
+      "logros": "Aunque no es un bioinformático en el sentido moderno, su trabajo sobre las estructuras secundarias de las proteínas (**hélice alfa y lámina beta**) sentó las bases teóricas para la **predicción estructural** computacional de proteínas."
+    },
+    {
+      "nombre": "Fred Sanger",
+      "area_estudio": "Bioquímica, Genética",
+      "logros": "Desarrolló el método de secuenciación de ADN por terminación de cadena (método **Sanger**), que fue la base tecnológica para los primeros proyectos de genomas y generó la vasta cantidad de datos que impulsó la Bioinformática."
+    },
+    {
+      "nombre": "Russell Doolittle",
+      "area_estudio": "Bioinformática, Bioquímica Evolutiva",
+      "logros": "Pionero en el desarrollo y uso de algoritmos para el **alineamiento de secuencias**. Creó la matriz **BLOSUM** (Block Substitution Matrix), muy utilizada en análisis de homología proteica."
+    },
+    {
+      "nombre": "Temple F. Smith y Michael S. Waterman",
+      "area_estudio": "Bioinformática, Matemática Aplicada",
+      "logros": "Inventaron el algoritmo **Smith-Waterman**, un método dinámico y altamente preciso para el **alineamiento local de secuencias** (encontrar regiones similares entre dos secuencias de ADN o proteínas), fundamental en la búsqueda de homólogos."
+    },
+    {
+      "nombre": "Stephen Altschul, Warren Gish y David J. Lipman",
+      "area_estudio": "Bioinformática, Genética",
+      "logros": "Desarrollaron el algoritmo **BLAST** (Basic Local Alignment Search Tool), un programa fundamental que permite la **búsqueda rápida** y el alineamiento de secuencias biológicas en grandes bases de datos (como GenBank)."
+    },
+    {
+      "nombre": "David Botstein",
+      "area_estudio": "Genética, Biología de Sistemas",
+      "logros": "Pionero en el uso de los **Microarrays de ADN** para el análisis de la expresión génica a gran escala. Su trabajo ayudó a sentar las bases de la **Biología de Sistemas** y la Biología Computacional aplicada al genoma."
+    },
+    {
+      "nombre": "Eric S. Lander",
+      "area_estudio": "Genética, Bioinformática, Matemáticas",
+      "logros": "Lideró la contribución del **Broad Institute** al **Proyecto Genoma Humano**. Es una figura clave en el desarrollo de herramientas y análisis genómicos a gran escala y en la Biología Computacional aplicada a la Medicina."
+    },
+    {
+      "nombre": "Michael Levitt",
+      "area_estudio": "Biofísica Computacional, Biología Estructural",
+      "logros": "Pionero en el desarrollo de **modelos computacionales** para la **predicción de la estructura de las proteínas** y en la simulación de dinámica molecular." 
+
+[Image of protein folding simulation]
+
+    }
+  ]
+}

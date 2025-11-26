@@ -1,0 +1,50 @@
+{
+  "categoria": "Científicos de Física: Mecánica y Termodinámica",
+  "cientificos": [
+    {
+      "nombre": "Arquímedes",
+      "area_estudio": "Mecánica, Hidrostática",
+      "logros": "Formuló el **Principio de Arquímedes** (la fuerza de flotación), que es fundamental en hidrostática. Hizo contribuciones a la palanca y la mecánica clásica."
+    },
+    {
+      "nombre": "Galileo Galilei",
+      "area_estudio": "Mecánica Clásica, Astronomía",
+      "logros": "Considerado el padre de la ciencia moderna. Demostró experimentalmente que la **aceleración de la gravedad** es constante e independiente de la masa. Sentó las bases de la cinemática y el método científico."
+    },
+    {
+      "nombre": "Isaac Newton",
+      "area_estudio": "Mecánica Clásica, Matemáticas",
+      "logros": "Formuló las tres **Leyes del Movimiento** y la **Ley de Gravitación Universal**, que rigen la mecánica clásica. Inventó el cálculo (junto con Leibniz) y desarrolló la teoría del color."
+    },
+    {
+      "nombre": "James Watt",
+      "area_estudio": "Termodinámica, Ingeniería",
+      "logros": "Sus mejoras en la **Máquina de Vapor** (incluyendo el condensador separado) fueron clave para la Revolución Industrial y transformaron la comprensión práctica de la conversión de energía y la termodinámica. La unidad de potencia, el vatio (watt), lleva su nombre."
+    },
+    {
+      "nombre": "Sadi Carnot",
+      "area_estudio": "Termodinámica",
+      "logros": "Considerado el 'padre de la Termodinámica'. Formuló el **Ciclo de Carnot**, que establece la máxima eficiencia teórica posible para cualquier máquina térmica, sentando las bases del **Segundo Principio de la Termodinámica**."
+    },
+    {
+      "nombre": "Lord Kelvin (William Thomson)",
+      "area_estudio": "Termodinámica, Electricidad",
+      "logros": "Estableció la escala de temperatura **absoluta (Escala Kelvin)**. Contribuyó al desarrollo de la **Primera y Segunda Ley de la Termodinámica**. Es conocido por sus trabajos sobre la edad de la Tierra y la electricidad."
+    },
+    {
+      "nombre": "Rudolf Clausius",
+      "area_estudio": "Termodinámica",
+      "logros": "Introdujo el concepto de **Entropía ($S$)** y proporcionó la primera formulación clara y rigurosa del **Segundo Principio de la Termodinámica** (la energía fluye espontáneamente de lo caliente a lo frío y la entropía del universo siempre aumenta)."
+    },
+    {
+      "nombre": "Ludwig Boltzmann",
+      "area_estudio": "Física Estadística, Termodinámica",
+      "logros": "Desarrolló la **Física Estadística**, relacionando las propiedades macroscópicas de la materia (como la temperatura) con el comportamiento microscópico de sus átomos y moléculas. Su fórmula relaciona la entropía con el número de microestados ($\Omega$): $S = k \cdot \log \Omega$."
+    },
+    {
+      "nombre": "Albert Einstein",
+      "area_estudio": "Mecánica, Física Teórica",
+      "logros": "Aunque famoso por la relatividad, su trabajo sobre el **Movimiento Browniano** proveyó evidencia crucial de la existencia de átomos y moléculas, y sus bases se encuentran en la Mecánica Estadística y la Termodinámica."
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "categoria": "Científicos de Geología y Climatología (Ciencias de la Tierra)",
+  "cientificos": [
+    {
+      "nombre": "Alfred Wegener",
+      "area_estudio": "Meteorología, Geofísica",
+      "logros": "Propuso la revolucionaria teoría de la **Deriva Continental** a principios del siglo XX, sugiriendo que los continentes se mueven lentamente sobre la superficie terrestre (aunque no explicó el mecanismo; que luego se explicaría con la Tectónica de Placas)." 
+
+[Image of Pangaea breaking apart and drifting continents]
+
+    },
+    {
+      "nombre": "Charles Lyell",
+      "area_estudio": "Geología",
+      "logros": "Considerado el padre de la **Geología Moderna**. Popularizó la doctrina del **Uniformismo** (los procesos geológicos que operan hoy, como la erosión y el vulcanismo, han operado de la misma manera en el pasado), implicando que la Tierra es mucho más antigua de lo que se pensaba."
+    },
+    {
+      "nombre": "James Hutton",
+      "area_estudio": "Geología",
+      "logros": "Propuso el concepto de **Uniformismo**. Su trabajo en *Theory of the Earth* estableció el principio de que 'el presente es la clave del pasado' para entender la Geología."
+    },
+    {
+      "nombre": "Marie Tharp",
+      "area_estudio": "Oceanografía, Cartografía",
+      "logros": "Pionera en el mapeo del suelo oceánico. Junto con Bruce Heezen, produjo el primer mapa detallado del fondo del Atlántico, revelando la existencia de la **Dorsal Centro-Oceánica**, una prueba crucial que apoyó la teoría de la **Tectónica de Placas**."
+    },
+    {
+      "nombre": "Milutin Milanković",
+      "area_estudio": "Astronomía, Climatología",
+      "logros": "Desarrolló la **Teoría de Milanković**, que explica los cambios climáticos a largo plazo (incluidas las eras de hielo) basándose en las variaciones cíclicas de la órbita terrestre, la inclinación axial y la precesión del eje (los **Ciclos de Milanković**)."
+    },
+    {
+      "nombre": "Syukuro Manabe y Richard Wetherald",
+      "area_estudio": "Climatología, Meteorología",
+      "logros": "Crearon los primeros **Modelos de Circulación General (GCM)** tridimensionales de la atmósfera. Su trabajo pionero demostró la relación directa entre el aumento del CO₂ y el aumento de la temperatura global, estableciendo las bases del modelado climático moderno."
+    },
+    {
+      "nombre": "Rachel Carson",
+      "area_estudio": "Biología Marina, Conservación",
+      "logros": "Aunque no es geóloga ni climatóloga en el sentido estricto, su libro *Primavera Silenciosa* fue fundamental para despertar la conciencia sobre el impacto humano en el medio ambiente y los **ciclos químicos y ecológicos**, impulsando el movimiento ambiental moderno."
+    },
+    {
+      "nombre": "F. Sherwood Rowland y Mario Molina",
+      "area_estudio": "Química Atmosférica",
+      "logros": "Demostraron que los **clorofluorocarbonos (CFC)** agotan significativamente la **capa de ozono** en la estratosfera, sentando las bases científicas para el Protocolo de Montreal."
+    }
+  ]
+}

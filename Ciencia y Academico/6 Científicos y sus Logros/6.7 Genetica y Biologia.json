@@ -1,0 +1,68 @@
+{
+  "categoria": "Científicos de Genética y Biología Molecular",
+  "cientificos": [
+    {
+      "nombre": "Gregor Mendel",
+      "area_estudio": "Genética Clásica, Botánica",
+      "logros": "Considerado el padre de la **Genética**. Estableció las **Leyes de la Herencia** (Segregación, Distribución Independiente) a partir de experimentos con guisantes, explicando la transmisión de caracteres."
+    },
+    {
+      "nombre": "Friedrich Miescher",
+      "area_estudio": "Bioquímica",
+      "logros": "Fue el primero en aislar y describir el **ADN** (Ácido Desoxirribonucleico) en 1869, al que llamó 'nucleína' por encontrarlo en el núcleo de las células."
+    },
+    {
+      "nombre": "Thomas Hunt Morgan",
+      "area_estudio": "Genética, Biología Evolutiva",
+      "logros": "Demostró que los **genes** residen en los **cromosomas** y son la unidad de la herencia (Teoría Cromosómica de la Herencia), usando la mosca *Drosophila melanogaster*."
+    },
+    {
+      "nombre": "Oswald Avery, Colin MacLeod y Maclyn McCarty",
+      "area_estudio": "Genética Molecular, Inmunología",
+      "logros": "Identificaron el **ADN** como el material responsable de la **transformación genética** (el principio transformante), demostrando que el ADN porta la información hereditaria."
+    },
+    {
+      "nombre": "Alfred Hershey y Martha Chase",
+      "area_estudio": "Genética Molecular, Virología",
+      "logros": "Aportaron la prueba concluyente de que el **ADN**, y no las proteínas, es el material hereditario, a través de experimentos con bacteriófagos (virus que infectan bacterias)."
+    },
+    {
+      "nombre": "Erwin Chargaff",
+      "area_estudio": "Bioquímica, Genética",
+      "logros": "Estableció las **Reglas de Chargaff**, demostrando que la cantidad de adenina (A) es igual a la de timina (T), y la de guanina (G) es igual a la de citosina (C) en el ADN."
+    },
+    {
+      "nombre": "Rosalind Franklin",
+      "area_estudio": "Biofísica, Cristalografía de Rayos X",
+      "logros": "Su crucial trabajo de **difracción de rayos X** (la 'Fotografía 51') proporcionó los datos esenciales para determinar la estructura helicoidal del ADN."
+    },
+    {
+      "nombre": "James Watson y Francis Crick",
+      "area_estudio": "Biología Molecular, Biofísica",
+      "logros": "Descubrieron y publicaron el modelo de la **estructura de doble hélice del ADN**, explicando su mecanismo de replicación y la base de la herencia (1953)." 
+
+[Image of DNA double helix structure]
+
+    },
+    {
+      "nombre": "Marshall Nirenberg y Heinrich J. Matthaei",
+      "area_estudio": "Genética, Bioquímica",
+      "logros": "Descifraron el **Código Genético**, demostrando que una secuencia de tres bases (codón) en el ARNm especifica un aminoácido en una proteína."
+    },
+    {
+      "nombre": "François Jacob y Jacques Monod",
+      "area_estudio": "Genética Microbiana, Biología Molecular",
+      "logros": "Propusieron el modelo del **Operón** (Operón *lac*), explicando cómo se **regula la expresión genética** en las bacterias."
+    },
+    {
+      "nombre": "Barbara McClintock",
+      "area_estudio": "Citogenética",
+      "logros": "Descubrió los **elementos transponibles** ('genes saltarines'), demostrando que los genes pueden moverse dentro del genoma, influyendo en la expresión genética."
+    },
+    {
+      "nombre": "Kary Mullis",
+      "area_estudio": "Bioquímica",
+      "logros": "Inventó la **Reacción en Cadena de la Polimerasa (PCR)**, una técnica fundamental para amplificar segmentos específicos de ADN de forma rápida y eficiente."
+    }
+  ]
+}

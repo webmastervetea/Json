@@ -1,0 +1,50 @@
+{
+  "categoria": "Científicos importantes de Neurociencia e Histología",
+  "cientificos": [
+    {
+      "nombre": "Santiago Ramón y Cajal",
+      "area_estudio": "Neurociencia, Histología, Anatomía Patológica",
+      "logros": "Considerado el padre de la **Neurociencia** moderna. Demostró la **Teoría Neuronal**, estableciendo que el sistema nervioso está compuesto por células individuales discretas (neuronas) y no por una red continua (retículo). Ganador del Premio Nobel."
+    },
+    {
+      "nombre": "Camillo Golgi",
+      "area_estudio": "Histología, Anatomía, Neurociencia",
+      "logros": "Desarrolló la **'reacción negra'** (tinción de Golgi), un método que tiñe al azar solo una pequeña fracción de neuronas, permitiendo visualizar su estructura completa. Identificó el **aparato de Golgi** en células. Fue un defensor de la teoría reticular (opuesta a Cajal)."
+    },
+    {
+      "nombre": "Charles Sherrington",
+      "area_estudio": "Neurofisiología",
+      "logros": "Considerado el padre de la **Neurofisiología**. Acuñó los términos **'sinapsis'** y 'neurona'. Demostró la naturaleza integrada de la función neural y sus trabajos sobre el reflejo y la acción muscular."
+    },
+    {
+      "nombre": "Otto Loewi",
+      "area_estudio": "Neurofisiología, Farmacología",
+      "logros": "Demostró por primera vez que la **transmisión sináptica es de naturaleza química**, no solo eléctrica. Identificó la acetilcolina como el primer **neurotransmisor** conocido, a través de su experimento con corazones de rana."
+    },
+    {
+      "nombre": "Wilder Penfield",
+      "area_estudio": "Neurocirugía, Neurociencia",
+      "logros": "Pionero en la **neurocirugía de la epilepsia**. Mapeó el **córtex cerebral** (homúnculos sensorial y motor) estimulando eléctricamente el cerebro de pacientes despiertos durante cirugías."
+    },
+    {
+      "nombre": "Korbinian Brodmann",
+      "area_estudio": "Neuroanatomía, Histología",
+      "logros": "Creó un mapa citoarquitectónico del córtex cerebral, dividiéndolo en **Áreas de Brodmann** (52 regiones) basándose en las diferencias en la estructura celular (**histología**) de las capas corticales."
+    },
+    {
+      "nombre": "Santiago Ramón y Cajal",
+      "area_estudio": "Neurociencia, Histología, Anatomía Patológica",
+      "logros": "Considerado el padre de la **Neurociencia** moderna. Demostró la **Teoría Neuronal**, estableciendo que el sistema nervioso está compuesto por células individuales discretas (neuronas) y no por una red continua (retículo). Ganador del Premio Nobel."
+    },
+    {
+      "nombre": "Alan Hodgkin y Andrew Huxley",
+      "area_estudio": "Neurofisiología, Biofísica",
+      "logros": "Formularon la **Teoría Iónica** (Modelo de Hodgkin-Huxley) que explica el mecanismo del **potencial de acción** y cómo se propagan los impulsos nerviosos a lo largo del axón, utilizando el axón gigante del calamar."
+    },
+    {
+      "nombre": "Paul Ehrlich",
+      "area_estudio": "Hematología, Inmunología, Histología",
+      "logros": "Pionero en el uso de **tinciones específicas** para la diferenciación celular, lo cual fue fundamental para la Histología. Desarrolló la idea de la 'bala mágica' y contribuyó a la Química y Medicina."
+    }
+  ]
+}

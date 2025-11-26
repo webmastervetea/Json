@@ -1,0 +1,60 @@
+{
+  "categoria": "Científicos de Química, Microbiología, Bioquímica y Física Nuclear",
+  "cientificos": [
+    {
+      "nombre": "Antoine Lavoisier",
+      "area_estudio": "Química Moderna, Bioquímica",
+      "logros": "Considerado el padre de la **Química Moderna**. Formuló la **Ley de Conservación de la Masa**. Nombró al oxígeno e hidrógeno."
+    },
+    {
+      "nombre": "Dmitri Mendeléyev",
+      "area_estudio": "Química",
+      "logros": "Creó la **Tabla Periódica** de los Elementos, prediciendo la existencia y propiedades de elementos aún no descubiertos."
+    },
+    {
+      "nombre": "Louis Pasteur",
+      "area_estudio": "Microbiología, Inmunología, Química",
+      "logros": "Refutó la **Generación Espontánea**. Desarrolló la **pasteurización** y creó las primeras vacunas para la rabia y el ántrax."
+    },
+    {
+      "nombre": "Robert Koch",
+      "area_estudio": "Microbiología Médica",
+      "logros": "Identificó los agentes causantes de la **tuberculosis y el cólera**. Formuló los **Postulados de Koch** para probar la etiología de las enfermedades."
+    },
+    {
+      "nombre": "Marie Curie",
+      "area_estudio": "Química, Física Nuclear",
+      "logros": "Pionera en el estudio de la **radiactividad**. Descubrió los elementos **Polonio y Radio**. Su trabajo fue clave para la comprensión de los isótopos."
+    },
+    {
+      "nombre": "Linus Pauling",
+      "area_estudio": "Química Cuántica, Bioquímica",
+      "logros": "Considerado uno de los fundadores de la **Química Cuántica y Molecular**. Desarrolló la teoría del **Enlace Químico** y propuso la estructura de hélice alfa para las proteínas."
+    },
+    {
+      "nombre": "Emil Fischer",
+      "area_estudio": "Química Orgánica, Bioquímica",
+      "logros": "Pionero en el estudio de las **proteínas y carbohidratos**. Desarrolló la **proyección de Fischer** para representar moléculas orgánicas tridimensionales."
+    },
+    {
+      "nombre": "Hans Krebs",
+      "area_estudio": "Bioquímica",
+      "logros": "Descubrió el **Ciclo de la Urea** y, más notablemente, el **Ciclo del Ácido Cítrico** (Ciclo de Krebs), el proceso metabólico central para la respiración celular."
+    },
+    {
+      "nombre": "Dorothy Hodgkin",
+      "area_estudio": "Cristalografía, Bioquímica",
+      "logros": "Pionera en la **cristalografía de rayos X** para determinar estructuras de biomoléculas complejas, como la **penicilina, la vitamina B12 y la insulina**."
+    },
+    {
+      "nombre": "Michael Faraday",
+      "area_estudio": "Química, Electroquímica, Física",
+      "logros": "Sentó las bases de la **Electroquímica** con sus leyes de la electrólisis. Hizo contribuciones fundamentales en electromagnetismo."
+    },
+    {
+      "nombre": "Ernest Rutherford",
+      "area_estudio": "Física Nuclear, Química",
+      "logros": "Descubrió el **Núcleo Atómico** y propuso el modelo atómico de Rutherford. Fue el primero en demostrar la **transmutación** de un elemento a otro (reacción nuclear)."
+    }
+  ]
+}

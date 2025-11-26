@@ -1,0 +1,87 @@
+{
+  "cientificos_fisica_teorica": [
+    {
+      "nombre": "Isaac Newton",
+      "area_estudio": "Mecánica Clásica y Matemáticas",
+      "logros": [
+        "Formulación de la **Ley de Gravitación Universal**.",
+        "Establecimiento de las **Leyes del Movimiento** (Leyes de Newton), base de la mecánica clásica.",
+        "Desarrollo de la **Óptica** y la teoría de los colores."
+      ]
+    },
+    {
+      "nombre": "James Clerk Maxwell",
+      "area_estudio": "Electromagnetismo Clásico",
+      "logros": [
+        "Formulación de las **Ecuaciones de Maxwell**, que unifican la electricidad, el magnetismo y la luz en el **Electromagnetismo**.",
+        "Predicción teórica de las **ondas electromagnéticas**.",
+        "Contribuciones fundamentales a la teoría cinética de gases."
+      ]
+    },
+    {
+      "nombre": "Max Planck",
+      "area_estudio": "Teoría Cuántica (Fundamentos)",
+      "logros": [
+        "Introducción del concepto de **cuanto de energía** (Premio Nobel 1918).",
+        "Formulación de la **Constante de Planck** ($h$), considerada el nacimiento de la mecánica cuántica."
+      ]
+    },
+    {
+      "nombre": "Albert Einstein",
+      "area_estudio": "Relatividad y Mecánica Cuántica",
+      "logros": [
+        "Desarrollo de las **Teorías de la Relatividad Especial y General** (redefiniendo el espacio, tiempo y gravedad).",
+        "Formulación de la ecuación de equivalencia masa-energía ($E = mc^2$).",
+        "Explicación teórica del **efecto fotoeléctrico** (Premio Nobel 1921)."
+      ]
+    },
+    {
+      "nombre": "Niels Bohr",
+      "area_estudio": "Estructura Atómica y Mecánica Cuántica",
+      "logros": [
+        "Desarrollo del **Modelo Atómico de Bohr**, que aplica la cuantización a las órbitas electrónicas.",
+        "Formulación del **Principio de Correspondencia** y el **Principio de Complementariedad**."
+      ]
+    },
+    {
+      "nombre": "Werner Heisenberg",
+      "area_estudio": "Mecánica Cuántica",
+      "logros": [
+        "Desarrollo de la **Mecánica Matricial**, la primera formulación completa de la mecánica cuántica (Premio Nobel 1932).",
+        "Formulación del **Principio de Incertidumbre de Heisenberg**."
+      ]
+    },
+    {
+      "nombre": "Erwin Schrödinger",
+      "area_estudio": "Mecánica Cuántica",
+      "logros": [
+        "Formulación de la **Ecuación de Schrödinger**, que describe la evolución en el tiempo de la función de onda de una partícula cuántica (Premio Nobel 1933).",
+        "Pionero en la mecánica ondulatoria."
+      ]
+    },
+    {
+      "nombre": "Paul Dirac",
+      "area_estudio": "Mecánica Cuántica Relativista",
+      "logros": [
+        "Formulación de la **Ecuación de Dirac**, que combina la mecánica cuántica con la relatividad especial.",
+        "Predicción teórica de la existencia de la **antimateria** (el positrón) (Premio Nobel 1933)."
+      ]
+    },
+    {
+      "nombre": "Richard Feynman",
+      "area_estudio": "Electrodinámica Cuántica (QED)",
+      "logros": [
+        "Desarrollo de la **Electrodinámica Cuántica (QED)**, la teoría cuántica de campos más precisa (Premio Nobel 1965).",
+        "Creación de los **Diagramas de Feynman** para visualizar interacciones de partículas."
+      ]
+    },
+    {
+      "nombre": "Stephen Hawking",
+      "area_estudio": "Cosmología y Gravedad Cuántica",
+      "logros": [
+        "Teoría de la **radiación de Hawking**, prediciendo que los agujeros negros emiten radiación.",
+        "Trabajo crucial en la **singularidad del espacio-tiempo** en el Big Bang y los agujeros negros."
+      ]
+    }
+  ]
+}

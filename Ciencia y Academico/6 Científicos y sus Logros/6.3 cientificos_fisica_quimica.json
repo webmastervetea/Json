@@ -1,0 +1,91 @@
+{
+  "cientificos_fisica_quimica": [
+    {
+      "nombre": "Robert Boyle",
+      "area_estudio": "Física y Química (Fundamentos)",
+      "logros": [
+        "Pionero del **método científico moderno** en química y física.",
+        "Formulación de la **Ley de Boyle** (relación entre presión y volumen de un gas a temperatura constante).",
+        "Definición de elemento químico como sustancia que no puede descomponerse en otras más simples."
+      ]
+    },
+    {
+      "nombre": "Antoine Lavoisier",
+      "area_estudio": "Química y Física (Teoría Atómica)",
+      "logros": [
+        "Establecimiento de la **Ley de Conservación de la Masa** (la materia no se crea ni se destruye).",
+        "Nombró el **oxígeno** y el **hidrógeno**.",
+        "Considerado el **Padre de la Química Moderna**."
+      ]
+    },
+    {
+      "nombre": "John Dalton",
+      "area_estudio": "Química y Física (Teoría Atómica)",
+      "logros": [
+        "Formulación de la **Teoría Atómica Moderna** (los elementos se componen de átomos indivisibles).",
+        "Establecimiento de la **Ley de las presiones parciales** (Ley de Dalton).",
+        "Primeros trabajos sobre el daltonismo."
+      ]
+    },
+    {
+      "nombre": "Michael Faraday",
+      "area_estudio": "Física y Química (Electromagnetismo)",
+      "logros": [
+        "Descubrimiento de la **inducción electromagnética**.",
+        "Establecimiento de las **Leyes de la Electrólisis** (fundamentos de la electroquímica).",
+        "Invención del primer motor eléctrico primitivo."
+      ]
+    },
+    {
+      "nombre": "James Clerk Maxwell",
+      "area_estudio": "Física Teórica",
+      "logros": [
+        "Formulación de las **Ecuaciones de Maxwell**, que unifican la electricidad y el magnetismo.",
+        "Demostración teórica de que la **luz es una onda electromagnética**."
+      ]
+    },
+    {
+      "nombre": "Dmitri Mendeléyev",
+      "area_estudio": "Química y Física (Estructura Atómica)",
+      "logros": [
+        "Creación de la primera versión de la **Tabla Periódica de los Elementos**.",
+        "Predicción de la existencia y propiedades de varios elementos aún no descubiertos (germanio, galio, etc.)."
+      ]
+    },
+    {
+      "nombre": "Marie Curie",
+      "area_estudio": "Física y Química (Radiactividad)",
+      "logros": [
+        "Pionera en la investigación de la **radiactividad**.",
+        "Descubrimiento de los elementos **Polonio** y **Radio**.",
+        "Primera persona y única mujer en ganar dos Premios Nobel en diferentes campos científicos."
+      ]
+    },
+    {
+      "nombre": "Ernest Rutherford",
+      "area_estudio": "Física y Química Nuclear",
+      "logros": [
+        "Descubrimiento del **núcleo atómico** con su experimento de la lámina de oro.",
+        "Pionero en la **física nuclear** y la transmutación de elementos.",
+        "Desarrollo del **Modelo Atómico de Rutherford**."
+      ]
+    },
+    {
+      "nombre": "Niels Bohr",
+      "area_estudio": "Física Cuántica y Química",
+      "logros": [
+        "Desarrollo del **Modelo Atómico de Bohr**, que explica la estabilidad de los átomos y la emisión de espectros.",
+        "Aplicación de la **teoría cuántica** a la estructura atómica y a la química."
+      ]
+    },
+    {
+      "nombre": "Linus Pauling",
+      "area_estudio": "Química Cuántica y Bioquímica",
+      "logros": [
+        "Trabajos fundamentales sobre el **enlace químico** y la estructura molecular.",
+        "Introducción del concepto de **electronegatividad**.",
+        "Una de las pocas personas en ganar dos Premios Nobel no compartidos (Química y de la Paz)."
+      ]
+    }
+  ]
+}

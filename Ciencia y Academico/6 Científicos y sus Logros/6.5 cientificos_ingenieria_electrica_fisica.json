@@ -1,0 +1,93 @@
+{
+  "cientificos_ingenieria_electrica_fisica": [
+    {
+      "nombre": "Benjamin Franklin",
+      "area_estudio": "Física (Electricidad)",
+      "logros": [
+        "Identificación de la **naturaleza eléctrica del rayo** mediante el experimento de la cometa.",
+        "Introducción de los términos **positivo** y **negativo** para las cargas eléctricas.",
+        "Invención del **pararrayos**."
+      ]
+    },
+    {
+      "nombre": "Alessandro Volta",
+      "area_estudio": "Física y Electroquímica",
+      "logros": [
+        "Invención de la **pila voltaica** (precursora de la batería eléctrica), el primer generador de electricidad continua.",
+        "Demostración de que la electricidad se genera por el contacto entre metales diferentes.",
+        "Pionero en el estudio del **gas metano**."
+      ]
+    },
+    {
+      "nombre": "Hans Christian Ørsted",
+      "area_estudio": "Física (Electromagnetismo)",
+      "logros": [
+        "Descubrimiento de la conexión entre la **electricidad y el magnetismo**.",
+        "Observación de que una corriente eléctrica desvía una aguja de brújula.",
+        "Fundamento para el estudio del **electromagnetismo**."
+      ]
+    },
+    {
+      "nombre": "André-Marie Ampère",
+      "area_estudio": "Física (Electrodinámica)",
+      "logros": [
+        "Considerado el **Padre de la Electrodinámica**.",
+        "Formulación de la **Ley de Ampère**, que describe matemáticamente las fuerzas entre corrientes eléctricas.",
+        "El **amperio** (unidad de corriente eléctrica) lleva su nombre."
+      ]
+    },
+    {
+      "nombre": "Georg Ohm",
+      "area_estudio": "Física (Circuitos Eléctricos)",
+      "logros": [
+        "Formulación de la **Ley de Ohm** ($V = IR$), que relaciona la tensión (V), la corriente (I) y la resistencia (R) en un circuito.",
+        "Establecimiento de las bases para el análisis de circuitos eléctricos."
+      ]
+    },
+    {
+      "nombre": "Michael Faraday",
+      "area_estudio": "Física y Química (Electromagnetismo)",
+      "logros": [
+        "Descubrimiento de la **inducción electromagnética**, la base del transformador y el generador.",
+        "Formulación de las **Leyes de la Electrólisis**.",
+        "Invención del primer **motor eléctrico** primitivo."
+      ]
+    },
+    {
+      "nombre": "Joseph Henry",
+      "area_estudio": "Física e Ingeniería Eléctrica",
+      "logros": [
+        "Descubrimiento de la **autoinducción**.",
+        "Construcción de los **primeros electroimanes** prácticos de alta potencia.",
+        "El **henrio** (unidad de inductancia) lleva su nombre."
+      ]
+    },
+    {
+      "nombre": "James Clerk Maxwell",
+      "area_estudio": "Física Teórica (Electromagnetismo)",
+      "logros": [
+        "Unificación de la electricidad y el magnetismo a través de las **Ecuaciones de Maxwell**.",
+        "Predicción teórica de la existencia de las **ondas electromagnéticas** y la naturaleza de la luz.",
+        "Sentó las bases de las telecomunicaciones inalámbricas."
+      ]
+    },
+    {
+      "nombre": "Nikola Tesla",
+      "area_estudio": "Ingeniería Eléctrica y Física",
+      "logros": [
+        "Desarrollo y promoción del sistema de **Corriente Alterna (CA)** para la distribución de energía.",
+        "Invención del **motor de inducción** y la **bobina de Tesla**.",
+        "Contribuciones al desarrollo de la radio y la transmisión inalámbrica."
+      ]
+    },
+    {
+      "nombre": "Thomas Alva Edison",
+      "area_estudio": "Ingeniería Eléctrica e Invención",
+      "logros": [
+        "Desarrollo de un sistema comercialmente viable de **Corriente Continua (CC)**.",
+        "Invención de la **bombilla incandescente** de larga duración y el fonógrafo.",
+        "Establecimiento de la primera central eléctrica comercial."
+      ]
+    }
+  ]
+}

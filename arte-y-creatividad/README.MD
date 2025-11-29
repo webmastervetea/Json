@@ -1,7 +1,8 @@
 # Json
 Este repositorio es una colección organizada de pequeñas archivos en formato .json que pueden ser utilizados por programadores en sus desarrollos.
-
+[[Soporte](https://www.linkedin.com/in/oscarlizarragag/)]
 ## Arte y Creatividad
+
 * 1 Colecciones de códigos de colores (HEX/RGB) para diseño.
 * 2 Lista de fuentes con sus URLs y pesos (weights).
 * 3 Título y contenido de poemas organizados por autor.
@@ -13,4 +14,3 @@ Este repositorio es una colección organizada de pequeñas archivos en formato .
 * 9 Nombres de personajes de historietas y sus superpoderes.
 * 10 Coordenadas para dibujar formas y patrones complejos.
 
-Soporte: https://www.linkedin.com/in/oscarlizarragag/

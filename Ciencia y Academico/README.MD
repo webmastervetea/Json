@@ -2,8 +2,8 @@
 Este repositorio es una colección organizada de pequeñas archivos en formato .json que pueden ser utilizados por programadores en sus desarrollos.
 [[Soporte](https://www.linkedin.com/in/oscarlizarragag/)]
 
-## Ciencia y Académico
-
+## Ciencia y Académico 
+[[Categorias](https://github.com/webmastervetea/Json/blob/main/CATEGORIAS.md)]
 
 * [[1](https://github.com/webmastervetea/Json/blob/main/Ciencia%20y%20Academico/1%20tabla_periodica.json)] Elementos químicos con número atómico, masa y grupo.
 * [[2](https://github.com/webmastervetea/Json/blob/main/Ciencia%20y%20Academico/2%20constelaciones.json)] Nombres de constelaciones y estrellas principales.

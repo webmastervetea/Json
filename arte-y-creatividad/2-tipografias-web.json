@@ -1,0 +1,59 @@
+{
+  "titulo": "Lista de Configuración de Fuentes Tipográficas",
+  "descripcion": "Fuentes y sus pesos disponibles para un proyecto de diseño o web.",
+  "fuentes_configuradas": [
+    {
+      "nombre_fuente": "Roboto",
+      "tipo": "Sans-serif",
+      "proveedor": "Google Fonts",
+      "url_base": "https://fonts.googleapis.com/css2?family=Roboto:",
+      "pesos_disponibles": [
+        {"peso": 100, "nombre_estilo": "Thin"},
+        {"peso": 300, "nombre_estilo": "Light"},
+        {"peso": 400, "nombre_estilo": "Regular"},
+        {"peso": 500, "nombre_estilo": "Medium"},
+        {"peso": 700, "nombre_estilo": "Bold"},
+        {"peso": 900, "nombre_estilo": "Black"}
+      ],
+      "nota": "Utilizada para texto principal y cuerpo."
+    },
+    {
+      "nombre_fuente": "Playfair Display",
+      "tipo": "Serif",
+      "proveedor": "Google Fonts",
+      "url_base": "https://fonts.googleapis.com/css2?family=Playfair+Display:",
+      "pesos_disponibles": [
+        {"peso": 400, "nombre_estilo": "Regular"},
+        {"peso": 600, "nombre_estilo": "Semi-Bold"},
+        {"peso": 900, "nombre_estilo": "Black"}
+      ],
+      "nota": "Utilizada principalmente para títulos y encabezados."
+    },
+    {
+      "nombre_fuente": "Courier New",
+      "tipo": "Monospace",
+      "proveedor": "Sistema (Web Safe)",
+      "url_base": "Local/Sistema",
+      "pesos_disponibles": [
+        {"peso": 400, "nombre_estilo": "Regular"},
+        {"peso": 700, "nombre_estilo": "Bold"}
+      ],
+      "nota": "Utilizada para bloques de código o datos tabulados."
+    },
+    {
+      "nombre_fuente": "Custom Brand Sans",
+      "tipo": "Sans-serif",
+      "proveedor": "Servidor Propio",
+      "url_base": "/assets/fonts/brandsans.woff2",
+      "pesos_disponibles": [
+        {"peso": 400, "nombre_estilo": "Regular"},
+        {"peso": 700, "nombre_estilo": "Bold"}
+      ],
+      "nota": "Fuente corporativa cargada como archivo local (WOFF2)."
+    }
+  ],
+  "definicion_peso": {
+    "descripcion": "El valor de 'peso' (weight) define el grosor de la fuente, utilizado en la propiedad CSS `font-weight`.",
+    "ejemplo": "El peso 700 corresponde al estilo 'Bold'."
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "titulo": "Clasificación de Instrumentos Musicales por Familia",
+  "descripcion": "Clasificación basada en el método tradicional de producción de sonido (Hornbostel-Sachs simplificado).",
+  "familias_instrumentales": [
+    {
+      "familia": "Cuerda (Cordófonos)",
+      "descripcion": "El sonido se produce mediante la vibración de cuerdas tensadas, ya sea pulsadas, frotadas o percutidas.",
+      "subcategorias": [
+        {
+          "tipo": "Cuerda Frotada",
+          "ejemplos": ["Violín", "Viola", "Violonchelo", "Contrabajo"]
+        },
+        {
+          "tipo": "Cuerda Pulsada/Punteada",
+          "ejemplos": ["Guitarra", "Arpa", "Laúd", "Banjo", "Clavecín"]
+        },
+        {
+          "tipo": "Cuerda Percutida",
+          "ejemplos": ["Piano (aunque también se clasifica a veces como teclado/percusión)", "Dulcimer"]
+        }
+      ]
+    },
+    {
+      "familia": "Viento (Aerófonos)",
+      "descripcion": "El sonido se genera por la vibración de una columna de aire dentro del instrumento.",
+      "subcategorias": [
+        {
+          "tipo": "Viento-Madera",
+          "ejemplos": ["Flauta Travesera", "Clarinete", "Oboe", "Fagot", "Saxofón"]
+        },
+        {
+          "tipo": "Viento-Metal",
+          "ejemplos": ["Trompeta", "Trombón", "Tuba", "Corno Francés", "Bombardino"]
+        }
+      ]
+    },
+    {
+      "familia": "Percusión (Idiófonos y Membranófonos)",
+      "descripcion": "El sonido se produce al ser golpeado, agitado, raspado o frotado el cuerpo del instrumento o una membrana tensa.",
+      "subcategorias": [
+        {
+          "tipo": "Membranófonos (con parche)",
+          "ejemplos": ["Tambores (Timbales)", "Bombo", "Caja/Redoblante", "Congas"]
+        },
+        {
+          "tipo": "Idiófonos (instrumento vibra)",
+          "ejemplos": ["Platillos", "Triángulo", "Marimba", "Xilófono", "Gong", "Castañuelas"]
+        },
+        {
+          "tipo": "Teclados de Percusión",
+          "ejemplos": ["Celesta", "Glockenspiel"]
+        }
+      ]
+    },
+    {
+      "familia": "Teclado (General)",
+      "descripcion": "Instrumentos que utilizan un teclado como mecanismo de activación (pueden caer en otras familias por producción de sonido).",
+      "ejemplos": ["Órgano", "Sintetizador", "Acordeón", "Piano (percutida)", "Clavecín (pulsada)"]
+    },
+    {
+      "familia": "Electrófonos",
+      "descripcion": "El sonido se genera o modifica mediante medios electrónicos.",
+      "ejemplos": ["Sintetizador", "Theremín", "Guitarra Eléctrica (aunque también de cuerda)", "Sampler"]
+    }
+  ]
+}

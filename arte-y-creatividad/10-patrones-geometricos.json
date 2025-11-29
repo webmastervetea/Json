@@ -1,0 +1,49 @@
+{
+  "titulo": "Coordenadas para Dibujar Formas y Patrones",
+  "descripcion": "Datos estructurados para la renderización de gráficos complejos, basados en puntos X, Y y comandos de trazado.",
+  "sistema_coordenadas": "Cartesiano 2D (Origen en (0, 0))",
+  "patrones_dibujo": [
+    {
+      "nombre_patron": "Curva Bézier de Corazón",
+      "tipo_forma": "Curva Cerrada (Heart)",
+      "comandos_trazado": [
+        {"comando": "M", "x": 0, "y": 20, "nota": "MoveTo (Punto de inicio)"},
+        {"comando": "C", "x": 50, "y": 80, "x1": 25, "y1": 50, "x2": 50, "y2": 80, "nota": "Curva Bézier Cúbica (Punto de control 1, 2 y Destino)"},
+        {"comando": "C", "x": 100, "y": 20, "x1": 75, "y1": 80, "x2": 100, "y2": 50, "nota": "Segundo lado del lóbulo superior"},
+        {"comando": "L", "x": 50, "y": -50, "nota": "LineTo (Baja a la punta inferior)"},
+        {"comando": "L", "x": 0, "y": 20, "nota": "LineTo (Cierra la forma)"}
+      ],
+      "notas_comando": "M: Mover a; C: Curva Cúbica; L: Línea a"
+    },
+    {
+      "nombre_patron": "Espiral Logarítmica Discreta",
+      "tipo_forma": "Secuencia de Puntos Abierta",
+      "comandos_trazado": [
+        {"comando": "P", "x": 100, "y": 0, "radio": 100, "angulo": 0, "nota": "Punto 1"},
+        {"comando": "P", "x": 98, "y": 18, "radio": 98.2, "angulo": 10, "nota": "Punto 2"},
+        {"comando": "P", "x": 93, "y": 35, "radio": 94.6, "angulo": 20, "nota": "Punto 3"},
+        {"comando": "P", "x": 84, "y": 50, "radio": 89.2, "angulo": 30, "nota": "Punto 4"},
+        {"comando": "P", "x": 73, "y": 63, "radio": 83.3, "angulo": 40, "nota": "Punto 5"},
+        {"comando": "P", "x": 60, "y": 74, "radio": 77.2, "angulo": 50, "nota": "Punto 6"},
+        {"comando": "P", "x": 45, "y": 81, "radio": 71.3, "angulo": 60, "nota": "Punto 7"},
+        {"comando": "P", "x": 28, "y": 85, "radio": 65.8, "angulo": 70, "nota": "Punto 8"},
+        {"comando": "P", "x": 10, "y": 86, "radio": 60.8, "angulo": 80, "nota": "Punto 9"}
+      ],
+      "notas_comando": "P: Point (Se asume que el software dibuja líneas conectando estos puntos). Los valores X e Y se calculan mediante $r = a \cdot e^{b\theta}$."
+    },
+    {
+      "nombre_patron": "Polígono Regular (Hexágono)",
+      "tipo_forma": "Polígono Cerrado",
+      "comandos_trazado": [
+        {"comando": "M", "x": 100, "y": 0},
+        {"comando": "L", "x": 50, "y": 86.6},
+        {"comando": "L", "x": -50, "y": 86.6},
+        {"comando": "L", "x": -100, "y": 0},
+        {"comando": "L", "x": -50, "y": -86.6},
+        {"comando": "L", "x": 50, "y": -86.6},
+        {"comando": "Z", "x": 100, "y": 0, "nota": "Cierra el trazado"}
+      ],
+      "notas_comando": "Z: ClosePath (Cierra el trazado, uniéndose al punto inicial)."
+    }
+  ]
+}

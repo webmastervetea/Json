@@ -13,7 +13,8 @@ Este repositorio es una colección organizada de pequeñas archivos en formato .
  * [[9](https://github.com/webmastervetea/Json/blob/main/Geograf%C3%ADa/9%20oceanos.json)] Datos sobre oceanos (profundidad, ubicación).
 
 
-Soporte: https://www.linkedin.com/in/oscarlizarragag/
+
+
 
 
 

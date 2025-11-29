@@ -1,6 +1,6 @@
 # Json
 Este repositorio alberga una colección organizada de archivos JSON que cubren una amplia variedad de temáticas y conjuntos de datos.
-**[[Soporte]((https://www.linkedin.com/in/oscarlizarragag/)]**
+**[[Soporte](https://www.linkedin.com/in/oscarlizarragag/)]**
 
 ## ✨ Propósito
 El objetivo principal de este proyecto es servir como un recurso centralizado y de fácil acceso para:

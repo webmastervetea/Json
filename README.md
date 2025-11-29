@@ -1,5 +1,6 @@
 # Json
-Este repositorio alberga una colección organizada de archivos JSON que cubren una amplia variedad de temáticas y conjuntos de datos.
+Este repositorio alberga una colección organizada de archivos y categorias JSON que cubren una amplia variedad de temáticas y conjuntos de datos.
+ [[Categorías](https://github.com/webmastervetea/Json/blob/main/CATEGORIAS.md)]
  [[Soporte](https://www.linkedin.com/in/oscarlizarragag/)]
 
 ## ✨ Propósito

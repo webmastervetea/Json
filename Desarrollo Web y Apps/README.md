@@ -1,5 +1,6 @@
 # Json
 Este repositorio es una colección organizada de pequeñas archivos en formato .json que pueden ser utilizados por programadores en sus desarrollos.
+[[Soporte](https://www.linkedin.com/in/oscarlizarragag/)]
 
 ## Desarrollo Web y Apps
 * 1 Ajustes de entorno (producción, desarrollo), claves API.
@@ -14,4 +15,5 @@ Este repositorio es una colección organizada de pequeñas archivos en formato .
 * 10 Interruptores para activar o desactivar funciones (features) para usuarios.
 
 
-Soporte: https://www.linkedin.com/in/oscarlizarragag/
+
+

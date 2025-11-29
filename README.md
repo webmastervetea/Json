@@ -18,5 +18,5 @@ Simplemente **clona el repositorio** y navega a la carpeta de la temática que t
 ¡Las contribuciones son bienvenidas! Si tienes un conjunto de datos en JSON interesante y bien estructurado que encaje en alguna temática o abra una nueva, no dudes en abrir un *Pull Request*.
 
 
-Soporte: https://www.linkedin.com/in/oscarlizarragag/
+
 

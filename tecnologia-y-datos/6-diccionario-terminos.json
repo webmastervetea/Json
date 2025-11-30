@@ -1,0 +1,88 @@
+{
+  "glosario_terminos_tecnicos": [
+    {
+      "termino": "Algoritmo",
+      "definicion": "Conjunto finito y ordenado de instrucciones, pasos o reglas bien definidas que, una vez ejecutadas, permiten resolver un problema específico o realizar una tarea."
+    },
+    {
+      "termino": "API",
+      "definicion": "Interfaz de Programación de Aplicaciones (Application Programming Interface). Es un conjunto de reglas y protocolos que permite a diferentes aplicaciones de software comunicarse entre sí."
+    },
+    {
+      "termino": "Base de Datos (DB)",
+      "definicion": "Conjunto estructurado de datos que es gestionado por un Sistema de Gestión de Bases de Datos (DBMS) para su almacenamiento, recuperación y manipulación eficiente."
+    },
+    {
+      "termino": "Big Data",
+      "definicion": "Término que describe el gran volumen de datos, tanto estructurados como no estructurados, que son demasiado complejos para ser procesados por las técnicas tradicionales."
+    },
+    {
+      "termino": "Blockchain",
+      "definicion": "Registro digital descentralizado y distribuido que almacena datos en 'bloques' encadenados con criptografía, haciéndolos inmutables y transparentes."
+    },
+    {
+      "termino": "Cloud Computing",
+      "definicion": "Entrega de servicios informáticos (servidores, almacenamiento, bases de datos, redes, software, análisis) a través de Internet (la 'nube')."
+    },
+    {
+      "termino": "Compilador",
+      "definicion": "Programa que traduce el código fuente (escrito por un humano) de un lenguaje de programación a código máquina o código de bajo nivel ejecutable por una computadora."
+    },
+    {
+      "termino": "Debugging",
+      "definicion": "Proceso de identificar, analizar y eliminar errores ('bugs') en un software o sistema."
+    },
+    {
+      "termino": "Deploy (Despliegue)",
+      "definicion": "Proceso de mover o instalar una aplicación de software en un entorno de producción (servidor) para que los usuarios finales puedan acceder y usarla."
+    },
+    {
+      "termino": "Dominio",
+      "definicion": "Nombre único y legible que identifica un sitio web en Internet (ej. google.com), que se mapea a una dirección IP a través del DNS."
+    },
+    {
+      "termino": "Firewall (Cortafuegos)",
+      "definicion": "Sistema de seguridad de red que monitorea y controla el tráfico de red entrante y saliente basándose en reglas de seguridad preestablecidas."
+    },
+    {
+      "termino": "Framework",
+      "definicion": "Estructura de soporte o esqueleto de trabajo reutilizable que proporciona una base estandarizada para desarrollar aplicaciones o sistemas específicos (ej. React, Django)."
+    },
+    {
+      "termino": "Hash",
+      "definicion": "Función criptográfica que convierte una entrada de cualquier longitud en una cadena de caracteres alfanuméricos de longitud fija. Se utiliza para verificar la integridad de los datos."
+    },
+    {
+      "termino": "Interfaz de Usuario (UI)",
+      "definicion": "Medio por el cual un usuario interactúa con un programa o dispositivo (elementos visuales, menús, botones, etc.)."
+    },
+    {
+      "termino": "IoT",
+      "definicion": "Internet de las Cosas (Internet of Things). Red de objetos físicos ('cosas') que están incrustados con sensores, software y otras tecnologías para conectarse e intercambiar datos a través de Internet."
+    },
+    {
+      "termino": "Latencia",
+      "definicion": "Medida del tiempo que tarda un paquete de datos en viajar de un punto de una red a otro (el retraso). Se mide generalmente en milisegundos (ms)."
+    },
+    {
+      "termino": "Máquina Virtual (VM)",
+      "definicion": "Una emulación de un sistema informático. Permite ejecutar un sistema operativo y aplicaciones como si estuvieran en una computadora física separada, pero dentro de otra."
+    },
+    {
+      "termino": "Open Source",
+      "definicion": "Software cuyo código fuente está disponible públicamente para que cualquier persona pueda inspeccionarlo, modificarlo y mejorarlo."
+    },
+    {
+      "termino": "Protocolo",
+      "definicion": "Conjunto de reglas y directrices estandarizadas que define cómo los datos deben ser formateados, transmitidos y recibidos entre diferentes dispositivos o sistemas."
+    },
+    {
+      "termino": "Servidor",
+      "definicion": "Programa o dispositivo que proporciona funcionalidad (datos, recursos, servicios) a otros programas o dispositivos (clientes) a través de una red."
+    },
+    {
+      "termino": "Token",
+      "definicion": "En seguridad, es una pequeña pieza de datos utilizada para la autenticación y autorización. Un 'token de acceso' permite a un usuario demostrar su identidad a un servicio."
+    }
+  ]
+}

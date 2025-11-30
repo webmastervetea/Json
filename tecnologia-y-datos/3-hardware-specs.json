@@ -1,0 +1,103 @@
+{
+  "especificaciones_de_componentes_de_computadora": {
+    "cpu": {
+      "nombre_componente": "Unidad Central de Procesamiento (CPU)",
+      "especificaciones_clave": [
+        {
+          "metrica": "Modelo",
+          "ejemplo_dato": "Intel Core i7-14700K"
+        },
+        {
+          "metrica": "Núcleos (Cores)",
+          "ejemplo_dato": "20 (8 de rendimiento + 12 de eficiencia)"
+        },
+        {
+          "metrica": "Hilos (Threads)",
+          "ejemplo_dato": "28"
+        },
+        {
+          "metrica": "Frecuencia Base (Base Clock)",
+          "ejemplo_dato": "3.4 GHz"
+        },
+        {
+          "metrica": "Frecuencia Máxima (Boost Clock)",
+          "ejemplo_dato": "5.5 GHz"
+        },
+        {
+          "metrica": "Caché L3",
+          "ejemplo_dato": "33 MB"
+        },
+        {
+          "metrica": "Socket",
+          "ejemplo_dato": "LGA 1700"
+        },
+        {
+          "metrica": "TDP (Potencia Térmica de Diseño)",
+          "ejemplo_dato": "125W"
+        }
+      ]
+    },
+    "gpu": {
+      "nombre_componente": "Unidad de Procesamiento Gráfico (GPU)",
+      "especificaciones_clave": [
+        {
+          "metrica": "Modelo",
+          "ejemplo_dato": "NVIDIA GeForce RTX 4070 Ti SUPER"
+        },
+        {
+          "metrica": "Núcleos CUDA / Stream Processors",
+          "ejemplo_dato": "8448 CUDA Cores"
+        },
+        {
+          "metrica": "Memoria VRAM",
+          "ejemplo_dato": "16 GB GDDR6X"
+        },
+        {
+          "metrica": "Velocidad del Reloj (Boost Clock)",
+          "ejemplo_dato": "2.61 GHz"
+        },
+        {
+          "metrica": "Ancho de Banda de Memoria",
+          "ejemplo_dato": "672 GB/s"
+        },
+        {
+          "metrica": "Interfaz",
+          "ejemplo_dato": "PCIe 4.0 x16"
+        },
+        {
+          "metrica": "TDP (Consumo de Potencia)",
+          "ejemplo_dato": "285W"
+        }
+      ]
+    },
+    "ram": {
+      "nombre_componente": "Memoria de Acceso Aleatorio (RAM)",
+      "especificaciones_clave": [
+        {
+          "metrica": "Capacidad Total",
+          "ejemplo_dato": "32 GB"
+        },
+        {
+          "metrica": "Tipo (Generación)",
+          "ejemplo_dato": "DDR5"
+        },
+        {
+          "metrica": "Frecuencia / Velocidad",
+          "ejemplo_dato": "6000 MHz"
+        },
+        {
+          "metrica": "Latencia (Timings)",
+          "ejemplo_dato": "CL30 (ej. 30-38-38-96)"
+        },
+        {
+          "metrica": "Configuración",
+          "ejemplo_dato": "2 x 16 GB (Dual Channel)"
+        },
+        {
+          "metrica": "Voltaje",
+          "ejemplo_dato": "1.35 V"
+        }
+      ]
+    }
+  }
+}

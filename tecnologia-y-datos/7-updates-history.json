@@ -1,0 +1,84 @@
+{
+  "software_changelog": {
+    "nombre_software": "Sistema de Gestión de Proyectos 'Horizonte'",
+    "repositorio": "https://github.com/horizonte_dev/project-manager",
+    "historial_versiones": [
+      {
+        "version": "3.0.0",
+        "fecha": "2025-11-20",
+        "tipo_cambio": "Mayor",
+        "cambios": {
+          "añadido": [
+            "Implementación del módulo de Inteligencia Artificial para estimación de tareas (beta).",
+            "Soporte oficial para la base de datos PostgreSQL."
+          ],
+          "cambiado": [
+            "Refactorización completa de la API REST para utilizar GraphQL.",
+            "Actualización del frontend a React v19."
+          ],
+          "corregido": [
+            "N/A"
+          ],
+          "eliminado": [
+            "Soporte para bases de datos NoSQL (MongoDB).",
+            "La ruta '/v1/tasks/legacy' de la antigua API."
+          ]
+        }
+      },
+      {
+        "version": "2.4.1",
+        "fecha": "2025-10-15",
+        "tipo_cambio": "Parche",
+        "cambios": {
+          "añadido": [],
+          "cambiado": [
+            "N/A"
+          ],
+          "corregido": [
+            "Solucionado un error crítico de inyección SQL en el formulario de login.",
+            "Corregido un fallo de visualización en la tabla de asignación de recursos en navegadores Firefox."
+          ],
+          "eliminado": []
+        }
+      },
+      {
+        "version": "2.4.0",
+        "fecha": "2025-09-28",
+        "tipo_cambio": "Menor",
+        "cambios": {
+          "añadido": [
+            "Nueva funcionalidad de exportación de informes a formato PDF.",
+            "Integración con el servicio de mensajería Slack para notificaciones."
+          ],
+          "cambiado": [
+            "Mejorado el rendimiento de carga del dashboard principal en un 30%."
+          ],
+          "corregido": [
+            "Corregido un desbordamiento de buffer al procesar archivos adjuntos grandes."
+          ],
+          "eliminado": []
+        }
+      },
+      {
+        "version": "1.0.0",
+        "fecha": "2024-05-01",
+        "tipo_cambio": "Inicial",
+        "cambios": {
+          "añadido": [
+            "Lanzamiento inicial del Sistema de Gestión de Proyectos 'Horizonte'.",
+            "Módulos iniciales de Tareas, Usuarios y Calendario."
+          ],
+          "cambiado": [
+            "N/A"
+          ],
+          "corregido": [
+            "N/A"
+          ],
+          "eliminado": [
+            "N/A"
+          ]
+        }
+      }
+    ]
+  }
+}

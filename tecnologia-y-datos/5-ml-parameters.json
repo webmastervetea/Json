@@ -1,0 +1,100 @@
+{
+  "hiperparametros_fundamentales_ml": {
+    "redes_neuronales_deep_learning": [
+      {
+        "nombre": "Tasa de Aprendizaje (Learning Rate)",
+        "descripcion": "Determina el tamaño del paso en cada iteración al moverse hacia un mínimo de una función de pérdida. Valor típico: 0.001 a 0.1.",
+        "algoritmos": "Todos los basados en Descenso de Gradiente (SGD, Adam, RMSProp)."
+      },
+      {
+        "nombre": "Número de Épocas (Epochs)",
+        "descripcion": "Número de veces que el algoritmo completo de entrenamiento recorrerá todo el conjunto de datos.",
+        "algoritmos": "Redes Neuronales, Lógica de Regresión."
+      },
+      {
+        "nombre": "Tamaño del Lote (Batch Size)",
+        "descripcion": "Número de muestras de entrenamiento procesadas en cada iteración antes de actualizar los parámetros internos del modelo.",
+        "algoritmos": "Redes Neuronales, SGD."
+      },
+      {
+        "nombre": "Función de Activación",
+        "descripcion": "Función que se aplica a la salida de cada neurona (ej. ReLU, Sigmoid, Tanh).",
+        "algoritmos": "Redes Neuronales, Deep Learning."
+      },
+      {
+        "nombre": "Optimizador",
+        "descripcion": "Algoritmo utilizado para minimizar la función de pérdida (ej. Adam, SGD, RMSProp).",
+        "algoritmos": "Redes Neuronales, Lógica de Regresión."
+      },
+      {
+        "nombre": "Regularización (L1/L2)",
+        "descripcion": "Términos añadidos a la función de pérdida para penalizar modelos complejos y prevenir el sobreajuste (overfitting).",
+        "algoritmos": "Redes Neuronales, Lógica de Regresión."
+      },
+      {
+        "nombre": "Número de Capas Ocultas",
+        "descripcion": "Profundidad de la red (específico de Deep Learning).",
+        "algoritmos": "Redes Neuronales."
+      },
+      {
+        "nombre": "Número de Unidades por Capa",
+        "descripcion": "Anchura de las capas ocultas (número de neuronas).",
+        "algoritmos": "Redes Neuronales."
+      },
+      {
+        "nombre": "Dropout Rate",
+        "descripcion": "Porcentaje de neuronas desactivadas aleatoriamente durante el entrenamiento para evitar el sobreajuste.",
+        "algoritmos": "Redes Neuronales."
+      }
+    ],
+    "modelos_basados_en_arboles": [
+      {
+        "nombre": "Máxima Profundidad (Max Depth)",
+        "descripcion": "La longitud máxima de la rama más larga del árbol, limitando la complejidad del modelo.",
+        "algoritmos": "Árboles de Decisión, Random Forest, Gradient Boosting."
+      },
+      {
+        "nombre": "Mínimo de Muestras para Dividir (Min Samples Split)",
+        "descripcion": "Número mínimo de muestras requeridas para poder dividir un nodo interno.",
+        "algoritmos": "Árboles de Decisión, Random Forest."
+      },
+      {
+        "nombre": "Mínimo de Muestras en Hoja (Min Samples Leaf)",
+        "descripcion": "Número mínimo de muestras que debe tener un nodo hoja después de la división.",
+        "algoritmos": "Árboles de Decisión, Random Forest."
+      },
+      {
+        "nombre": "Criterio de División (Criterion)",
+        "descripcion": "La función para medir la calidad de una división (ej. Gini, Entropía para clasificación; MSE para regresión).",
+        "algoritmos": "Árboles de Decisión, Random Forest."
+      },
+      {
+        "nombre": "Número de Estimadores (N_estimators)",
+        "descripcion": "Número de árboles individuales que se construirán en el ensemble (ej. en Random Forest o XGBoost).",
+        "algoritmos": "Random Forest, Gradient Boosting (XGBoost, LightGBM)."
+      },
+      {
+        "nombre": "Submuestreo de Columnas (Colsample_bytree)",
+        "descripcion": "La fracción de características (columnas) a muestrear aleatoriamente para construir cada árbol (previene el sobreajuste).",
+        "algoritmos": "Random Forest, Gradient Boosting."
+      }
+    ],
+    "maquinas_de_vector_soporte_svm": [
+      {
+        "nombre": "Kernel",
+        "descripcion": "Define el tipo de transformación aplicada a los datos (ej. Lineal, Polinomial, RBF).",
+        "algoritmos": "SVM."
+      },
+      {
+        "nombre": "Parámetro de Regularización C",
+        "descripcion": "Penaliza los errores del modelo. Un C pequeño fomenta márgenes más amplios (más errores); un C grande, márgenes más estrechos (menos errores).",
+        "algoritmos": "SVM, Lógica de Regresión."
+      },
+      {
+        "nombre": "Gamma",
+        "descripcion": "Coeficiente del kernel RBF. Define la influencia de un solo ejemplo de entrenamiento; valores bajos significan influencia lejana.",
+        "algoritmos": "SVM (con kernel RBF)."
+      }
+    ]
+  }
+}

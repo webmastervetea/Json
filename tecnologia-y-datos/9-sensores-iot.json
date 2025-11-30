@@ -1,0 +1,51 @@
+{
+  "datos_capturados_iot": [
+    {
+      "dispositivo_id": "SN-TEMP-001A",
+      "tipo_sensor": "Ambiental",
+      "timestamp": "2025-11-28T10:00:00Z",
+      "lecturas": {
+        "temperatura_celsius": 25.4,
+        "humedad_relativa_porcentaje": 65.2,
+        "presion_hpa": 1012.5,
+        "calidad_aire_ppm": 450
+      },
+      "ubicacion": "Almacén Central"
+    },
+    {
+      "dispositivo_id": "SN-ENRG-005B",
+      "tipo_sensor": "Energético",
+      "timestamp": "2025-11-28T10:00:15Z",
+      "lecturas": {
+        "voltaje_v": 220.5,
+        "corriente_a": 15.3,
+        "consumo_kw": 3.366,
+        "frecuencia_hz": 50.0
+      },
+      "ubicacion": "Panel Eléctrico Principal"
+    },
+    {
+      "dispositivo_id": "SN-POS-012C",
+      "tipo_sensor": "Geolocalización",
+      "timestamp": "2025-11-28T10:00:30Z",
+      "lecturas": {
+        "latitud": 40.7128,
+        "longitud": -74.0060,
+        "velocidad_kmh": 0.0,
+        "satelites_activos": 12
+      },
+      "ubicacion": "Activo Móvil #12"
+    },
+    {
+      "dispositivo_id": "SN-BIN-008D",
+      "tipo_sensor": "Estado/Binario",
+      "timestamp": "2025-11-28T10:00:45Z",
+      "lecturas": {
+        "estado_puerta": "Abierta",
+        "nivel_bateria_porcentaje": 98,
+        "deteccion_movimiento": true
+      },
+      "ubicacion": "Entrada de Seguridad"
+    }
+  ]
+}

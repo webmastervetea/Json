@@ -1,0 +1,34 @@
+{
+  "registro_de_fallos_del_sistema": [
+    {
+      "timestamp": "2025-11-28T09:15:30Z",
+      "codigo_error": "500-DB-CONN",
+      "mensaje": "Fallo al intentar conectar con la base de datos principal. Tiempo de espera agotado (Timeout)."
+    },
+    {
+      "timestamp": "2025-11-28T09:20:12Z",
+      "codigo_error": "401-AUTH-FAIL",
+      "mensaje": "Intento de acceso no autorizado al recurso '/api/v2/admin'. Credenciales inválidas."
+    },
+    {
+      "timestamp": "2025-11-28T10:45:01Z",
+      "codigo_error": "404-RESOURCE-NF",
+      "mensaje": "El recurso solicitado '/assets/profile_picture_user_45' no pudo ser encontrado en el servidor."
+    },
+    {
+      "timestamp": "2025-11-28T11:05:55Z",
+      "codigo_error": "503-RATE-LIMIT",
+      "mensaje": "El servicio de procesamiento de pagos excedió el límite de peticiones por minuto. Servicio temporalmente no disponible."
+    },
+    {
+      "timestamp": "2025-11-28T11:20:40Z",
+      "codigo_error": "500-MEM-OOM",
+      "mensaje": "El proceso del servidor crítico finalizó debido a un error de 'Out of Memory' (OOM)."
+    },
+    {
+      "timestamp": "2025-11-28T11:21:59Z",
+      "codigo_error": "400-INVALID-INPUT",
+      "mensaje": "Datos de entrada inválidos para el campo 'email'. No cumple con el formato requerido."
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "definicion_estructura_y_tipos_datos_bd": {
+    "estructura_base_relacional": [
+      {
+        "elemento": "Base de Datos (Database)",
+        "descripcion": "Contenedor de todos los objetos de la BD.",
+        "ejemplo_dato_esperado": "N/A"
+      },
+      {
+        "elemento": "Esquema (Schema)",
+        "descripcion": "Una colección lógica de objetos de la base de datos (tablas, vistas, procedimientos) pertenecientes a una entidad o usuario.",
+        "ejemplo_dato_esperado": "N/A"
+      },
+      {
+        "elemento": "Tabla (Table)",
+        "descripcion": "Estructura principal donde se almacenan los datos de forma organizada en filas y columnas.",
+        "ejemplo_dato_esperado": "Lista de Clientes, Productos, Pedidos."
+      },
+      {
+        "elemento": "Columna (Column / Field)",
+        "descripcion": "Representa un atributo específico del objeto almacenado en la tabla (ej. nombre, edad, precio). Define el tipo de dato que se almacena.",
+        "ejemplo_dato_esperado": "Texto, Número Entero, Fecha."
+      },
+      {
+        "elemento": "Fila (Row / Record / Tuple)",
+        "descripcion": "Una única entrada o registro dentro de una tabla. Contiene valores para cada una de las columnas.",
+        "ejemplo_dato_esperado": "{id: 1, nombre: 'Ana', edad: 25}"
+      },
+      {
+        "elemento": "Clave Primaria (Primary Key - PK)",
+        "descripcion": "Columna o conjunto de columnas que identifica de forma única cada fila en una tabla.",
+        "ejemplo_dato_esperado": "ID de cliente único."
+      },
+      {
+        "elemento": "Clave Foránea (Foreign Key - FK)",
+        "descripcion": "Columna en una tabla que apunta a la Clave Primaria de otra tabla, estableciendo la relación entre ellas.",
+        "ejemplo_dato_esperado": "ID de cliente en la tabla de Pedidos."
+      },
+      {
+        "elemento": "Índice (Index)",
+        "descripcion": "Estructura de datos especial que mejora la velocidad de las operaciones de recuperación de datos en las tablas.",
+        "ejemplo_dato_esperado": "Índice por el apellido del cliente."
+      }
+    ],
+    "tipos_datos_fundamentales": {
+      "numericos": [
+        "ENTERO (INTEGER / INT): Números enteros sin decimales.",
+        "PEQUEÑO ENTERO (SMALLINT): Enteros con un rango más pequeño.",
+        "FLOTANTE (FLOAT / REAL): Números con precisión simple o doble (decimales).",
+        "DECIMAL (DECIMAL / NUMERIC): Números decimales de precisión exacta (usado para dinero y cálculos críticos).",
+        "GRAN ENTERO (BIGINT): Enteros con un rango muy grande."
+      ],
+      "cadenas_y_texto": [
+        "VARCHAR / CHARACTER VARYING: Cadena de longitud variable (tamaño máximo especificado).",
+        "CHAR / CHARACTER: Cadena de longitud fija (rellena con espacios).",
+        "TEXT / LOB (Large Object): Para grandes bloques de texto (ej. contenido de un artículo de blog).",
+        "BLOB (Binary Large Object): Para datos binarios (ej. imágenes, archivos)."
+      ],
+      "fecha_y_hora": [
+        "DATE: Solo la fecha (Año, Mes, Día).",
+        "TIME: Solo la hora (Hora, Minuto, Segundo).",
+        "DATETIME / TIMESTAMP: Fecha y hora combinadas. TIMESTAMP a menudo incluye información de zona horaria.",
+        "YEAR: Solo el año."
+      ],
+      "booleanos": [
+        "BOOLEAN / BOOL: Almacena valores de verdad (True/False, 1/0)."
+      ],
+      "estructurados_y_especiales": [
+        "JSON / JSONB: Para almacenar datos estructurados en formato JSON (común en PostgreSQL/MySQL).",
+        "ENUM: Un tipo de datos que permite a una columna tener uno de un conjunto predefinido de valores.",
+        "UUID (Universally Unique Identifier): Identificador único de 128 bits.",
+        "GEOMETRY / GEOGRAPHY: Para almacenar datos geoespaciales (puntos, líneas, polígonos)."
+      ]
+    }
+  }
+}

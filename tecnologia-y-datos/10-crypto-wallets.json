@@ -1,0 +1,52 @@
+{
+  "registros_ejemplo_monederos_criptomonedas": [
+    {
+      "moneda": "Bitcoin (BTC)",
+      "red": "Bitcoin Mainnet",
+      "formato_direccion": "P2PKH (Legacy)",
+      "ejemplo_direccion": "1BvBMSEYstWetqTFn5Au4m4GFg7xJaNVN2",
+      "longitud_caracteres": 34,
+      "descripcion": "Dirección antigua, comienza con '1'."
+    },
+    {
+      "moneda": "Bitcoin (BTC)",
+      "red": "Bitcoin Mainnet",
+      "formato_direccion": "SegWit (bech32)",
+      "ejemplo_direccion": "bc1qar0srrr7xfkvy5l643lydnw9re59gtzzwf5mdq",
+      "longitud_caracteres": 42,
+      "descripcion": "Dirección moderna, comienza con 'bc1', totalmente en minúsculas."
+    },
+    {
+      "moneda": "Ethereum (ETH)",
+      "red": "Ethereum Mainnet / ERC-20",
+      "formato_direccion": "Hexadecimal",
+      "ejemplo_direccion": "0x742d35Cc6634C0532925a3b844Bc454e4438f44e",
+      "longitud_caracteres": 42,
+      "descripcion": "Estándar de Ethereum y la mayoría de tokens ERC-20, comienza con '0x'."
+    },
+    {
+      "moneda": "Solana (SOL)",
+      "red": "Solana Mainnet",
+      "formato_direccion": "Base58",
+      "ejemplo_direccion": "2qK97zG9L9F5tWdYf8g52Fj5fK7f6t4x2L8M3J6J5H4J",
+      "longitud_caracteres": 44,
+      "descripcion": "Dirección única para la red Solana."
+    },
+    {
+      "moneda": "Litecoin (LTC)",
+      "red": "Litecoin Mainnet",
+      "formato_direccion": "P2SH (Script Hash)",
+      "ejemplo_direccion": "M9cQ4d6C2ZgL7F9b2d3m5h4j6k8l7n9r8t7v6w5x4y3z2",
+      "longitud_caracteres": 34,
+      "descripcion": "Dirección que comienza típicamente con 'M' o '3'."
+    },
+    {
+      "moneda": "Ripple (XRP)",
+      "red": "XRP Ledger",
+      "formato_direccion": "Base58",
+      "ejemplo_direccion": "rHb9CJAWyB4rjZaxB9LmiEw5XViqVVPJ2NE",
+      "longitud_caracteres": 34,
+      "descripcion": "Dirección que comienza con 'r'."
+    }
+  ]
+}

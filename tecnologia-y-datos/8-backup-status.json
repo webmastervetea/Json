@@ -1,0 +1,48 @@
+{
+  "informe_estado_copias_de_seguridad": [
+    {
+      "id_backup": "BKP-SQL-20251128-01",
+      "sistema_afectado": "Base de Datos de Producción (SQL01)",
+      "tipo_backup": "Completo (Full)",
+      "fecha_inicio": "2025-11-28T02:00:00Z",
+      "fecha_fin": "2025-11-28T02:45:15Z",
+      "duracion_segundos": 2715,
+      "estado": "Éxito",
+      "tamaño_gb": 450.5,
+      "mensaje_detalle": "Copia de seguridad completa finalizada sin errores. Verificación de integridad OK."
+    },
+    {
+      "id_backup": "BKP-FILE-20251128-02",
+      "sistema_afectado": "Servidor de Archivos Compartidos (FS03)",
+      "tipo_backup": "Diferencial",
+      "fecha_inicio": "2025-11-28T03:00:00Z",
+      "fecha_fin": "2025-11-28T03:10:30Z",
+      "duracion_segundos": 630,
+      "estado": "Advertencia",
+      "tamaño_gb": 12.8,
+      "mensaje_detalle": "Copia de seguridad finalizada. Se omitieron 3 archivos debido a permisos de acceso restringido."
+    },
+    {
+      "id_backup": "BKP-MAIL-20251128-03",
+      "sistema_afectado": "Servidor de Correo (Exchange)",
+      "tipo_backup": "Incremental",
+      "fecha_inicio": "2025-11-28T03:30:00Z",
+      "fecha_fin": "2025-11-28T03:35:45Z",
+      "duracion_segundos": 345,
+      "estado": "Fallo",
+      "tamaño_gb": 0.0,
+      "mensaje_detalle": "Fallo de conexión con el agente del servidor de correo. Error: 502 - Agente inactivo. Reintento programado a las 04:30Z."
+    },
+    {
+      "id_backup": "BKP-CLOUD-20251127-04",
+      "sistema_afectado": "Almacenamiento en la Nube (AWS S3)",
+      "tipo_backup": "Snapshot",
+      "fecha_inicio": "2025-11-27T23:00:00Z",
+      "fecha_fin": "2025-11-27T23:00:05Z",
+      "duracion_segundos": 5,
+      "estado": "Éxito",
+      "tamaño_gb": 3500.0,
+      "mensaje_detalle": "Snapshot del volumen de almacenamiento creado y replicado en zona secundaria."
+    }
+  ]
+}

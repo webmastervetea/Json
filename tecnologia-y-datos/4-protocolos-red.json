@@ -1,0 +1,130 @@
+{
+  "protocolos_de_red_y_puertos_comunes": [
+    {
+      "protocolo": "HTTP",
+      "nombre_completo": "Hypertext Transfer Protocol",
+      "descripcion": "Protocolo para la transferencia de documentos hipermedia (web).",
+      "puerto_estandar": 80,
+      "capa_osi": "Aplicación"
+    },
+    {
+      "protocolo": "HTTPS",
+      "nombre_completo": "Hypertext Transfer Protocol Secure",
+      "descripcion": "Versión segura de HTTP que utiliza SSL/TLS para cifrado.",
+      "puerto_estandar": 443,
+      "capa_osi": "Aplicación"
+    },
+    {
+      "protocolo": "FTP",
+      "nombre_completo": "File Transfer Protocol",
+      "descripcion": "Protocolo para la transferencia de archivos entre un cliente y un servidor.",
+      "puerto_estandar": "20 (Datos) y 21 (Control)",
+      "capa_osi": "Aplicación"
+    },
+    {
+      "protocolo": "SSH",
+      "nombre_completo": "Secure Shell Protocol",
+      "descripcion": "Protocolo para acceder y administrar servidores de forma segura a través de una línea de comandos cifrada.",
+      "puerto_estandar": 22,
+      "capa_osi": "Aplicación"
+    },
+    {
+      "protocolo": "Telnet",
+      "nombre_completo": "Telecommunication Network",
+      "descripcion": "Protocolo para la comunicación de terminales a distancia. (No seguro, obsoleto).",
+      "puerto_estandar": 23,
+      "capa_osi": "Aplicación"
+    },
+    {
+      "protocolo": "SMTP",
+      "nombre_completo": "Simple Mail Transfer Protocol",
+      "descripcion": "Protocolo para el envío (outgoing) de correo electrónico.",
+      "puerto_estandar": "25, 587 (Envío seguro)",
+      "capa_osi": "Aplicación"
+    },
+    {
+      "protocolo": "POP3",
+      "nombre_completo": "Post Office Protocol version 3",
+      "descripcion": "Protocolo para la recepción de correo electrónico (descarga del servidor).",
+      "puerto_estandar": 110,
+      "capa_osi": "Aplicación"
+    },
+    {
+      "protocolo": "IMAP",
+      "nombre_completo": "Internet Message Access Protocol",
+      "descripcion": "Protocolo para la gestión y recepción de correo electrónico (mantiene los mensajes en el servidor).",
+      "puerto_estandar": 143,
+      "capa_osi": "Aplicación"
+    },
+    {
+      "protocolo": "DNS",
+      "nombre_completo": "Domain Name System",
+      "descripcion": "Traduce nombres de dominio legibles (ej. google.com) a direcciones IP.",
+      "puerto_estandar": 53,
+      "capa_osi": "Aplicación"
+    },
+    {
+      "protocolo": "RDP",
+      "nombre_completo": "Remote Desktop Protocol",
+      "descripcion": "Permite a un usuario controlar remotamente otra computadora a través de una conexión de red.",
+      "puerto_estandar": 3389,
+      "capa_osi": "Aplicación"
+    },
+    {
+      "protocolo": "DHCP",
+      "nombre_completo": "Dynamic Host Configuration Protocol",
+      "descripcion": "Asigna automáticamente direcciones IP y otros parámetros de red a los dispositivos.",
+      "puerto_estandar": 67 (Servidor) y 68 (Cliente),
+      "capa_osi": "Aplicación"
+    },
+    {
+      "protocolo": "NTP",
+      "nombre_completo": "Network Time Protocol",
+      "descripcion": "Sincroniza los relojes de los sistemas informáticos a través de redes de datos.",
+      "puerto_estandar": 123,
+      "capa_osi": "Aplicación"
+    },
+    {
+      "protocolo": "SNMP",
+      "nombre_completo": "Simple Network Management Protocol",
+      "descripcion": "Se utiliza para gestionar y monitorear dispositivos de red.",
+      "puerto_estandar": 161 (Agente) y 162 (Trampas),
+      "capa_osi": "Aplicación"
+    },
+    {
+      "protocolo": "LDAP",
+      "nombre_completo": "Lightweight Directory Access Protocol",
+      "descripcion": "Protocolo para acceder y mantener servicios de información de directorio distribuido (ej. Active Directory).",
+      "puerto_estandar": 389,
+      "capa_osi": "Aplicación"
+    },
+    {
+      "protocolo": "TCP",
+      "nombre_completo": "Transmission Control Protocol",
+      "descripcion": "Proporciona transmisión de datos confiable, ordenada y con comprobación de errores (orientado a la conexión).",
+      "puerto_estandar": "N/A (Utiliza puertos de aplicación)",
+      "capa_osi": "Transporte"
+    },
+    {
+      "protocolo": "UDP",
+      "nombre_completo": "User Datagram Protocol",
+      "descripcion": "Protocolo de datagramas simple, rápido y sin conexión (no garantiza la entrega).",
+      "puerto_estandar": "N/A (Utiliza puertos de aplicación)",
+      "capa_osi": "Transporte"
+    },
+    {
+      "protocolo": "ICMP",
+      "nombre_completo": "Internet Control Message Protocol",
+      "descripcion": "Utilizado por dispositivos de red para enviar mensajes de error y operacionales (ej. comando Ping).",
+      "puerto_estandar": "N/A (No utiliza puertos)",
+      "capa_osi": "Red"
+    },
+    {
+      "protocolo": "IP",
+      "nombre_completo": "Internet Protocol (IPv4/IPv6)",
+      "descripcion": "Protocolo principal que direcciona y enruta paquetes de datos a través de una red.",
+      "puerto_estandar": "N/A (No utiliza puertos)",
+      "capa_osi": "Red"
+    }
+  ]
+}

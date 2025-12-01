@@ -1,0 +1,111 @@
+{
+  "titulo": "Colecciones de Códigos de Colores (Paletas de Diseño)",
+  "formato_principal": "HEX",
+  "descripcion_paletas": "Paletas de colores predefinidas para uso en diseño web, UI/UX y gráfico.",
+  "paletas": [
+    {
+      "nombre_coleccion": "Material Design Primario",
+      "tema": "UI/UX, Marcas Corporativas",
+      "colores": [
+        {
+          "nombre": "Rojo Primario",
+          "hex": "#F44336",
+          "rgb": "rgb(244, 67, 54)"
+        },
+        {
+          "nombre": "Índigo Profundo",
+          "hex": "#3F51B5",
+          "rgb": "rgb(63, 81, 181)"
+        },
+        {
+          "nombre": "Verde Cian",
+          "hex": "#009688",
+          "rgb": "rgb(0, 150, 136)"
+        },
+        {
+          "nombre": "Ámbar",
+          "hex": "#FFC107",
+          "rgb": "rgb(255, 193, 7)"
+        }
+      ]
+    },
+    {
+      "nombre_coleccion": "Tierra y Naturaleza",
+      "tema": "Ambientación, Ecoturismo, Orgánico",
+      "colores": [
+        {
+          "nombre": "Verde Bosque",
+          "hex": "#224A33",
+          "rgb": "rgb(34, 74, 51)"
+        },
+        {
+          "nombre": "Marrón Arena",
+          "hex": "#B7A870",
+          "rgb": "rgb(183, 168, 112)"
+        },
+        {
+          "nombre": "Azul Cielo Suave",
+          "hex": "#A2C4D8",
+          "rgb": "rgb(162, 196, 216)"
+        },
+        {
+          "nombre": "Rojo Arcilla",
+          "hex": "#995B4C",
+          "rgb": "rgb(153, 91, 76)"
+        }
+      ]
+    },
+    {
+      "nombre_coleccion": "Colores Pastel Vivos",
+      "tema": "Diseño Infantil, Dulces, Verano",
+      "colores": [
+        {
+          "nombre": "Rosa Chicle",
+          "hex": "#FFB3C0",
+          "rgb": "rgb(255, 179, 192)"
+        },
+        {
+          "nombre": "Amarillo Menta",
+          "hex": "#E0FFC4",
+          "rgb": "rgb(224, 255, 196)"
+        },
+        {
+          "nombre": "Lavanda",
+          "hex": "#D1C4E9",
+          "rgb": "rgb(209, 196, 233)"
+        },
+        {
+          "nombre": "Azul Celeste",
+          "hex": "#B3E5FC",
+          "rgb": "rgb(179, 229, 252)"
+        }
+      ]
+    },
+    {
+      "nombre_coleccion": "Gama de Grises Técnicos",
+      "tema": "Interfaces Oscuras (Dark Mode), Ingeniería",
+      "colores": [
+        {
+          "nombre": "Negro Carbon",
+          "hex": "#1A1A1A",
+          "rgb": "rgb(26, 26, 26)"
+        },
+        {
+          "nombre": "Gris Oscuro Base",
+          "hex": "#303030",
+          "rgb": "rgb(48, 48, 48)"
+        },
+        {
+          "nombre": "Gris de Texto",
+          "hex": "#BDBDBD",
+          "rgb": "rgb(189, 189, 189)"
+        },
+        {
+          "nombre": "Blanco Puro",
+          "hex": "#FFFFFF",
+          "rgb": "rgb(255, 255, 255)"
+        }
+      ]
+    }
+  ]
+}

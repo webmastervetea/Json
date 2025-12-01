@@ -1,0 +1,161 @@
+/* Variables CSS */
+:root {
+    --primary-color: #388E3C; /* Verde Oscuro (Educativo/Natural) */
+    --secondary-color: #9CCC65; /* Verde Lima Suave (Acento) */
+    --background-color: #f8fcf8;
+    --card-background: #ffffff;
+    --text-color: #212121;
+    --text-light: #757575;
+    --shadow-light: rgba(0, 0, 0, 0.1);
+}
+
+/* Reset y Base */
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    background-color: var(--background-color);
+    color: var(--text-color);
+    line-height: 1.6;
+}
+
+/* Encabezado Principal */
+.main-header {
+    background-color: var(--primary-color);
+    color: white;
+    padding: 60px 20px;
+    text-align: center;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+}
+
+.main-header h1 {
+    font-size: 2.8em;
+    margin-bottom: 10px;
+}
+
+.main-header p {
+    font-size: 1.2em;
+    opacity: 0.9;
+}
+
+/* Contenedor Principal */
+.container {
+    max-width: 1200px;
+    margin: 40px auto;
+    padding: 0 20px;
+}
+
+/* SECCIÓN DE FAMILIAS (GRID) */
+.families-grid {
+    display: grid;
+    /* 3 columnas en escritorio, adaptable */
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); 
+    gap: 30px;
+}
+
+/* Tarjeta de Familia */
+.family-card {
+    background-color: var(--card-background);
+    border: 1px solid #e0e0e0;
+    border-radius: 8px;
+    box-shadow: 0 4px 12px var(--shadow-light);
+    padding: 25px;
+    display: flex;
+    flex-direction: column;
+    transition: transform 0.3s ease;
+}
+
+.family-card:hover {
+    transform: translateY(-5px);
+}
+
+.family-card h2 {
+    font-size: 1.8em;
+    color: var(--primary-color);
+    margin-bottom: 10px;
+    border-bottom: 2px solid var(--secondary-color);
+    padding-bottom: 5px;
+}
+
+.family-card > p {
+    font-size: 0.95em;
+    color: var(--text-light);
+    margin-bottom: 20px;
+    font-style: italic;
+}
+
+/* Subcategorías */
+.subcategories-list {
+    margin-top: 15px;
+    padding-top: 10px;
+    border-top: 1px dashed #eee;
+}
+
+.subcategories-list h3 {
+    font-size: 1.2em;
+    color: var(--text-color);
+    margin-bottom: 10px;
+}
+
+.subcategories-list > div {
+    margin-bottom: 15px;
+}
+
+.subcategories-list strong {
+    display: block;
+    margin-bottom: 5px;
+    color: #00897B; /* Un color de acento para el tipo */
+    font-weight: 600;
+}
+
+.instrument-tags {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+}
+
+.instrument-tags li {
+    background-color: var(--secondary-color);
+    color: var(--text-color);
+    padding: 5px 10px;
+    border-radius: 4px;
+    font-size: 0.85em;
+}
+
+/* Pie de Página */
+.main-footer {
+    text-align: center;
+    padding: 20px;
+    margin-top: 50px;
+    font-size: 0.9em;
+    color: var(--text-light);
+    border-top: 1px solid #ddd;
+    background-color: #eeeeee;
+}
+
+.main-footer a {
+    color: var(--primary-color);
+    text-decoration: none;
+    font-weight: 600;
+}
+
+.main-footer a:hover {
+    text-decoration: underline;
+}
+
+/* Responsividad */
+@media (max-width: 600px) {
+    .main-header h1 {
+        font-size: 2em;
+    }
+    .families-grid {
+        /* Una sola columna en móvil */
+        grid-template-columns: 1fr;
+    }
+}

@@ -1,0 +1,77 @@
+[
+  {
+    "transportista_id": "carrier_001_fedex",
+    "nombre_comercial": "FedEx",
+    "nombre_servicio_api": "FedEx Web Services",
+    "estado_integracion": "Activo",
+    "credenciales_api": {
+      "clave_api": "YOUR_FEDEX_KEY_12345",
+      "contrasena_api": "XYZ_PASSWORD_SECURE",
+      "numero_cuenta": "987654321",
+      "modo_pruebas": false
+    },
+    "tarifas_por_defecto": [
+      {
+        "servicio": "FedEx Ground (Estándar)",
+        "codigo_servicio": "GROUND",
+        "precio_base_usd": 7.50,
+        "envio_gratis_umbral_usd": 100.00
+      },
+      {
+        "servicio": "FedEx Priority Overnight",
+        "codigo_servicio": "PRIORITY_OVERNIGHT",
+        "precio_base_usd": 25.99,
+        "envio_gratis_umbral_usd": null
+      }
+    ],
+    "soportes_rastreo_webhook": true
+  },
+  {
+    "transportista_id": "carrier_002_dhl",
+    "nombre_comercial": "DHL Express",
+    "nombre_servicio_api": "DHL Global API",
+    "estado_integracion": "Activo",
+    "credenciales_api": {
+      "clave_api": "DHL_KEY_XYZ_7890",
+      "contrasena_api": "DHLS3CR3T_P4SS",
+      "numero_cuenta": "654321987",
+      "modo_pruebas": false
+    },
+    "tarifas_por_defecto": [
+      {
+        "servicio": "DHL Standard Economy",
+        "codigo_servicio": "ECONOMY",
+        "precio_base_usd": 6.90,
+        "envio_gratis_umbral_usd": 90.00
+      },
+      {
+        "servicio": "DHL Express Worldwide",
+        "codigo_servicio": "WORLDWIDE",
+        "precio_base_usd": 35.00,
+        "envio_gratis_umbral_usd": null
+      }
+    ],
+    "soportes_rastreo_webhook": true
+  },
+  {
+    "transportista_id": "carrier_003_correos",
+    "nombre_comercial": "Correos Locales",
+    "nombre_servicio_api": "API Correos Nacional",
+    "estado_integracion": "Inactivo (Mantenimiento)",
+    "credenciales_api": {
+      "clave_api": "LOCAL_API_KEY_001",
+      "contrasena_api": null,
+      "numero_cuenta": "1001",
+      "modo_pruebas": true
+    },
+    "tarifas_por_defecto": [
+      {
+        "servicio": "Paquete 48 Horas",
+        "codigo_servicio": "PKG_48H",
+        "precio_base_usd": 4.00,
+        "envio_gratis_umbral_usd": 50.00
+      }
+    ],
+    "soportes_rastreo_webhook": false
+  }
+]

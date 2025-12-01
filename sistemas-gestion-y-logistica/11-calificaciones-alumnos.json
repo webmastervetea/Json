@@ -1,0 +1,46 @@
+[
+  {
+    "estudiante_id": "est_1001",
+    "nombre_completo": "Ana Torres",
+    "asignaturas": [
+      {
+        "asignatura_id": "mat_101",
+        "nombre_asignatura": "Cálculo Avanzado",
+        "semestre": "Primavera 2025",
+        "calificaciones": [
+          {"evaluacion": "Examen Parcial I", "peso_porcentaje": 30, "nota_obtenida": 8.5},
+          {"evaluacion": "Proyecto Práctico", "peso_porcentaje": 40, "nota_obtenida": 9.2},
+          {"evaluacion": "Participación", "peso_porcentaje": 10, "nota_obtenida": 10.0}
+        ],
+        "nota_final_calculada": 9.01
+      },
+      {
+        "asignatura_id": "his_205",
+        "nombre_asignatura": "Historia Contemporánea",
+        "semestre": "Primavera 2025",
+        "calificaciones": [
+          {"evaluacion": "Ensayo Crítico", "peso_porcentaje": 50, "nota_obtenida": 7.8},
+          {"evaluacion": "Examen Final", "peso_porcentaje": 50, "nota_obtenida": 8.9}
+        ],
+        "nota_final_calculada": 8.35
+      }
+    ]
+  },
+  {
+    "estudiante_id": "est_1002",
+    "nombre_completo": "Roberto Gómez",
+    "asignaturas": [
+      {
+        "asignatura_id": "mat_101",
+        "nombre_asignatura": "Cálculo Avanzado",
+        "semestre": "Primavera 2025",
+        "calificaciones": [
+          {"evaluacion": "Examen Parcial I", "peso_porcentaje": 30, "nota_obtenida": 6.0},
+          {"evaluacion": "Proyecto Práctico", "peso_porcentaje": 40, "nota_obtenida": 7.5},
+          {"evaluacion": "Participación", "peso_porcentaje": 10, "nota_obtenida": 8.0}
+        ],
+        "nota_final_calculada": 7.1
+      }
+    ]
+  }
+]

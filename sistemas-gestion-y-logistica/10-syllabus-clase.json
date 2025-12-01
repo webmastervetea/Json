@@ -1,0 +1,56 @@
+{
+  "curso_id": "CS101_2026",
+  "nombre_curso": "Introducción a la Ciencia de Datos",
+  "instructor": "Dra. Elara Ríos",
+  "semestre": "Primavera 2026",
+  "estructura_academica": [
+    {
+      "modulo": 1,
+      "titulo_modulo": "Fundamentos de Python y Pandas",
+      "fecha_inicio": "2026-01-15",
+      "temas_cubiertos": ["Instalación de Entorno", "Estructuras de Datos", "Manipulación con Pandas"],
+      "lecturas_obligatorias": [
+        {"tipo": "Capítulo de Libro", "referencia": "Python para Análisis de Datos, Cap. 1-3"},
+        {"tipo": "Artículo Científico", "referencia": "Artículo sobre el uso de NumPy en el procesamiento paralelo."}
+      ]
+    },
+    {
+      "modulo": 2,
+      "titulo_modulo": "Estadística Aplicada y Visualización",
+      "fecha_inicio": "2026-02-12",
+      "temas_cubiertos": ["Regresión Lineal", "Inferencia Estadística", "Visualización con Matplotlib"],
+      "lecturas_obligatorias": [
+        {"tipo": "Libro", "referencia": "The Art of Statistics (Secciones 1-4)"}
+      ]
+    },
+    {
+      "modulo": 3,
+      "titulo_modulo": "Aprendizaje Automático (Machine Learning)",
+      "fecha_inicio": "2026-03-19",
+      "temas_cubiertos": ["Modelos Supervisados vs. No Supervisados", "Redes Neuronales Introductorias", "Validación de Modelos"],
+      "lecturas_obligatorias": [
+        {"tipo": "Documentación Oficial", "referencia": "Documentación de Scikit-learn (Módulo de Clasificación)"}
+      ]
+    }
+  ],
+  "evaluaciones_y_fechas": [
+    {
+      "evaluacion": "Examen Parcial",
+      "porcentaje_nota": 30,
+      "fecha_entrega": "2026-03-05",
+      "cubre_modulos": "1 y 2"
+    },
+    {
+      "evaluacion": "Proyecto Final (Entrega de Código)",
+      "porcentaje_nota": 45,
+      "fecha_entrega": "2026-05-01",
+      "cubre_modulos": "1, 2 y 3"
+    },
+    {
+      "evaluacion": "Presentación Oral del Proyecto",
+      "porcentaje_nota": 25,
+      "fecha_entrega": "2026-05-10",
+      "cubre_modulos": "Proyecto Final"
+    }
+  ]
+}

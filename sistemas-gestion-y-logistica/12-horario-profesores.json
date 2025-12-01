@@ -1,0 +1,46 @@
+[
+  {
+    "profesor_id": "prof_301",
+    "nombre_profesor": "Dra. Sofía Navarro",
+    "asignaciones": [
+      {
+        "clase_id": "cls_car101",
+        "asignatura": "Cardiología Avanzada",
+        "aula": "Edificio C, Aula 305",
+        "dia_semana": "Lunes",
+        "hora_inicio": "10:00",
+        "hora_fin": "12:00"
+      },
+      {
+        "clase_id": "cls_inv500",
+        "asignatura": "Metodología de Investigación",
+        "aula": "Edificio C, Laboratorio 101",
+        "dia_semana": "Miércoles",
+        "hora_inicio": "14:00",
+        "hora_fin": "16:00"
+      }
+    ]
+  },
+  {
+    "profesor_id": "prof_302",
+    "nombre_profesor": "Dr. Ricardo Méndez",
+    "asignaciones": [
+      {
+        "clase_id": "cls_fis200",
+        "asignatura": "Física Moderna",
+        "aula": "Edificio A, Aula Magna",
+        "dia_semana": "Martes",
+        "hora_inicio": "08:00",
+        "hora_fin": "10:00"
+      },
+      {
+        "clase_id": "cls_bio310",
+        "asignatura": "Biología Celular",
+        "aula": "Edificio B, Aula 201",
+        "dia_semana": "Jueves",
+        "hora_inicio": "11:00",
+        "hora_fin": "13:00"
+      }
+    ]
+  }
+]

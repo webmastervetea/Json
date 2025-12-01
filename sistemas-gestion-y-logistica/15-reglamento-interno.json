@@ -1,0 +1,46 @@
+[
+  {
+    "area_funcional": "Recursos Humanos (RR.HH.)",
+    "procedimiento_id": "hr_001_vacac",
+    "titulo_regla": "Política de Solicitud de Vacaciones",
+    "condiciones": [
+      {"condicion": "Anticipación", "detalle": "Las solicitudes deben presentarse con un mínimo de 15 días laborables de antelación."},
+      {"condicion": "Aprobación", "detalle": "Requiere la aprobación directa del Gerente de Área y de RR.HH."},
+      {"condicion": "Acumulación", "detalle": "El máximo de días de vacaciones a acumular es de 10 días por año natural."}
+    ],
+    "documento_referencia": "Manual del Empleado, Sección 3.2"
+  },
+  {
+    "area_funcional": "Operaciones y Logística",
+    "procedimiento_id": "op_002_adq",
+    "titulo_regla": "Procedimiento de Adquisición de Suministros",
+    "condiciones": [
+      {"condicion": "Monto Menor (hasta $500)", "detalle": "Se requiere la aprobación de un solo Gerente de Departamento."},
+      {"condicion": "Monto Mayor (más de $500)", "detalle": "Requiere la aprobación del Director Financiero y tres cotizaciones de proveedores diferentes."},
+      {"condicion": "Uso de Proveedor", "detalle": "Se debe priorizar el uso de proveedores aprobados en la lista maestra."}
+    ],
+    "documento_referencia": "Guía de Compras y Proveedores, Anexo A"
+  },
+  {
+    "area_funcional": "Seguridad de la Información",
+    "procedimiento_id": "sec_003_contrasena",
+    "titulo_regla": "Política de Contraseñas y Acceso",
+    "condiciones": [
+      {"condicion": "Complejidad", "detalle": "Las contraseñas deben tener un mínimo de 12 caracteres, incluyendo mayúsculas, minúsculas, números y símbolos."},
+      {"condicion": "Caducidad", "detalle": "Las contraseñas deben cambiarse obligatoriamente cada 90 días."},
+      {"condicion": "Doble Factor (2FA)", "detalle": "El acceso a sistemas críticos (servidores, CRM) requiere autenticación de doble factor."}
+    ],
+    "documento_referencia": "Política de Seguridad de TI, V. 2.1"
+  },
+  {
+    "area_funcional": "Comunicación Interna",
+    "procedimiento_id": "comm_004_email",
+    "titulo_regla": "Reglas de Uso del Correo Electrónico Corporativo",
+    "condiciones": [
+      {"condicion": "Uso Personal", "detalle": "El uso personal debe ser mínimo y no debe interferir con las responsabilidades laborales."},
+      {"condicion": "Archivos Adjuntos", "detalle": "El tamaño máximo permitido para archivos adjuntos es de 15MB."},
+      {"condicion": "Copia Oculta (CCO)", "detalle": "El uso de CCO en correos masivos es obligatorio para proteger la privacidad de los destinatarios."}
+    ],
+    "documento_referencia": "Reglamento de Conducta, Sección 5"
+  }
+]

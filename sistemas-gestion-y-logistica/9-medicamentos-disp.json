@@ -1,0 +1,46 @@
+[
+  {
+    "medicamento_id": "med_001_parac",
+    "nombre_comercial": "Paracetamol Forte",
+    "principio_activo": "Acetaminofén",
+    "forma_farmaceutica": "Comprimido Recubierto",
+    "concentracion_mg": 500,
+    "via_administracion": "Oral",
+    "dosis_estandar_adulto": "1-2 comprimidos cada 6-8 horas.",
+    "dosis_maxima_24h_mg": 4000,
+    "requiere_receta": false
+  },
+  {
+    "medicamento_id": "med_002_amoxi",
+    "nombre_comercial": "Amoxidal",
+    "principio_activo": "Amoxicilina",
+    "forma_farmaceutica": "Cápsula",
+    "concentracion_mg": 500,
+    "via_administracion": "Oral",
+    "dosis_estandar_adulto": "500 mg cada 8 horas por 7 días.",
+    "dosis_maxima_24h_mg": 3000,
+    "requiere_receta": true
+  },
+  {
+    "medicamento_id": "med_003_ibu",
+    "nombre_comercial": "Ibuprofeno Rápido",
+    "principio_activo": "Ibuprofeno",
+    "forma_farmaceutica": "Tableta",
+    "concentracion_mg": 600,
+    "via_administracion": "Oral",
+    "dosis_estandar_adulto": "1 tableta cada 8 horas con alimentos.",
+    "dosis_maxima_24h_mg": 2400,
+    "requiere_receta": false
+  },
+  {
+    "medicamento_id": "med_004_insu",
+    "nombre_comercial": "Insulina Glargina",
+    "principio_activo": "Insulina de acción prolongada",
+    "forma_farmaceutica": "Solución Inyectable",
+    "concentracion_mg": 100,
+    "via_administracion": "Subcutánea",
+    "dosis_estandar_adulto": "Ajustar individualmente según niveles de glucosa.",
+    "dosis_maxima_24h_mg": null,
+    "requiere_receta": true
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "documento_tipo": "Términos de Servicio (ToS)",
+    "version": "1.0.0",
+    "fecha_vigencia_inicio": "2023-01-01",
+    "fecha_vigencia_fin": "2024-06-30",
+    "estado": "Histórico",
+    "url_documento": "https://legal.ejemplo.com/tos/v1.0.0.pdf",
+    "cambios_clave": ["Lanzamiento inicial de la plataforma.", "Definición básica de derechos de autor."]
+  },
+  {
+    "documento_tipo": "Términos de Servicio (ToS)",
+    "version": "1.1.0",
+    "fecha_vigencia_inicio": "2024-07-01",
+    "fecha_vigencia_fin": null,
+    "estado": "Vigente",
+    "url_documento": "https://legal.ejemplo.com/tos/vigente.pdf",
+    "cambios_clave": ["Actualización de la sección de uso de datos por IA.", "Revisión de la política de cancelación de cuentas (Cláusula 4.3).", "Ajuste en la jurisdicción legal."]
+  },
+  {
+    "documento_tipo": "Política de Privacidad",
+    "version": "2.0.0",
+    "fecha_vigencia_inicio": "2024-07-01",
+    "fecha_vigencia_fin": null,
+    "estado": "Vigente",
+    "url_documento": "https://legal.ejemplo.com/privacidad/v2.0.0.pdf",
+    "cambios_clave": ["Cumplimiento con el nuevo reglamento europeo de protección de datos.", "Detalle de los derechos del usuario a la portabilidad de datos.", "Cambio en la lista de subprocesadores de datos."]
+  },
+  {
+    "documento_tipo": "Términos de Servicio (ToS)",
+    "version": "1.2.0",
+    "fecha_vigencia_inicio": "2025-01-01",
+    "fecha_vigencia_fin": null,
+    "estado": "Pendiente",
+    "url_documento": "https://legal.ejemplo.com/tos/proximo_v1.2.0.pdf",
+    "cambios_clave": ["Introducción de tarifas por servicio premium.", "Modificación de la cláusula de indemnización."],
+    "notificado_a_usuarios": "2024-11-01"
+  }
+]

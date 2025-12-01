@@ -1,0 +1,54 @@
+[
+  {
+    "producto_sku": "SKU_A01_2025",
+    "nombre_producto": "Teléfono Móvil X25",
+    "ubicacion_almacen": {
+      "zona": "A",
+      "pasillo": 01,
+      "estanteria": "B",
+      "nivel": 3
+    },
+    "cantidad_stock": 150,
+    "tipo_unidad": "Unidades",
+    "rotacion": "Alta"
+  },
+  {
+    "producto_sku": "SKU_B05_ACC",
+    "nombre_producto": "Cargador Rápido USB-C",
+    "ubicacion_almacen": {
+      "zona": "B",
+      "pasillo": 05,
+      "estanteria": "D",
+      "nivel": 1
+    },
+    "cantidad_stock": 500,
+    "tipo_unidad": "Cajas (x10)",
+    "rotacion": "Muy Alta"
+  },
+  {
+    "producto_sku": "SKU_C10_LPT",
+    "nombre_producto": "Portátil Ultraligero Z",
+    "ubicacion_almacen": {
+      "zona": "C",
+      "pasillo": 10,
+      "estanteria": "A",
+      "nivel": 5
+    },
+    "cantidad_stock": 35,
+    "tipo_unidad": "Unidades",
+    "rotacion": "Media"
+  },
+  {
+    "producto_sku": "SKU_Z99_MAT",
+    "nombre_producto": "Materia Prima (Chip A-9)",
+    "ubicacion_almacen": {
+      "zona": "Z",
+      "pasillo": 03,
+      "estanteria": "F",
+      "nivel": 2
+    },
+    "cantidad_stock": 25000,
+    "tipo_unidad": "Gramos",
+    "rotacion": "Alta"
+  }
+]

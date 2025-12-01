@@ -1,0 +1,50 @@
+[
+  {
+    "cita_id": "c_20251201_001",
+    "nombre_paciente": "Elena Ramos",
+    "doctor_asignado": "Dra. Sofía Navarro",
+    "especialidad": "Cardiología",
+    "hora_inicio": "2025-12-01T09:00:00",
+    "hora_fin": "2025-12-01T09:45:00",
+    "duracion_minutos": 45,
+    "motivo_consulta": "Revisión anual y electrocardiograma de control.",
+    "estado_cita": "Confirmada",
+    "tipo_cita": "Presencial"
+  },
+  {
+    "cita_id": "c_20251201_002",
+    "nombre_paciente": "Javier Torres",
+    "doctor_asignado": "Dr. Ricardo Méndez",
+    "especialidad": "Medicina General",
+    "hora_inicio": "2025-12-01T10:00:00",
+    "hora_fin": "2025-12-01T10:30:00",
+    "duracion_minutos": 30,
+    "motivo_consulta": "Consulta por síntomas de gripe y solicitud de baja laboral.",
+    "estado_cita": "En Sala de Espera",
+    "tipo_cita": "Presencial"
+  },
+  {
+    "cita_id": "c_20251201_003",
+    "nombre_paciente": "Andrea López",
+    "doctor_asignado": "Dra. Sofía Navarro",
+    "especialidad": "Cardiología",
+    "hora_inicio": "2025-12-01T10:45:00",
+    "hora_fin": "2025-12-01T11:15:00",
+    "duracion_minutos": 30,
+    "motivo_consulta": "Seguimiento post-operatorio (vía telefónica).",
+    "estado_cita": "Cancelada",
+    "tipo_cita": "Teleconsulta"
+  },
+  {
+    "cita_id": "c_20251201_004",
+    "nombre_paciente": "Carlos Ruiz",
+    "doctor_asignado": "Dr. Ricardo Méndez",
+    "especialidad": "Medicina General",
+    "hora_inicio": "2025-12-01T11:30:00",
+    "hora_fin": "2025-12-01T12:00:00",
+    "duracion_minutos": 30,
+    "motivo_consulta": "Exámenes de laboratorio pendientes.",
+    "estado_cita": "Pendiente",
+    "tipo_cita": "Presencial"
+  }
+]

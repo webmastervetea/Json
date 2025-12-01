@@ -1,0 +1,48 @@
+[
+  {
+    "tarea_id": "task_001",
+    "titulo": "Diseño de la Interfaz de Login",
+    "descripcion": "Crear el mockup de alta fidelidad y los estados de error para la pantalla de inicio de sesión.",
+    "estado": "Pendiente",
+    "prioridad": "Alta",
+    "asignado_a": "Laura V.",
+    "fecha_creacion": "2025-11-25"
+  },
+  {
+    "tarea_id": "task_002",
+    "titulo": "Implementación de la API de Autenticación",
+    "descripcion": "Desarrollar los endpoints de API para el registro y el manejo de tokens JWT.",
+    "estado": "En Progreso",
+    "prioridad": "Alta",
+    "asignado_a": "Ricardo M.",
+    "fecha_creacion": "2025-11-20"
+  },
+  {
+    "tarea_id": "task_003",
+    "titulo": "Revisión de Seguridad del Servidor",
+    "descripcion": "Auditar la configuración del servidor web para posibles vulnerabilidades de inyección SQL.",
+    "estado": "Hecho",
+    "prioridad": "Media",
+    "asignado_a": "Equipo QA",
+    "fecha_creacion": "2025-11-18",
+    "fecha_terminado": "2025-11-27"
+  },
+  {
+    "tarea_id": "task_004",
+    "titulo": "Documentación de la Base de Datos",
+    "descripcion": "Actualizar el esquema de la base de datos con las nuevas tablas de usuarios y perfiles.",
+    "estado": "Pendiente",
+    "prioridad": "Media",
+    "asignado_a": "Sofía T.",
+    "fecha_creacion": "2025-11-26"
+  },
+  {
+    "tarea_id": "task_005",
+    "titulo": "Pruebas de Carga (Stress Testing)",
+    "descripcion": "Ejecutar pruebas de estrés para simular 1000 usuarios concurrentes en el sistema.",
+    "estado": "En Progreso",
+    "prioridad": "Baja",
+    "asignado_a": "Equipo QA",
+    "fecha_creacion": "2025-11-22"
+  }
+]

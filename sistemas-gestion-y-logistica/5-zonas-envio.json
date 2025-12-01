@@ -1,0 +1,70 @@
+[
+  {
+    "regla_id": "reg_001_local",
+    "nombre_zona": "Zona Local (Urbana)",
+    "rango_cp_inicio": "28001",
+    "rango_cp_fin": "28050",
+    "reglas_tarifa": [
+      {
+        "peso_max_kg": 5.0,
+        "costo_envio_usd": 5.00,
+        "tiempo_entrega_dias": "1-2"
+      },
+      {
+        "peso_max_kg": 20.0,
+        "costo_envio_usd": 10.50,
+        "tiempo_entrega_dias": "1-2"
+      },
+      {
+        "peso_max_kg": 999.0,
+        "costo_envio_usd": 15.00,
+        "tiempo_entrega_dias": "2-3"
+      }
+    ],
+    "envio_gratis_a_partir_usd": 75.00
+  },
+  {
+    "regla_id": "reg_002_nacional_estandar",
+    "nombre_zona": "Nacional Estándar",
+    "rango_cp_inicio": "01000",
+    "rango_cp_fin": "40000",
+    "exclusiones_cp": ["28001", "28050"],
+    "reglas_tarifa": [
+      {
+        "peso_max_kg": 5.0,
+        "costo_envio_usd": 8.00,
+        "tiempo_entrega_dias": "3-5"
+      },
+      {
+        "peso_max_kg": 15.0,
+        "costo_envio_usd": 15.00,
+        "tiempo_entrega_dias": "3-5"
+      },
+      {
+        "peso_max_kg": 999.0,
+        "costo_envio_usd": 25.00,
+        "tiempo_entrega_dias": "5-7"
+      }
+    ],
+    "envio_gratis_a_partir_usd": 150.00
+  },
+  {
+    "regla_id": "reg_003_zona_remota",
+    "nombre_zona": "Zona Remota (Canarias/Islas)",
+    "rango_cp_inicio": "40001",
+    "rango_cp_fin": "99999",
+    "reglas_tarifa": [
+      {
+        "peso_max_kg": 10.0,
+        "costo_envio_usd": 30.00,
+        "tiempo_entrega_dias": "5-10"
+      },
+      {
+        "peso_max_kg": 999.0,
+        "costo_envio_usd": 50.00,
+        "tiempo_entrega_dias": "7-15"
+      }
+    ],
+    "envio_gratis_a_partir_usd": 0.00
+  }
+]

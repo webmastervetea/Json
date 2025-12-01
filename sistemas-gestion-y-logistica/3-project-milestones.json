@@ -1,0 +1,37 @@
+[
+  {
+    "objetivo_id": "obj_001_mvp",
+    "nombre_objetivo": "Lanzamiento del Producto Mínimo Viable (MVP)",
+    "descripcion": "El sistema central de gestión de usuarios debe estar operativo y estable para pruebas internas.",
+    "fecha_limite": "2026-01-31",
+    "estado": "En Curso",
+    "metricas_exito": [
+      {"metrica": "Cobertura de Pruebas", "meta": "90% de Cobertura de Código"},
+      {"metrica": "Tiempo de Actividad (Uptime)", "meta": "99.9% en la primera semana"}
+    ],
+    "dependencias": ["Implementación de la API de Autenticación"]
+  },
+  {
+    "objetivo_id": "obj_002_financiamiento",
+    "nombre_objetivo": "Asegurar la Ronda de Financiamiento Ángel",
+    "descripcion": "Completar todas las presentaciones y asegurar la financiación de la Fase 2 del desarrollo.",
+    "fecha_limite": "2026-03-15",
+    "estado": "Pendiente",
+    "metricas_exito": [
+      {"metrica": "Capital Recaudado", "meta": "$500,000 USD"}
+    ],
+    "dependencias": ["Lanzamiento del Producto Mínimo Viable (MVP)"]
+  },
+  {
+    "objetivo_id": "obj_003_integracion",
+    "nombre_objetivo": "Integración del Módulo de Reportes",
+    "descripcion": "El módulo de reportes debe procesar datos históricos de los últimos 6 meses sin errores.",
+    "fecha_limite": "2026-04-30",
+    "estado": "Pendiente",
+    "metricas_exito": [
+      {"metrica": "Tasa de Error de Reporte", "meta": "Menor al 0.5%"},
+      {"metrica": "Tiempo de Carga de Reporte", "meta": "Menor a 3 segundos"}
+    ],
+    "dependencias": ["Migración Completa de Datos Históricos"]
+  }
+]

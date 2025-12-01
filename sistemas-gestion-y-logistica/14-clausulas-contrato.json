@@ -1,0 +1,56 @@
+[
+  {
+    "seccion_id": "sec_01_def",
+    "titulo_seccion": "Definiciones e Interpretación",
+    "orden": 1,
+    "tipo_contenido": "Declarativo",
+    "condiciones_clave": [
+      {"termino": "Fecha de Vigencia", "descripcion": "La fecha a partir de la cual el contrato entra en vigor."},
+      {"termino": "Servicios", "descripcion": "El alcance específico de los trabajos o entregables cubiertos por este acuerdo."},
+      {"termino": "Información Confidencial", "descripcion": "Toda información marcada como tal o que, por su naturaleza, se consideraría privada."}
+    ]
+  },
+  {
+    "seccion_id": "sec_02_alc",
+    "titulo_seccion": "Alcance de los Servicios y Obligaciones",
+    "orden": 2,
+    "tipo_contenido": "Obligatorio",
+    "condiciones_clave": [
+      {"termino": "Diligencia", "descripcion": "El Proveedor se compromete a realizar los servicios con diligencia y habilidad profesional."},
+      {"termino": "Dependencias", "descripcion": "Enumeración de las obligaciones del Cliente para facilitar el trabajo del Proveedor."}
+    ]
+  },
+  {
+    "seccion_id": "sec_03_comp",
+    "titulo_seccion": "Compensación y Condiciones de Pago",
+    "orden": 3,
+    "tipo_contenido": "Financiero",
+    "condiciones_clave": [
+      {"termino": "Tarifas", "descripcion": "Monto total acordado por los Servicios."},
+      {"termino": "Plazos de Pago", "descripcion": "Definición del calendario y métodos de pago (ej. 30 días netos tras la facturación)."},
+      {"termino": "Impuestos", "descripcion": "Responsabilidad del pago de impuestos aplicables."}
+    ]
+  },
+  {
+    "seccion_id": "sec_04_dura",
+    "titulo_seccion": "Duración y Terminación",
+    "orden": 4,
+    "tipo_contenido": "Legal/Temporal",
+    "condiciones_clave": [
+      {"termino": "Vigencia Inicial", "descripcion": "El período de tiempo que el contrato permanecerá activo (ej. 12 meses)."},
+      {"termino": "Terminación por Incumplimiento", "descripcion": "Las condiciones bajo las cuales una parte puede terminar el contrato debido a la falta de la otra parte."},
+      {"termino": "Cláusula de Supervivencia", "descripcion": "Las obligaciones (ej. Confidencialidad) que sobreviven a la terminación del contrato."}
+    ]
+  },
+  {
+    "seccion_id": "sec_05_disp",
+    "titulo_seccion": "Disposiciones Generales",
+    "orden": 5,
+    "tipo_contenido": "Legal/Miscelánea",
+    "condiciones_clave": [
+      {"termino": "Ley Aplicable", "descripcion": "La jurisdicción bajo la cual se interpretará el contrato (ej. Leyes de España)."},
+      {"termino": "Fuerza Mayor", "descripcion": "Circunstancias extraordinarias que eximen a las partes de su cumplimiento."},
+      {"termino": "Notificaciones", "descripcion": "Forma y dirección para enviar comunicaciones formales entre las partes."}
+    ]
+  }
+]

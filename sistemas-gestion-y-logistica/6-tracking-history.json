@@ -1,0 +1,46 @@
+[
+  {
+    "paquete_id": "pkg_4567890123",
+    "numero_rastreo": "TRK-ES-00789123",
+    "estado_actual": "Entregado",
+    "fecha_hora_actualizacion": "2025-11-29T11:45:00-05:00",
+    "historial_eventos": [
+      {
+        "secuencia": 1,
+        "estado": "Etiqueta Creada",
+        "descripcion": "Se ha generado la etiqueta de envío. Esperando recogida por el transportista.",
+        "ubicacion_ciudad": "Barcelona",
+        "fecha_hora": "2025-11-28T10:00:00-05:00"
+      },
+      {
+        "secuencia": 2,
+        "estado": "Recogido por Transportista",
+        "descripcion": "El paquete ha sido recogido en el punto de origen y está en tránsito.",
+        "ubicacion_ciudad": "Barcelona",
+        "fecha_hora": "2025-11-28T14:30:00-05:00"
+      },
+      {
+        "secuencia": 3,
+        "estado": "En Tránsito",
+        "descripcion": "El paquete ha llegado al centro de clasificación principal.",
+        "ubicacion_ciudad": "Madrid, Centro Logístico Sur",
+        "fecha_hora": "2025-11-29T04:00:00-05:00"
+      },
+      {
+        "secuencia": 4,
+        "estado": "En Reparto",
+        "descripcion": "El paquete ha sido asignado a un repartidor local para la entrega final.",
+        "ubicacion_ciudad": "Pamplona",
+        "fecha_hora": "2025-11-29T08:15:00-05:00"
+      },
+      {
+        "secuencia": 5,
+        "estado": "Entregado",
+        "descripcion": "El paquete ha sido entregado exitosamente al destinatario.",
+        "ubicacion_ciudad": "Pamplona",
+        "fecha_hora": "2025-11-29T11:45:00-05:00",
+        "prueba_entrega": "Recibido por: Conserje"
+      }
+    ]
+  }
+]

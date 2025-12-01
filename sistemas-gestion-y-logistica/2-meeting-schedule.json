@@ -1,0 +1,40 @@
+[
+  {
+    "reunion_id": "mtg_001",
+    "titulo": "Revisión Semanal de Sprint",
+    "fecha_hora_inicio": "2025-12-02T10:00:00-05:00",
+    "fecha_hora_fin": "2025-12-02T11:00:00-05:00",
+    "duracion_minutos": 60,
+    "ubicacion": "Sala de Conferencias B / Zoom ID: 456-789-012",
+    "organizador": "Laura V. (Jefa de Proyecto)",
+    "asistentes": [
+      {"nombre": "Laura V.", "rol": "Organizador"},
+      {"nombre": "Ricardo M.", "rol": "Desarrollador"},
+      {"nombre": "Sofía T.", "rol": "Diseñador UX"},
+      {"nombre": "Equipo QA", "rol": "Aseguramiento de Calidad"}
+    ],
+    "agenda_temas": [
+      {"orden": 1, "tema": "Estado de la tarea de Autenticación", "tiempo_estimado_min": 15},
+      {"orden": 2, "tema": "Revisión del diseño de Login", "tiempo_estimado_min": 20},
+      {"orden": 3, "tema": "Planificación del próximo sprint (Prioridades)", "tiempo_estimado_min": 25}
+    ]
+  },
+  {
+    "reunion_id": "mtg_002",
+    "titulo": "Sesión Creativa de Branding",
+    "fecha_hora_inicio": "2025-12-03T14:30:00-05:00",
+    "fecha_hora_fin": "2025-12-03T15:00:00-05:00",
+    "duracion_minutos": 30,
+    "ubicacion": "Oficina de Marketing",
+    "organizador": "Sofía T. (Diseñador UX)",
+    "asistentes": [
+      {"nombre": "Sofía T.", "rol": "Organizador"},
+      {"nombre": "Marketing Lead", "rol": "Invitado"},
+      {"nombre": "CEO", "rol": "Invitado"}
+    ],
+    "agenda_temas": [
+      {"orden": 1, "tema": "Revisión de la paleta de colores (Feedback)", "tiempo_estimado_min": 15},
+      {"orden": 2, "tema": "Definición del tono de voz de la marca", "tiempo_estimado_min": 15}
+    ]
+  }
+]

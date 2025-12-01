@@ -1,0 +1,73 @@
+{
+  "titulo": "Personajes de Historieta y sus Superpoderes",
+  "descripcion": "Una lista de héroes y villanos notables con sus habilidades principales.",
+  "fuente_primaria": "Marvel Comics y DC Comics",
+  "personajes_con_poderes": [
+    {
+      "nombre_personaje": "Superman",
+      "universo": "DC Comics",
+      "poderes": [
+        "Fuerza, velocidad y resistencia sobrehumanas",
+        "Vuelo",
+        "Visión de calor y rayos X",
+        "Invulnerabilidad"
+      ],
+      "nota": "Sus poderes provienen de la radiación solar amarilla."
+    },
+    {
+      "nombre_personaje": "Spider-Man",
+      "universo": "Marvel Comics",
+      "poderes": [
+        "Adhesión a superficies (trepar paredes)",
+        "Sentido arácnido (precognición de peligro)",
+        "Fuerza y agilidad proporcionales a las de una araña",
+        "Lanzamiento de telarañas (mediante lanzadores)"
+      ],
+      "nota": "Obtuvo sus habilidades por la picadura de una araña radioactiva."
+    },
+    {
+      "nombre_personaje": "Wonder Woman (Mujer Maravilla)",
+      "universo": "DC Comics",
+      "poderes": [
+        "Fuerza, velocidad y reflejos sobrehumanos",
+        "Vuelo",
+        "Inmortalidad y curación acelerada",
+        "Uso del Lazo de la Verdad (que obliga a decir la verdad)"
+      ],
+      "nota": "Princesa Diana de Themyscira."
+    },
+    {
+      "nombre_personaje": "Hulk (Bruce Banner)",
+      "universo": "Marvel Comics",
+      "poderes": [
+        "Fuerza física ilimitada (aumenta con la ira)",
+        "Factor de curación masivo",
+        "Resistencia casi total a daños físicos y químicos",
+        "Capacidad de salto enorme"
+      ],
+      "nota": "Transformación inducida por la radiación gamma."
+    },
+    {
+      "nombre_personaje": "Flash (Barry Allen)",
+      "universo": "DC Comics",
+      "poderes": [
+        "Supervelocidad extrema (acceso a la 'Fuerza de la Velocidad')",
+        "Capacidad de vibrar a través de objetos sólidos",
+        "Viaje en el tiempo",
+        "Metabolismo acelerado"
+      ],
+      "nota": "Es considerado el hombre más rápido del universo DC."
+    },
+    {
+      "nombre_personaje": "Thor",
+      "universo": "Marvel Comics",
+      "poderes": [
+        "Fuerza y longevidad asgardianas",
+        "Control del Trueno y el Rayo",
+        "Vuelo (usando el martillo Mjölnir)",
+        "Manipulación climática"
+      ],
+      "nota": "El Dios del Trueno de Asgard."
+    }
+  ]
+}

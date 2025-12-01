@@ -1,0 +1,170 @@
+/* Variables CSS Temáticas de Cómics */
+:root {
+    --primary-color: #3F51B5; /* Azul Héroe (Índigo) */
+    --secondary-color: #F44336; /* Rojo de Acción */
+    --accent-color: #FFC107; /* Amarillo de Poder */
+    --background-color: #f0f2f5;
+    --card-background: #ffffff;
+    --text-color: #212121;
+    --text-light: #757575;
+    --shadow-dark: rgba(0, 0, 0, 0.2);
+}
+
+/* Reset y Base */
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    background-color: var(--background-color);
+    color: var(--text-color);
+    line-height: 1.6;
+}
+
+/* Encabezado Principal */
+.main-header {
+    background-color: var(--primary-color);
+    color: white;
+    padding: 60px 20px 40px;
+    text-align: center;
+    box-shadow: 0 4px 15px var(--shadow-dark);
+}
+
+.main-header h1 {
+    font-size: 2.8em;
+    margin-bottom: 10px;
+}
+
+.main-header p {
+    font-size: 1.2em;
+    opacity: 0.9;
+    margin-bottom: 15px;
+}
+
+.source-tag {
+    display: inline-block;
+    padding: 5px 15px;
+    background-color: var(--accent-color);
+    color: var(--text-color);
+    border-radius: 20px;
+    font-weight: bold;
+    font-size: 0.9em;
+}
+
+/* Contenedor Principal */
+.container {
+    max-width: 1200px;
+    margin: 40px auto;
+    padding: 0 20px;
+}
+
+/* SECCIÓN DE PERSONAJES (GRID) */
+.characters-grid {
+    display: grid;
+    /* 3 columnas en escritorio, adaptable */
+    grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); 
+    gap: 30px;
+}
+
+/* Tarjeta de Personaje */
+.character-card {
+    background-color: var(--card-background);
+    border: 1px solid #e0e0e0;
+    border-radius: 10px;
+    box-shadow: 0 6px 15px var(--shadow-dark);
+    padding: 25px;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.character-card:hover {
+    transform: translateY(-8px);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.3);
+}
+
+.character-card h2 {
+    font-size: 2.2em;
+    color: var(--secondary-color);
+    margin-bottom: 5px;
+    border-bottom: 3px solid var(--accent-color);
+    padding-bottom: 5px;
+}
+
+.universe-tag {
+    display: inline-block;
+    background-color: var(--primary-color);
+    color: white;
+    padding: 3px 10px;
+    border-radius: 4px;
+    font-size: 0.85em;
+    font-weight: bold;
+    margin-bottom: 15px;
+}
+
+.character-card h3 {
+    font-size: 1.3em;
+    color: var(--primary-color);
+    margin-top: 15px;
+    margin-bottom: 8px;
+}
+
+/* Lista de Poderes */
+.powers-list {
+    list-style: none;
+    margin-bottom: 15px;
+    padding-left: 0;
+}
+
+.powers-list li {
+    padding: 5px 0;
+    border-bottom: 1px dashed #eee;
+    font-size: 1em;
+}
+
+.powers-list li::before {
+    content: "⚡"; /* Icono de superpoder */
+    margin-right: 10px;
+    color: var(--accent-color);
+}
+
+/* Nota */
+.character-note {
+    font-size: 0.95em;
+    color: var(--text-light);
+    border-top: 1px solid #ddd;
+    padding-top: 10px;
+    font-style: italic;
+}
+
+/* Pie de Página */
+.main-footer {
+    text-align: center;
+    padding: 25px;
+    margin-top: 50px;
+    font-size: 0.9em;
+    color: var(--text-light);
+    border-top: 1px solid #ddd;
+    background-color: #eeeeee;
+}
+
+.main-footer a {
+    color: var(--primary-color);
+    text-decoration: none;
+    font-weight: 600;
+}
+
+.main-footer a:hover {
+    text-decoration: underline;
+}
+
+/* Responsividad */
+@media (max-width: 600px) {
+    .main-header h1 {
+        font-size: 2em;
+    }
+    .characters-grid {
+        grid-template-columns: 1fr;
+    }
+}

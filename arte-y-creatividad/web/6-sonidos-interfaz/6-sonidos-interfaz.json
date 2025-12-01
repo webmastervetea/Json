@@ -1,0 +1,52 @@
+{
+  "titulo": "Lista de Archivos de Sonido para Notificaciones (UI/UX)",
+  "descripcion": "Colección de nombres de archivos de audio comunes utilizados para retroalimentación en interfaces de usuario.",
+  "formato_sugerido": "WAW, MP3, OGG",
+  "notificaciones_de_estado": [
+    {
+      "proposito": "Éxito / Confirmación",
+      "descripcion_uso": "Indica que una acción ha finalizado correctamente (ej: envío de formulario, descarga completa).",
+      "archivos": [
+        {"id_sonido": "SUCCESS_01", "nombre_archivo": "alert_success_chime.wav"},
+        {"id_sonido": "CONFIRM_02", "nombre_archivo": "notification_complete_pop.mp3"},
+        {"id_sonido": "FINISH_03", "nombre_archivo": "task_finished_light.ogg"}
+      ]
+    },
+    {
+      "proposito": "Error / Fallo Crítico",
+      "descripcion_uso": "Advierte al usuario de un problema crítico o de una acción fallida (ej: credenciales incorrectas, fallo de sistema).",
+      "archivos": [
+        {"id_sonido": "ERROR_01", "nombre_archivo": "system_error_buzz.wav"},
+        {"id_sonido": "FAIL_02", "nombre_archivo": "alert_critical_denied.mp3"},
+        {"id_sonido": "STOP_03", "nombre_archivo": "access_denied_tone.ogg"}
+      ]
+    },
+    {
+      "proposito": "Alerta / Advertencia",
+      "descripcion_uso": "Señal de que se requiere atención o que hay un problema menor que debe ser revisado (ej: batería baja, mensaje sin leer).",
+      "archivos": [
+        {"id_sonido": "WARNING_01", "nombre_archivo": "alert_warning_beep.wav"},
+        {"id_sonido": "ATTENTION_02", "nombre_archivo": "notification_attention_soft.mp3"},
+        {"id_sonido": "REMINDER_03", "nombre_archivo": "reminder_short_ping.ogg"}
+      ]
+    },
+    {
+      "proposito": "Mensaje / Recepción (Incoming)",
+      "descripcion_uso": "Notificación de un mensaje entrante o una nueva interacción (ej: chat, email, likes en red social).",
+      "archivos": [
+        {"id_sonido": "MESSAGE_01", "nombre_archivo": "incoming_message_ping.wav"},
+        {"id_sonido": "CHAT_02", "nombre_archivo": "chat_new_sound.mp3"},
+        {"id_sonido": "EMAIL_03", "nombre_archivo": "email_receive_bell.ogg"}
+      ]
+    },
+    {
+      "proposito": "Interactivo / Click",
+      "descripcion_uso": "Retroalimentación para interacciones del usuario (botones, clicks, deslizar).",
+      "archivos": [
+        {"id_sonido": "CLICK_01", "nombre_archivo": "ui_click_light.wav"},
+        {"id_sonido": "SWIPE_02", "nombre_archivo": "ui_swipe_fast.mp3"},
+        {"id_sonido": "HOVER_03", "nombre_archivo": "ui_hover_tiny.wav"}
+      ]
+    }
+  ]
+}

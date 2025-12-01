@@ -1,0 +1,71 @@
+{
+  "titulo": "Biografías Cortas y Obras Clave de Artistas",
+  "descripcion": "Datos biográficos esenciales y un listado de obras canónicas, agrupados por movimiento artístico.",
+  "movimientos_artisticos": [
+    {
+      "nombre": "Impresionismo",
+      "periodo": "Finales del Siglo XIX",
+      "artistas": [
+        {
+          "nombre": "Claude Monet",
+          "nacionalidad": "Francés",
+          "biografia_corta": "Fundador clave del Impresionismo, conocido por su enfoque en capturar la percepción de la luz y el color en la naturaleza, especialmente en series de un mismo sujeto.",
+          "obras_clave": [
+            {"titulo": "Impresión, sol naciente", "ano": 1872},
+            {"titulo": "Los Nenúfares (Serie)", "ano": "1899–1926"},
+            {"titulo": "Serie de la Catedral de Ruan", "ano": "1892–1894"}
+          ]
+        },
+        {
+          "nombre": "Pierre-Auguste Renoir",
+          "nacionalidad": "Francés",
+          "biografia_corta": "Destacó por sus vibrantes representaciones de la vida parisina, centrándose en el retrato, la figura femenina y las escenas sociales alegres.",
+          "obras_clave": [
+            {"titulo": "Bal du moulin de la Galette", "ano": 1876},
+            {"titulo": "El almuerzo de los remeros", "ano": 1881}
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Post-Impresionismo",
+      "periodo": "Finales del Siglo XIX",
+      "artistas": [
+        {
+          "nombre": "Vincent van Gogh",
+          "nacionalidad": "Holandés",
+          "biografia_corta": "Artista trágicamente famoso por su intensa vida emocional y el uso de colores vivos, pinceladas expresivas y textura gruesa (impasto).",
+          "obras_clave": [
+            {"titulo": "La noche estrellada", "ano": 1889},
+            {"titulo": "Los girasoles (Serie)", "ano": "1888–1889"},
+            {"titulo": "Autorretrato con oreja vendada", "ano": 1889}
+          ]
+        },
+        {
+          "nombre": "Paul Cézanne",
+          "nacionalidad": "Francés",
+          "biografia_corta": "Considerado el puente entre el Impresionismo y el Cubismo. Buscó la estructura geométrica subyacente de la naturaleza a través de la forma y el color.",
+          "obras_clave": [
+            {"titulo": "Los jugadores de cartas", "ano": "1894–1895"},
+            {"titulo": "Monte Sainte-Victoire (Serie)", "ano": "1882–1906"}
+          ]
+        }
+      ]
+    },
+    {
+      "nombre": "Surrealismo",
+      "periodo": "Principios a mediados del Siglo XX",
+      "artistas": [
+        {
+          "nombre": "Salvador Dalí",
+          "nacionalidad": "Español",
+          "biografia_corta": "Maestro del Surrealismo, famoso por sus imágenes oníricas, el simbolismo extravagante y su técnica hiperrealista.",
+          "obras_clave": [
+            {"titulo": "La persistencia de la memoria", "ano": 1931},
+            {"titulo": "Cisnes que reflejan elefantes", "ano": 1937}
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "titulo": "Colección de Poemas Clasificados por Autor",
+  "descripcion": "Una base de datos de poesía con extractos de contenido, organizada jerárquicamente por autor.",
+  "poetas": [
+    {
+      "nombre_autor": "Pablo Neruda",
+      "nacionalidad": "Chileno",
+      "periodo": "Siglo XX",
+      "poemas": [
+        {
+          "titulo": "Poema 20",
+          "contenido_extracto": "Puedo escribir los versos más tristes esta noche. Escribir, por ejemplo: «La noche está estrellada, y tiritan, azules, los astros, a lo lejos.» El viento de la noche gira en el cielo y canta.",
+          "referencia_libro": "Veinte poemas de amor y una canción desesperada"
+        },
+        {
+          "titulo": "Me gustas cuando callas",
+          "contenido_extracto": "Me gustas cuando callas porque estás como ausente, y me oyes desde lejos, y mi voz no te toca. Parece que los ojos se te hubieran volado y parece que un beso te cerrara la boca.",
+          "referencia_libro": "Veinte poemas de amor y una canción desesperada"
+        }
+      ]
+    },
+    {
+      "nombre_autor": "Federico García Lorca",
+      "nacionalidad": "Español",
+      "periodo": "Generación del 27",
+      "poemas": [
+        {
+          "titulo": "La Casada Infiel",
+          "contenido_extracto": "Y que yo me la llevé al río, creyendo que era mozuela, pero tenía marido. Fue la noche de Santiago y casi por compromiso.",
+          "referencia_libro": "Romancero Gitano"
+        },
+        {
+          "titulo": "Verde que te quiero verde",
+          "contenido_extracto": "Verde que te quiero verde. Verde viento. Verdes ramas. El barco sobre la mar y el caballo en la montaña. Con la sombra en la cintura ella sueña en su baranda...",
+          "referencia_libro": "Romancero Gitano"
+        }
+      ]
+    },
+    {
+      "nombre_autor": "Alfonsina Storni",
+      "nacionalidad": "Argentina",
+      "periodo": "Modernismo",
+      "poemas": [
+        {
+          "titulo": "Voy a dormir",
+          "contenido_extracto": "Dientes de flores, cofia de rocío, manos de hierbas, tú, nodriza fina, tenme prestas las sábanas de tierra y el edredón de musgos escardados.",
+          "referencia_libro": "Últimos poemas"
+        }
+      ]
+    }
+  ]
+}

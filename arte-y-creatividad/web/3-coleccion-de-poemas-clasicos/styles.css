@@ -1,0 +1,162 @@
+/* Variables CSS */
+:root {
+    --primary-color: #5D4037; /* Marrón oscuro/Tierra */
+    --accent-color: #8D6E63; /* Marrón claro */
+    --background-color: #fcfcfc;
+    --card-background: #ffffff;
+    --text-color: #212121;
+    --text-light: #757575;
+    --shadow-light: rgba(0, 0, 0, 0.05);
+}
+
+/* Reset y Base */
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Playfair Display', Georgia, serif; /* Fuente serif clásica */
+    background-color: var(--background-color);
+    color: var(--text-color);
+    line-height: 1.6;
+}
+
+/* Encabezado Principal */
+.main-header {
+    background-color: var(--primary-color);
+    color: white;
+    padding: 60px 20px;
+    text-align: center;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+}
+
+.main-header h1 {
+    font-size: 3em;
+    margin-bottom: 10px;
+    letter-spacing: 1px;
+}
+
+.main-header p {
+    font-size: 1.2em;
+    opacity: 0.9;
+}
+
+/* Contenedor Principal */
+.container {
+    max-width: 900px;
+    margin: 50px auto;
+    padding: 0 20px;
+}
+
+/* Tarjeta del Poeta */
+.poet-card {
+    background-color: var(--card-background);
+    border: 1px solid #e0e0e0;
+    border-top: 5px solid var(--accent-color);
+    border-radius: 8px;
+    box-shadow: 0 2px 8px var(--shadow-light);
+    margin-bottom: 40px;
+    padding: 25px;
+}
+
+.poet-info {
+    border-bottom: 1px solid #eee;
+    padding-bottom: 15px;
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.poet-info h2 {
+    font-size: 2em;
+    color: var(--primary-color);
+    margin: 0;
+    flex-basis: 100%;
+    margin-bottom: 5px;
+}
+
+.poet-info span {
+    font-style: italic;
+    color: var(--text-light);
+    font-size: 0.9em;
+}
+
+/* Listado de Poemas */
+.poems-list {
+    list-style: none;
+    padding: 0;
+}
+
+/* Elemento de Poema Individual */
+.poem-item {
+    padding: 20px 0;
+    border-bottom: 1px dashed #e0e0e0;
+}
+
+.poem-item:last-child {
+    border-bottom: none;
+}
+
+.poem-item h3 {
+    font-size: 1.5em;
+    color: var(--primary-color);
+    margin-bottom: 10px;
+}
+
+.poem-item .extract {
+    font-style: italic;
+    font-size: 1.1em;
+    margin-left: 20px;
+    padding-left: 10px;
+    border-left: 3px solid var(--accent-color);
+}
+
+.poem-item .reference {
+    display: block;
+    margin-top: 10px;
+    font-size: 0.85em;
+    color: var(--text-light);
+}
+
+/* Pie de Página */
+.main-footer {
+    text-align: center;
+    padding: 20px;
+    margin-top: 50px;
+    font-size: 0.9em;
+    color: var(--text-light);
+    border-top: 1px solid #ddd;
+    background-color: #f0f0f0;
+}
+
+.main-footer a {
+    color: var(--primary-color);
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.main-footer a:hover {
+    text-decoration: underline;
+}
+
+/* Responsividad */
+@media (max-width: 600px) {
+    .main-header h1 {
+        font-size: 2em;
+    }
+    .poet-info {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+    .poet-info h2 {
+        font-size: 1.6em;
+    }
+    .poem-item .extract {
+        margin-left: 0;
+        padding-left: 10px;
+    }
+}

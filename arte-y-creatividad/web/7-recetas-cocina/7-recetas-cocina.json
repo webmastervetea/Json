@@ -1,0 +1,53 @@
+{
+  "titulo": "Libro de Recetas Digital (Ingredientes y Pasos)",
+  "version": "1.0",
+  "descripcion": "Colección de recetas estructuradas para cocina básica y avanzada.",
+  "recetas": [
+    {
+      "id_receta": "RC_PAST_001",
+      "nombre_plato": "Pasta Carbonara Auténtica",
+      "porciones": 2,
+      "tiempo_total_min": 25,
+      "ingredientes": [
+        {"nombre": "Spaghetti", "cantidad": "200", "unidad": "gramos"},
+        {"nombre": "Guanciale (o panceta curada)", "cantidad": "100", "unidad": "gramos"},
+        {"nombre": "Yemas de huevo", "cantidad": "4", "unidad": "unidades"},
+        {"nombre": "Queso Pecorino Romano rallado", "cantidad": "50", "unidad": "gramos"},
+        {"nombre": "Pimienta negra recién molida", "cantidad": "al gusto", "unidad": "cucharaditas"}
+      ],
+      "pasos": [
+        "1. Cortar el guanciale en tiras pequeñas y cocinarlas a fuego medio en una sartén sin aceite, hasta que estén crujientes. Retirar las tiras y reservar la grasa.",
+        "2. Cocinar la pasta en abundante agua con sal hasta que esté al dente.",
+        "3. Mientras, en un bol, batir las yemas de huevo con el queso Pecorino y abundante pimienta negra hasta obtener una crema espesa.",
+        "4. Escurrir la pasta (reservando media taza del agua de cocción) y añadirla inmediatamente a la sartén con la grasa caliente del guanciale (fuera del fuego).",
+        "5. Verter rápidamente la mezcla de huevo y queso sobre la pasta, removiendo sin parar y añadiendo poco a poco el agua de cocción reservada hasta que la salsa se emulsione y quede cremosa. (Asegúrese de que el calor residual de la sartén sea suficiente, pero no excesivo, para no cocer el huevo).",
+        "6. Servir inmediatamente y decorar con el guanciale crujiente reservado y más pimienta negra."
+      ]
+    },
+    {
+      "id_receta": "RC_POST_002",
+      "nombre_plato": "Brownies Clásicos de Chocolate",
+      "porciones": 9,
+      "tiempo_total_min": 50,
+      "ingredientes": [
+        {"nombre": "Mantequilla sin sal", "cantidad": "115", "unidad": "gramos"},
+        {"nombre": "Chocolate negro (70% cacao)", "cantidad": "170", "unidad": "gramos"},
+        {"nombre": "Azúcar blanco", "cantidad": "200", "unidad": "gramos"},
+        {"nombre": "Huevos grandes", "cantidad": "2", "unidad": "unidades"},
+        {"nombre": "Harina de trigo", "cantidad": "75", "unidad": "gramos"},
+        {"nombre": "Cacao en polvo", "cantidad": "15", "unidad": "gramos"},
+        {"nombre": "Extracto de vainilla", "cantidad": "1", "unidad": "cucharadita"},
+        {"nombre": "Sal", "cantidad": "1/2", "unidad": "cucharadita"}
+      ],
+      "pasos": [
+        "1. Precalentar el horno a 175°C (350°F). Engrasar y forrar un molde cuadrado de 20x20 cm.",
+        "2. Derretir la mantequilla y el chocolate troceado juntos al baño maría o en el microondas. Remover hasta que esté suave. Dejar enfriar ligeramente.",
+        "3. En un bol grande, batir los huevos con el azúcar y la vainilla hasta que estén bien combinados.",
+        "4. Incorporar la mezcla de chocolate derretido a la mezcla de huevo y remover suavemente.",
+        "5. Tamizar y añadir la harina, el cacao en polvo y la sal. Mezclar justo hasta que la harina se integre (no sobre-mezclar).",
+        "6. Verter la mezcla en el molde preparado y hornear durante 25-30 minutos, o hasta que un palillo insertado en el centro salga con migas húmedas (no líquido).",
+        "7. Dejar enfriar completamente antes de cortar y servir."
+      ]
+    }
+  ]
+}

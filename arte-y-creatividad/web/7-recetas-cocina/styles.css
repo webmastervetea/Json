@@ -1,0 +1,174 @@
+/* Variables CSS */
+:root {
+    --primary-color: #D32F2F; /* Rojo Oscuro (Comida/Calidez) */
+    --secondary-color: #FFB300; /* Ámbar (Acento) */
+    --background-color: #fcf8f6;
+    --card-background: #ffffff;
+    --text-color: #333333;
+    --text-light: #757575;
+    --shadow-light: rgba(0, 0, 0, 0.1);
+}
+
+/* Reset y Base */
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    background-color: var(--background-color);
+    color: var(--text-color);
+    line-height: 1.6;
+}
+
+/* Encabezado Principal */
+.main-header {
+    background-color: var(--primary-color);
+    color: white;
+    padding: 50px 20px;
+    text-align: center;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+}
+
+.main-header h1 {
+    font-size: 2.5em;
+    margin-bottom: 10px;
+}
+
+.main-header p {
+    font-size: 1.1em;
+    opacity: 0.9;
+}
+
+.version-tag {
+    display: inline-block;
+    margin-top: 10px;
+    padding: 5px 10px;
+    background-color: rgba(255, 255, 255, 0.2);
+    border-radius: 4px;
+    font-size: 0.8em;
+}
+
+/* Contenedor Principal */
+.container {
+    max-width: 900px;
+    margin: 40px auto;
+    padding: 0 20px;
+}
+
+/* Tarjeta de Receta */
+.recipe-card {
+    background-color: var(--card-background);
+    border-radius: 12px;
+    box-shadow: 0 4px 15px var(--shadow-light);
+    margin-bottom: 50px;
+    padding: 30px;
+    border-top: 5px solid var(--secondary-color);
+}
+
+.recipe-card h2 {
+    font-size: 2em;
+    color: var(--primary-color);
+    margin-bottom: 15px;
+}
+
+/* Metadata de la Receta (Flexbox) */
+.metadata {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #fffde7; /* Amarillo muy claro */
+    border: 1px solid #ffecb3;
+    padding: 15px 10px;
+    margin-bottom: 25px;
+    border-radius: 8px;
+    flex-wrap: wrap;
+}
+
+.meta-item {
+    text-align: center;
+    padding: 5px 10px;
+}
+
+.meta-item strong {
+    display: block;
+    font-size: 1.2em;
+    color: var(--secondary-color);
+}
+
+.meta-item span {
+    font-size: 0.8em;
+    color: var(--text-light);
+    text-transform: uppercase;
+}
+
+/* Secciones Ingredientes y Pasos */
+.section-title {
+    font-size: 1.4em;
+    color: var(--text-color);
+    margin-top: 25px;
+    margin-bottom: 15px;
+    border-bottom: 2px solid #eeeeee;
+    padding-bottom: 5px;
+}
+
+/* Lista de Ingredientes */
+.ingredients-list {
+    list-style: none;
+    padding-left: 0;
+}
+
+.ingredient-item {
+    display: flex;
+    justify-content: space-between;
+    padding: 8px 0;
+    border-bottom: 1px dotted #e0e0e0;
+}
+
+.ingredient-item:last-child {
+    border-bottom: none;
+}
+
+.ingredient-name {
+    font-weight: 500;
+}
+
+.ingredient-qty {
+    color: var(--primary-color);
+    font-weight: bold;
+}
+
+/* Lista de Pasos (Numerada) */
+.steps-list {
+    padding-left: 20px;
+}
+
+.steps-list li {
+    margin-bottom: 15px;
+    padding-left: 5px;
+    line-height: 1.5;
+    font-size: 1em;
+}
+
+/* Pie de Página */
+.main-footer {
+    text-align: center;
+    padding: 20px;
+    margin-top: 50px;
+    font-size: 0.9em;
+    color: var(--text-light);
+    border-top: 1px solid #ddd;
+    background-color: #eeeeee;
+}
+
+.main-footer a {
+    color: var(--primary-color);
+    text-decoration: none;
+    font-weight: 600;
+}
+
+.main-footer a:hover {
+    text-decoration: underline;
+}

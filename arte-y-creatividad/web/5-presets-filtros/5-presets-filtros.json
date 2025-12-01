@@ -1,0 +1,83 @@
+{
+  "titulo": "Parámetros de Configuración para Filtros de Imágenes",
+  "descripcion": "Ajustes estándar utilizados en software de edición de imágenes para modificar el color, tono y enfoque.",
+  "unidades_base": {
+    "brillo_contraste_exposicion": "Porcentaje (0-100 o -100 a 100)",
+    "color_y_tono": "Grados (Hue: 0-360) o Porcentaje (Saturación: 0-100)",
+    "enfoque": "Pixel o Porcentaje de radio"
+  },
+  "parametros_principales": [
+    {
+      "nombre_parametro": "Brillo",
+      "etiqueta_codigo": "brightness",
+      "rango_valor": [-100, 100],
+      "valor_defecto": 0,
+      "descripcion": "Ajusta la luminosidad general de la imagen. Un valor positivo aclara; un valor negativo oscurece."
+    },
+    {
+      "nombre_parametro": "Contraste",
+      "etiqueta_codigo": "contrast",
+      "rango_valor": [-100, 100],
+      "valor_defecto": 0,
+      "descripcion": "Define la diferencia tonal entre las áreas más claras y más oscuras. Un valor alto hace los negros más oscuros y los blancos más brillantes."
+    },
+    {
+      "nombre_parametro": "Saturación",
+      "etiqueta_codigo": "saturation",
+      "rango_valor": [0, 200],
+      "valor_defecto": 100,
+      "descripcion": "Intensidad o pureza de los colores. 0% desatura la imagen a escala de grises. 200% duplica la intensidad."
+    },
+    {
+      "nombre_parametro": "Tono (Hue)",
+      "etiqueta_codigo": "hue",
+      "rango_valor": [0, 360],
+      "valor_defecto": 0,
+      "descripcion": "Cambia el color base de la imagen a lo largo del círculo cromático (en grados)."
+    },
+    {
+      "nombre_parametro": "Exposición",
+      "etiqueta_codigo": "exposure",
+      "rango_valor": [-5, 5],
+      "valor_defecto": 0,
+      "descripcion": "Ajuste fino de la cantidad de luz percibida, simulando la apertura de una cámara."
+    },
+    {
+      "nombre_parametro": "Temperatura (K)",
+      "etiqueta_codigo": "temperature",
+      "rango_valor": [-100, 100],
+      "valor_defecto": 0,
+      "descripcion": "Mueve el balance de blancos hacia tonos cálidos (amarillos) o fríos (azules)."
+    },
+    {
+      "nombre_parametro": "Nitidez (Sharpness)",
+      "etiqueta_codigo": "sharpness",
+      "rango_valor": [0, 100],
+      "valor_defecto": 0,
+      "descripcion": "Aumenta la claridad de los bordes y detalles en la imagen."
+    },
+    {
+      "nombre_parametro": "Desenfoque (Blur)",
+      "etiqueta_codigo": "blur_radius",
+      "rango_valor": [0, 50],
+      "valor_defecto": 0,
+      "descripcion": "Aplica un desenfoque Gaussiano, medido generalmente por el radio en píxeles."
+    }
+  ],
+  "parametros_adicionales": [
+    {
+      "nombre_parametro": "Viñeta",
+      "etiqueta_codigo": "vignette_intensity",
+      "rango_valor": [0, 100],
+      "valor_defecto": 0,
+      "descripcion": "Oscurece o aclara los bordes de la imagen para enfocar la vista en el centro."
+    },
+    {
+      "nombre_parametro": "Grano / Ruido",
+      "etiqueta_codigo": "grain_amount",
+      "rango_valor": [0, 100],
+      "valor_defecto": 0,
+      "descripcion": "Añade ruido digital o fílmico para un efecto retro o analógico."
+    }
+  ]
+}

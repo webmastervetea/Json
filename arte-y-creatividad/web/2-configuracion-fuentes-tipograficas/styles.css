@@ -1,0 +1,180 @@
+/* Variables CSS */
+:root {
+    --primary-color: #3F51B5; /* Azul */
+    --secondary-color: #009688; /* Cian */
+    --background-color: #f4f7f6;
+    --card-background: #ffffff;
+    --text-color: #333333;
+    --text-light: #666666;
+    --shadow-light: rgba(0, 0, 0, 0.08);
+}
+
+/* Reset y Base */
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Roboto', Arial, sans-serif; /* Usamos Roboto como fallback principal */
+    background-color: var(--background-color);
+    color: var(--text-color);
+    line-height: 1.6;
+}
+
+/* Encabezado Principal */
+.main-header {
+    background-color: var(--primary-color);
+    color: white;
+    padding: 50px 20px;
+    text-align: center;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.main-header h1 {
+    font-size: 2.5em;
+    margin-bottom: 10px;
+}
+
+.main-header p {
+    font-size: 1.1em;
+    opacity: 0.9;
+}
+
+/* Contenedor y Grid */
+.container {
+    max-width: 1100px;
+    margin: 40px auto;
+    padding: 0 20px;
+}
+
+.fonts-grid {
+    display: grid;
+    /* 1 columna en móvil, 2 en escritorio */
+    grid-template-columns: repeat(auto-fit, minmax(450px, 1fr));
+    gap: 30px;
+}
+
+/* Estilo de la Tarjeta de Fuente */
+.font-card {
+    background-color: var(--card-background);
+    border-radius: 10px;
+    box-shadow: 0 2px 10px var(--shadow-light);
+    padding: 25px;
+    border-left: 5px solid var(--secondary-color);
+    transition: box-shadow 0.3s;
+}
+
+.font-card h2 {
+    font-size: 1.8em;
+    margin-bottom: 5px;
+    color: var(--primary-color);
+}
+
+.font-card p {
+    margin-bottom: 8px;
+    font-size: 0.95em;
+}
+
+.font-card p strong {
+    color: var(--text-color);
+    margin-right: 5px;
+}
+
+.font-card .note {
+    font-style: italic;
+    color: var(--text-light);
+    margin-top: 15px;
+    padding-top: 15px;
+    border-top: 1px dashed #eee;
+}
+
+/* Contenedor de Pesos */
+.weights-container {
+    margin-top: 15px;
+    padding-top: 10px;
+}
+
+.weights-container h3 {
+    font-size: 1.1em;
+    color: var(--text-color);
+    margin-bottom: 10px;
+    border-bottom: 2px solid #f0f0f0;
+    padding-bottom: 5px;
+}
+
+.weight-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 8px 0;
+}
+
+.weight-item span:first-child {
+    font-weight: bold;
+    min-width: 60px;
+}
+
+.weight-sample {
+    flex-grow: 1;
+    text-align: right;
+    padding: 5px 10px;
+    background-color: #f9f9f9;
+    border-radius: 4px;
+    margin-left: 15px;
+    font-size: 1.1em;
+}
+
+/* Estilo para la definición de peso */
+.info-section {
+    background-color: #e8eaf6; /* Un color suave para la información */
+    padding: 25px;
+    border-radius: 8px;
+    margin-top: 50px;
+    box-shadow: 0 2px 5px var(--shadow-light);
+}
+
+.info-section h2 {
+    color: var(--primary-color);
+    margin-bottom: 10px;
+    font-size: 1.6em;
+}
+
+.info-section p {
+    font-size: 1em;
+    line-height: 1.5;
+}
+
+.info-section p em {
+    font-weight: bold;
+}
+
+/* Pie de Página */
+.main-footer {
+    text-align: center;
+    padding: 20px;
+    margin-top: 50px;
+    font-size: 0.9em;
+    color: var(--text-light);
+    border-top: 1px solid #ddd;
+}
+
+.main-footer a {
+    color: var(--primary-color);
+    text-decoration: none;
+}
+
+.main-footer a:hover {
+    text-decoration: underline;
+}
+
+/* Responsividad (Ajuste para móviles) */
+@media (max-width: 768px) {
+    .fonts-grid {
+        grid-template-columns: 1fr;
+    }
+    .main-header h1 {
+        font-size: 2em;
+    }
+}

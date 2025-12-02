@@ -1,0 +1,55 @@
+[
+  {
+    "categoria": "General y Cuenta",
+    "id_categoria": "cat_001_general",
+    "preguntas": [
+      {
+        "pregunta": "¿Cómo puedo cambiar mi nombre de usuario o dirección de correo electrónico?",
+        "respuesta": "Puedes actualizar tu información de perfil navegando a 'Configuración de Cuenta' > 'Datos Personales'. Ten en cuenta que los cambios en el correo electrónico requerirán una verificación.",
+        "tags": ["perfil", "email", "usuario"]
+      },
+      {
+        "pregunta": "¿Qué debo hacer si olvidé mi contraseña?",
+        "respuesta": "En la pantalla de inicio de sesión, haz clic en '¿Olvidaste tu contraseña?' e introduce la dirección de correo electrónico asociada a tu cuenta para recibir un enlace de restablecimiento.",
+        "tags": ["seguridad", "acceso", "restablecer"]
+      }
+    ]
+  },
+  {
+    "categoria": "Facturación y Pagos",
+    "id_categoria": "cat_002_pagos",
+    "preguntas": [
+      {
+        "pregunta": "¿Cómo puedo actualizar mi método de pago?",
+        "respuesta": "Ve a 'Configuración de Facturación' y selecciona 'Métodos de Pago' para añadir una nueva tarjeta o actualizar una existente. Los pagos recurrentes se cargarán al método principal.",
+        "tags": ["tarjeta", "suscripción", "cobro"]
+      },
+      {
+        "pregunta": "¿Dónde puedo encontrar mis facturas anteriores?",
+        "respuesta": "Todas tus facturas se almacenan en la sección 'Historial de Facturación'. Puedes descargar cualquier factura en formato PDF.",
+        "tags": ["impuestos", "descargar", "historial"]
+      },
+      {
+        "pregunta": "¿Cuál es su política de reembolso?",
+        "respuesta": "Ofrecemos una garantía de devolución de dinero de 30 días para todos los planes anuales. Para solicitar un reembolso, contacta a nuestro equipo de soporte.",
+        "tags": ["devolución", "garantía", "planes"]
+      }
+    ]
+  },
+  {
+    "categoria": "Soporte Técnico y Solución de Problemas",
+    "id_categoria": "cat_003_soporte",
+    "preguntas": [
+      {
+        "pregunta": "¿Mi widget no se carga correctamente. ¿Qué puedo hacer?",
+        "respuesta": "Primero, intenta borrar la caché de tu navegador. Si el problema persiste, verifica si hay alguna notificación de mantenimiento en nuestro 'Estado del Sistema'.",
+        "tags": ["error", "caché", "widget", "solución"]
+      },
+      {
+        "pregunta": "¿Cómo puedo contactar al soporte técnico?",
+        "respuesta": "Puedes enviar un ticket de soporte a través del formulario en la sección 'Ayuda' o enviarnos un correo electrónico directamente a soporte@miempresa.com.",
+        "tags": ["contacto", "ticket", "ayuda"]
+      }
+    ]
+  }
+]

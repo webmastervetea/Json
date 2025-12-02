@@ -1,0 +1,57 @@
+[
+  {
+    "tarea_id": "job_001_backup",
+    "nombre": "Copia de Seguridad Diaria de la DB",
+    "frecuencia": "Diaria",
+    "schedule_cron": "0 2 * * *",
+    "hora_ejecucion": "02:00 AM (UTC)",
+    "accion": "Ejecutar script 'db_backup.sh'",
+    "habilitada": true,
+    "ultimo_exito": "2025-11-28T02:00:05Z",
+    "ultimo_fallo": null
+  },
+  {
+    "tarea_id": "job_002_report",
+    "nombre": "Generación de Informe Mensual de Ventas",
+    "frecuencia": "Mensual",
+    "schedule_cron": "0 8 1 * *",
+    "hora_ejecucion": "08:00 AM (UTC) el día 1 de cada mes",
+    "accion": "Ejecutar microservicio 'ReporteadorVentas'",
+    "habilitada": true,
+    "ultimo_exito": "2025-11-01T08:00:15Z",
+    "ultimo_fallo": null
+  },
+  {
+    "tarea_id": "job_003_cleanup",
+    "nombre": "Limpieza Semanal de Logs Antiguos",
+    "frecuencia": "Semanal",
+    "schedule_cron": "30 3 * * 0",
+    "hora_ejecucion": "03:30 AM (UTC) cada domingo",
+    "accion": "Eliminar archivos de log con más de 90 días de antigüedad",
+    "habilitada": true,
+    "ultimo_exito": "2025-11-24T03:30:08Z",
+    "ultimo_fallo": null
+  },
+  {
+    "tarea_id": "job_004_sync",
+    "nombre": "Sincronización de Inventario con Sistema Externo",
+    "frecuencia": "Cada 15 minutos",
+    "schedule_cron": "*/15 * * * *",
+    "hora_ejecucion": "Cada 15 minutos",
+    "accion": "Llamada a API externa para actualizar el stock",
+    "habilitada": false,
+    "ultimo_exito": "2025-11-28T10:15:00Z",
+    "ultimo_fallo": "2025-11-28T10:30:00Z"
+  },
+  {
+    "tarea_id": "job_005_notify",
+    "nombre": "Envío de Recordatorios de Pago Pendiente",
+    "frecuencia": "Entre Semana (L-V)",
+    "schedule_cron": "0 10 * * 1-5",
+    "hora_ejecucion": "10:00 AM (UTC) de Lunes a Viernes",
+    "accion": "Procesar cola de notificaciones y enviar correos",
+    "habilitada": true,
+    "ultimo_exito": "2025-11-28T10:00:09Z",
+    "ultimo_fallo": null
+  }
+]

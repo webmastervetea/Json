@@ -1,0 +1,38 @@
+[
+  {
+    "client_id": "app_web_frontend_001",
+    "nombre_aplicacion": "Interfaz Web Principal",
+    "client_secret": "CS_w3b_s3cr3t_2025_ABCD1234XYZ",
+    "tipo_grant": "authorization_code",
+    "redirect_uris": ["https://app.miempresa.com/auth/callback"],
+    "scopes_permitidos": ["read:profile", "write:data", "read:orders"],
+    "estado": "activo"
+  },
+  {
+    "client_id": "app_movil_ios_002",
+    "nombre_aplicacion": "Aplicación iOS Oficial",
+    "client_secret": "CS_m0b1l3_i0s_h4sh_EFGH5678IJKL",
+    "tipo_grant": "pkce",
+    "redirect_uris": ["miempresa-app://auth/callback"],
+    "scopes_permitidos": ["read:profile", "read:location"],
+    "estado": "activo"
+  },
+  {
+    "client_id": "app_cliente_externo_003",
+    "nombre_aplicacion": "Socio de Analíticas Externo",
+    "client_secret": "CS_3rd_p4rty_ANALYTICS_MNOP9012QRST",
+    "tipo_grant": "client_credentials",
+    "redirect_uris": [],
+    "scopes_permitidos": ["read:reports"],
+    "estado": "suspendido"
+  },
+  {
+    "client_id": "cli_tool_batch_004",
+    "nombre_aplicacion": "Herramienta de Línea de Comandos para Batch",
+    "client_secret": "CS_cli_B4tch_TOOL_UVWX3456YZAB",
+    "tipo_grant": "password",
+    "redirect_uris": [],
+    "scopes_permitidos": ["write:audit_logs"],
+    "estado": "activo"
+  }
+]

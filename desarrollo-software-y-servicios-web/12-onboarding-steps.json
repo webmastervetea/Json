@@ -1,0 +1,47 @@
+[
+  {
+    "paso_id": 1,
+    "titulo": "¡Bienvenido/a a la Plataforma!",
+    "texto_contenido": "Estamos encantados de tenerte. Este breve tour te mostrará las funciones clave para que empieces a trabajar de inmediato.",
+    "tipo_paso": "modal_bienvenida",
+    "fuerza_ejecucion": true,
+    "elemento_target": null,
+    "boton_siguiente_texto": "Comenzar Tour"
+  },
+  {
+    "paso_id": 2,
+    "titulo": "Tu Panel de Control (Dashboard)",
+    "texto_contenido": "Aquí verás un resumen de tu actividad, estadísticas clave y tareas pendientes. Es tu centro de operaciones.",
+    "tipo_paso": "tooltip",
+    "fuerza_ejecucion": true,
+    "elemento_target": "#main-dashboard-summary",
+    "boton_siguiente_texto": "Continuar"
+  },
+  {
+    "paso_id": 3,
+    "titulo": "Menú de Navegación",
+    "texto_contenido": "Usa este menú lateral para acceder a las secciones principales: Proyectos, Facturación y Configuración.",
+    "tipo_paso": "highlight",
+    "fuerza_ejecucion": true,
+    "elemento_target": "#sidebar-navigation",
+    "boton_siguiente_texto": "Continuar"
+  },
+  {
+    "paso_id": 4,
+    "titulo": "Configura tu Perfil",
+    "texto_contenido": "Antes de empezar, te recomendamos subir tu foto de perfil y configurar tus preferencias de zona horaria.",
+    "tipo_paso": "redireccion",
+    "fuerza_ejecucion": false,
+    "elemento_target": "/settings/profile",
+    "boton_siguiente_texto": "Ir a Configuración"
+  },
+  {
+    "paso_id": 5,
+    "titulo": "¿Necesitas Ayuda?",
+    "texto_contenido": "Si tienes preguntas, utiliza el icono de chat en la esquina inferior derecha o visita nuestra base de conocimientos.",
+    "tipo_paso": "tooltip",
+    "fuerza_ejecucion": true,
+    "elemento_target": "#help-chat-icon",
+    "boton_siguiente_texto": "Finalizar Tour"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "dispositivo": "Móvil Extra Pequeño (XS)",
+    "alias": "xs",
+    "ancho_minimo_px": 0,
+    "ancho_maximo_px": 575,
+    "orientacion": "Vertical/Horizontal",
+    "uso": "Teléfonos pequeños y modo vertical."
+  },
+  {
+    "dispositivo": "Móvil (Sm)",
+    "alias": "sm",
+    "ancho_minimo_px": 576,
+    "ancho_maximo_px": 767,
+    "orientacion": "Vertical/Horizontal",
+    "uso": "Teléfonos grandes, o el límite inferior de las tabletas."
+  },
+  {
+    "dispositivo": "Tableta (Md)",
+    "alias": "md",
+    "ancho_minimo_px": 768,
+    "ancho_maximo_px": 991,
+    "orientacion": "Horizontal",
+    "uso": "Tabletas en modo horizontal y monitores pequeños."
+  },
+  {
+    "dispositivo": "Escritorio Pequeño (Lg)",
+    "alias": "lg",
+    "ancho_minimo_px": 992,
+    "ancho_maximo_px": 1199,
+    "orientacion": "Horizontal",
+    "uso": "Portátiles estándar y monitores de escritorio promedio."
+  },
+  {
+    "dispositivo": "Escritorio Grande (Xl)",
+    "alias": "xl",
+    "ancho_minimo_px": 1200,
+    "ancho_maximo_px": 1399,
+    "orientacion": "Horizontal",
+    "uso": "Monitores grandes y configuraciones de doble pantalla."
+  },
+  {
+    "dispositivo": "Escritorio Extra Grande (XXL)",
+    "alias": "xxl",
+    "ancho_minimo_px": 1400,
+    "ancho_maximo_px": null,
+    "orientacion": "Horizontal",
+    "uso": "Monitores UltraWide y resoluciones muy altas."
+  }
+]

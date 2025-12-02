@@ -1,0 +1,51 @@
+[
+  {
+    "codigo_error": "AUTH-001",
+    "http_status": 401,
+    "tipo": "Autenticación",
+    "mensaje_tecnico": "Token de acceso inválido o expirado. El usuario no está autenticado.",
+    "mensaje_usuario": "Su sesión ha expirado o no tiene acceso. Por favor, inicie sesión nuevamente."
+  },
+  {
+    "codigo_error": "AUTH-002",
+    "http_status": 403,
+    "tipo": "Autorización",
+    "mensaje_tecnico": "Acceso denegado. El usuario no tiene los permisos necesarios (rol) para realizar esta acción.",
+    "mensaje_usuario": "No tiene permiso para ver este recurso o realizar esta acción."
+  },
+  {
+    "codigo_error": "RES-404",
+    "http_status": 404,
+    "tipo": "Recurso",
+    "mensaje_tecnico": "El recurso solicitado (ID o URL) no se encontró en el sistema.",
+    "mensaje_usuario": "El elemento que busca no existe o ha sido movido."
+  },
+  {
+    "codigo_error": "VAL-001",
+    "http_status": 400,
+    "tipo": "Validación",
+    "mensaje_tecnico": "Error de validación en los datos de entrada. Verifique los campos requeridos.",
+    "mensaje_usuario": "Verifique el formulario. Algunos datos son inválidos o faltan campos obligatorios."
+  },
+  {
+    "codigo_error": "DB-500",
+    "http_status": 500,
+    "tipo": "Servidor/Base de Datos",
+    "mensaje_tecnico": "Error interno del servidor. Fallo de conexión o consulta a la base de datos.",
+    "mensaje_usuario": "Ha ocurrido un error inesperado. Nuestro equipo ha sido notificado."
+  },
+  {
+    "codigo_error": "LIM-429",
+    "http_status": 429,
+    "tipo": "Límite de Peticiones",
+    "mensaje_tecnico": "Se excedió el límite de solicitudes (Rate Limit) para el usuario/IP.",
+    "mensaje_usuario": "Ha excedido el número máximo de solicitudes. Inténtelo de nuevo en unos minutos."
+  },
+  {
+    "codigo_error": "EXT-503",
+    "http_status": 503,
+    "tipo": "Servicio Externo",
+    "mensaje_tecnico": "El servicio externo requerido (ej. API de pago) no está disponible o respondió con un error.",
+    "mensaje_usuario": "No podemos completar la operación en este momento. Por favor, inténtelo más tarde."
+  }
+]

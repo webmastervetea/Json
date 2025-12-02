@@ -1,0 +1,44 @@
+[
+  {
+    "elemento_id": "btn_submit_form",
+    "nombre_elemento": "Botón Enviar Formulario",
+    "tooltip_texto": "Haga clic para validar y enviar la información ingresada. Todos los campos obligatorios deben estar completos.",
+    "longitud_maxima": 120,
+    "estado": "activo"
+  },
+  {
+    "elemento_id": "icon_info_user",
+    "nombre_elemento": "Icono de Información del Usuario",
+    "tooltip_texto": "Muestra el estado de la última sincronización de datos con la API externa.",
+    "longitud_maxima": 80,
+    "estado": "activo"
+  },
+  {
+    "elemento_id": "field_password_confirm",
+    "nombre_elemento": "Campo de Confirmación de Contraseña",
+    "tooltip_texto": "Debe coincidir exactamente con la contraseña que escribió arriba.",
+    "longitud_maxima": 60,
+    "estado": "activo"
+  },
+  {
+    "elemento_id": "chart_data_point",
+    "nombre_elemento": "Punto de Datos del Gráfico",
+    "tooltip_texto": "Valor: ${value} | Período: ${period}. (La información detallada se genera dinámicamente).",
+    "longitud_maxima": 150,
+    "estado": "activo"
+  },
+  {
+    "elemento_id": "link_reset_cache",
+    "nombre_elemento": "Enlace Restablecer Caché",
+    "tooltip_texto": "⚠️ Advertencia: Esto borrará la caché local de su navegador, forzando la recarga de todos los activos.",
+    "longitud_maxima": 100,
+    "estado": "activo"
+  },
+  {
+    "elemento_id": "col_header_timestamp",
+    "nombre_elemento": "Encabezado de Columna de Marca de Tiempo",
+    "tooltip_texto": "La marca de tiempo se muestra en su zona horaria local (${user_timezone}).",
+    "longitud_maxima": 90,
+    "estado": "activo"
+  }
+]

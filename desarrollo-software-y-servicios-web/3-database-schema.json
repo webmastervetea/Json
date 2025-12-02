@@ -1,0 +1,164 @@
+{
+  "esquema": "BaseDeDatosEjemplo",
+  "descripcion": "Definición del esquema para un sistema de gestión de pedidos simple.",
+  "tablas": [
+    {
+      "nombre": "Usuarios",
+      "descripcion": "Almacena información de los clientes y administradores.",
+      "campos": [
+        {
+          "nombre": "usuario_id",
+          "tipo": "SERIAL",
+          "restricciones": ["PRIMARY KEY", "NOT NULL"],
+          "descripcion": "Identificador único del usuario."
+        },
+        {
+          "nombre": "nombre_usuario",
+          "tipo": "VARCHAR(50)",
+          "restricciones": ["UNIQUE", "NOT NULL"],
+          "descripcion": "Nombre de usuario para el inicio de sesión."
+        },
+        {
+          "nombre": "email",
+          "tipo": "VARCHAR(100)",
+          "restricciones": ["UNIQUE", "NOT NULL"],
+          "descripcion": "Correo electrónico del usuario."
+        },
+        {
+          "nombre": "rol",
+          "tipo": "VARCHAR(20)",
+          "restricciones": ["NOT NULL"],
+          "descripcion": "Rol del usuario (e.g., 'cliente', 'admin')."
+        },
+        {
+          "nombre": "fecha_creacion",
+          "tipo": "TIMESTAMP",
+          "restricciones": ["DEFAULT CURRENT_TIMESTAMP"],
+          "descripcion": "Fecha y hora de registro."
+        }
+      ]
+    },
+    {
+      "nombre": "Pedidos",
+      "descripcion": "Almacena los pedidos realizados por los usuarios.",
+      "campos": [
+        {
+          "nombre": "pedido_id",
+          "tipo": "SERIAL",
+          "restricciones": ["PRIMARY KEY", "NOT NULL"],
+          "descripcion": "Identificador único del pedido."
+        },
+        {
+          "nombre": "usuario_id",
+          "tipo": "INTEGER",
+          "restricciones": ["FOREIGN KEY", "NOT NULL"],
+          "referencia": "Usuarios(usuario_id)",
+          "descripcion": "ID del usuario que realizó el pedido."
+        },
+        {
+          "nombre": "fecha_pedido",
+          "tipo": "DATE",
+          "restricciones": ["NOT NULL"],
+          "descripcion": "Fecha en que se realizó el pedido."
+        },
+        {
+          "nombre": "estado",
+          "tipo": "VARCHAR(30)",
+          "restricciones": ["NOT NULL"],
+          "descripcion": "Estado actual del pedido (e.g., 'pendiente', 'enviado')."
+        },
+        {
+          "nombre": "total",
+          "tipo": "DECIMAL(10, 2)",
+          "restricciones": ["NOT NULL", "CHECK (total >= 0)"],
+          "descripcion": "Monto total del pedido."
+        }
+      ]
+    },
+    {
+      "nombre": "Productos",
+      "descripcion": "Catálogo de productos disponibles.",
+      "campos": [
+        {
+          "nombre": "producto_id",
+          "tipo": "SERIAL",
+          "restricciones": ["PRIMARY KEY", "NOT NULL"],
+          "descripcion": "Identificador único del producto."
+        },
+        {
+          "nombre": "nombre",
+          "tipo": "VARCHAR(100)",
+          "restricciones": ["UNIQUE", "NOT NULL"],
+          "descripcion": "Nombre del producto."
+        },
+        {
+          "nombre": "precio_unitario",
+          "tipo": "DECIMAL(8, 2)",
+          "restricciones": ["NOT NULL", "CHECK (precio_unitario > 0)"],
+          "descripcion": "Precio de una unidad del producto."
+        },
+        {
+          "nombre": "stock",
+          "tipo": "INTEGER",
+          "restricciones": ["NOT NULL", "DEFAULT 0"],
+          "descripcion": "Cantidad de unidades en stock."
+        }
+      ]
+    },
+    {
+      "nombre": "DetallePedido",
+      "descripcion": "Tabla de unión para los productos dentro de cada pedido.",
+      "campos": [
+        {
+          "nombre": "detalle_id",
+          "tipo": "SERIAL",
+          "restricciones": ["PRIMARY KEY", "NOT NULL"],
+          "descripcion": "Identificador único del detalle."
+        },
+        {
+          "nombre": "pedido_id",
+          "tipo": "INTEGER",
+          "restricciones": ["FOREIGN KEY", "NOT NULL"],
+          "referencia": "Pedidos(pedido_id)",
+          "descripcion": "ID del pedido al que pertenece el detalle."
+        },
+        {
+          "nombre": "producto_id",
+          "tipo": "INTEGER",
+          "restricciones": ["FOREIGN KEY", "NOT NULL"],
+          "referencia": "Productos(producto_id)",
+          "descripcion": "ID del producto incluido."
+        },
+        {
+          "nombre": "cantidad",
+          "tipo": "INTEGER",
+          "restricciones": ["NOT NULL", "CHECK (cantidad > 0)"],
+          "descripcion": "Cantidad de unidades de este producto en el pedido."
+        }
+      ]
+    }
+  ],
+  "relaciones": [
+    {
+      "nombre": "Usuario_Hace_Pedido",
+      "origen": "Pedidos",
+      "destino": "Usuarios",
+      "campo_origen": "usuario_id",
+      "tipo_relacion": "Uno a Muchos"
+    },
+    {
+      "nombre": "Pedido_Contiene_Productos",
+      "origen": "DetallePedido",
+      "destino": "Pedidos",
+      "campo_origen": "pedido_id",
+      "tipo_relacion": "Muchos a Uno (a través de DetallePedido)"
+    },
+    {
+      "nombre": "Producto_en_Detalle",
+      "origen": "DetallePedido",
+      "destino": "Productos",
+      "campo_origen": "producto_id",
+      "tipo_relacion": "Muchos a Uno (a través de DetallePedido)"
+    }
+  ]
+}

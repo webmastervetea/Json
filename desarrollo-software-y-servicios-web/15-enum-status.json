@@ -1,0 +1,38 @@
+[
+  {
+    "estado_id": 1,
+    "nombre_clave": "ACTIVO",
+    "etiqueta_ui": "Activo",
+    "descripcion": "El elemento o entidad está plenamente operativo y disponible para su uso normal."
+  },
+  {
+    "estado_id": 2,
+    "nombre_clave": "INACTIVO",
+    "etiqueta_ui": "Inactivo",
+    "descripcion": "El elemento o entidad existe pero está deshabilitado o suspendido. No está operativo, pero puede reactivarse."
+  },
+  {
+    "estado_id": 3,
+    "nombre_clave": "PENDIENTE",
+    "etiqueta_ui": "Pendiente de Verificación",
+    "descripcion": "El elemento o entidad ha sido creado, pero espera una acción externa para ser activado (ej. verificación de correo, aprobación de administrador)."
+  },
+  {
+    "estado_id": 4,
+    "nombre_clave": "BORRADOR",
+    "etiqueta_ui": "Borrador",
+    "descripcion": "Un estado temporal donde la entidad se está creando pero no es visible ni finalizada (ej. un artículo de blog o una factura)."
+  },
+  {
+    "estado_id": 5,
+    "nombre_clave": "ARCHIVADO",
+    "etiqueta_ui": "Archivado",
+    "descripcion": "El elemento ya no es relevante o se ha completado, y se mueve a un almacenamiento de largo plazo, pero no se elimina."
+  },
+  {
+    "estado_id": 6,
+    "nombre_clave": "ELIMINADO",
+    "etiqueta_ui": "Eliminado (Lógico)",
+    "descripcion": "La entidad ha sido marcada para su eliminación. A menudo es una 'eliminación suave' o lógica (soft-delete), no física."
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "nivel_id": 100,
+    "nombre": "TRACE",
+    "descripcion": "El nivel más detallado. Se utiliza para depuración muy fina, mostrando el flujo interno de la aplicación. Puede incluir valores de variables."
+  },
+  {
+    "nivel_id": 200,
+    "nombre": "DEBUG",
+    "descripcion": "Información detallada sobre el diagnóstico. Útil durante el desarrollo para rastrear problemas, pero generalmente se deshabilita en producción."
+  },
+  {
+    "nivel_id": 300,
+    "nombre": "INFO",
+    "descripcion": "Mensajes que destacan el progreso de la aplicación. Confirman que las cosas funcionan como se espera (ej. 'Usuario inició sesión', 'Archivo procesado')."
+  },
+  {
+    "nivel_id": 400,
+    "nombre": "WARN",
+    "descripcion": "Indica un evento potencialmente dañino que no interrumpió la ejecución, pero que debe ser revisado (ej. 'Conexión lenta', 'Configuración obsoleta')."
+  },
+  {
+    "nivel_id": 500,
+    "nombre": "ERROR",
+    "descripcion": "Un evento grave que interrumpió una parte de la funcionalidad, pero la aplicación en general puede continuar operando (ej. 'Fallo al escribir en la base de datos')."
+  },
+  {
+    "nivel_id": 600,
+    "nombre": "FATAL",
+    "descripcion": "Un evento muy severo que probablemente cause la terminación o un fallo irrecuperable de la aplicación o del sistema (ej. 'Memoria agotada', 'Fallo de integridad crítica')."
+  },
+  {
+    "nivel_id": 700,
+    "nombre": "OFF",
+    "descripcion": "El nivel más alto, que desactiva todo el registro. Ningún mensaje de registro será emitido."
+  }
+]

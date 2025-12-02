@@ -1,0 +1,62 @@
+[
+  {
+    "orden": 1,
+    "nombre": "LoggerMiddleware",
+    "proposito": "Registra el inicio y detalles de cada solicitud (método, URL, timestamp).",
+    "habilitado": true,
+    "configuracion": {
+      "nivel_logging": "INFO",
+      "formato": ":method :url :status :response-time ms"
+    }
+  },
+  {
+    "orden": 2,
+    "nombre": "SecurityHeadersMiddleware",
+    "proposito": "Establece cabeceras de seguridad HTTP, como CSP, X-Frame-Options y HSTS.",
+    "habilitado": true,
+    "configuracion": {
+      "x_frame_options": "DENY",
+      "hsts_max_age": 31536000,
+      "csp_activado": true
+    }
+  },
+  {
+    "orden": 3,
+    "nombre": "RateLimiterMiddleware",
+    "proposito": "Limita el número de solicitudes por IP para prevenir ataques de fuerza bruta o abuso.",
+    "habilitado": true,
+    "configuracion": {
+      "limite_solicitudes": 100,
+      "ventana_tiempo_segundos": 60
+    }
+  },
+  {
+    "orden": 4,
+    "nombre": "AuthenticationMiddleware",
+    "proposito": "Verifica el token de sesión o JWT, y adjunta la identidad del usuario a la solicitud (req.user).",
+    "habilitado": true,
+    "configuracion": {
+      "excluir_rutas": ["/login", "/register", "/healthcheck"],
+      "tipo_token": "Bearer"
+    }
+  },
+  {
+    "orden": 5,
+    "nombre": "BodyParserMiddleware",
+    "proposito": "Procesa el cuerpo de la solicitud (JSON, formularios) y lo adjunta a req.body.",
+    "habilitado": true,
+    "configuracion": {
+      "max_tamano_mb": 5,
+      "tipos_mime": ["application/json", "application/x-www-form-urlencoded"]
+    }
+  },
+  {
+    "orden": 6,
+    "nombre": "AuthorizationMiddleware",
+    "proposito": "Verifica los permisos o roles del usuario autenticado antes de permitir el acceso al *handler* de la ruta.",
+    "habilitado": true,
+    "configuracion": {
+      "reglas_por_rol": "Definidas en código (ej. solo 'admin' puede acceder a /admin/*)"
+    }
+  }
+]

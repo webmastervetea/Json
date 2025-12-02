@@ -1,0 +1,36 @@
+{
+  "usuario_id_ficticio": "new_user_temp_001",
+  "version_configuracion": "1.2.0",
+  "preferencias_generales": {
+    "idioma_principal": "es-ES",
+    "zona_horaria": "Europe/Madrid",
+    "formato_fecha": "DD/MM/YYYY",
+    "tema_visual": "system_default",
+    "modo_accesibilidad": false
+  },
+  "preferencias_notificaciones": {
+    "email_notificaciones_activado": true,
+    "email_marketing_activado": false,
+    "notificaciones_push_activadas": true,
+    "frecuencia_resumen_semanal": "lunes"
+  },
+  "preferencias_interfaz": {
+    "mostrar_tooltips": true,
+    "densidad_interfaz": "estandar",
+    "orden_widgets_dashboard": [
+      "estadisticas",
+      "tareas_pendientes",
+      "actividad_reciente"
+    ],
+    "sidebar_contraida": false
+  },
+  "preferencias_seguridad": {
+    "requerir_mfa_login": false,
+    "alerta_nuevos_dispositivos": true,
+    "tiempo_expiracion_sesion_minutos": 120
+  },
+  "preferencias_privacidad": {
+    "datos_compartidos_analisis": false,
+    "visibilidad_perfil": "privado"
+  }
+}

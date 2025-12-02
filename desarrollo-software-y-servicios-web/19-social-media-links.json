@@ -1,0 +1,51 @@
+[
+  {
+    "plataforma": "LinkedIn",
+    "nombre_usuario": "MiEmpresaOficial",
+    "url": "https://www.linkedin.com/company/miempresaoficial/",
+    "icono": "linkedin-in",
+    "visibilidad": "publico"
+  },
+  {
+    "plataforma": "X (Twitter)",
+    "nombre_usuario": "@MiEmpresaNews",
+    "url": "https://x.com/MiEmpresaNews",
+    "icono": "x-twitter",
+    "visibilidad": "publico"
+  },
+  {
+    "plataforma": "Instagram",
+    "nombre_usuario": "miempresa.fotos",
+    "url": "https://www.instagram.com/miempresa.fotos/",
+    "icono": "instagram",
+    "visibilidad": "publico"
+  },
+  {
+    "plataforma": "Facebook",
+    "nombre_usuario": "MiEmpresaOficialPage",
+    "url": "https://www.facebook.com/MiEmpresaOficialPage/",
+    "icono": "facebook-f",
+    "visibilidad": "publico"
+  },
+  {
+    "plataforma": "YouTube",
+    "nombre_usuario": "MiEmpresaCanal",
+    "url": "https://www.youtube.com/@MiEmpresaCanal",
+    "icono": "youtube",
+    "visibilidad": "publico"
+  },
+  {
+    "plataforma": "GitHub",
+    "nombre_usuario": "MiEmpresaDev",
+    "url": "https://github.com/MiEmpresaDev",
+    "icono": "github",
+    "visibilidad": "privado"
+  },
+  {
+    "plataforma": "TikTok",
+    "nombre_usuario": "@MiEmpresa_clips",
+    "url": "https://www.tiktok.com/@MiEmpresa_clips",
+    "icono": "tiktok",
+    "visibilidad": "publico"
+  }
+]

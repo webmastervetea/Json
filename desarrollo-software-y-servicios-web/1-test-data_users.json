@@ -1,0 +1,47 @@
+[
+  {
+    "id": 101,
+    "nombre_usuario": "alpha_tester",
+    "nombre_completo": "Ariadna López García",
+    "email": "ariadna.lg@example.com",
+    "fecha_registro": "2024-01-15T10:30:00Z",
+    "activo": true,
+    "rol": "administrador"
+  },
+  {
+    "id": 102,
+    "nombre_usuario": "beta_user_77",
+    "nombre_completo": "Benito Martínez Ruiz",
+    "email": "benito.m.ruiz@example.com",
+    "fecha_registro": "2024-02-20T14:45:00Z",
+    "activo": true,
+    "rol": "usuario_estandar"
+  },
+  {
+    "id": 103,
+    "nombre_usuario": "guest_account",
+    "nombre_completo": "Clara Sánchez Pérez",
+    "email": "clara.sp@example.com",
+    "fecha_registro": "2024-03-01T09:00:00Z",
+    "activo": false,
+    "rol": "invitado"
+  },
+  {
+    "id": 104,
+    "nombre_usuario": "power_dev",
+    "nombre_completo": "Daniel Torres Gil",
+    "email": "daniel.t.g@example.com",
+    "fecha_registro": "2024-04-10T11:20:00Z",
+    "activo": true,
+    "rol": "desarrollador"
+  },
+  {
+    "id": 105,
+    "nombre_usuario": "inactive_test",
+    "nombre_completo": "Elena Ferrer Díaz",
+    "email": "elena.fd@example.com",
+    "fecha_registro": "2024-05-05T16:00:00Z",
+    "activo": false,
+    "rol": "usuario_estandar"
+  }
+]

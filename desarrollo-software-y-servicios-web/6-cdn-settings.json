@@ -1,0 +1,68 @@
+{
+  "nombre_perfil": "CDN_Produccion_Principal",
+  "estado": "Activo",
+  "origenes": [
+    {
+      "nombre": "Servidor_Web_Principal",
+      "host": "api.tuaplicacion.com",
+      "puerto": 443,
+      "protocolo": "HTTPS",
+      "fallback": false
+    },
+    {
+      "nombre": "Servidor_Secundario_Geo",
+      "host": "backup-geo.tuaplicacion.com",
+      "puerto": 8080,
+      "protocolo": "HTTP",
+      "fallback": true
+    }
+  ],
+  "politicas_cache": [
+    {
+      "ruta": "/assets/*.css",
+      "ttl_segundos": 86400,
+      "cache_query_strings": false,
+      "headers_cache": ["Content-Type", "Etag"]
+    },
+    {
+      "ruta": "/media/images/*",
+      "ttl_segundos": 604800,
+      "cache_query_strings": true,
+      "headers_cache": ["Content-Encoding"]
+    },
+    {
+      "ruta": "/api/public/*",
+      "ttl_segundos": 300,
+      "cache_query_strings": true,
+      "headers_cache": ["Authorization"],
+      "comportamiento_no_cache": "Passthrough"
+    }
+  ],
+  "optimizacion_rendimiento": {
+    "compresion_gzip": true,
+    "compresion_brotli": true,
+    "minificacion_automatica": false,
+    "http2_activado": true
+  },
+  "seguridad": {
+    "ssl_tls": {
+      "version_minima": "TLSv1.2",
+      "certificado": "Gestionado por CDN (Let's Encrypt)"
+    },
+    "rate_limiting": {
+      "activado": true,
+      "limite_por_ip_por_minuto": 100
+    },
+    "restricciones_geo": {
+      "activado": false,
+      "paises_bloqueados": ["KP", "IR"]
+    }
+  },
+  "reglas_redireccion": [
+    {
+      "origen": "/old-path/*",
+      "destino": "/new-path/$1",
+      "codigo_http": 301
+    }
+  ]
+}

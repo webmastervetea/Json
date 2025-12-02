@@ -1,0 +1,54 @@
+{
+  "status": 200,
+  "mensaje": "Datos recuperados exitosamente.",
+  "metadata": {
+    "total_registros": 5,
+    "paginacion": {
+      "pagina_actual": 1,
+      "limite_por_pagina": 10
+    },
+    "timestamp": "2025-11-29T06:18:01Z"
+  },
+  "datos": [
+    {
+      "id": "A101",
+      "nombre": "Laptop Ultraligera Pro",
+      "categoria": "Electrónica",
+      "precio": 1250.50,
+      "disponible": true,
+      "etiquetas": ["premium", "nuevo", "stock_alto"]
+    },
+    {
+      "id": "B205",
+      "nombre": "Teclado Mecánico Retro",
+      "categoria": "Accesorios",
+      "precio": 99.99,
+      "disponible": true,
+      "etiquetas": ["oferta", "stock_bajo"]
+    },
+    {
+      "id": "C330",
+      "nombre": "Monitor 4K Curvo XZ",
+      "categoria": "Electrónica",
+      "precio": 450.00,
+      "disponible": false,
+      "etiquetas": ["agotado"]
+    },
+    {
+      "id": "D412",
+      "nombre": "Ratón Ergonómico Inalámbrico",
+      "categoria": "Accesorios",
+      "precio": 35.75,
+      "disponible": true,
+      "etiquetas": ["estandar", "mas_vendido"]
+    },
+    {
+      "id": "E500",
+      "nombre": "Licencia Software Dev",
+      "categoria": "Software",
+      "precio": 199.00,
+      "disponible": true,
+      "etiquetas": ["digital", "licencia_anual"]
+    }
+  ]
+}

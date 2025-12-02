@@ -1,0 +1,103 @@
+[
+  {
+    "campo_id": "username",
+    "nombre_legible": "Nombre de Usuario",
+    "reglas": [
+      {
+        "tipo": "requerido",
+        "habilitado": true,
+        "mensaje_error": "El nombre de usuario es obligatorio."
+      },
+      {
+        "tipo": "longitud_min",
+        "valor": 4,
+        "habilitado": true,
+        "mensaje_error": "Debe tener al menos 4 caracteres."
+      },
+      {
+        "tipo": "expresion_regular",
+        "valor": "^[a-zA-Z0-9_]+$",
+        "habilitado": true,
+        "mensaje_error": "Solo se permiten letras, números y guiones bajos."
+      }
+    ]
+  },
+  {
+    "campo_id": "email",
+    "nombre_legible": "Correo Electrónico",
+    "reglas": [
+      {
+        "tipo": "requerido",
+        "habilitado": true,
+        "mensaje_error": "El correo electrónico es obligatorio."
+      },
+      {
+        "tipo": "formato_email",
+        "habilitado": true,
+        "mensaje_error": "Debe ser un formato de correo electrónico válido (ej. usuario@dominio.com)."
+      }
+    ]
+  },
+  {
+    "campo_id": "password",
+    "nombre_legible": "Contraseña",
+    "reglas": [
+      {
+        "tipo": "requerido",
+        "habilitado": true,
+        "mensaje_error": "La contraseña es obligatoria."
+      },
+      {
+        "tipo": "longitud_min",
+        "valor": 8,
+        "habilitado": true,
+        "mensaje_error": "Debe tener al menos 8 caracteres."
+      },
+      {
+        "tipo": "contiene_mayuscula",
+        "habilitado": true,
+        "mensaje_error": "Debe contener al menos una letra mayúscula."
+      },
+      {
+        "tipo": "contiene_numero",
+        "habilitado": true,
+        "mensaje_error": "Debe contener al menos un número."
+      }
+    ]
+  },
+  {
+    "campo_id": "age",
+    "nombre_legible": "Edad",
+    "reglas": [
+      {
+        "tipo": "requerido",
+        "habilitado": true,
+        "mensaje_error": "La edad es obligatoria."
+      },
+      {
+        "tipo": "rango_numerico",
+        "min": 18,
+        "max": 120,
+        "habilitado": true,
+        "mensaje_error": "La edad debe estar entre 18 y 120."
+      }
+    ]
+  },
+  {
+    "campo_id": "zip_code",
+    "nombre_legible": "Código Postal",
+    "reglas": [
+      {
+        "tipo": "longitud_fija",
+        "valor": 5,
+        "habilitado": true,
+        "mensaje_error": "Debe tener exactamente 5 dígitos."
+      },
+      {
+        "tipo": "solo_numeros",
+        "habilitado": true,
+        "mensaje_error": "Solo se permiten números."
+      }
+    ]
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "webhook_id": "wh_001_pagos",
+    "nombre": "Notificación de Pagos a CRM",
+    "url_destino": "https://crm.servicioexterno.com/api/webhooks/pagos",
+    "eventos_suscritos": [
+      "pago.completado",
+      "pago.fallido",
+      "suscripcion.renovada"
+    ],
+    "estado": "activo",
+    "secreto_firma": "sh_s3cr3t_p4y_001A",
+    "version_api": "v1.0"
+  },
+  {
+    "webhook_id": "wh_002_user_sync",
+    "nombre": "Sincronización de Usuarios con Sistema de Marketing",
+    "url_destino": "https://marketing.otraplataforma.net/user/update-hook",
+    "eventos_suscritos": [
+      "usuario.creado",
+      "usuario.actualizado",
+      "usuario.eliminado"
+    ],
+    "estado": "activo",
+    "secreto_firma": "sh_m4rk3t1ng_S3C",
+    "version_api": "v2.1"
+  },
+  {
+    "webhook_id": "wh_003_errores_slack",
+    "nombre": "Alertas Críticas a Canal de Slack",
+    "url_destino": "https://hooks.slack.com/services/T00000000/B00000000/XXXXXXXXXXXXXX",
+    "eventos_suscritos": [
+      "sistema.error_fatal",
+      "sistema.alerta_stock_critico"
+    ],
+    "estado": "inactivo",
+    "secreto_firma": null,
+    "version_api": "v1.0"
+  },
+  {
+    "webhook_id": "wh_004_inventario",
+    "nombre": "Actualización de Inventario a ERP",
+    "url_destino": "https://erp.miempresa.local/inventory-hook",
+    "eventos_suscritos": [
+      "producto.stock_cambiado",
+      "producto.archivado"
+    ],
+    "estado": "activo",
+    "secreto_firma": "sh_ERP_INV_5E7",
+    "version_api": "v1.0"
+  }
+]

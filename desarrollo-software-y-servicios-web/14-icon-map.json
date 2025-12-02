@@ -1,0 +1,51 @@
+[
+  {
+    "nombre_logico": "user-profile",
+    "descripcion": "Icono de perfil o usuario genérico.",
+    "archivo_svg": "ic_user_circle_24px.svg",
+    "categoria": "General",
+    "tags": ["perfil", "cuenta", "usuario"]
+  },
+  {
+    "nombre_logico": "settings-gear",
+    "descripcion": "Icono de configuración o ajustes.",
+    "archivo_svg": "ic_settings_gear_32px.svg",
+    "categoria": "Configuración",
+    "tags": ["ajustes", "engranaje", "preferencias"]
+  },
+  {
+    "nombre_logico": "notification-bell",
+    "descripcion": "Icono de notificaciones o alertas.",
+    "archivo_svg": "ic_notification_bell_outline.svg",
+    "categoria": "Interacción",
+    "tags": ["campana", "alerta", "mensaje"]
+  },
+  {
+    "nombre_logico": "download-arrow",
+    "descripcion": "Icono de descarga de archivos.",
+    "archivo_svg": "ic_arrow_down_cloud_18px.svg",
+    "categoria": "Acciones",
+    "tags": ["bajar", "guardar", "exportar"]
+  },
+  {
+    "nombre_logico": "trash-can",
+    "descripcion": "Icono de eliminar o borrar permanentemente.",
+    "archivo_svg": "ic_trash_can_filled.svg",
+    "categoria": "Acciones",
+    "tags": ["borrar", "eliminar", "papelera"]
+  },
+  {
+    "nombre_logico": "info-circle",
+    "descripcion": "Icono de información o ayuda.",
+    "archivo_svg": "ic_info_circle_solid.svg",
+    "categoria": "General",
+    "tags": ["ayuda", "detalles", "pregunta"]
+  },
+  {
+    "nombre_logico": "lock-closed",
+    "descripcion": "Icono que indica seguridad o acceso restringido.",
+    "archivo_svg": "ic_lock_closed_24px.svg",
+    "categoria": "Seguridad",
+    "tags": ["candado", "privado", "acceso"]
+  }
+]

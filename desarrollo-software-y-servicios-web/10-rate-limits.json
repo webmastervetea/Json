@@ -1,0 +1,52 @@
+[
+  {
+    "regla_id": "rl_001_default_user",
+    "nombre": "Límite Estándar por IP",
+    "aplicacion_a": "IP",
+    "ruta_match": "*",
+    "limite": 100,
+    "ventana_segundos": 60,
+    "estado": "activo",
+    "notas": "Límite predeterminado para usuarios no autenticados o rutas generales."
+  },
+  {
+    "regla_id": "rl_002_premium_api",
+    "nombre": "Límite Alto para Clientes Premium",
+    "aplicacion_a": "Usuario Autenticado (Rol: Premium)",
+    "ruta_match": "/api/v1/data/*",
+    "limite": 500,
+    "ventana_segundos": 60,
+    "estado": "activo",
+    "notas": "Permite 500 solicitudes por minuto para cuentas con el plan Premium."
+  },
+  {
+    "regla_id": "rl_003_login_route",
+    "nombre": "Límite Agresivo para Inicio de Sesión",
+    "aplicacion_a": "IP",
+    "ruta_match": "/auth/login",
+    "limite": 5,
+    "ventana_segundos": 300,
+    "estado": "activo",
+    "notas": "Previene ataques de fuerza bruta. Solo 5 intentos fallidos cada 5 minutos por IP."
+  },
+  {
+    "regla_id": "rl_004_media_downloads",
+    "nombre": "Límite Relajado para Archivos Estáticos",
+    "aplicacion_a": "IP",
+    "ruta_match": "/assets/media/*",
+    "limite": 2000,
+    "ventana_segundos": 3600,
+    "estado": "activo",
+    "notas": "Permite muchas solicitudes por hora (archivos estáticos grandes)."
+  },
+  {
+    "regla_id": "rl_005_internal_service",
+    "nombre": "Servicio Interno (Sin Límite)",
+    "aplicacion_a": "IP (Whitelist Interna)",
+    "ruta_match": "/api/v1/internal/*",
+    "limite": -1,
+    "ventana_segundos": 60,
+    "estado": "activo",
+    "notas": "Valor -1 o 0 indica que no hay límite para IPs de confianza."
+  }
+]

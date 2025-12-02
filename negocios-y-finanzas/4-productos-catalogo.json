@@ -1,0 +1,62 @@
+{
+  "titulo": "Inventario y Lista de Artículos de Venta",
+  "almacen_id": "ALM_001",
+  "fecha_actualizacion": "2025-11-28T08:28:08Z",
+  "productos": [
+    {
+      "sku": "ELEC-LT-PRO-01",
+      "nombre": "Laptop Gamer Pro X200",
+      "descripcion": "Portátil de alto rendimiento con tarjeta gráfica dedicada.",
+      "precio_unitario": 1299.99,
+      "stock_disponible": 15,
+      "categoria": "Electrónica"
+    },
+    {
+      "sku": "ROPA-CAM-ALG-S",
+      "nombre": "Camiseta Algodón Clásica (S)",
+      "descripcion": "Camiseta básica de algodón 100%, talla Small.",
+      "precio_unitario": 19.50,
+      "stock_disponible": 75,
+      "categoria": "Ropa"
+    },
+    {
+      "sku": "HOGAR-LIC-005",
+      "nombre": "Licuadora Industrial V5000",
+      "descripcion": "Licuadora de alta potencia para uso comercial o doméstico intensivo.",
+      "precio_unitario": 89.90,
+      "stock_disponible": 5,
+      "categoria": "Electrodomésticos"
+    },
+    {
+      "sku": "LIBRO-FIC-045",
+      "nombre": "Novela: Crónicas de Aethel",
+      "descripcion": "Libro de tapa dura, género fantasía épica.",
+      "precio_unitario": 24.95,
+      "stock_disponible": 200,
+      "categoria": "Libros"
+    },
+    {
+      "sku": "ELEC-AUD-ANC-12",
+      "nombre": "Auriculares Inalámbricos Noise-Cancelling",
+      "descripcion": "Audífonos con cancelación de ruido y batería de larga duración.",
+      "precio_unitario": 149.99,
+      "stock_disponible": 40,
+      "categoria": "Electrónica"
+    },
+    {
+      "sku": "ROPA-PANT-JEAN-32",
+      "nombre": "Pantalón Denim Clásico (Talla 32)",
+      "descripcion": "Pantalón vaquero de corte recto, color azul oscuro.",
+      "precio_unitario": 55.00,
+      "stock_disponible": 30,
+      "categoria": "Ropa"
+    }
+  ],
+  "definicion_campos": [
+    {"campo": "sku", "descripcion": "Stock Keeping Unit: Identificador de producto único para inventario."},
+    {"campo": "nombre", "descripcion": "Nombre comercial del artículo."},
+    {"campo": "precio_unitario", "descripcion": "Costo de venta por unidad."},
+    {"campo": "stock_disponible", "descripcion": "Cantidad de unidades en el inventario actual."},
+    {"campo": "categoria", "descripcion": "Clasificación general del producto."}
+  ]
+}

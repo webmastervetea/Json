@@ -1,0 +1,60 @@
+{
+  "titulo": "Datos Bursátiles Diarios (Apertura y Cierre)",
+  "fecha_de_negociacion": "2025-11-27",
+  "moneda": "USD",
+  "datos_acciones": [
+    {
+      "ticker": "AAPL",
+      "nombre_compania": "Apple Inc.",
+      "apertura": 185.30,
+      "cierre": 187.15,
+      "maximo_del_dia": 187.90,
+      "minimo_del_dia": 184.55,
+      "volumen_transado": 65432100
+    },
+    {
+      "ticker": "GOOGL",
+      "nombre_compania": "Alphabet Inc. (Clase A)",
+      "apertura": 135.95,
+      "cierre": 134.80,
+      "maximo_del_dia": 136.20,
+      "minimo_del_dia": 134.50,
+      "volumen_transado": 23456700
+    },
+    {
+      "ticker": "AMZN",
+      "nombre_compania": "Amazon.com, Inc.",
+      "apertura": 145.10,
+      "cierre": 146.55,
+      "maximo_del_dia": 147.00,
+      "minimo_del_dia": 144.90,
+      "volumen_transado": 45678900
+    },
+    {
+      "ticker": "MSFT",
+      "nombre_compania": "Microsoft Corp.",
+      "apertura": 378.05,
+      "cierre": 379.88,
+      "maximo_del_dia": 380.10,
+      "minimo_del_dia": 377.50,
+      "volumen_transado": 35789000
+    },
+    {
+      "ticker": "TSLA",
+      "nombre_compania": "Tesla, Inc.",
+      "apertura": 230.15,
+      "cierre": 228.40,
+      "maximo_del_dia": 231.50,
+      "minimo_del_dia": 227.80,
+      "volumen_transado": 89012300
+    }
+  ],
+  "definicion_campos": [
+    {"campo": "ticker", "descripcion": "Símbolo de cotización único de la acción."},
+    {"campo": "apertura", "descripcion": "Precio al inicio de la jornada de negociación."},
+    {"campo": "cierre", "descripcion": "Precio al final de la jornada de negociación."},
+    {"campo": "maximo_del_dia", "descripcion": "Precio más alto alcanzado durante el día."},
+    {"campo": "minimo_del_dia", "descripcion": "Precio más bajo alcanzado durante el día."},
+    {"campo": "volumen_transado", "descripcion": "Número total de acciones negociadas durante el día."}
+  ]
+}

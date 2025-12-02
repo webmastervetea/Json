@@ -1,0 +1,44 @@
+{
+  "titulo": "Lista de Clientes VIP y Planes Especiales",
+  "descripcion": "Base de datos de clientes con tratos preferenciales, descuentos o servicios exclusivos.",
+  "fecha_extraccion": "2025-11-28",
+  "clientes_especiales": [
+    {
+      "id_cliente": "VIP-001",
+      "nombre_completo": "Corporación Stellar Dynamics",
+      "tipo_plan": "VIP Platinum",
+      "servicios_exclusivos": ["Soporte 24/7 con SLA garantizado", "Descuento 15% en todos los productos"],
+      "estado_cuenta": "Activo",
+      "contacto_principal": "Laura Gómez"
+    },
+    {
+      "id_cliente": "SP-005",
+      "nombre_completo": "Innovaciones Prisma",
+      "tipo_plan": "Servicio Prioritario",
+      "servicios_exclusivos": ["Acceso a versiones Beta de software", "Tiempo de respuesta de 4 horas"],
+      "estado_cuenta": "Activo",
+      "contacto_principal": "Mario Herrera"
+    },
+    {
+      "id_cliente": "VIP-002",
+      "nombre_completo": "Fondo de Inversión Zenith",
+      "tipo_plan": "VIP Gold",
+      "servicios_exclusivos": ["Consultoría financiera trimestral gratuita", "Manejo de cuentas dedicado"],
+      "estado_cuenta": "Activo, Renovación pendiente",
+      "contacto_principal": "Ana Ruiz"
+    },
+    {
+      "id_cliente": "SP-012",
+      "nombre_completo": "Academia de Artes Quantum",
+      "tipo_plan": "Convenio Educativo",
+      "servicios_exclusivos": ["Licencias a bajo costo", "Capacitación personalizada para personal"],
+      "estado_cuenta": "Activo (Contrato Anual)",
+      "contacto_principal": "Dr. Elías Soto"
+    }
+  ],
+  "definicion_tipos_plan": [
+    {"tipo": "VIP Platinum/Gold", "rol": "Clientes de alto valor con máximos beneficios y atención dedicada."},
+    {"tipo": "Servicio Prioritario", "rol": "Enfoque en velocidad de respuesta y acceso anticipado."},
+    {"tipo": "Convenio Educativo/Gubernamental", "rol": "Planes con precios especiales basados en acuerdos institucionales."}
+  ]
+}

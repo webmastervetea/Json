@@ -1,0 +1,63 @@
+{
+  "titulo": "Tasas de Cambio de Divisas",
+  "moneda_base": "EUR",
+  "descripcion_base": "El Euro (EUR) se utiliza como la unidad base para la conversión.",
+  "fecha_cotizacion": "2025-11-28",
+  "tasas_de_cambio": [
+    {
+      "divisa_destino": "USD",
+      "nombre": "Dólar Estadounidense",
+      "tasa_conversion": 1.0954,
+      "formula": "1 EUR = 1.0954 USD"
+    },
+    {
+      "divisa_destino": "GBP",
+      "nombre": "Libra Esterlina",
+      "tasa_conversion": 0.8521,
+      "formula": "1 EUR = 0.8521 GBP"
+    },
+    {
+      "divisa_destino": "JPY",
+      "nombre": "Yen Japonés",
+      "tasa_conversion": 162.78,
+      "formula": "1 EUR = 162.78 JPY"
+    },
+    {
+      "divisa_destino": "CHF",
+      "nombre": "Franco Suizo",
+      "tasa_conversion": 0.9650,
+      "formula": "1 EUR = 0.9650 CHF"
+    },
+    {
+      "divisa_destino": "CAD",
+      "nombre": "Dólar Canadiense",
+      "tasa_conversion": 1.5011,
+      "formula": "1 EUR = 1.5011 CAD"
+    },
+    {
+      "divisa_destino": "AUD",
+      "nombre": "Dólar Australiano",
+      "tasa_conversion": 1.6635,
+      "formula": "1 EUR = 1.6635 AUD"
+    },
+    {
+      "divisa_destino": "MXN",
+      "nombre": "Peso Mexicano",
+      "tasa_conversion": 18.5241,
+      "formula": "1 EUR = 18.5241 MXN"
+    },
+    {
+      "divisa_destino": "CNY",
+      "nombre": "Yuan Chino",
+      "tasa_conversion": 7.8590,
+      "formula": "1 EUR = 7.8590 CNY"
+    },
+    {
+      "divisa_destino": "BRL",
+      "nombre": "Real Brasileño",
+      "tasa_conversion": 5.8912,
+      "formula": "1 EUR = 5.8912 BRL"
+    }
+  ],
+  "nota_calculo": "Para obtener la tasa de USD a GBP, se calcula (Tasa GBP / Tasa USD). Los datos son ficticios."
+}

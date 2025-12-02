@@ -1,0 +1,50 @@
+{
+  "titulo": "Lista de Facturas Pendientes de Pago",
+  "estado": "Pendiente",
+  "fecha_generacion": "2025-11-28",
+  "divisa": "USD",
+  "facturas_pendientes": [
+    {
+      "id_factura": "INV-2025-0105",
+      "cliente_id": "CLI4001",
+      "nombre_cliente": "Servicios de Consultoría Alfa",
+      "monto_total": 5500.00,
+      "fecha_vencimiento": "2025-12-15"
+    },
+    {
+      "id_factura": "INV-2025-0106",
+      "cliente_id": "CLI4002",
+      "nombre_cliente": "Distribuidora Beta S.A.",
+      "monto_total": 1250.75,
+      "fecha_vencimiento": "2025-12-01"
+    },
+    {
+      "id_factura": "INV-2025-0098",
+      "cliente_id": "CLI4003",
+      "nombre_cliente": "Tecnologías Gamma",
+      "monto_total": 8900.00,
+      "fecha_vencimiento": "2025-11-30"
+    },
+    {
+      "id_factura": "INV-2025-0107",
+      "cliente_id": "CLI4004",
+      "nombre_cliente": "Fábrica Delta",
+      "monto_total": 230.40,
+      "fecha_vencimiento": "2025-12-20"
+    },
+    {
+      "id_factura": "INV-2025-0101",
+      "cliente_id": "CLI4005",
+      "nombre_cliente": "Logística Épsilon",
+      "monto_total": 450.50,
+      "fecha_vencimiento": "2025-12-05"
+    }
+  ],
+  "definicion_campos": [
+    {"campo": "id_factura", "descripcion": "Identificador único de la factura."},
+    {"campo": "cliente_id", "descripcion": "Identificador interno del cliente."},
+    {"campo": "nombre_cliente", "descripcion": "Nombre del cliente."},
+    {"campo": "monto_total", "descripcion": "Cantidad total a pagar."},
+    {"campo": "fecha_vencimiento", "descripcion": "Fecha límite para el pago."}
+  ]
+}

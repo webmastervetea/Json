@@ -1,0 +1,56 @@
+{
+  "titulo": "Lista de Información Básica de Empleados",
+  "organizacion": "TechCorp Global",
+  "fecha_reporte": "2025-11-28",
+  "plantilla": [
+    {
+      "id_empleado": "EMP001",
+      "nombre_completo": "Elena Ríos Martínez",
+      "departamento": "Desarrollo de Software",
+      "cargo": "Ingeniera Principal",
+      "email": "elena.rios@techcorp.com"
+    },
+    {
+      "id_empleado": "EMP002",
+      "nombre_completo": "Javier Pérez Sánchez",
+      "departamento": "Marketing y Publicidad",
+      "cargo": "Especialista en SEO",
+      "email": "javier.perez@techcorp.com"
+    },
+    {
+      "id_empleado": "EMP003",
+      "nombre_completo": "Ana López García",
+      "departamento": "Recursos Humanos",
+      "cargo": "Gerente de Contratación",
+      "email": "ana.lopez@techcorp.com"
+    },
+    {
+      "id_empleado": "EMP004",
+      "nombre_completo": "Carlos Díaz Fernandez",
+      "departamento": "Finanzas",
+      "cargo": "Analista Financiero",
+      "email": "carlos.diaz@techcorp.com"
+    },
+    {
+      "id_empleado": "EMP005",
+      "nombre_completo": "Sofía Vargas Cruz",
+      "departamento": "Servicio al Cliente",
+      "cargo": "Agente de Soporte Técnico",
+      "email": "sofia.vargas@techcorp.com"
+    },
+    {
+      "id_empleado": "EMP006",
+      "nombre_completo": "Ricardo Morales Soto",
+      "departamento": "Desarrollo de Software",
+      "cargo": "Desarrollador Junior",
+      "email": "ricardo.morales@techcorp.com"
+    }
+  ],
+  "definicion_campos": [
+    {"campo": "id_empleado", "descripcion": "Identificador único asignado por la organización."},
+    {"campo": "nombre_completo", "descripcion": "Nombre y apellidos del empleado."},
+    {"campo": "departamento", "descripcion": "Área funcional a la que pertenece."},
+    {"campo": "cargo", "descripcion": "Puesto de trabajo específico."},
+    {"campo": "email", "descripcion": "Correo electrónico corporativo."}
+  ]
+}

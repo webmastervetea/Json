@@ -1,0 +1,55 @@
+{
+  "titulo": "Calendario Fiscal de Presentación de Impuestos (España)",
+  "organismo": "Agencia Estatal de Administración Tributaria (AEAT)",
+  "ano_fiscal": "2025",
+  "nota_general": "Las fechas son orientativas para trimestrales y anuales, y pueden variar si caen en fines de semana o festivos.",
+  "fechas_importantes": [
+    {
+      "trimestre": "T4 del año anterior (Ejercicio 2024)",
+      "fecha_limite": "2025-01-20",
+      "impuesto": "Pagos Fraccionados IRPF (Modelo 130/131) y Retenciones de Trabajadores (Modelo 111/115)",
+      "descripcion": "Presentación y pago del último trimestre del año anterior."
+    },
+    {
+      "trimestre": "Trimestre 1",
+      "fecha_limite": "2025-04-20",
+      "impuesto": "IVA (Modelo 303), IRPF (Modelo 130/131) y Retenciones (Modelo 111/115)",
+      "descripcion": "Declaración trimestral (Enero, Febrero, Marzo)."
+    },
+    {
+      "trimestre": "Anual (Renta)",
+      "fecha_limite_inicio": "2025-04-01",
+      "fecha_limite_final": "2025-06-30",
+      "impuesto": "Declaración de la Renta y Patrimonio (Modelo 100)",
+      "descripcion": "Plazo para la presentación de la Declaración Anual de IRPF para particulares (el plazo exacto varía)."
+    },
+    {
+      "trimestre": "Trimestre 2",
+      "fecha_limite": "2025-07-20",
+      "impuesto": "IVA (Modelo 303), IRPF (Modelo 130/131) y Retenciones (Modelo 111/115)",
+      "descripcion": "Declaración trimestral (Abril, Mayo, Junio)."
+    },
+    {
+      "trimestre": "Anual (Sociedades)",
+      "fecha_limite": "2025-07-25",
+      "impuesto": "Impuesto sobre Sociedades (Modelo 200)",
+      "descripcion": "Plazo general para presentar el Impuesto sobre Sociedades (el día 25 del 7º mes posterior al cierre)."
+    },
+    {
+      "trimestre": "Trimestre 3",
+      "fecha_limite": "2025-10-20",
+      "impuesto": "IVA (Modelo 303), IRPF (Modelo 130/131) y Retenciones (Modelo 111/115)",
+      "descripcion": "Declaración trimestral (Julio, Agosto, Septiembre)."
+    },
+    {
+      "trimestre": "Trimestre 4",
+      "fecha_limite": "2026-01-30",
+      "impuesto": "Declaraciones Informativas Anuales",
+      "descripcion": "Plazo para presentar el resumen anual del IVA (Modelo 390) y otras informativas."
+    }
+  ],
+  "terminologia_clave": [
+    {"modelo": "Modelo 303", "definicion": "Declaración de Autoliquidación de IVA (Impuesto sobre el Valor Añadido)."},
+    {"modelo": "Modelo 100", "definicion": "Declaración de IRPF (Impuesto sobre la Renta de las Personas Físicas)."}
+  ]
+}

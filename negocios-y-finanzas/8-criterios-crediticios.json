@@ -1,0 +1,69 @@
+{
+  "titulo": "Reglas y Puntajes para la Aprobación de Crédito (Credit Scoring)",
+  "modelo_nombre": "Modelo de Riesgo FICO Genérico v3.0",
+  "puntaje_minimo_aprobacion": 680,
+  "rangos_de_puntaje": [
+    {
+      "rango": "800 - 850",
+      "clasificacion": "Excepcional",
+      "tasa_interes": "Mejor disponible (Prime)",
+      "riesgo": "Muy bajo"
+    },
+    {
+      "rango": "740 - 799",
+      "clasificacion": "Muy Bueno",
+      "tasa_interes": "Excelente",
+      "riesgo": "Bajo"
+    },
+    {
+      "rango": "670 - 739",
+      "clasificacion": "Bueno",
+      "tasa_interes": "Estándar",
+      "riesgo": "Moderado (Aprobación Estándar)"
+    },
+    {
+      "rango": "580 - 669",
+      "clasificacion": "Regular",
+      "tasa_interes": "Alto, requiere colateral",
+      "riesgo": "Alto (Aprobación Condicional)"
+    },
+    {
+      "rango": "300 - 579",
+      "clasificacion": "Pobre",
+      "tasa_interes": "Muy alto, denegación probable",
+      "riesgo": "Muy alto"
+    }
+  ],
+  "factores_clave_de_puntuacion": [
+    {
+      "factor": "Historial de Pago",
+      "peso_porcentual": 35,
+      "regla_puntaje": "Pagos a tiempo = Máximo puntaje. Retrasos de >60 días = Fuerte deducción."
+    },
+    {
+      "factor": "Monto de Deuda (Utilización)",
+      "peso_porcentual": 30,
+      "regla_puntaje": "Mantener la deuda por debajo del 30% del límite de crédito total."
+    },
+    {
+      "factor": "Antigüedad del Historial",
+      "peso_porcentual": 15,
+      "regla_puntaje": "Cuentas más antiguas y activas incrementan el puntaje."
+    },
+    {
+      "factor": "Crédito Nuevo (Consultas recientes)",
+      "peso_porcentual": 10,
+      "regla_puntaje": "Demasiadas solicitudes de crédito en poco tiempo penalizan el puntaje."
+    },
+    {
+      "factor": "Tipos de Crédito",
+      "peso_porcentual": 10,
+      "regla_puntaje": "Tener una mezcla saludable de crédito (hipoteca, tarjeta, préstamo) beneficia el puntaje."
+    }
+  ],
+  "logica_de_aprobacion_automatica": [
+    {"criterio": "Puntaje de Crédito > 740", "decision": "APROBADO AUTOMÁTICO (Tasa Prime)"},
+    {"criterio": "Puntaje de Crédito entre 680 y 739", "decision": "APROBADO ESTÁNDAR (Revisión de Ingresos Requerida)"},
+    {"criterio": "Puntaje de Crédito < 680", "decision": "DENEGADO / REFERIDO (Revisión manual y colateral)"}
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "titulo": "Resumen de Gastos por Área Funcional",
+  "periodo": "Tercer Trimestre Fiscal (Q3 2025)",
+  "moneda": "EUR",
+  "gastos_totales_empresa": 355500.00,
+  "resumen_departamental": [
+    {
+      "departamento": "Desarrollo de Software",
+      "id_departamento": "DEV",
+      "gasto_total": 150000.00,
+      "desglose_rubros": {
+        "salarios_y_beneficios": 125000.00,
+        "licencias_software": 18000.00,
+        "hardware_y_equipo": 5000.00,
+        "capacitacion": 2000.00
+      }
+    },
+    {
+      "departamento": "Marketing y Publicidad",
+      "id_departamento": "MKT",
+      "gasto_total": 95500.00,
+      "desglose_rubros": {
+        "salarios_y_beneficios": 35000.00,
+        "campanas_digitales": 50000.00,
+        "eventos_y_ferias": 8000.00,
+        "material_impreso": 2500.00
+      }
+    },
+    {
+      "departamento": "Administración y Finanzas",
+      "id_departamento": "FIN",
+      "gasto_total": 70000.00,
+      "desglose_rubros": {
+        "salarios_y_beneficios": 55000.00,
+        "servicios_legales": 8000.00,
+        "suministros_oficina": 3500.00,
+        "servicios_contables": 3500.00
+      }
+    },
+    {
+      "departamento": "Servicio al Cliente",
+      "id_departamento": "SAC",
+      "gasto_total": 40000.00,
+      "desglose_rubros": {
+        "salarios_y_beneficios": 30000.00,
+        "licencias_call_center": 7000.00,
+        "telecomunicaciones": 3000.00
+      }
+    }
+  ],
+  "nota_verificacion": "El total de los gastos departamentales ($355,500.00) coincide con el gasto total de la empresa para el período."
+}

@@ -1,0 +1,81 @@
+{
+  "titulo": "Script de Diálogo de Novela Visual o Juego",
+  "escena_id": "PRV_CAP01_ENC03",
+  "nombre_escena": "Encuentro en la Taberna Antigua",
+  "personajes_en_escena": [
+    {"id": "PC_PRINCIPAL", "nombre": "Kael", "rol": "Protagonista"},
+    {"id": "NPC_BARTENDER", "nombre": "Elias", "rol": "Posadero"},
+    {"id": "NPC_SOSPECHOSO", "nombre": "Vera", "rol": "Personaje Secundario Clave"}
+  ],
+  "lineas_dialogo": [
+    {
+      "linea_id": 1,
+      "hablante": "PC_PRINCIPAL",
+      "texto": "¿Disculpe? Busco a alguien. Una mujer joven, con una capa de viaje gris...",
+      "emocion": "Esperanza",
+      "direccion_visual": "El personaje principal mira alrededor de la sala."
+    },
+    {
+      "linea_id": 2,
+      "hablante": "NPC_BARTENDER",
+      "texto": "Aquí pasa mucha gente, muchacho. Somos un punto de encuentro, no un puesto de vigilancia. ¿Tienes más detalles?",
+      "emocion": "Cansancio",
+      "audio_efecto": "Ruido de trapo limpiando vaso",
+      "opciones_del_jugador": null
+    },
+    {
+      "linea_id": 3,
+      "hablante": "PC_PRINCIPAL",
+      "texto": "Ella lleva este amuleto. Es de la orden de los Vigilantes. ¿Lo ha visto?",
+      "emocion": "Determinación",
+      "direccion_visual": "Kael saca el amuleto y lo coloca sobre la barra."
+    },
+    {
+      "linea_id": 4,
+      "hablante": "NARRADOR",
+      "texto": "La mirada del posadero se desvía brevemente hacia un rincón oscuro de la taberna.",
+      "emocion": "Tensión",
+      "audio_efecto": "Música de fondo se ralentiza",
+      "accion_camara": "Zoom sutil hacia el rincón"
+    },
+    {
+      "linea_id": 5,
+      "hablante": "NPC_BARTENDER",
+      "texto": "No. Nunca he visto tal cosa. Ahora, si no vas a pedir nada, la salida está por allá.",
+      "emocion": "Nerviosismo",
+      "opciones_del_jugador": null
+    },
+    {
+      "linea_id": 6,
+      "hablante": "PC_PRINCIPAL",
+      "texto": "¡Alto! Sé que miente. ¿Quién está ahí?",
+      "emocion": "Acusación",
+      "accion_del_personaje": "Kael golpea la barra con el puño."
+    },
+    {
+      "linea_id": 7,
+      "hablante": "NPC_SOSPECHOSO",
+      "texto": "(Desde la sombra) Es inútil. Nadie te ayudará aquí.",
+      "emocion": "Frío/Amenazante",
+      "direccion_visual": "Vera se levanta, revelando su rostro."
+    },
+    {
+      "linea_id": 8,
+      "hablante": "PC_PRINCIPAL",
+      "texto": "¿Vera? Por fin te encuentro.",
+      "emocion": "Alivio y Conflicto",
+      "opciones_del_jugador": [
+        {"texto_opcion": "Atacar de inmediato (Combate)", "resultado_next_id": 99},
+        {"texto_opcion": "Intentar razonar (Diálogo)", "resultado_next_id": 9}
+      ]
+    },
+    {
+      "linea_id": 9,
+      "hablante": "PC_PRINCIPAL",
+      "texto": "Debemos hablar. La orden está en peligro.",
+      "emocion": "Súplica",
+      "proximo_dialogo": 10
+    }
+    // ... más líneas
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "titulo": "Clasificación de Álbumes y Canciones por Género",
+  "descripcion": "Lista de obras musicales categorizadas por su género principal.",
+  "generos": [
+    {
+      "nombre_genero": "Rock Alternativo",
+      "descripcion": "Música que fusiona el rock con elementos del punk, grunge o indie, popular desde los 90.",
+      "ejemplos_musicales": [
+        {
+          "tipo": "Álbum",
+          "nombre": "Nevermind",
+          "artista": "Nirvana",
+          "ano": 1991
+        },
+        {
+          "tipo": "Canción",
+          "nombre": "Wonderwall",
+          "artista": "Oasis",
+          "ano": 1995
+        },
+        {
+          "tipo": "Álbum",
+          "nombre": "Kid A",
+          "artista": "Radiohead",
+          "ano": 2000
+        }
+      ]
+    },
+    {
+      "nombre_genero": "Música Electrónica (EDM)",
+      "descripcion": "Música producida con instrumentos electrónicos, ideal para clubes nocturnos y festivales.",
+      "ejemplos_musicales": [
+        {
+          "tipo": "Canción",
+          "nombre": "Levels",
+          "artista": "Avicii",
+          "ano": 2011
+        },
+        {
+          "tipo": "Álbum",
+          "nombre": "Discovery",
+          "artista": "Daft Punk",
+          "ano": 2001
+        },
+        {
+          "tipo": "Canción",
+          "nombre": "Clarity",
+          "artista": "Zedd ft. Foxes",
+          "ano": 2012
+        }
+      ]
+    },
+    {
+      "nombre_genero": "Hip Hop / Rap",
+      "descripcion": "Género musical basado en el *rapping*, a menudo con ritmos complejos y fuerte contenido lírico.",
+      "ejemplos_musicales": [
+        {
+          "tipo": "Álbum",
+          "nombre": "To Pimp a Butterfly",
+          "artista": "Kendrick Lamar",
+          "ano": 2015
+        },
+        {
+          "tipo": "Canción",
+          "nombre": "Lose Yourself",
+          "artista": "Eminem",
+          "ano": 2002
+        },
+        {
+          "tipo": "Álbum",
+          "nombre": "The Miseducation of Lauryn Hill",
+          "artista": "Lauryn Hill",
+          "ano": 1998
+        }
+      ]
+    },
+    {
+      "nombre_genero": "Música Clásica",
+      "descripcion": "Música artística de Occidente, que abarca desde el Barroco hasta el Romanticismo.",
+      "ejemplos_musicales": [
+        {
+          "tipo": "Obra",
+          "nombre": "Sinfonía No. 5",
+          "artista": "Ludwig van Beethoven",
+          "ano": 1808
+        },
+        {
+          "tipo": "Obra",
+          "nombre": "Las Cuatro Estaciones",
+          "artista": "Antonio Vivaldi",
+          "ano": 1723
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "titulo": "Clasificación de Configuración y Diseño de Niveles para Videojuegos",
+  "configuracion_estructuras": [
+    {
+      "nombre": "Lineal",
+      "descripcion": "El jugador avanza de un punto A a un punto B siguiendo un camino único. La progresión es controlada y secuencial.",
+      "ejemplos": ["FPS narrativos", "Plataformas clásicos"]
+    },
+    {
+      "nombre": "Ramificada (o de Árbol)",
+      "descripcion": "El jugador puede elegir entre diferentes caminos o misiones, pero cada camino individual es lineal. Convergen en puntos clave.",
+      "ejemplos": ["RPGs con rutas de misión elegibles", "Juegos de estrategia con mapas de campaña"]
+    },
+    {
+      "nombre": "Hub-and-Spoke (Nido y Radios)",
+      "descripcion": "Un área central ('Hub') conecta múltiples niveles o zonas ('Radios'). El jugador debe regresar al Hub para acceder a nuevas zonas.",
+      "ejemplos": ["Plataformas 3D (ej: Super Mario 64)", "RPGs de acción con base central"]
+    },
+    {
+      "nombre": "Mundo Abierto (Open World)",
+      "descripcion": "El mundo es una gran área interconectada con libertad de movimiento. La exploración y la progresión de misiones no es estrictamente definida.",
+      "ejemplos": ["RPGs de gran escala (ej: Skyrim)", "Acción/Aventura de mundo libre (ej: Grand Theft Auto)"]
+    },
+    {
+      "nombre": "Laberíntica (Metroidvania)",
+      "descripcion": "Un mundo interconectado que requiere habilidades o ítems recién adquiridos para desbloquear el acceso a áreas previamente visitadas (re-exploración).",
+      "ejemplos": ["Metroid", "Castlevania", "Juegos Souls-like"]
+    },
+    {
+      "nombre": "Arena/Basada en Oleadas",
+      "descripcion": "El foco es el combate intenso en un espacio confinado, a menudo contra oleadas de enemigos. Diseño simple optimizado para la acción.",
+      "ejemplos": ["Modos Horda", "Algunos modos multijugador"]
+    }
+  ],
+  "principios_de_diseno": [
+    {
+      "categoria": "Composición y Flujo",
+      "elementos": [
+        {
+          "nombre": "Pacing (Ritmo)",
+          "descripcion": "Manipulación de la intensidad del juego, alternando entre momentos de desafío/combate (alta) y exploración/narrativa (baja)."
+        },
+        {
+          "nombre": "Apariciones y Distribución",
+          "descripcion": "Colocación estratégica de enemigos, ítems, obstáculos y recompensas para equilibrar el desafío."
+        },
+        {
+          "nombre": "Línea de Visión (LOS)",
+          "descripcion": "Uso de lo que el jugador puede ver para crear tensión, dar información o guiarlo tácticamente."
+        },
+        {
+          "nombre": "Regla de Composición Visual",
+          "descripcion": "Aplicación de principios visuales (ej: Regla de los Tercios) para lograr una escena estética y dirigir la atención a puntos clave."
+        }
+      ]
+    },
+    {
+      "categoria": "Guía y Navegación",
+      "elementos": [
+        {
+          "nombre": "Iluminación",
+          "descripcion": "Uso de la luz y la sombra para señalar la ruta, indicar peligros y crear ambientación."
+        },
+        {
+          "nombre": "Color y Textura (Lenguaje Visual)",
+          "descripcion": "Uso de colores o materiales distintivos para indicar interactividad (ej: amarillo para agarres, rojo para peligro)."
+        },
+        {
+          "nombre": "Señalización (Signposting)",
+          "descripcion": "Elementos directos (flechas, iconos) que comunican claramente el objetivo o la ruta al jugador."
+        },
+        {
+          "nombre": "Landmarks (Puntos de Referencia)",
+          "descripcion": "Estructuras o características únicas que ayudan al jugador a orientarse y recordar ubicaciones en espacios grandes."
+        }
+      ]
+    },
+    {
+      "categoria": "Desafío y Recompensa",
+      "elementos": [
+        {
+          "nombre": "Puzles Ambientales",
+          "descripcion": "Acertijos integrados en el entorno que requieren el uso de habilidades del personaje o la manipulación del nivel para progresar."
+        },
+        {
+          "nombre": "Bloqueo y Desbloqueo (Lock and Key)",
+          "descripcion": "Barreras que requieren una habilidad, ítem o logro específico para ser superadas, forzando un camino no lineal."
+        },
+        {
+          "nombre": "Asequibilidad (Affordance)",
+          "descripcion": "El diseño de un objeto que inherentemente sugiere cómo debe ser usado por el jugador (ej: una palanca sugiere ser tirada)."
+        }
+      ]
+    }
+  ]
+}

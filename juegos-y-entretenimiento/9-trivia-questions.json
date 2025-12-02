@@ -1,0 +1,77 @@
+{
+  "titulo": "Base de Datos de Preguntas para Juego de Trivia",
+  "configuracion": "Múltiple Opción y Respuesta Única",
+  "categorias": [
+    {
+      "nombre": "Historia Mundial",
+      "preguntas": [
+        {
+          "id": "H001",
+          "pregunta": "¿En qué año cayó el Muro de Berlín?",
+          "tipo_respuesta": "Respuesta Única",
+          "respuesta_correcta": "1989",
+          "distractores": ["1991", "1985", "1990"]
+        },
+        {
+          "id": "H002",
+          "pregunta": "¿Quién fue el primer emperador romano?",
+          "tipo_respuesta": "Múltiple Opción",
+          "respuesta_correcta": "Augusto",
+          "distractores": ["Julio César", "Nerón", "Calígula"]
+        },
+        {
+          "id": "H003",
+          "pregunta": "La Revolución Francesa comenzó en...",
+          "tipo_respuesta": "Respuesta Única",
+          "respuesta_correcta": "1789",
+          "distractores": ["1776", "1804", "1815"]
+        }
+      ]
+    },
+    {
+      "nombre": "Ciencia y Naturaleza",
+      "preguntas": [
+        {
+          "id": "C001",
+          "pregunta": "¿Cuál es el elemento químico con el símbolo 'Fe'?",
+          "tipo_respuesta": "Múltiple Opción",
+          "respuesta_correcta": "Hierro",
+          "distractores": ["Flúor", "Fósforo", "Estaño"]
+        },
+        {
+          "id": "C002",
+          "pregunta": "¿Cuántos huesos tiene el cuerpo humano adulto?",
+          "tipo_respuesta": "Respuesta Única",
+          "respuesta_correcta": "206",
+          "distractores": ["300", "270", "198"]
+        },
+        {
+          "id": "C003",
+          "pregunta": "¿Qué planeta es conocido como el 'Planeta Rojo'?",
+          "tipo_respuesta": "Múltiple Opción",
+          "respuesta_correcta": "Marte",
+          "distractores": ["Júpiter", "Saturno", "Venus"]
+        }
+      ]
+    },
+    {
+      "nombre": "Arte y Literatura",
+      "preguntas": [
+        {
+          "id": "A001",
+          "pregunta": "¿Quién escribió 'Cien años de soledad'?",
+          "tipo_respuesta": "Respuesta Única",
+          "respuesta_correcta": "Gabriel García Márquez",
+          "distractores": ["Mario Vargas Llosa", "Isabel Allende", "Julio Cortázar"]
+        },
+        {
+          "id": "A002",
+          "pregunta": "¿Qué famoso pintor se cortó una oreja?",
+          "tipo_respuesta": "Múltiple Opción",
+          "respuesta_correcta": "Vincent van Gogh",
+          "distractores": ["Claude Monet", "Pablo Picasso", "Salvador Dalí"]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "titulo": "Definición de Ítems y Propiedades en un Inventario de Juego",
+  "clases_principales_de_items": [
+    {
+      "tipo": "Equipamiento",
+      "descripcion": "Ítems que el personaje usa activamente para mejorar estadísticas o ganar habilidades. Ocupan 'slots' de equipamiento.",
+      "ejemplos": ["Armas (espadas, rifles)", "Armaduras (cascos, pecheras)", "Accesorios (anillos, amuletos)"],
+      "propiedades_comunes": ["Estadísticas (Ataque, Defensa, Velocidad)", "Durabilidad/Resistencia", "Nivel Requerido", "Ranuras de Modificación (Sockets)"]
+    },
+    {
+      "tipo": "Consumibles",
+      "descripcion": "Ítems de un solo uso que proporcionan un beneficio inmediato o temporal. Se suelen apilar en el inventario.",
+      "ejemplos": ["Pociones de Vida (HP)", "Maná (MP)", "Comida", "Elixires temporales", "Granadas"],
+      "propiedades_comunes": ["Efecto (Curación, Buff/Debuff)", "Duración del Efecto", "Tiempo de Enfriamiento (Cooldown)", "Límite de Pila (Stack Limit)"]
+    },
+    {
+      "tipo": "Materiales y Crafteo",
+      "descripcion": "Ítems usados exclusivamente como ingredientes para fabricar, mejorar o reparar otros ítems.",
+      "ejemplos": ["Minerales", "Telas", "Partes de monstruos", "Componentes electrónicos"],
+      "propiedades_comunes": ["Rareza", "Origen (Drop de enemigo, Recolección)", "Cantidad en Pila", "Recetas asociadas"]
+    },
+    {
+      "tipo": "Misiones (Quest Items)",
+      "descripcion": "Ítems requeridos para progresar en una historia o misión específica. No se pueden vender ni descartar generalmente.",
+      "ejemplos": ["Llaves específicas", "Documentos importantes", "Artefactos antiguos"],
+      "propiedades_comunes": ["ID de Misión Asociada", "Estado (Completado/Pendiente)", "No Descartable"]
+    },
+    {
+      "tipo": "Monedas y Recursos de Valor",
+      "descripcion": "Representan la riqueza o recursos que permiten la interacción económica en el juego.",
+      "ejemplos": ["Oro/Créditos", "Gemas Premium", "Puntos de Facción", "Fragmentos de Almas"],
+      "propiedades_comunes": ["Tipo de Moneda", "Cantidad (fuera del inventario o como ítem)", "Uso (Tienda, Crafteo, Habilidades)"]
+    },
+    {
+      "tipo": "Misceláneos (Trash/Junk)",
+      "descripcion": "Ítems sin uso funcional más allá de ser vendidos a un comerciante para obtener dinero.",
+      "ejemplos": ["Basura", "Tesoros menores", "Objetos rotos"],
+      "propiedades_comunes": ["Valor de Venta Base", "Etiqueta 'Vender todo'", "Sin efecto activo"]
+    }
+  ],
+  "propiedades_transversales_generales": [
+    {
+      "propiedad": "ID Único de Ítem",
+      "descripcion": "Identificador único usado internamente por el motor del juego (ej: 'ITM_SWD_001')."
+    },
+    {
+      "propiedad": "Nombre Localizado",
+      "descripcion": "El nombre del ítem visible para el jugador."
+    },
+    {
+      "propiedad": "Descripción",
+      "descripcion": "Texto que explica el uso o el trasfondo del ítem (Lore)."
+    },
+    {
+      "propiedad": "Icono y Modelo",
+      "descripcion": "Archivos gráficos asociados para la interfaz y el mundo 3D."
+    },
+    {
+      "propiedad": "Rareza (Rarity)",
+      "descripcion": "Define la dificultad de obtener el ítem (ej: Común, Raro, Épico, Legendario). Afecta el color del nombre."
+    },
+    {
+      "propiedad": "Valor (Costo/Venta)",
+      "descripcion": "Precio de compra y precio al que se puede vender a un NPC."
+    },
+    {
+      "propiedad": "Peso/Tamaño",
+      "descripcion": "Cantidad de espacio que ocupa en el inventario (si el juego usa un sistema de peso o cuadrícula)."
+    },
+    {
+      "propiedad": "Vinculación (Binding)",
+      "descripcion": "Reglas de comercio: 'Ligado al recoger' (Bound on Pickup - BoP) o 'Ligado al equipar' (Bound on Equip - BoE)."
+    }
+  ]
+}

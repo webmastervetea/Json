@@ -1,0 +1,83 @@
+{
+  "titulo": "Lista de Puntuaciones Más Altas (High Scores)",
+  "juego": "Nombre del Videojuego Aquí",
+  "fecha_generacion": "2025-11-28T08:05:36Z",
+  "puntuaciones_maximas": [
+    {
+      "posicion": 1,
+      "nombre_jugador": "ALPHA_REX",
+      "puntuacion": 950000,
+      "fecha_logro": "2025-11-20",
+      "nivel_dificultad": "Extremo"
+    },
+    {
+      "posicion": 2,
+      "nombre_jugador": "Shadow_Gamer",
+      "puntuacion": 810450,
+      "fecha_logro": "2025-11-27",
+      "nivel_dificultad": "Difícil"
+    },
+    {
+      "posicion": 3,
+      "nombre_jugador": "LuciFighter",
+      "puntuacion": 789200,
+      "fecha_logro": "2025-10-15",
+      "nivel_dificultad": "Extremo"
+    },
+    {
+      "posicion": 4,
+      "nombre_jugador": "PuntoNerd",
+      "puntuacion": 654900,
+      "fecha_logro": "2025-11-05",
+      "nivel_dificultad": "Normal"
+    },
+    {
+      "posicion": 5,
+      "nombre_jugador": "User_42",
+      "puntuacion": 500300,
+      "fecha_logro": "2025-11-28",
+      "nivel_dificultad": "Difícil"
+    },
+    {
+      "posicion": 6,
+      "nombre_jugador": "PlayerX",
+      "puntuacion": 450120,
+      "fecha_logro": "2025-10-01",
+      "nivel_dificultad": "Normal"
+    },
+    {
+      "posicion": 7,
+      "nombre_jugador": "NeoArcade",
+      "puntuacion": 390700,
+      "fecha_logro": "2025-09-10",
+      "nivel_dificultad": "Fácil"
+    },
+    {
+      "posicion": 8,
+      "nombre_jugador": "BossSlayer",
+      "puntuacion": 321800,
+      "fecha_logro": "2025-11-19",
+      "nivel_dificultad": "Normal"
+    },
+    {
+      "posicion": 9,
+      "nombre_jugador": "TopGunner",
+      "puntuacion": 250000,
+      "fecha_logro": "2025-11-22",
+      "nivel_dificultad": "Difícil"
+    },
+    {
+      "posicion": 10,
+      "nombre_jugador": "Rookie",
+      "puntuacion": 150000,
+      "fecha_logro": "2025-11-25",
+      "nivel_dificultad": "Fácil"
+    }
+  ],
+  "campos_adicionales_opcionales": [
+    "Tiempo de Juego (minutos)",
+    "Número de Muertes",
+    "Clase de Personaje Usada",
+    "ID de Jugador (para bases de datos)"
+  ]
+}

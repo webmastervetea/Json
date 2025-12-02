@@ -1,0 +1,93 @@
+{
+  "titulo": "Organizaciones y Rosters de eSports Profesionales",
+  "nota_actualizacion": "Los rosters de eSports cambian frecuentemente. La siguiente información utiliza nombres de equipos y roles comunes para la estructura de datos.",
+  "equipos_esports": [
+    {
+      "nombre_organizacion": "Team Vitality",
+      "region_base": "Europa (LEC/CS2)",
+      "juegos_competicion": [
+        {
+          "nombre_juego": "Counter-Strike 2 (CS2)",
+          "roster": [
+            {"nombre_jugador": "apEX", "rol": "IGL (In-Game Leader)"},
+            {"nombre_jugador": "ZywOo", "rol": "AWPer"},
+            {"nombre_jugador": "Spinx", "rol": "Rifler"},
+            {"nombre_jugador": "flameZ", "rol": "Rifler"}
+          ]
+        },
+        {
+          "nombre_juego": "Rocket League",
+          "roster": [
+            {"nombre_jugador": "Zen", "rol": "Atacante"},
+            {"nombre_jugador": "Alpha54", "rol": "Medio"},
+            {"nombre_jugador": "Radosin", "rol": "Defensa"}
+          ]
+        }
+      ]
+    },
+    {
+      "nombre_organizacion": "T1",
+      "region_base": "Corea del Sur (LCK)",
+      "juegos_competicion": [
+        {
+          "nombre_juego": "League of Legends",
+          "roster": [
+            {"nombre_jugador": "Zeus", "rol": "Top Lane"},
+            {"nombre_jugador": "Oner", "rol": "Jungler"},
+            {"nombre_jugador": "Faker", "rol": "Mid Lane"},
+            {"nombre_jugador": "Gumayusi", "rol": "AD Carry"},
+            {"nombre_jugador": "Keria", "rol": "Support"}
+          ]
+        },
+        {
+          "nombre_juego": "Valorant",
+          "roster": [
+            {"nombre_jugador": "Carpe", "rol": "Duelista"},
+            {"nombre_jugador": "Sayaplayer", "rol": "Centinela"}
+          ]
+        }
+      ]
+    },
+    {
+      "nombre_organizacion": "Cloud9 (C9)",
+      "region_base": "Norteamérica (LCS/Valorant)",
+      "juegos_competicion": [
+        {
+          "nombre_juego": "League of Legends",
+          "roster": [
+            {"nombre_jugador": "Fudge", "rol": "Top Lane"},
+            {"nombre_jugador": "Blaber", "rol": "Jungler"},
+            {"nombre_jugador": "EMENES", "rol": "Mid Lane"}
+          ]
+        },
+        {
+          "nombre_juego": "Halo",
+          "roster": [
+            {"nombre_jugador": "Pistola", "rol": "Capitán"},
+            {"nombre_jugador": "Eco", "rol": "Slayer"}
+          ]
+        }
+      ]
+    },
+    {
+      "nombre_organizacion": "G2 Esports",
+      "region_base": "Europa",
+      "juegos_competicion": [
+        {
+          "nombre_juego": "Valorant",
+          "roster": [
+            {"nombre_jugador": "Trent", "rol": "Iniciador"},
+            {"nombre_jugador": "Icebox", "rol": "Controlador"}
+          ]
+        },
+        {
+          "nombre_juego": "League of Legends",
+          "roster": [
+            {"nombre_jugador": "BrokenBlade", "rol": "Top Lane"},
+            {"nombre_jugador": "Caps", "rol": "Mid Lane"}
+          ]
+        }
+      ]
+    }
+  ]
+}

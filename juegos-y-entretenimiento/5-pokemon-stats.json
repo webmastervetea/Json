@@ -1,0 +1,94 @@
+{
+  "titulo": "Lista de Criaturas Base (Estilo RPG de Colección)",
+  "sistema_stats": "Seis estadísticas fundamentales (PV, Ataque, Defensa, Ataque Especial, Defensa Especial, Velocidad).",
+  "criaturas": [
+    {
+      "id": 1,
+      "nombre": "Aeroalce",
+      "tipo_primario": "Viento",
+      "tipo_secundario": "Acero",
+      "descripcion": "Un ágil ser alado, famoso por sus ataques veloces y sus plumas resistentes como el metal.",
+      "stats_base": {
+        "puntos_vida": 75,
+        "ataque": 105,
+        "defensa": 70,
+        "ataque_especial": 65,
+        "defensa_especial": 60,
+        "velocidad": 120
+      },
+      "habilidad_base": "Vuelo Rápido"
+    },
+    {
+      "id": 2,
+      "nombre": "Gardián de Cobre",
+      "tipo_primario": "Tierra",
+      "tipo_secundario": "Roca",
+      "descripcion": "Una criatura lenta pero masiva, con una piel que es prácticamente una armadura impenetrable.",
+      "stats_base": {
+        "puntos_vida": 120,
+        "ataque": 90,
+        "defensa": 145,
+        "ataque_especial": 50,
+        "defensa_especial": 90,
+        "velocidad": 25
+      },
+      "habilidad_base": "Escudo Pesado"
+    },
+    {
+      "id": 3,
+      "nombre": "Hidronix",
+      "tipo_primario": "Agua",
+      "tipo_secundario": "Hielo",
+      "descripcion": "Maestro del combate acuático. Utiliza poderosas ráfagas de agua helada para paralizar a sus oponentes.",
+      "stats_base": {
+        "puntos_vida": 85,
+        "ataque": 70,
+        "defensa": 80,
+        "ataque_especial": 130,
+        "defensa_especial": 105,
+        "velocidad": 80
+      },
+      "habilidad_base": "Absorción Hídrica"
+    },
+    {
+      "id": 4,
+      "nombre": "Fantasma Espectral",
+      "tipo_primario": "Sombra",
+      "tipo_secundario": "Psíquico",
+      "descripcion": "Una entidad incorpórea conocida por su extrema fragilidad física y su devastador poder mental.",
+      "stats_base": {
+        "puntos_vida": 45,
+        "ataque": 40,
+        "defensa": 30,
+        "ataque_especial": 160,
+        "defensa_especial": 110,
+        "velocidad": 100
+      },
+      "habilidad_base": "Toque Fantasmal"
+    },
+    {
+      "id": 5,
+      "nombre": "Flora Feroz",
+      "tipo_primario": "Planta",
+      "tipo_secundario": null,
+      "descripcion": "Una planta carnívora que usa veneno y espinas para someter a sus presas en combates de larga duración.",
+      "stats_base": {
+        "puntos_vida": 100,
+        "ataque": 95,
+        "defensa": 85,
+        "ataque_especial": 95,
+        "defensa_especial": 85,
+        "velocidad": 55
+      },
+      "habilidad_base": "Espinas Tóxicas"
+    }
+  ],
+  "definicion_stats": [
+    {"stat": "Puntos de Vida (PV)", "rol": "Resistencia a los KO. Cuánto daño puede recibir la criatura."},
+    {"stat": "Ataque", "rol": "Poder ofensivo para movimientos físicos."},
+    {"stat": "Defensa", "rol": "Resistencia defensiva a movimientos físicos."},
+    {"stat": "Ataque Especial", "rol": "Poder ofensivo para movimientos basados en energía/magia."},
+    {"stat": "Defensa Especial", "rol": "Resistencia defensiva a movimientos basados en energía/magia."},
+    {"stat": "Velocidad", "rol": "Define qué criatura ataca primero en la ronda de combate."}
+  ]
+}

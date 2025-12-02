@@ -1,0 +1,78 @@
+{
+  "titulo": "Mi Lista Personal de Películas Favoritas",
+  "usuario": "UsuarioEjemplo",
+  "escala_puntuacion": "Del 1 al 10, donde 10 es la puntuación más alta.",
+  "peliculas": [
+    {
+      "id": 1,
+      "titulo": "El Despertar de la Sombra",
+      "ano_lanzamiento": 2018,
+      "genero": "Fantasía/Aventura",
+      "puntuacion_personal": 9.5
+    },
+    {
+      "id": 2,
+      "titulo": "Silencio en la Montaña",
+      "ano_lanzamiento": 1994,
+      "genero": "Drama/Suspense",
+      "puntuacion_personal": 10.0
+    },
+    {
+      "id": 3,
+      "titulo": "Código Cero",
+      "ano_lanzamiento": 2023,
+      "genero": "Ciencia Ficción",
+      "puntuacion_personal": 8.7
+    },
+    {
+      "id": 4,
+      "titulo": "La Última Ópera",
+      "ano_lanzamiento": 1975,
+      "genero": "Musical/Crimen",
+      "puntuacion_personal": 7.5
+    },
+    {
+      "id": 5,
+      "titulo": "Guardianes del Portal Estelar",
+      "ano_lanzamiento": 2014,
+      "genero": "Acción/Comedia",
+      "puntuacion_personal": 9.2
+    },
+    {
+      "id": 6,
+      "titulo": "Crónicas de Hierro",
+      "ano_lanzamiento": 2001,
+      "genero": "Bélico/Historia",
+      "puntuacion_personal": 8.0
+    },
+    {
+      "id": 7,
+      "titulo": "El Jardín Secreto de Tokyo",
+      "ano_lanzamiento": 2019,
+      "genero": "Animación/Romance",
+      "puntuacion_personal": 9.8
+    },
+    {
+      "id": 8,
+      "titulo": "El Misterio del Reloj de Arena",
+      "ano_lanzamiento": 1988,
+      "genero": "Thriller/Puzle",
+      "puntuacion_personal": 8.5
+    },
+    {
+      "id": 9,
+      "titulo": "Frontera Infinita",
+      "ano_lanzamiento": 2025,
+      "genero": "Aventura Espacial",
+      "puntuacion_personal": 6.9
+    },
+    {
+      "id": 10,
+      "titulo": "Los Tres Ladrones de París",
+      "ano_lanzamiento": 1960,
+      "genero": "Comedia Clásica",
+      "puntuacion_personal": 7.8
+    }
+  ],
+  "nota": "La puntuación personal es subjetiva y no representa calificaciones de crítica profesional."
+}

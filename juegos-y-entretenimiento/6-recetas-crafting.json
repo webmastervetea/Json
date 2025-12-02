@@ -1,0 +1,70 @@
+{
+  "titulo": "Lista de Recetas de Crafteo (Combinación de Ítems)",
+  "sistema": "Crafteo con Ingredientes Múltiples",
+  "recetas": [
+    {
+      "id_receta": "RC_MED_001",
+      "nombre_resultado": "Poción de Curación Mayor",
+      "id_resultado": "ITM_CONS_HEAL2",
+      "tipo_resultado": "Consumible",
+      "cantidad_producida": 1,
+      "ingredientes": [
+        {"id_ingrediente": "ITM_MAT_HIERBA1", "cantidad_requerida": 3},
+        {"id_ingrediente": "ITM_MAT_HONGO_AZUL", "cantidad_requerida": 1},
+        {"id_ingrediente": "ITM_MAT_AGUA_PUR", "cantidad_requerida": 2}
+      ],
+      "habilidad_requerida": "Alquimia",
+      "nivel_habilidad_minimo": 5
+    },
+    {
+      "id_receta": "RC_WEP_005",
+      "nombre_resultado": "Espada de Acero Reforzado",
+      "id_resultado": "ITM_WEP_SWORD_STEEL",
+      "tipo_resultado": "Equipamiento",
+      "cantidad_producida": 1,
+      "ingredientes": [
+        {"id_ingrediente": "ITM_MAT_LING_ACERO", "cantidad_requerida": 5},
+        {"id_ingrediente": "ITM_MAT_CUERO_FUERTE", "cantidad_requerida": 2},
+        {"id_ingrediente": "ITM_MAT_CARBON", "cantidad_requerida": 10}
+      ],
+      "habilidad_requerida": "Herrería",
+      "nivel_habilidad_minimo": 10
+    },
+    {
+      "id_receta": "RC_ARM_003",
+      "nombre_resultado": "Botas de Explorador",
+      "id_resultado": "ITM_ARM_BOOT_EXPL",
+      "tipo_resultado": "Equipamiento",
+      "cantidad_producida": 1,
+      "ingredientes": [
+        {"id_ingrediente": "ITM_MAT_TELA_LINO", "cantidad_requerida": 4},
+        {"id_ingrediente": "ITM_MAT_CUERO_NORMAL", "cantidad_requerida": 3},
+        {"id_ingrediente": "ITM_MAT_HILO_SINT", "cantidad_requerida": 1}
+      ],
+      "habilidad_requerida": "Sastrería",
+      "nivel_habilidad_minimo": 3
+    },
+    {
+      "id_receta": "RC_AMMO_002",
+      "nombre_resultado": "Flechas Envenenadas (x20)",
+      "id_resultado": "ITM_AMMO_POISON_ARR",
+      "tipo_resultado": "Munición",
+      "cantidad_producida": 20,
+      "ingredientes": [
+        {"id_ingrediente": "ITM_AMMO_FLECHA_BASE", "cantidad_requerida": 20},
+        {"id_ingrediente": "ITM_MAT_VENENO_MENOR", "cantidad_requerida": 1}
+      ],
+      "habilidad_requerida": "Caza",
+      "nivel_habilidad_minimo": 7
+    }
+  ],
+  "definicion_campos": [
+    {"campo": "id_receta", "descripcion": "Identificador único de la receta."},
+    {"campo": "nombre_resultado", "descripcion": "Nombre del objeto creado."},
+    {"campo": "id_resultado", "descripcion": "ID de ítem del objeto creado (de la base de datos de ítems)."},
+    {"campo": "cantidad_producida", "descripcion": "Número de ítems creados por cada crafteo."},
+    {"campo": "ingredientes", "descripcion": "Lista de materiales y sus cantidades necesarias."},
+    {"campo": "habilidad_requerida", "descripcion": "Habilidad de crafteo necesaria (ej: Herrería, Alquimia)."},
+    {"campo": "nivel_habilidad_minimo", "descripcion": "Nivel mínimo requerido de la habilidad para ejecutar la receta."}
+  ]
+}

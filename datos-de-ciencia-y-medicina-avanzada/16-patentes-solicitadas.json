@@ -1,0 +1,59 @@
+[
+  {
+    "numero_solicitud": "US20240012345A1",
+    "titulo": "Sistema de purificación de agua auto-limpiable mediante nanorobots impulsados por luz",
+    "fecha_presentacion": "2024-03-10",
+    "inventores": [
+      {"nombre": "Dr. Elena Torres", "pais_residencia": "España"},
+      {"nombre": "Ing. Kenji Sato", "pais_residencia": "Japón"}
+    ],
+    "estado_actual": "Pendiente de examen formal (Publicada)",
+    "clasificacion_ipc": "B01D 36/00 (Filtración)",
+    "resumen_estado": "Solicitud publicada. Actualmente en espera de ser asignada a examinador para la evaluación de novedad y actividad inventiva."
+  },
+  {
+    "numero_solicitud": "EP3567890B1",
+    "titulo": "Método para la cosecha de energía térmica geotérmica con eficiencia aumentada",
+    "fecha_presentacion": "2020-01-05",
+    "inventores": [
+      {"nombre": "Sarah Johnson", "pais_residencia": "Alemania"}
+    ],
+    "estado_actual": "Concedida (Patente Europea)",
+    "clasificacion_ipc": "F03G 7/00 (Aprovechamiento de la energía geotérmica)",
+    "resumen_estado": "Patente concedida en 2023. La fase nacional ha finalizado con éxito en los países designados."
+  },
+  {
+    "numero_solicitud": "WO2025098765A1",
+    "titulo": "Algoritmo de compresión de datos cuánticos basado en redes neuronales de baja latencia",
+    "fecha_presentacion": "2025-05-20",
+    "inventores": [
+      {"nombre": "Wei Lin", "pais_residencia": "China"},
+      {"nombre": "Dr. David Smith", "pais_residencia": "Canadá"}
+    ],
+    "estado_actual": "Publicada (PCT - Solicitud Internacional)",
+    "clasificacion_ipc": "H03M 7/30 (Codificación/descodificación de datos)",
+    "resumen_estado": "Solicitud PCT en fase de búsqueda internacional. El informe de búsqueda se emitirá en los próximos meses."
+  },
+  {
+    "numero_solicitud": "US20150900000",
+    "titulo": "Dispositivo mejorado para la detección temprana de plagas en cultivos hidropónicos",
+    "fecha_presentacion": "2015-08-12",
+    "inventores": [
+      {"nombre": "Carlos Gómez", "pais_residencia": "México"}
+    ],
+    "estado_actual": "Abandonada",
+    "clasificacion_ipc": "A01G 31/00 (Cultivo sin suelo)",
+    "resumen_estado": "La solicitud fue abandonada por el solicitante en 2018 al no responder a una objeción de la oficina de patentes."
+  },
+  {
+    "numero_solicitud": "JP2022112233A",
+    "titulo": "Método de fabricación de baterías de estado sólido con electrolito polimérico",
+    "fecha_presentacion": "2022-06-15",
+    "inventores": [
+      {"nombre": "Takeshi Tanaka", "pais_residencia": "Japón"}
+    ],
+    "estado_actual": "Pendiente de examen",
+    "clasificacion_ipc": "H01M 10/00 (Acumuladores)",
+    "resumen_estado": "Solicitud en fase de examen por la JPO (Oficina Japonesa de Patentes)."
+  }
+]

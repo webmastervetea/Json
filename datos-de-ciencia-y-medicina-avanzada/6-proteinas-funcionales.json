@@ -1,0 +1,52 @@
+[
+  {
+    "proteina": "Actina (F-Actina)",
+    "funcion_principal": "Componente principal del citoesqueleto; responsable de la forma celular, la movilidad y la división celular (citocinesis).",
+    "localizacion_celular": "Citosol, Membrana plasmática (corteza celular)."
+  },
+  {
+    "proteina": "Tubulina (Microtúbulos)",
+    "funcion_principal": "Formación de microtúbulos, cruciales para el transporte intracelular, el movimiento ciliar/flagelar y la separación de cromosomas durante la mitosis.",
+    "localizacion_celular": "Citosol, Centrosoma."
+  },
+  {
+    "proteina": "Hemoglobina",
+    "funcion_principal": "Transporte de oxígeno ($O_2$) desde los pulmones a los tejidos y dióxido de carbono ($CO_2$) de vuelta a los pulmones.",
+    "localizacion_celular": "Citosol de los eritrocitos (glóbulos rojos)."
+  },
+  {
+    "proteina": "ADN Polimerasa",
+    "funcion_principal": "Enzima responsable de sintetizar nuevas cadenas de ADN, esencial para la replicación del material genético.",
+    "localizacion_celular": "Núcleo (en eucariotas), Citosol/Núcleo (depende de la fase)."
+  },
+  {
+    "proteina": "ATP Sintasa",
+    "funcion_principal": "Generación de la mayor parte del ATP (la moneda energética de la célula) a través de la fosforilación oxidativa.",
+    "localizacion_celular": "Membrana interna de la mitocondria."
+  },
+  {
+    "proteina": "Insulina",
+    "funcion_principal": "Hormona péptídica que regula los niveles de glucosa en sangre al promover su captación por las células.",
+    "localizacion_celular": "Producida en el páncreas (células beta); actúa en la superficie de las células diana (receptor de insulina)."
+  },
+  {
+    "proteina": "Canal de Sodio (Na⁺)",
+    "funcion_principal": "Proteína de membrana que permite el rápido flujo de iones sodio, fundamental para la iniciación y propagación de potenciales de acción en neuronas y células musculares.",
+    "localizacion_celular": "Membrana plasmática."
+  },
+  {
+    "proteina": "P53 (Proteína Supresora Tumoral)",
+    "funcion_principal": "Factor de transcripción que detiene el ciclo celular o induce la apoptosis (muerte celular programada) en respuesta al daño del ADN. Se le conoce como 'guardián del genoma'.",
+    "localizacion_celular": "Núcleo."
+  },
+  {
+    "proteina": "Colágeno",
+    "funcion_principal": "Proteína estructural más abundante; proporciona resistencia a la tracción y soporte a los tejidos (piel, tendones, huesos).",
+    "localizacion_celular": "Matriz extracelular (secretada fuera de la célula)."
+  },
+  {
+    "proteina": "Ribosoma (subunidades proteicas)",
+    "funcion_principal": "Responsable de la síntesis de proteínas (traducción de ARNm a una cadena polipeptídica).",
+    "localizacion_celular": "Citosol (libres) y Retículo Endoplasmático Rugoso (unidos)."
+  }
+]

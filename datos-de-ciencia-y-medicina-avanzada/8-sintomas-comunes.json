@@ -1,0 +1,100 @@
+[
+  {
+    "sintoma": "Fiebre (Temperatura > 38°C)",
+    "gravedad_asociada": "Baja a Moderada (si es de corta duración y bien controlada); Alta (si es muy alta > 40°C o persistente).",
+    "posibles_causas_asociadas": [
+      "Infecciones virales (resfriado, gripe).",
+      "Infecciones bacterianas (neumonía, ITU).",
+      "Enfermedades autoinmunes.",
+      "Reacciones a fármacos."
+    ]
+  },
+  {
+    "sintoma": "Dolor de cabeza (Cefalea)",
+    "gravedad_asociada": "Baja a Moderada (tensional, migraña común); Alta (si es súbito, el 'peor de la vida' o se acompaña de rigidez de nuca).",
+    "posibles_causas_asociadas": [
+      "Tensión muscular, estrés, deshidratación.",
+      "Migraña, cefalea en racimos.",
+      "Hipertensión arterial grave.",
+      "Hemorragia intracraneal (causa grave y rara)."
+    ]
+  },
+  {
+    "sintoma": "Dolor torácico",
+    "gravedad_asociada": "Moderada a Alta.",
+    "posibles_causas_asociadas": [
+      "Angina de pecho o infarto de miocardio (causas cardíacas).",
+      "Reflujo gastroesofágico (pirosis).",
+      "Ansiedad o ataque de pánico.",
+      "Neumonía, embolia pulmonar (causas pulmonares)."
+    ]
+  },
+  {
+    "sintoma": "Disnea (Falta de aire)",
+    "gravedad_asociada": "Moderada a Alta.",
+    "posibles_causas_asociadas": [
+      "Asma o EPOC.",
+      "Insuficiencia cardíaca congestiva.",
+      "Anemia.",
+      "COVID-19 u otras infecciones respiratorias."
+    ]
+  },
+  {
+    "sintoma": "Fatiga persistente",
+    "gravedad_asociada": "Baja a Moderada (depende del impacto en la vida diaria).",
+    "posibles_causas_asociadas": [
+      "Estrés crónico, falta de sueño.",
+      "Anemia o deficiencia de vitaminas ($B_{12}$, D).",
+      "Hipotiroidismo.",
+      "Síndrome de fatiga crónica."
+    ]
+  },
+  {
+    "sintoma": "Náuseas y vómitos",
+    "gravedad_asociada": "Baja (si es aislado); Moderada a Alta (si causa deshidratación grave o es persistente).",
+    "posibles_causas_asociadas": [
+      "Gastroenteritis viral o intoxicación alimentaria.",
+      "Migrañas.",
+      "Embarazo (hiperémesis gravídica).",
+      "Obstrucción intestinal (causa grave)."
+    ]
+  },
+  {
+    "sintoma": "Ictericia (Coloración amarillenta de la piel y ojos)",
+    "gravedad_asociada": "Alta.",
+    "posibles_causas_asociadas": [
+      "Hepatitis (viral o alcohólica).",
+      "Cálculos biliares (obstrucción).",
+      "Cirrosis o insuficiencia hepática.",
+      "Anemias hemolíticas."
+    ]
+  },
+  {
+    "sintoma": "Rigidez de nuca",
+    "gravedad_asociada": "Alta.",
+    "posibles_causas_asociadas": [
+      "Meningitis (infección grave de las membranas cerebrales).",
+      "Tensión muscular o mala postura.",
+      "Hemorragia subaracnoidea (causa grave)."
+    ]
+  },
+  {
+    "sintoma": "Edema (Hinchazón) en extremidades inferiores",
+    "gravedad_asociada": "Baja a Moderada (si es leve); Alta (si es súbito y unilateral).",
+    "posibles_causas_asociadas": [
+      "Insuficiencia venosa (várices).",
+      "Insuficiencia cardíaca, renal o hepática.",
+      "Trombosis venosa profunda (TVP, grave)."
+    ]
+  },
+  {
+    "sintoma": "Pérdida de peso inexplicable",
+    "gravedad_asociada": "Moderada a Alta.",
+    "posibles_causas_asociadas": [
+      "Hipertiroidismo.",
+      "Diabetes mellitus no controlada.",
+      "Cáncer o enfermedad inflamatoria intestinal.",
+      "Depresión o trastornos alimentarios."
+    ]
+  }
+]

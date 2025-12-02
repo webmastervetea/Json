@@ -1,0 +1,50 @@
+[
+  {
+    "organismo": "Saccharomyces cerevisiae",
+    "nombre_comun": "Levadura de Panadería",
+    "tipo_organismo": "Eucariota unicelular (Hongo)",
+    "centro_secuenciacion_original": "Universidad de Stanford, Sanger Centre",
+    "version_genoma_actual": "R64-2-1",
+    "tamanio_genoma_Mb": 12.1,
+    "num_cromosomas": 16,
+    "num_genes_codificantes": "~6600",
+    "identificadores_base_datos": {
+      "ensembl_id": "Saccharomyces_cerevisiae",
+      "ncbi_assembly_id": "GCF_000146045.2",
+      "acceso_principal": "BK006935-BK006950"
+    },
+    "anio_publicacion_genoma": 1996
+  },
+  {
+    "organismo": "Caenorhabditis elegans",
+    "nombre_comun": "Nematodo (Gusano redondo)",
+    "tipo_organismo": "Metazoos (Animal)",
+    "centro_secuenciacion_original": "Sanger Centre, Washington University",
+    "version_genoma_actual": "WBcel235",
+    "tamanio_genoma_Mb": 100.3,
+    "num_cromosomas": 6,
+    "num_genes_codificantes": "~20500",
+    "identificadores_base_datos": {
+      "ensembl_id": "Caenorhabditis_elegans",
+      "ncbi_assembly_id": "GCF_000002985.6",
+      "acceso_principal": "AE005118-AE005122"
+    },
+    "anio_publicacion_genoma": 1998
+  },
+  {
+    "organismo": "Mus musculus",
+    "nombre_comun": "Ratón Doméstico",
+    "tipo_organismo": "Vertebrado (Mamífero)",
+    "centro_secuenciacion_original": "Consorcio Internacional de Secuenciación del Genoma del Ratón",
+    "version_genoma_actual": "GRCm39",
+    "tamanio_genoma_Mb": 2721.4,
+    "num_cromosomas": 20,
+    "num_genes_codificantes": "~22000",
+    "identificadores_base_datos": {
+      "ensembl_id": "Mus_musculus",
+      "ncbi_assembly_id": "GCF_000001635.27",
+      "acceso_principal": "NC_000067.6-NC_000087.6"
+    },
+    "anio_publicacion_genoma": 2002
+  }
+]

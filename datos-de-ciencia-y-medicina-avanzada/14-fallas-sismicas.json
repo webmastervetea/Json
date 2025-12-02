@@ -1,0 +1,57 @@
+[
+  {
+    "falla": "Falla de San Andrés",
+    "ubicacion_geografica": "California, Estados Unidos (desde el Mar de Salton hasta el Cabo Mendocino)",
+    "tipo_falla": "Transformante (deslizamiento de rumbo o cizalla)",
+    "placas_asociadas": "Placa del Pacífico y Placa Norteamericana",
+    "actividad_historica_clave": [
+      {"evento": "Terremoto de San Francisco", "fecha_estimada": "1906-04-18", "magnitud_estimada": 7.9},
+      {"evento": "Terremoto de Loma Prieta", "fecha_estimada": "1989-10-17", "magnitud_estimada": 6.9},
+      {"evento": "Terremoto de Fort Tejon (Sector Sur)", "fecha_estimada": "1857-01-09", "magnitud_estimada": 7.9}
+    ],
+    "nota_actividad": "Activa y de alto riesgo sísmico; la sección sur tiene un gran 'déficit de deslizamiento' acumulado."
+  },
+  {
+    "falla": "Falla del Anatolia del Norte",
+    "ubicacion_geografica": "Norte de Turquía (se extiende desde el Egeo hasta el este)",
+    "tipo_falla": "Transformante (deslizamiento de rumbo o cizalla)",
+    "placas_asociadas": "Placa de Anatolia y Placa Euroasiática",
+    "actividad_historica_clave": [
+      {"evento": "Terremoto de İzmit (Marmara)", "fecha_estimada": "1999-08-17", "magnitud_estimada": 7.6},
+      {"evento": "Terremoto de Erzincan", "fecha_estimada": "1939-12-26", "magnitud_estimada": 7.8}
+    ],
+    "nota_actividad": "Una de las fallas transformantes más activas del mundo, con una historia documentada de migración de rupturas hacia el oeste."
+  },
+  {
+    "falla": "Fosa de Nazca (Subducción)",
+    "ubicacion_geografica": "Costa occidental de Sudamérica (principalmente Perú y Chile)",
+    "tipo_falla": "Inversa (Subducción, límite convergente)",
+    "placas_asociadas": "Placa de Nazca (subduce) y Placa Sudamericana",
+    "actividad_historica_clave": [
+      {"evento": "Gran Terremoto de Valdivia (El más grande registrado)", "fecha_estimada": "1960-05-22", "magnitud_estimada": 9.5},
+      {"evento": "Terremoto de Chile", "fecha_estimada": "2010-02-27", "magnitud_estimada": 8.8}
+    ],
+    "nota_actividad": "Responsable de los megaterremotos de subducción más grandes del planeta y tsunamis asociados."
+  },
+  {
+    "falla": "Falla Normal de Wasatch",
+    "ubicacion_geografica": "Utah, Estados Unidos (a lo largo del Frente Wasatch)",
+    "tipo_falla": "Normal (extensión)",
+    "placas_asociadas": "Dentro de la Placa Norteamericana (Extensión de Cuenca y Cordillera)",
+    "actividad_historica_clave": [
+      {"evento": "Terremoto de 1901", "fecha_estimada": "1901-11-17", "magnitud_estimada": 6.5},
+      {"evento": "Eventos paleosísmicos (recurrencia estimada)", "fecha_estimada": "Varios, con recurrencia de 300-400 años", "magnitud_estimada": 7.0-7.5}
+    ],
+    "nota_actividad": "Falla activa que define el límite de una cuenca; aunque tiene actividad menos frecuente que las transformantes, puede generar grandes terremotos."
+  },
+  {
+    "falla": "Falla de Denali",
+    "ubicacion_geografica": "Alaska, Estados Unidos y Canadá",
+    "tipo_falla": "Transformante (deslizamiento de rumbo)",
+    "placas_asociadas": "Placa del Pacífico y Placa Norteamericana",
+    "actividad_historica_clave": [
+      {"evento": "Terremoto de Denali", "fecha_estimada": "2002-11-03", "magnitud_estimada": 7.9}
+    ],
+    "nota_actividad": "Una de las fallas más largas y activas de Norteamérica, menos poblada que San Andrés, lo que limita los datos históricos pre-instrumentales."
+  }
+]

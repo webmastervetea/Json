@@ -1,0 +1,72 @@
+[
+  {
+    "tipo_principal": "Reacciones de Transferencia de Electrones",
+    "nombre_reaccion": "Oxidación",
+    "descripcion": "Pérdida de electrones (aumento en el estado de oxidación).",
+    "ejemplo_clase": "Corrosión de metales (Fe → Fe³⁺).",
+    "palabra_clave": "Pérdida de e⁻"
+  },
+  {
+    "tipo_principal": "Reacciones de Transferencia de Electrones",
+    "nombre_reaccion": "Reducción",
+    "descripcion": "Ganancia de electrones (disminución en el estado de oxidación).",
+    "ejemplo_clase": "Conversión de iones metálicos a metal puro.",
+    "palabra_clave": "Ganancia de e⁻"
+  },
+  {
+    "tipo_principal": "Reacciones de Transferencia de Electrones",
+    "nombre_reaccion": "Redox (General)",
+    "descripcion": "Cualquier reacción donde la oxidación y la reducción ocurren simultáneamente.",
+    "ejemplo_clase": "Respiración celular, reacciones de baterías.",
+    "palabra_clave": "Oxidación y Reducción"
+  },
+  {
+    "tipo_principal": "Reacciones de Intercambio de Grupos",
+    "nombre_reaccion": "Sustitución (o Desplazamiento)",
+    "descripcion": "Un átomo o grupo funcional en un compuesto es reemplazado por otro átomo o grupo funcional.",
+    "ejemplo_clase": "Halogenación de alcanos (Sustitución Radicalaria) o hidrólisis de halogenuros de alquilo (Sustitución Nucleofílica).",
+    "palabra_clave": "Reemplazo de grupo"
+  },
+  {
+    "tipo_principal": "Reacciones de Formación/Ruptura de Enlaces",
+    "nombre_reaccion": "Adición",
+    "descripcion": "Dos o más moléculas se combinan para formar una sola molécula más grande, generalmente rompiendo un doble o triple enlace.",
+    "ejemplo_clase": "Hidrogenación de alquenos.",
+    "palabra_clave": "Formación de un solo producto"
+  },
+  {
+    "tipo_principal": "Reacciones de Formación/Ruptura de Enlaces",
+    "nombre_reaccion": "Eliminación",
+    "descripcion": "Una sola molécula se rompe para formar dos o más moléculas más pequeñas, generalmente formando un doble o triple enlace.",
+    "ejemplo_clase": "Deshidratación de alcoholes para formar alquenos.",
+    "palabra_clave": "Formación de doble enlace"
+  },
+  {
+    "tipo_principal": "Reacciones de Estructura Inorgánica",
+    "nombre_reaccion": "Síntesis (Combinación)",
+    "descripcion": "Dos o más reactivos simples se combinan para formar un producto más complejo.",
+    "ejemplo_clase": "$2H_2 + O_2 \\to 2H_2O$.",
+    "palabra_clave": "A + B → AB"
+  },
+  {
+    "tipo_principal": "Reacciones de Estructura Inorgánica",
+    "nombre_reaccion": "Descomposición",
+    "descripcion": "Un compuesto se descompone en dos o más sustancias más simples.",
+    "ejemplo_clase": "$2H_2O \\to 2H_2 + O_2$ (Electrólisis).",
+    "palabra_clave": "AB → A + B"
+  },
+  {
+    "tipo_principal": "Reacciones de Estructura Inorgánica",
+    "nombre_reaccion": "Doble Desplazamiento (Metátesis)",
+    "descripcion": "Los iones positivos de dos compuestos iónicos diferentes intercambian socios.",
+    "ejemplo_clase": "Reacciones de precipitación o neutralización ($NaOH + HCl$).",
+    "palabra_clave": "Intercambio de iones"
+  },
+  {
+    "tipo_principal": "Reacciones de Ácido-Base",
+    "nombre_reaccion": "Neutralización",
+    "descripcion": "Un ácido y una base reaccionan para formar una sal y agua (un tipo de doble desplazamiento).",
+    "ejemplo_clase": "$HCl + NaOH \\to NaCl + H_2O$.",
+    "palabra_clave": "Sal y Agua"
+  }
+]

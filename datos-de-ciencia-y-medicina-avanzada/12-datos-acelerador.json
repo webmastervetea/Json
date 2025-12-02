@@ -1,0 +1,135 @@
+{
+  "metadatos_simulacion": {
+    "experimento_ficticio": "ATLAS-Ficticio",
+    "tipo_colision": "Protón-Protón (p-p)",
+    "energia_centro_masa_TeV": 13.0,
+    "generador_eventos": "Pythia 8.3 (Ficticio)",
+    "num_eventos_simulados": 5
+  },
+  "eventos_simulados": [
+    {
+      "id_evento": 1001,
+      "proceso_subyacente": "Producción de un Bosón Z y un jet (Z + jet)",
+      "particulas_salida_final": [
+        {
+          "nombre": "Electrón",
+          "simbolo": "e-",
+          "energia_GeV": 85.2,
+          "impulso_transverso_GeV": 45.1,
+          "pseudorapidez": 1.2
+        },
+        {
+          "nombre": "Positrón",
+          "simbolo": "e+",
+          "energia_GeV": 79.5,
+          "impulso_transverso_GeV": 43.8,
+          "pseudorapidez": -0.8
+        },
+        {
+          "nombre": "Jet (agregado de hadrones)",
+          "simbolo": "jet",
+          "energia_GeV": 110.4,
+          "impulso_transverso_GeV": 105.9,
+          "pseudorapidez": 0.1
+        }
+      ],
+      "masa_invariante_boson_z_GeV": 91.18,
+      "multiplicidad_cargada": 45
+    },
+    {
+      "id_evento": 1002,
+      "proceso_subyacente": "Decaimiento de un Bosón de Higgs a dos fotones (H -> gamma gamma)",
+      "particulas_salida_final": [
+        {
+          "nombre": "Fotón",
+          "simbolo": "gamma",
+          "energia_GeV": 62.1,
+          "impulso_transverso_GeV": 60.5,
+          "pseudorapidez": 0.5
+        },
+        {
+          "nombre": "Fotón",
+          "simbolo": "gamma",
+          "energia_GeV": 63.0,
+          "impulso_transverso_GeV": 61.2,
+          "pseudorapidez": -0.2
+        }
+      ],
+      "masa_invariante_higgs_GeV": 125.1,
+      "multiplicidad_cargada": 12
+    },
+    {
+      "id_evento": 1003,
+      "proceso_subyacente": "Producción de un par Top-Antitop (tt̄)",
+      "particulas_salida_final": [
+        {
+          "nombre": "Muón",
+          "simbolo": "mu-",
+          "energia_GeV": 45.0,
+          "impulso_transverso_GeV": 35.8,
+          "pseudorapidez": 1.8
+        },
+        {
+          "nombre": "Neutrino Muónico (Energía Faltante)",
+          "simbolo": "nu_mu",
+          "energia_GeV": 70.0,
+          "impulso_transverso_GeV": 50.0,
+          "pseudorapidez": 999.0
+        },
+        {
+          "nombre": "Jet b (quark bottom)",
+          "simbolo": "b_jet",
+          "energia_GeV": 150.0,
+          "impulso_transverso_GeV": 140.0,
+          "pseudorapidez": 0.9
+        }
+      ],
+      "masa_invariante_tt_GeV": 380.5,
+      "multiplicidad_cargada": 88
+    },
+    {
+      "id_evento": 1004,
+      "proceso_subyacente": "QCD (Proceso de fondo, jet-jet)",
+      "particulas_salida_final": [
+        {
+          "nombre": "Jet",
+          "simbolo": "jet1",
+          "energia_GeV": 55.0,
+          "impulso_transverso_GeV": 52.0,
+          "pseudorapidez": 2.5
+        },
+        {
+          "nombre": "Jet",
+          "simbolo": "jet2",
+          "energia_GeV": 48.0,
+          "impulso_transverso_GeV": 45.0,
+          "pseudorapidez": -2.3
+        }
+      ],
+      "masa_invariante_jetjet_GeV": 100.1,
+      "multiplicidad_cargada": 25
+    },
+    {
+      "id_evento": 1005,
+      "proceso_subyacente": "Producción de Bosón W (leptónico)",
+      "particulas_salida_final": [
+        {
+          "nombre": "Electrón",
+          "simbolo": "e-",
+          "energia_GeV": 35.0,
+          "impulso_transverso_GeV": 30.0,
+          "pseudorapidez": 0.0
+        },
+        {
+          "nombre": "Neutrino Electrónico (Energía Faltante)",
+          "simbolo": "nu_e",
+          "energia_GeV": 48.0,
+          "impulso_transverso_GeV": 45.0,
+          "pseudorapidez": 999.0
+        }
+      ],
+      "masa_invariante_w_GeV": 80.38,
+      "multiplicidad_cargada": 30
+    }
+  ]
+}

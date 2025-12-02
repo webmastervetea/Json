@@ -1,0 +1,44 @@
+[
+  {
+    "especie_a": "Homo sapiens (Humano)",
+    "especie_b": "Pan troglodytes (Chimpancé)",
+    "parentesco_grado": "Especies Hermanas (Primates)",
+    "tiempo_divergencia_estimado_mya": 6.0,
+    "ancestro_comun_grupo": "Homínidos"
+  },
+  {
+    "especie_a": "Homo sapiens (Humano)",
+    "especie_b": "Mus musculus (Ratón)",
+    "parentesco_grado": "Mamíferos (Euterios)",
+    "tiempo_divergencia_estimado_mya": 92.0,
+    "ancestro_comun_grupo": "Clase Mammalia"
+  },
+  {
+    "especie_a": "Drosophila melanogaster (Mosca de la fruta)",
+    "especie_b": "Apis mellifera (Abeja de la miel)",
+    "parentesco_grado": "Artrópodos (Insectos)",
+    "tiempo_divergencia_estimado_mya": 300.0,
+    "ancestro_comun_grupo": "Clase Insecta"
+  },
+  {
+    "especie_a": "Arabidopsis thaliana (Planta modelo)",
+    "especie_b": "Oryza sativa (Arroz)",
+    "parentesco_grado": "Plantas con flor (Angiospermas)",
+    "tiempo_divergencia_estimado_mya": 150.0,
+    "ancestro_comun_grupo": "División Magnoliophyta"
+  },
+  {
+    "especie_a": "Escherichia coli (Bacteria)",
+    "especie_b": "Saccharomyces cerevisiae (Levadura)",
+    "parentesco_grado": "Dominios Biológicos Diferentes",
+    "tiempo_divergencia_estimado_mya": 3000.0,
+    "ancestro_comun_grupo": "LUCA (Último Ancestro Común Universal)"
+  },
+  {
+    "especie_a": "Gallus gallus (Gallina)",
+    "especie_b": "Alligator mississippiensis (Caimán)",
+    "parentesco_grado": "Arcosaurios (Reptiles, Aves)",
+    "tiempo_divergencia_estimado_mya": 250.0,
+    "ancestro_comun_grupo": "Diápsidos (Archosaurs)"
+  }
+]

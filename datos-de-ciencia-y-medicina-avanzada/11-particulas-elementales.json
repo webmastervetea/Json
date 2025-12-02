@@ -1,0 +1,74 @@
+[
+  {
+    "tipo": "Fermión (Quark)",
+    "nombre": "Quark up",
+    "simbolo": "u",
+    "masa_MeV_c2": 2.2,
+    "carga_e": 0.66667,
+    "spin": "1/2"
+  },
+  {
+    "tipo": "Fermión (Quark)",
+    "nombre": "Quark down",
+    "simbolo": "d",
+    "masa_MeV_c2": 4.7,
+    "carga_e": -0.33333,
+    "spin": "1/2"
+  },
+  {
+    "tipo": "Fermión (Leptón)",
+    "nombre": "Electrón",
+    "simbolo": "e-",
+    "masa_MeV_c2": 0.511,
+    "carga_e": -1,
+    "spin": "1/2"
+  },
+  {
+    "tipo": "Fermión (Leptón)",
+    "nombre": "Neutrino electrónico",
+    "simbolo": "nu_e",
+    "masa_MeV_c2": 0.0000000002,
+    "carga_e": 0,
+    "spin": "1/2"
+  },
+  {
+    "tipo": "Bosón (Portador de fuerza)",
+    "nombre": "Fotón",
+    "simbolo": "gamma",
+    "masa_MeV_c2": 0.0,
+    "carga_e": 0,
+    "spin": "1"
+  },
+  {
+    "tipo": "Bosón (Portador de fuerza)",
+    "nombre": "Bosón Z",
+    "simbolo": "Z0",
+    "masa_MeV_c2": 91200.0,
+    "carga_e": 0,
+    "spin": "1"
+  },
+  {
+    "tipo": "Bosón (Mecanismo de masa)",
+    "nombre": "Bosón de Higgs",
+    "simbolo": "H",
+    "masa_MeV_c2": 125100.0,
+    "carga_e": 0,
+    "spin": "0"
+  },
+  {
+    "tipo": "Partícula Compuesta (Hadrón)",
+    "nombre": "Protón (uud)",
+    "simbolo": "p+",
+    "masa_MeV_c2": 938.272,
+    "carga_e": 1,
+    "spin": "1/2"
+  },
+  {
+    "tipo": "Partícula Compuesta (Hadrón)",
+    "nombre": "Neutrón (udd)",
+    "simbolo": "n0",
+    "masa_MeV_c2": 939.565,
+    "carga_e": 0,
+    "spin": "1/2"
+  }
+]

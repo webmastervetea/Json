@@ -1,0 +1,82 @@
+[
+  {
+    "nombre": "Talco",
+    "formula_quimica": "Mg3Si4O10(OH)2",
+    "dureza_mohs": 1,
+    "color_comun": "Blanco, gris pálido, verde pálido",
+    "estructura_cristalina": "Monoclínica",
+    "escala_mohs_referencia": true
+  },
+  {
+    "nombre": "Yeso",
+    "formula_quimica": "CaSO4·2H2O",
+    "dureza_mohs": 2,
+    "color_comun": "Incoloro, blanco, gris",
+    "estructura_cristalina": "Monoclínica",
+    "escala_mohs_referencia": true
+  },
+  {
+    "nombre": "Calcita",
+    "formula_quimica": "CaCO3",
+    "dureza_mohs": 3,
+    "color_comun": "Incoloro, blanco, rosa, amarillo",
+    "estructura_cristalina": "Trigonal",
+    "escala_mohs_referencia": true
+  },
+  {
+    "nombre": "Fluorita",
+    "formula_quimica": "CaF2",
+    "dureza_mohs": 4,
+    "color_comun": "Púrpura, verde, azul, amarillo (Muy variable)",
+    "estructura_cristalina": "Cúbica",
+    "escala_mohs_referencia": true
+  },
+  {
+    "nombre": "Apatito",
+    "formula_quimica": "Ca5(PO4)3(F,Cl,OH)",
+    "dureza_mohs": 5,
+    "color_comun": "Verde, amarillo, azul, incoloro",
+    "estructura_cristalina": "Hexagonal",
+    "escala_mohs_referencia": true
+  },
+  {
+    "nombre": "Ortoclasa (Feldespato)",
+    "formula_quimica": "KAlSi3O8",
+    "dureza_mohs": 6,
+    "color_comun": "Blanco, rosa, amarillo pálido",
+    "estructura_cristalina": "Monoclínica",
+    "escala_mohs_referencia": true
+  },
+  {
+    "nombre": "Cuarzo",
+    "formula_quimica": "SiO2",
+    "dureza_mohs": 7,
+    "color_comun": "Incoloro, blanco (pero muy variable: amatista, citrino, etc.)",
+    "estructura_cristalina": "Trigonal",
+    "escala_mohs_referencia": true
+  },
+  {
+    "nombre": "Topacio",
+    "formula_quimica": "Al2SiO4(F,OH)2",
+    "dureza_mohs": 8,
+    "color_comun": "Ámbar, azul, incoloro",
+    "estructura_cristalina": "Ortorrómbica",
+    "escala_mohs_referencia": true
+  },
+  {
+    "nombre": "Corindón",
+    "formula_quimica": "Al2O3",
+    "dureza_mohs": 9,
+    "color_comun": "Rojo (Rubí), Azul (Zafiro), Blanco, marrón",
+    "estructura_cristalina": "Trigonal",
+    "escala_mohs_referencia": true
+  },
+  {
+    "nombre": "Diamante",
+    "formula_quimica": "C",
+    "dureza_mohs": 10,
+    "color_comun": "Incoloro, amarillo, marrón",
+    "estructura_cristalina": "Cúbica (Isométrica)",
+    "escala_mohs_referencia": true
+  }
+]

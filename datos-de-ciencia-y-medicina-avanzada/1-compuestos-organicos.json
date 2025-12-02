@@ -1,0 +1,42 @@
+[
+  {
+    "nombre": "Agua",
+    "formula": "H2O",
+    "peso_molecular_g_mol": 18.015,
+    "punto_ebullicion_c": 100.0,
+    "smiles": "O",
+    "inchi": "InChI=1S/H2O/h1H2"
+  },
+  {
+    "nombre": "Metano",
+    "formula": "CH4",
+    "peso_molecular_g_mol": 16.043,
+    "punto_ebullicion_c": -161.5,
+    "smiles": "C",
+    "inchi": "InChI=1S/CH4/h1H4"
+  },
+  {
+    "nombre": "Etanol",
+    "formula": "C2H6O",
+    "peso_molecular_g_mol": 46.068,
+    "punto_ebullicion_c": 78.37,
+    "smiles": "CCO",
+    "inchi": "InChI=1S/C2H6O/c1-2-3/h3H,2H2,1H3"
+  },
+  {
+    "nombre": "Ácido acético",
+    "formula": "C2H4O2",
+    "peso_molecular_g_mol": 60.052,
+    "punto_ebullicion_c": 117.9,
+    "smiles": "CC(=O)O",
+    "inchi": "InChI=1S/C2H4O2/c1-2(3)4/h1H3,(H,3,4)"
+  },
+  {
+    "nombre": "Benceno",
+    "formula": "C6H6",
+    "peso_molecular_g_mol": 78.114,
+    "punto_ebullicion_c": 80.1,
+    "smiles": "c1ccccc1",
+    "inchi": "InChI=1S/C6H6/c1-2-4-6-5-3-1/h1-6H"
+  }
+]

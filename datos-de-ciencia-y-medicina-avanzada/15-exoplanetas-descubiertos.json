@@ -1,0 +1,47 @@
+[
+  {
+    "nombre_exoplaneta": "Kepler-186f",
+    "nombre_estrella_madre": "Kepler-186",
+    "tipo_estrella": "Enana Roja (Clase M)",
+    "radio_tierra": 1.11,
+    "masa_tierra": "Desconocida (Estimada: 1.4-3.2)",
+    "periodo_orbital_dias": 130.0,
+    "zona_habitabilidad": "Sí (Primer planeta de tamaño terrestre en la zona habitable)"
+  },
+  {
+    "nombre_exoplaneta": "WASP-17b",
+    "nombre_estrella_madre": "WASP-17",
+    "tipo_estrella": "Clase F",
+    "radio_tierra": 22.0,
+    "masa_tierra": 0.49,
+    "periodo_orbital_dias": 3.73,
+    "zona_habitabilidad": "No (Júpiter ultracaliente)"
+  },
+  {
+    "nombre_exoplaneta": "Proxima b",
+    "nombre_estrella_madre": "Proxima Centauri",
+    "tipo_estrella": "Enana Roja (Clase M)",
+    "radio_tierra": "Desconocido (Estimado: 1.0-1.4)",
+    "masa_tierra": 1.07,
+    "periodo_orbital_dias": 11.18,
+    "zona_habitabilidad": "Sí (El exoplaneta más cercano a la Tierra)"
+  },
+  {
+    "nombre_exoplaneta": "HD 209458 b",
+    "nombre_estrella_madre": "HD 209458",
+    "tipo_estrella": "Clase G0",
+    "radio_tierra": 14.2,
+    "masa_tierra": 221.7,
+    "periodo_orbital_dias": 3.52,
+    "zona_habitabilidad": "No (Júpiter caliente; Famoso por tener atmósfera detectada)"
+  },
+  {
+    "nombre_exoplaneta": "TRAPPIST-1e",
+    "nombre_estrella_madre": "TRAPPIST-1",
+    "tipo_estrella": "Enana Ultrafría (Clase M8)",
+    "radio_tierra": 0.918,
+    "masa_tierra": 0.77,
+    "periodo_orbital_dias": 6.1,
+    "zona_habitabilidad": "Sí (Parte del sistema de 7 planetas terrestres)"
+  }
+]

@@ -1,0 +1,109 @@
+[
+  {
+    "id_muestra": "M-2023-A",
+    "edad": 45,
+    "sexo": "Femenino",
+    "registro_vacunas": [
+      {
+        "tipo_vacuna": "Influenza (Gripe)",
+        "nombre_comercial": "Fluzone Quadrivalente",
+        "fecha_recepcion": "2024-10-15",
+        "dosis": "Única anual"
+      },
+      {
+        "tipo_vacuna": "COVID-19 (Dosis de refuerzo)",
+        "nombre_comercial": "Pfizer-BioNTech (Bivalente)",
+        "fecha_recepcion": "2023-11-01",
+        "dosis": "Refuerzo"
+      },
+      {
+        "tipo_vacuna": "Tétanos, Difteria y Tos ferina (Tdap)",
+        "nombre_comercial": "Boostrix",
+        "fecha_recepcion": "2019-05-20",
+        "dosis": "Refuerzo"
+      }
+    ]
+  },
+  {
+    "id_muestra": "M-2023-B",
+    "edad": 72,
+    "sexo": "Masculino",
+    "registro_vacunas": [
+      {
+        "tipo_vacuna": "Neumococo (Neumonía)",
+        "nombre_comercial": "Prevnar 20",
+        "fecha_recepcion": "2024-03-01",
+        "dosis": "Única"
+      },
+      {
+        "tipo_vacuna": "Herpes Zóster (Culebrilla)",
+        "nombre_comercial": "Shingrix",
+        "fecha_recepcion": "2023-08-10",
+        "dosis": "Dosis 1 de 2"
+      },
+      {
+        "tipo_vacuna": "Herpes Zóster (Culebrilla)",
+        "nombre_comercial": "Shingrix",
+        "fecha_recepcion": "2023-10-10",
+        "dosis": "Dosis 2 de 2"
+      }
+    ]
+  },
+  {
+    "id_muestra": "M-2023-C",
+    "edad": 28,
+    "sexo": "Femenino",
+    "registro_vacunas": [
+      {
+        "tipo_vacuna": "Virus del Papiloma Humano (VPH)",
+        "nombre_comercial": "Gardasil 9",
+        "fecha_recepcion": "2015-01-10",
+        "dosis": "Dosis 3 de 3"
+      },
+      {
+        "tipo_vacuna": "Sarampión, Paperas y Rubéola (MMR)",
+        "nombre_comercial": "MMR-II",
+        "fecha_recepcion": "2000-07-25",
+        "dosis": "Dosis 2 de 2"
+      }
+    ]
+  },
+  {
+    "id_muestra": "M-2023-D",
+    "edad": 10,
+    "sexo": "Masculino",
+    "registro_vacunas": [
+      {
+        "tipo_vacuna": "Hepatitis B",
+        "nombre_comercial": "Recombivax HB",
+        "fecha_recepcion": "2015-03-01",
+        "dosis": "Dosis 3 de 3"
+      },
+      {
+        "tipo_vacuna": "Polio (IPV)",
+        "nombre_comercial": "Infanrix Hexa",
+        "fecha_recepcion": "2015-05-15",
+        "dosis": "Dosis 4 de 4"
+      }
+    ]
+  },
+  {
+    "id_muestra": "M-2023-E",
+    "edad": 35,
+    "sexo": "Masculino",
+    "registro_vacunas": [
+      {
+        "tipo_vacuna": "Fiebre Amarilla",
+        "nombre_comercial": "Stamaril",
+        "fecha_recepcion": "2022-06-01",
+        "dosis": "Única (Viaje)"
+      },
+      {
+        "tipo_vacuna": "Hepatitis A",
+        "nombre_comercial": "Havrix",
+        "fecha_recepcion": "2022-06-01",
+        "dosis": "Dosis 1 de 2"
+      }
+    ]
+  }
+]

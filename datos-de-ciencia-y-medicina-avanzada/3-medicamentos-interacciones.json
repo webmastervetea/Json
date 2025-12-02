@@ -1,0 +1,50 @@
+[
+  {
+    "farmaco_index": "Warfarina",
+    "clase_farmacologica": "Anticoagulante (Antagonista de la Vitamina K)",
+    "interacciones_adversas_comunes": [
+      {
+        "interactuante": "Aspirina (Ácido acetilsalicílico)",
+        "tipo_interaccion": "Farmacodinámica/Sinergia",
+        "efecto_adverso": "Aumento significativo del riesgo de hemorragia y sangrado gastrointestinal. Ambos fármacos inhiben la coagulación por diferentes mecanismos.",
+        "gravedad": "Alta"
+      },
+      {
+        "interactuante": "Claritromicina (Antibiótico)",
+        "tipo_interaccion": "Farmacocinética (Inhibición enzimática)",
+        "efecto_adverso": "Aumento del efecto anticoagulante de la Warfarina debido a la inhibición de su metabolismo hepático (CYP2C9), lo que lleva a un mayor riesgo de hemorragia.",
+        "gravedad": "Alta"
+      }
+    ]
+  },
+  {
+    "farmaco_index": "Inhibidores de la ECA (p. ej., Lisinopril)",
+    "clase_farmacologica": "Antihipertensivo",
+    "interacciones_adversas_comunes": [
+      {
+        "interactuante": "Diuréticos ahorradores de potasio (p. ej., Espironolactona)",
+        "tipo_interaccion": "Farmacodinámica/Suma de efectos",
+        "efecto_adverso": "Hiperpotasemia (niveles de potasio peligrosamente altos) debido a que ambos fármacos retienen potasio.",
+        "gravedad": "Moderada a Alta"
+      },
+      {
+        "interactuante": "AINES (p. ej., Ibuprofeno, Naproxeno)",
+        "tipo_interaccion": "Farmacodinámica/Oposición",
+        "efecto_adverso": "Reducción del efecto antihipertensivo del IECA y posible daño renal (insuficiencia renal aguda), especialmente en pacientes deshidratados.",
+        "gravedad": "Moderada a Alta"
+      }
+    ]
+  },
+  {
+    "farmaco_index": "Estatinas (p. ej., Simvastatina)",
+    "clase_farmacologica": "Hipolipemiante",
+    "interacciones_adversas_comunes": [
+      {
+        "interactuante": "Jugo de Pomelo",
+        "tipo_interaccion": "Farmacocinética (Inhibición enzimática)",
+        "efecto_adverso": "Aumento de la concentración de la estatina en sangre (debido a la inhibición del CYP3A4 intestinal), lo que incrementa el riesgo de toxicidad muscular grave (Rabdomiólisis).",
+        "gravedad": "Moderada"
+      }
+    ]
+  }
+]

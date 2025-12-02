@@ -1,0 +1,62 @@
+[
+  {
+    "ingrediente_activo": "Paracetamol (Acetaminofén)",
+    "clase": "Analgésico / Antipirético",
+    "efectos_secundarios": {
+      "frecuentes_comunes": [
+        "Reacciones de hipersensibilidad leves (raras a dosis terapéuticas)."
+      ],
+      "raros_graves": [
+        "Hepatotoxicidad (daño hepático) en casos de sobredosis o uso crónico excesivo.",
+        "Reacciones cutáneas graves (p. ej., síndrome de Stevens-Johnson)."
+      ],
+      "nota_especial": "El riesgo de hepatotoxicidad aumenta drásticamente con el consumo de alcohol."
+    }
+  },
+  {
+    "ingrediente_activo": "Ibuprofeno",
+    "clase": "AINES (Antiinflamatorio No Esteroideo)",
+    "efectos_secundarios": {
+      "frecuentes_comunes": [
+        "Molestias gastrointestinales (dispepsia, náuseas, dolor abdominal).",
+        "Dolor de cabeza, mareos."
+      ],
+      "raros_graves": [
+        "Úlceras y hemorragias gastrointestinales (especialmente con uso prolongado).",
+        "Insuficiencia renal aguda.",
+        "Aumento del riesgo de eventos cardiovasculares (infarto, accidente cerebrovascular)."
+      ]
+    }
+  },
+  {
+    "ingrediente_activo": "Amoxicilina",
+    "clase": "Antibiótico (Penicilina)",
+    "efectos_secundarios": {
+      "frecuentes_comunes": [
+        "Diarrea y náuseas (debido a la alteración de la flora intestinal).",
+        "Erupción cutánea (no alérgica, a menudo transitoria)."
+      ],
+      "raros_graves": [
+        "Reacción alérgica grave (anafilaxia).",
+        "Colitis pseudomembranosa (infección por C. difficile).",
+        "Problemas hematológicos (raros)."
+      ]
+    }
+  },
+  {
+    "ingrediente_activo": "Omeprazol",
+    "clase": "Inhibidor de la Bomba de Protones (IBP)",
+    "efectos_secundarios": {
+      "frecuentes_comunes": [
+        "Dolor de cabeza.",
+        "Náuseas, diarrea o estreñimiento.",
+        "Dolor abdominal."
+      ],
+      "raros_graves": [
+        "Fracturas óseas (con uso prolongado a dosis altas).",
+        "Deficiencia de vitamina $B_{12}$ (con uso prolongado).",
+        "Nefritis intersticial aguda."
+      ]
+    }
+  }
+]

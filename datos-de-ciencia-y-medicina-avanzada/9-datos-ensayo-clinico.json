@@ -1,0 +1,98 @@
+{
+  "metadatos_ensayo": {
+    "titulo": "Estudio de Fase II: Evaluación de la Eficacia y Seguridad del Compuesto XY-100 en la Hipertensión",
+    "identificador_registro": "NCT2025001F",
+    "patrocinador": "FarmaFicticia Labs",
+    "fecha_finalizacion_estimada": "2026-12-31",
+    "variable_primaria": "Cambio promedio en la Presión Arterial Sistólica (PAS) a las 12 semanas."
+  },
+  "cohortes_participantes": [
+    {
+      "nombre_cohorte": "Grupo Placebo",
+      "descripcion": "Recibieron una sustancia inactiva de apariencia idéntica al fármaco."
+    },
+    {
+      "nombre_cohorte": "Grupo Tratamiento Activo (XY-100)",
+      "descripcion": "Recibieron 100 mg del Compuesto XY-100 oralmente, una vez al día."
+    }
+  ],
+  "datos_participantes": [
+    {
+      "id_participante": "P001",
+      "edad": 55,
+      "sexo": "Masculino",
+      "cohorte": "Grupo Tratamiento Activo (XY-100)",
+      "resultado_primario": {
+        "pas_inicio_mmhg": 155,
+        "pas_final_mmhg": 138,
+        "cambio_pas": -17
+      },
+      "eventos_adversos_graves": false,
+      "eventos_adversos_leves": [
+        {"evento": "Dolor de cabeza leve", "dia_ocurrencia": 15}
+      ],
+      "estado_final": "Completó el estudio"
+    },
+    {
+      "id_participante": "P002",
+      "edad": 62,
+      "sexo": "Femenino",
+      "cohorte": "Grupo Placebo",
+      "resultado_primario": {
+        "pas_inicio_mmhg": 150,
+        "pas_final_mmhg": 147,
+        "cambio_pas": -3
+      },
+      "eventos_adversos_graves": false,
+      "eventos_adversos_leves": [
+        {"evento": "Molestia estomacal", "dia_ocurrencia": 40}
+      ],
+      "estado_final": "Completó el estudio"
+    },
+    {
+      "id_participante": "P003",
+      "edad": 48,
+      "sexo": "Masculino",
+      "cohorte": "Grupo Tratamiento Activo (XY-100)",
+      "resultado_primario": {
+        "pas_inicio_mmhg": 160,
+        "pas_final_mmhg": 140,
+        "cambio_pas": -20
+      },
+      "eventos_adversos_graves": true,
+      "eventos_adversos_leves": [],
+      "estado_final": "Abandono (Evento Adverso Grave)"
+    },
+    {
+      "id_participante": "P004",
+      "edad": 70,
+      "sexo": "Femenino",
+      "cohorte": "Grupo Placebo",
+      "resultado_primario": {
+        "pas_inicio_mmhg": 145,
+        "pas_final_mmhg": 146,
+        "cambio_pas": 1
+      },
+      "eventos_adversos_graves": false,
+      "eventos_adversos_leves": [
+        {"evento": "Mareos ocasionales", "dia_ocurrencia": 50},
+        {"evento": "Mareos ocasionales", "dia_ocurrencia": 65}
+      ],
+      "estado_final": "Completó el estudio"
+    },
+    {
+      "id_participante": "P005",
+      "edad": 59,
+      "sexo": "Masculino",
+      "cohorte": "Grupo Tratamiento Activo (XY-100)",
+      "resultado_primario": {
+        "pas_inicio_mmhg": 158,
+        "pas_final_mmhg": 142,
+        "cambio_pas": -16
+      },
+      "eventos_adversos_graves": false,
+      "eventos_adversos_leves": [],
+      "estado_final": "Completó el estudio"
+    }
+  ]
+}

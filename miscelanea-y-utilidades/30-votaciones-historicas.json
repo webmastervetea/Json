@@ -1,0 +1,57 @@
+{
+  "registro_resultados_votaciones": [
+    {
+      "organismo": "Asamblea General de las Naciones Unidas (AGNU)",
+      "referencia_votacion": "Resolución A/RES/79/15",
+      "fecha": "2025-11-05",
+      "tema": "Llamamiento para un alto el fuego humanitario en la región X",
+      "resultado": "Aprobada",
+      "desglose_votos": {
+        "votos_a_favor": 140,
+        "votos_en_contra": 9,
+        "abstenciones": 34,
+        "ausencias": 10
+      },
+      "notas_clave": "Votación por mayoría simple. Los 5 miembros permanentes del Consejo de Seguridad votaron de forma dividida."
+    },
+    {
+      "organismo": "Parlamento Europeo",
+      "referencia_votacion": "Informe sobre la Directiva de IA (AI Act)",
+      "fecha": "2025-06-14",
+      "tema": "Adopción de la Ley de Inteligencia Artificial de la UE",
+      "resultado": "Aprobada",
+      "desglose_votos": {
+        "votos_a_favor": 523,
+        "votos_en_contra": 46,
+        "abstenciones": 49
+      },
+      "notas_clave": "Votación en sesión plenaria final. Fuerte apoyo de los principales grupos políticos (PPE, S&D, Renew)."
+    },
+    {
+      "organismo": "Cámara de Representantes (Congreso Nacional Ficticio)",
+      "referencia_votacion": "Ley de Presupuestos Generales 2026",
+      "fecha": "2025-10-20",
+      "tema": "Aprobación del Presupuesto Federal Anual",
+      "resultado": "Rechazada",
+      "desglose_votos": {
+        "votos_a_favor": 185,
+        "votos_en_contra": 210,
+        "abstenciones": 5
+      },
+      "notas_clave": "La propuesta fue rechazada debido a la falta de apoyo de la minoría y la deserción de 15 miembros del partido mayoritario."
+    },
+    {
+      "organismo": "Consejo de Seguridad de las Naciones Unidas (CSNU)",
+      "referencia_votacion": "Proyecto de Resolución S/2025/112",
+      "fecha": "2025-09-01",
+      "tema": "Imposición de sanciones a la entidad B",
+      "resultado": "Rechazada (Veto)",
+      "desglose_votos": {
+        "votos_a_favor": 13,
+        "votos_en_contra": 1,
+        "abstenciones": 1
+      },
+      "notas_clave": "Rechazada por el veto de un miembro permanente (Miembro X), a pesar de contar con una amplia mayoría de 13 votos a favor."
+    }
+  ]
+}

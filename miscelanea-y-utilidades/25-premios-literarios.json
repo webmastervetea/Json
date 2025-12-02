@@ -1,0 +1,36 @@
+{
+  "ganadores_premios_historicos": [
+    {
+      "premio": "Nobel de Literatura",
+      "categoria": "Literatura",
+      "historial": [
+        {"año": 2024, "ganador": "Han Kang", "nacionalidad": "Corea del Sur"},
+        {"año": 2023, "ganador": "Jon Fosse", "nacionalidad": "Noruega"},
+        {"año": 2022, "ganador": "Annie Ernaux", "nacionalidad": "Francia"},
+        {"año": 2021, "ganador": "Abdulrazak Gurnah", "nacionalidad": "Tanzania/Reino Unido"},
+        {"año": 1982, "ganador": "Gabriel García Márquez", "nacionalidad": "Colombia"},
+        {"año": 1946, "ganador": "Hermann Hesse", "nacionalidad": "Alemania/Suiza"}
+      ]
+    },
+    {
+      "premio": "Nobel de la Paz",
+      "categoria": "Paz",
+      "historial": [
+        {"año": 2024, "ganador": "Narges Mohammadi", "nacionalidad": "Irán"},
+        {"año": 2023, "ganador": "Oleksandra Matviichuk y el Centro para las Libertades Civiles", "nacionalidad": "Ucrania"},
+        {"año": 2014, "ganador": "Malala Yousafzai y Kailash Satyarthi", "nacionalidad": "Pakistán/India"},
+        {"año": 1964, "ganador": "Martin Luther King Jr.", "nacionalidad": "Estados Unidos"}
+      ]
+    },
+    {
+      "premio": "Premio Pritzker de Arquitectura",
+      "categoria": "Arquitectura",
+      "historial": [
+        {"año": 2024, "ganador": "Riken Yamamoto", "nacionalidad": "Japón"},
+        {"año": 2023, "ganador": "Sir David Chipperfield", "nacionalidad": "Reino Unido"},
+        {"año": 2022, "ganador": "Diébédo Francis Kéré", "nacionalidad": "Burkina Faso/Alemania"},
+        {"año": 2004, "ganador": "Zaha Hadid", "nacionalidad": "Irak/Reino Unido"}
+      ]
+    }
+  ]
+}

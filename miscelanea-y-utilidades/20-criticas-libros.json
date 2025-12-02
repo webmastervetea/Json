@@ -1,0 +1,39 @@
+{
+  "coleccion_de_reseñas_libros": [
+    {
+      "titulo_libro": "Cien años de soledad",
+      "autor": "Gabriel García Márquez",
+      "reseñador": "Lector_Clásico",
+      "puntuacion_estrellas": 5,
+      "opinion": "Una obra maestra indiscutible. La narrativa envolvente y el realismo mágico crean un universo familiar y a la vez mítico. La saga de los Buendía es un espejo de la historia latinoamericana. Lectura densa pero obligatoria."
+    },
+    {
+      "titulo_libro": "El Código Da Vinci",
+      "autor": "Dan Brown",
+      "reseñador": "Fan_Thriller",
+      "puntuacion_estrellas": 3,
+      "opinion": "Entretenido y muy ágil de leer. La trama te engancha con sus misterios y conspiraciones históricas. Sin embargo, los personajes son planos y el estilo literario es muy básico. Bueno para un viaje largo."
+    },
+    {
+      "titulo_libro": "Sapiens: De animales a dioses",
+      "autor": "Yuval Noah Harari",
+      "reseñador": "Historiador_Curioso",
+      "puntuacion_estrellas": 5,
+      "opinion": "Un libro brillante y provocador que te obliga a repensar todo lo que sabes sobre la humanidad. Ofrece una perspectiva fresca sobre la biología, la historia y el futuro. Altamente informativo y accesible."
+    },
+    {
+      "titulo_libro": "Orgullo y prejuicio",
+      "autor": "Jane Austen",
+      "reseñador": "Romántica_Vintage",
+      "puntuacion_estrellas": 4,
+      "opinion": "Un clásico encantador. La inteligencia de Elizabeth Bennet y la evolución del Sr. Darcy son inolvidables. Aunque la moralidad es de otra época, el ingenio de Austen sigue siendo atemporal. Un poco lento al principio."
+    },
+    {
+      "titulo_libro": "1984",
+      "autor": "George Orwell",
+      "reseñador": "Analista_Social",
+      "puntuacion_estrellas": 5,
+      "opinion": "Proféticamente aterrador. La visión de Orwell sobre el control totalitario y la manipulación del lenguaje es más relevante que nunca. No es una lectura agradable, pero es vital para entender la política moderna."
+    }
+  ]
+}

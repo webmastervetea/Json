@@ -1,0 +1,77 @@
+{
+  "reglamento_faltas_y_tarjetas_futbol": {
+    "faltas_con_contacto_tiro_libre_directo": [
+      {
+        "falta": "Dar o Intentar Dar una Patada",
+        "definicion": "Impactar o intentar impactar al oponente con el pie o la pierna de forma imprudente, temeraria o con fuerza excesiva.",
+        "sancion_disciplinaria": "Amarilla (Temeraria) o Roja (Fuerza Excesiva)."
+      },
+      {
+        "falta": "Poner una Zancadilla",
+        "definicion": "Derribar o intentar derribar al oponente haciéndole tropezar o extendiendo la pierna frente a él.",
+        "sancion_disciplinaria": "Amarilla o Roja, según la gravedad y si frustra una oportunidad manifiesta de gol."
+      },
+      {
+        "falta": "Saltar sobre un Oponente",
+        "definicion": "Saltar con intención sobre un adversario, incluso si se le contacta o no, de manera peligrosa.",
+        "sancion_disciplinaria": "Amarilla (Temeraria) o Roja."
+      },
+      {
+        "falta": "Cargar (Embestir)",
+        "definicion": "Cargar contra un oponente de forma imprudente o peligrosa, usualmente utilizando el hombro o el cuerpo, cuando el balón no está en juego o el oponente no está disputando el balón.",
+        "sancion_disciplinaria": "Amarilla o Tiro Libre Indirecto (si es sin balón)."
+      },
+      {
+        "falta": "Golpear o Intentar Golpear",
+        "definicion": "Impactar o intentar impactar al oponente con el puño, codo o cualquier parte del brazo, de forma imprudente, temeraria o con fuerza excesiva.",
+        "sancion_disciplinaria": "Roja (si hay agresión o fuerza excesiva)."
+      },
+      {
+        "falta": "Empujar",
+        "definicion": "Usar las manos o los brazos para desplazar o desequilibrar al oponente.",
+        "sancion_disciplinaria": "Amarilla si es imprudente y frustra un ataque prometedor."
+      },
+      {
+        "falta": "Taclear / Disputar el Balón (cuando hay contacto antes del balón)",
+        "definicion": "Disputar el balón haciendo contacto con el oponente antes de tocar el balón de forma imprudente, temeraria o con fuerza excesiva.",
+        "sancion_disciplinaria": "Amarilla (Temeraria) o Roja (Fuerza Excesiva)."
+      }
+    ],
+    "infracciones_sin_contacto_tiro_libre_directo": [
+      {
+        "falta": "Mano (Manejar el Balón)",
+        "definicion": "Tocar el balón deliberadamente con la mano o el brazo. La 'mano' accidental que resulta en gol o anula una oportunidad de ataque es también sancionada.",
+        "sancion_disciplinaria": "Amarilla si frustra un ataque prometedor. Roja si frustra una oportunidad manifiesta de gol."
+      }
+    ],
+    "faltas_tiro_libre_indirecto": [
+      {
+        "falta": "Juego Peligroso",
+        "definicion": "Cualquier acción que, sin contacto físico, pueda lesionar a otra persona (ej. levantar la pierna demasiado alto) o impide que un oponente juegue el balón por temor a una lesión.",
+        "sancion_disciplinaria": "N/A (Sólo Indirecto, a menos que sea temerario)."
+      },
+      {
+        "falta": "Obstruir el Avance (Sin balón)",
+        "definicion": "Interponerse entre el oponente y el balón para obstaculizar su movimiento, sin disputar el balón (excepto si el balón está a distancia jugable).",
+        "sancion_disciplinaria": "N/A (Indirecto)."
+      },
+      {
+        "falta": "Infracciones del Portero",
+        "definicion": "Sostener el balón con las manos por más de seis segundos, tocar el balón con las manos después de un pase deliberado de un compañero (cesión), o tocar el balón con las manos tras un saque de banda de un compañero.",
+        "sancion_disciplinaria": "N/A (Indirecto)."
+      }
+    ],
+    "sanciones_disciplinarias_tarjetas": [
+      {
+        "tarjeta": "Tarjeta Amarilla (Amonestación)",
+        "definicion": "Se muestra por infracciones que requieren una advertencia oficial, como conducta antideportiva, disentir con palabras o acciones, retrasar la reanudación del juego, no respetar la distancia en tiros libres, o salir/entrar al campo sin permiso.",
+        "resultado": "El jugador puede seguir jugando. Dos tarjetas amarillas resultan en Tarjeta Roja (Expulsión)."
+      },
+      {
+        "tarjeta": "Tarjeta Roja (Expulsión)",
+        "definicion": "Se muestra por infracciones graves que resultan en la expulsión inmediata del jugador, como ser culpable de juego brusco grave (fuerza excesiva), conducta violenta, escupir, usar lenguaje ofensivo/abusivo, o frustrar una oportunidad manifiesta de gol (DOGSO, por sus siglas en inglés) mediante mano o falta grave.",
+        "resultado": "El jugador es expulsado y no puede ser reemplazado. El equipo juega con un jugador menos."
+      }
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "festivos_no_laborables_por_pais": [
+    {
+      "pais": "España",
+      "codigo_iso": "ES",
+      "region_global": "Europa",
+      "festivos_fijos": [
+        {"nombre": "Año Nuevo", "fecha_fija": "01-01", "tipo": "Nacional"},
+        {"nombre": "Epifanía del Señor", "fecha_fija": "06-01", "tipo": "Nacional"},
+        {"nombre": "Día del Trabajador", "fecha_fija": "01-05", "tipo": "Nacional"},
+        {"nombre": "Asunción de la Virgen", "fecha_fija": "15-08", "tipo": "Nacional"},
+        {"nombre": "Día de la Fiesta Nacional", "fecha_fija": "12-10", "tipo": "Nacional"},
+        {"nombre": "Día de Todos los Santos", "fecha_fija": "01-11", "tipo": "Nacional"},
+        {"nombre": "Día de la Constitución", "fecha_fija": "06-12", "tipo": "Nacional"},
+        {"nombre": "Inmaculada Concepción", "fecha_fija": "08-12", "tipo": "Nacional"},
+        {"nombre": "Navidad", "fecha_fija": "25-12", "tipo": "Nacional"}
+      ],
+      "festivos_moviles_ejemplo": ["Viernes Santo", "Lunes de Pascua"]
+    },
+    {
+      "pais": "México",
+      "codigo_iso": "MX",
+      "region_global": "América del Norte",
+      "festivos_fijos": [
+        {"nombre": "Año Nuevo", "fecha_fija": "01-01", "tipo": "Oficial"},
+        {"nombre": "Día de la Constitución", "fecha_fija": "05-02", "tipo": "Móvil (primer lunes de febrero)"},
+        {"nombre": "Natalicio de Benito Juárez", "fecha_fija": "21-03", "tipo": "Móvil (tercer lunes de marzo)"},
+        {"nombre": "Día del Trabajador", "fecha_fija": "01-05", "tipo": "Oficial"},
+        {"nombre": "Día de la Independencia", "fecha_fija": "16-09", "tipo": "Oficial"},
+        {"nombre": "Día de la Revolución", "fecha_fija": "20-11", "tipo": "Móvil (tercer lunes de noviembre)"},
+        {"nombre": "Navidad", "fecha_fija": "25-12", "tipo": "Oficial"}
+      ],
+      "festivos_moviles_ejemplo": ["Jueves y Viernes Santo"]
+    },
+    {
+      "pais": "Estados Unidos",
+      "codigo_iso": "US",
+      "region_global": "América del Norte",
+      "festivos_fijos": [
+        {"nombre": "Año Nuevo", "fecha_fija": "01-01", "tipo": "Federal"},
+        {"nombre": "Día de la Independencia", "fecha_fija": "04-07", "tipo": "Federal"},
+        {"nombre": "Día de los Veteranos", "fecha_fija": "11-11", "tipo": "Federal"},
+        {"nombre": "Día de Navidad", "fecha_fija": "25-12", "tipo": "Federal"}
+      ],
+      "festivos_moviles_ejemplo": ["Martin Luther King Jr. Day (Tercer Lunes de Enero)", "Thanksgiving Day (Cuarto Jueves de Noviembre)"]
+    },
+    {
+      "pais": "Japón",
+      "codigo_iso": "JP",
+      "region_global": "Asia",
+      "festivos_fijos": [
+        {"nombre": "Día del Año Nuevo", "fecha_fija": "01-01", "tipo": "Nacional"},
+        {"nombre": "Día de la Fundación Nacional", "fecha_fija": "11-02", "tipo": "Nacional"},
+        {"nombre": "Día de Showa", "fecha_fija": "29-04", "tipo": "Nacional"},
+        {"nombre": "Día de la Constitución", "fecha_fija": "03-05", "tipo": "Nacional"},
+        {"nombre": "Día del Respeto a los Mayores", "fecha_fija": "15-09", "tipo": "Nacional"},
+        {"nombre": "Día de la Cultura", "fecha_fija": "03-11", "tipo": "Nacional"},
+        {"nombre": "Cumpleaños del Emperador", "fecha_fija": "23-02", "tipo": "Nacional"}
+      ],
+      "festivos_moviles_ejemplo": ["Día del Mar", "Día de la Mayoría de Edad"]
+    }
+  ]
+}

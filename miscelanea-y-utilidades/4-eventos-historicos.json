@@ -1,0 +1,58 @@
+{
+  "hechos_historicos_importantes": [
+    {
+      "fecha": "476 d.C.",
+      "lugar": "Roma, Italia",
+      "evento": "Caída del Imperio Romano de Occidente",
+      "descripcion": "Odoacro depone al último emperador de Occidente, Rómulo Augústulo, marcando tradicionalmente el fin de la Antigüedad y el comienzo de la Edad Media."
+    },
+    {
+      "fecha": "1492 d.C.",
+      "lugar": "Guanahani (San Salvador), Bahamas",
+      "evento": "Llegada de Cristóbal Colón a América",
+      "descripcion": "El primer viaje de Colón marca el inicio de la era de la exploración europea y el encuentro de dos mundos."
+    },
+    {
+      "fecha": "1789 d.C.",
+      "lugar": "París, Francia",
+      "evento": "Inicio de la Revolución Francesa",
+      "descripcion": "La toma de la Bastilla el 14 de julio simboliza el fin del Antiguo Régimen y el ascenso de los ideales de libertad e igualdad."
+    },
+    {
+      "fecha": "1821 d.C.",
+      "lugar": "Córdoba, México",
+      "evento": "Consumación de la Independencia de México",
+      "descripcion": "La firma de los Tratados de Córdoba sella formalmente la independencia de la Nueva España del Imperio Español."
+    },
+    {
+      "fecha": "1914 d.C.",
+      "lugar": "Sarajevo, Bosnia-Herzegovina",
+      "evento": "Asesinato del Archiduque Francisco Fernando",
+      "descripcion": "El asesinato del heredero al trono austrohúngaro fue el detonante inmediato de la Primera Guerra Mundial."
+    },
+    {
+      "fecha": "1945 d.C.",
+      "lugar": "Berlín, Alemania",
+      "evento": "Fin de la Segunda Guerra Mundial en Europa",
+      "descripcion": "La rendición incondicional de Alemania el 8 de mayo (Día de la Victoria en Europa) pone fin a la guerra en el continente."
+    },
+    {
+      "fecha": "1969 d.C.",
+      "lugar": "Mar de la Tranquilidad, Luna",
+      "evento": "Primer alunizaje tripulado",
+      "descripcion": "El Apolo 11, con Neil Armstrong y Buzz Aldrin, aterriza en la Luna, un hito en la carrera espacial."
+    },
+    {
+      "fecha": "1989 d.C.",
+      "lugar": "Berlín, Alemania",
+      "evento": "Caída del Muro de Berlín",
+      "descripcion": "La apertura de las fronteras de la RDA al Oeste, que simbolizó el colapso del comunismo en Europa del Este y la reunificación alemana."
+    },
+    {
+      "fecha": "2001 d.C.",
+      "lugar": "Nueva York y Washington D.C., EE. UU.",
+      "evento": "Atentados del 11 de Septiembre (9/11)",
+      "descripcion": "Ataques terroristas contra las Torres Gemelas y el Pentágono, que marcaron el comienzo de la 'Guerra contra el Terrorismo'."
+    }
+  ]
+}

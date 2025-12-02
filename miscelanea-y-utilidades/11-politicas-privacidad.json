@@ -1,0 +1,56 @@
+{
+  "secciones_documento_legal_tipico": [
+    {
+      "titulo": "Título y Partes (Encabezado)",
+      "contenido_clave": "Nombre del acuerdo (ej. Contrato de Prestación de Servicios). Identificación completa (nombres, direcciones y representación legal) de todas las partes involucradas."
+    },
+    {
+      "titulo": "Declaraciones y Antecedentes (Considerandos)",
+      "contenido_clave": "Contexto legal y factual que lleva a la celebración del acuerdo. Afirmaciones sobre la capacidad legal de las partes y el objeto del contrato."
+    },
+    {
+      "titulo": "Objeto del Contrato",
+      "contenido_clave": "Descripción precisa de la materia del acuerdo: qué servicio se presta, qué bien se vende o qué relación se establece."
+    },
+    {
+      "titulo": "Obligaciones de las Partes",
+      "contenido_clave": "Detalle explícito de las responsabilidades, deberes y acciones que cada parte se compromete a realizar (ej. 'El Proveedor entregará...' y 'El Cliente pagará...')."
+    },
+    {
+      "titulo": "Contraprestación y Condiciones de Pago",
+      "contenido_clave": "Monto total, moneda, plazos, método de pago, y las consecuencias por retraso o incumplimiento de pago."
+    },
+    {
+      "titulo": "Plazo y Vigencia",
+      "contenido_clave": "Fecha de inicio del acuerdo y fecha de terminación, o las condiciones bajo las cuales el acuerdo continuará indefinidamente."
+    },
+    {
+      "titulo": "Garantías y Responsabilidad",
+      "contenido_clave": "Declaraciones de la calidad de los productos o servicios y límites de responsabilidad de las partes en caso de defectos o daños."
+    },
+    {
+      "titulo": "Confidencialidad (Cláusula NDA)",
+      "contenido_clave": "Establece qué información se considera confidencial y las obligaciones de las partes para protegerla, incluyendo las excepciones."
+    },
+    {
+      "titulo": "Terminación y Rescisión",
+      "contenido_clave": "Condiciones específicas bajo las cuales cualquiera de las partes puede dar por terminado el acuerdo antes de su plazo (ej. incumplimiento grave, quiebra, fuerza mayor)."
+    },
+    {
+      "titulo": "Ley Aplicable y Jurisdicción",
+      "contenido_clave": "Define las leyes de qué país o estado regirán el acuerdo y a qué tribunales (jurisdicción) se someterán las partes en caso de litigio."
+    },
+    {
+      "titulo": "Notificaciones",
+      "contenido_clave": "Direcciones físicas o electrónicas designadas por las partes para la recepción de comunicaciones legales o avisos formales."
+    },
+    {
+      "titulo": "Disposiciones Generales (Misceláneas)",
+      "contenido_clave": "Cláusulas estándar como la no renuncia de derechos, la independencia de cláusulas y la cesión de derechos."
+    },
+    {
+      "titulo": "Firmas y Fecha",
+      "contenido_clave": "Espacio para las firmas autógrafas o electrónicas de los representantes legales de las partes y la fecha efectiva de la celebración del acuerdo."
+    }
+  ]
+}

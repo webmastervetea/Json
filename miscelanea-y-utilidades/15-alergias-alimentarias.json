@@ -1,0 +1,107 @@
+{
+  "lista_alergenos_y_sintomas_comunes": [
+    {
+      "alergeno": "Maní (Cacahuete)",
+      "tipo": "Alimento",
+      "sintomas_comunes": [
+        "Urticaria y picazón en la piel",
+        "Hinchazón de labios, cara, lengua o garganta (Angioedema)",
+        "Dificultad para respirar o sibilancias",
+        "Náuseas, vómitos y dolor abdominal",
+        "Anafilaxia (reacción potencialmente mortal)"
+      ]
+    },
+    {
+      "alergeno": "Leche de Vaca",
+      "tipo": "Alimento",
+      "sintomas_comunes": [
+        "Erupción cutánea y eczema",
+        "Vómitos y diarrea",
+        "Calambres abdominales",
+        "Congestión nasal o tos",
+        "Choque anafiláctico (raro en adultos)"
+      ]
+    },
+    {
+      "alergeno": "Huevos",
+      "tipo": "Alimento",
+      "sintomas_comunes": [
+        "Urticaria o ronchas alrededor de la boca",
+        "Náuseas y vómitos",
+        "Asma o dificultad respiratoria",
+        "Picazón en la boca"
+      ]
+    },
+    {
+      "alergeno": "Frutos Secos de Árbol (Nueces, Almendras, Anacardos)",
+      "tipo": "Alimento",
+      "sintomas_comunes": [
+        "Picazón y hormigueo en la boca",
+        "Hinchazón facial o de garganta",
+        "Dificultad para tragar",
+        "Síntomas graves de asma",
+        "Anafilaxia (muy común en esta categoría)"
+      ]
+    },
+    {
+      "alergeno": "Trigo (Gluten)",
+      "tipo": "Alimento",
+      "sintomas_comunes": [
+        "Urticaria",
+        "Asma inducida por el ejercicio después de la ingesta",
+        "Síntomas gastrointestinales (náuseas, calambres)",
+        "Nota: Distinto de la celiaquía, que es una enfermedad autoinmune."
+      ]
+    },
+    {
+      "alergeno": "Pescados y Mariscos",
+      "tipo": "Alimento",
+      "sintomas_comunes": [
+        "Urticaria y picazón",
+        "Mareos o desmayos",
+        "Dolor de cabeza",
+        "Anafilaxia (especialmente en almejas, camarones y cangrejos)"
+      ]
+    },
+    {
+      "alergeno": "Soja",
+      "tipo": "Alimento",
+      "sintomas_comunes": [
+        "Hormigueo en la boca",
+        "Enrojecimiento facial",
+        "Diarrea",
+        "Casos raros de anafilaxia."
+      ]
+    },
+    {
+      "alergeno": "Polen (Ambiental)",
+      "tipo": "Inhalado (Estacional)",
+      "sintomas_comunes": [
+        "Rinitis alérgica (Fiebre del heno)",
+        "Estornudos frecuentes y secreción nasal acuosa",
+        "Picazón en ojos, nariz y garganta",
+        "Conjuntivitis alérgica (ojos rojos e hinchados)",
+        "Asma"
+      ]
+    },
+    {
+      "alergeno": "Ácaros del Polvo (Ambiental)",
+      "tipo": "Inhalado (Perenne)",
+      "sintomas_comunes": [
+        "Congestión o goteo nasal crónico",
+        "Síntomas de asma (sibilancias y tos) que empeoran al despertar",
+        "Eczema"
+      ]
+    },
+    {
+      "alergeno": "Látex",
+      "tipo": "Contacto/Inhalado",
+      "sintomas_comunes": [
+        "Dermatitis de contacto (piel seca, agrietada)",
+        "Urticaria en el sitio de contacto",
+        "Síntomas de rinitis y asma al inhalar partículas (ej. de guantes)",
+        "Anafilaxia (en casos de alta sensibilidad)."
+      ]
+    }
+  ]
+}

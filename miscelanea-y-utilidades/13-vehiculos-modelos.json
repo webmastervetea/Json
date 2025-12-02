@@ -1,0 +1,70 @@
+{
+  "lista_automoviles_ejemplo": [
+    {
+      "marca": "Toyota",
+      "modelo": "Corolla",
+      "segmento": "Sedán Compacto",
+      "ano_modelo": 2024
+    },
+    {
+      "marca": "Ford",
+      "modelo": "Mustang GT",
+      "segmento": "Deportivo/Pony Car",
+      "ano_modelo": 1969
+    },
+    {
+      "marca": "Volkswagen",
+      "modelo": "Golf R",
+      "segmento": "Hatchback Deportivo",
+      "ano_modelo": 2023
+    },
+    {
+      "marca": "Tesla",
+      "modelo": "Model 3",
+      "segmento": "Sedán Eléctrico",
+      "ano_modelo": 2025
+    },
+    {
+      "marca": "BMW",
+      "modelo": "Serie 3 (G20)",
+      "segmento": "Sedán de Lujo",
+      "ano_modelo": 2022
+    },
+    {
+      "marca": "Mercedes-Benz",
+      "modelo": "Clase S",
+      "segmento": "Sedán de Ultra Lujo",
+      "ano_modelo": 2021
+    },
+    {
+      "marca": "Honda",
+      "modelo": "CR-V",
+      "segmento": "SUV Compacto",
+      "ano_modelo": 2024
+    },
+    {
+      "marca": "Jeep",
+      "modelo": "Wrangler Rubicon",
+      "segmento": "SUV Todoterreno",
+      "ano_modelo": 2020
+    },
+    {
+      "marca": "Porsche",
+      "modelo": "911 Carrera S (992)",
+      "segmento": "Deportivo de Alto Rendimiento",
+      "ano_modelo": 2023
+    },
+    {
+      "marca": "Chevrolet",
+      "modelo": "Camaro Z/28",
+      "segmento": "Muscle Car Clásico",
+      "ano_modelo": 1970
+    },
+    {
+      "marca": "Subaru",
+      "modelo": "Outback",
+      "segmento": "Crossover/Familiar",
+      "ano_modelo": 2024
+    }
+  ]
+}

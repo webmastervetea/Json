@@ -1,0 +1,77 @@
+{
+  "recetas_bebidas_alcoholicas_fundamentales": [
+    {
+      "nombre": "Margarita Clásica",
+      "tipo": "Cóctel",
+      "ingredientes": [
+        {"item": "Tequila (Blanco o Reposado)", "cantidad": "50 ml"},
+        {"item": "Cointreau o Triple Sec", "cantidad": "25 ml"},
+        {"item": "Jugo de Lima Fresco", "cantidad": "25 ml"},
+        {"item": "Sal (para el borde)", "cantidad": "Al gusto"},
+        {"item": "Hielo", "cantidad": "Al gusto"}
+      ],
+      "pasos": [
+        "Escarchar el borde de una copa tipo coupé o margarita con sal (humedeciendo con lima).",
+        "Combinar el Tequila, Cointreau y el jugo de lima en una coctelera con hielo.",
+        "Agitar vigorosamente hasta que la coctelera esté muy fría.",
+        "Colar el líquido en la copa escarchada con sal.",
+        "Decorar con una rodaja de lima."
+      ]
+    },
+    {
+      "nombre": "Old Fashioned",
+      "tipo": "Cóctel (Bebida Fuerte)",
+      "ingredientes": [
+        {"item": "Whisky (Bourbon o Rye)", "cantidad": "60 ml"},
+        {"item": "Terrón de Azúcar", "cantidad": "1 unidad (o 1 cucharadita de jarabe)"},
+        {"item": "Angostura Bitters", "cantidad": "2 chorritos"},
+        {"item": "Cáscara de Naranja", "cantidad": "1 tira"},
+        {"item": "Hielo", "cantidad": "Bloque grande"}
+      ],
+      "pasos": [
+        "Colocar el terrón de azúcar en el fondo de un vaso Old Fashioned.",
+        "Empapar el azúcar con los chorritos de Angostura Bitters y agregar un chorrito de agua (opcional).",
+        "Macerar ligeramente el azúcar con una cuchara o mortero hasta disolver.",
+        "Añadir el whisky y un bloque grande de hielo.",
+        "Remover durante 20-30 segundos para enfriar y diluir.",
+        "Decorar exprimiendo los aceites de la cáscara de naranja sobre el vaso y dejando la tira adentro."
+      ]
+    },
+    {
+      "nombre": "Gin Tonic",
+      "tipo": "Trago Largo (Highball)",
+      "ingredientes": [
+        {"item": "Ginebra (London Dry o similar)", "cantidad": "50 ml"},
+        {"item": "Agua Tónica Premium", "cantidad": "150-200 ml"},
+        {"item": "Hielo", "cantidad": "En abundancia"},
+        {"item": "Rodaja de Lima o Limón", "cantidad": "1 unidad"}
+      ],
+      "pasos": [
+        "Llenar una copa de balón o vaso highball con abundante hielo.",
+        "Verter la ginebra en la copa.",
+        "Añadir el agua tónica lentamente, inclinando la copa para mantener la carbonatación.",
+        "Remover suavemente con una cuchara de bar.",
+        "Decorar con la rodaja de cítrico."
+      ]
+    },
+    {
+      "nombre": "Vino Caliente Especiado (Glühwein)",
+      "tipo": "Bebida Caliente / Infusión",
+      "ingredientes": [
+        {"item": "Vino Tinto Seco (ej. Merlot)", "cantidad": "750 ml"},
+        {"item": "Rodajas de Naranja", "cantidad": "2 unidades"},
+        {"item": "Clavos de Olor", "cantidad": "10 unidades"},
+        {"item": "Estrellas de Anís", "cantidad": "3 unidades"},
+        {"item": "Canela en Rama", "cantidad": "2 unidades"},
+        {"item": "Azúcar o Miel", "cantidad": "2-4 Cucharadas"}
+      ],
+      "pasos": [
+        "Combinar todos los ingredientes (excepto el azúcar) en una olla grande.",
+        "Calentar la mezcla a fuego medio-bajo; NO DEBE HERVIR (el alcohol se evapora a 78°C).",
+        "Una vez caliente, añadir el azúcar o la miel al gusto y remover hasta disolver.",
+        "Dejar infusionar a fuego bajo durante al menos 15-20 minutos.",
+        "Servir caliente en tazas o copas resistentes al calor, utilizando un colador para las especias."
+      ]
+    }
+  ]
+}

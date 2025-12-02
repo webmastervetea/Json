@@ -1,0 +1,53 @@
+{
+  "reporte_trafico_en_tiempo_real": {
+    "ciudad": "Ciudad de Ejemplo (Simulación)",
+    "timestamp_actualizacion": "2025-11-28T12:16:49Z",
+    "puntos_de_congestión": [
+      {
+        "nombre_zona": "Avenida Principal Norte (Intersección Central)",
+        "latitud": 40.75,
+        "longitud": -73.98,
+        "nivel_congestión": "Alta",
+        "velocidad_promedio_kmh": 15,
+        "tiempo_retraso_estimado_min": 12,
+        "causa_principal": "Obra en el carril derecho"
+      },
+      {
+        "nombre_zona": "Autopista Periférica (Salida a suburbios)",
+        "latitud": 40.71,
+        "longitud": -74.01,
+        "nivel_congestión": "Moderada",
+        "velocidad_promedio_kmh": 35,
+        "tiempo_retraso_estimado_min": 5,
+        "causa_principal": "Hora pico de la tarde"
+      },
+      {
+        "nombre_zona": "Puente del Río Sur (Acceso a Distrito Financiero)",
+        "latitud": 40.69,
+        "longitud": -74.04,
+        "nivel_congestión": "Crítica",
+        "velocidad_promedio_kmh": 5,
+        "tiempo_retraso_estimado_min": 25,
+        "causa_principal": "Accidente con varios vehículos involucrados"
+      },
+      {
+        "nombre_zona": "Ronda Interior (Tramo Este)",
+        "latitud": 40.78,
+        "longitud": -73.96,
+        "nivel_congestión": "Baja",
+        "velocidad_promedio_kmh": 50,
+        "tiempo_retraso_estimado_min": 1,
+        "causa_principal": "Tráfico fluido"
+      },
+      {
+        "nombre_zona": "Calle Histórica (Zona Peatonal temporal)",
+        "latitud": 40.76,
+        "longitud": -73.97,
+        "nivel_congestión": "Moderada",
+        "velocidad_promedio_kmh": 20,
+        "tiempo_retraso_estimado_min": 8,
+        "causa_principal": "Desvío por evento cultural"
+      }
+    ]
+  }
+}

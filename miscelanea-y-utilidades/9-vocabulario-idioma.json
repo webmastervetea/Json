@@ -1,0 +1,84 @@
+{
+  "glosario_bilingue_espanol_ingles": [
+    {
+      "palabra_espanol": "Desarrollo",
+      "traduccion_ingles": "Development",
+      "contexto": "Tecnología/Negocios"
+    },
+    {
+      "palabra_espanol": "Algoritmo",
+      "traduccion_ingles": "Algorithm",
+      "contexto": "Tecnología"
+    },
+    {
+      "palabra_espanol": "Base de datos",
+      "traduccion_ingles": "Database",
+      "contexto": "Tecnología"
+    },
+    {
+      "palabra_espanol": "Servidor",
+      "traduccion_ingles": "Server",
+      "contexto": "Tecnología"
+    },
+    {
+      "palabra_espanol": "Seguridad",
+      "traduccion_ingles": "Security",
+      "contexto": "General/Tecnología"
+    },
+    {
+      "palabra_espanol": "Navegador",
+      "traduccion_ingles": "Browser",
+      "contexto": "Tecnología"
+    },
+    {
+      "palabra_espanol": "Proyecto",
+      "traduccion_ingles": "Project",
+      "contexto": "Negocios/General"
+    },
+    {
+      "palabra_espanol": "Rendimiento",
+      "traduccion_ingles": "Performance",
+      "contexto": "Negocios/Tecnología"
+    },
+    {
+      "palabra_espanol": "Reunión",
+      "traduccion_ingles": "Meeting",
+      "contexto": "Negocios"
+    },
+    {
+      "palabra_espanol": "Presupuesto",
+      "traduccion_ingles": "Budget",
+      "contexto": "Negocios"
+    },
+    {
+      "palabra_espanol": "Estrategia",
+      "traduccion_ingles": "Strategy",
+      "contexto": "Negocios"
+    },
+    {
+      "palabra_espanol": "Cliente",
+      "traduccion_ingles": "Client / Customer",
+      "contexto": "Negocios"
+    },
+    {
+      "palabra_espanol": "Inventario",
+      "traduccion_ingles": "Inventory",
+      "contexto": "Negocios"
+    },
+    {
+      "palabra_espanol": "Oportunidad",
+      "traduccion_ingles": "Opportunity",
+      "contexto": "General"
+    },
+    {
+      "palabra_espanol": "Éxito",
+      "traduccion_ingles": "Success",
+      "contexto": "General"
+    },
+    {
+      "palabra_espanol": "Responsabilidad",
+      "traduccion_ingles": "Responsibility",
+      "contexto": "General"
+    }
+  ]
+}

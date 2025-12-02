@@ -1,0 +1,55 @@
+{
+  "historial_de_donaciones": [
+    {
+      "id_transaccion": "DON-20251005-001",
+      "fundacion_nombre": "Cruz Roja Internacional",
+      "monto_donado": 500.00,
+      "moneda": "USD",
+      "fecha_donacion": "2025-10-05",
+      "metodo_pago": "Tarjeta de Crédito",
+      "recurrencia": "Única",
+      "estado": "Completada"
+    },
+    {
+      "id_transaccion": "DON-20251015-002",
+      "fundacion_nombre": "Fondo Mundial para la Naturaleza (WWF)",
+      "monto_donado": 50.00,
+      "moneda": "EUR",
+      "fecha_donacion": "2025-10-15",
+      "metodo_pago": "Débito Automático",
+      "recurrencia": "Mensual",
+      "estado": "Completada"
+    },
+    {
+      "id_transaccion": "DON-20251101-003",
+      "fundacion_nombre": "Unicef",
+      "monto_donado": 1000.00,
+      "moneda": "MXN",
+      "fecha_donacion": "2025-11-01",
+      "metodo_pago": "Transferencia Bancaria",
+      "recurrencia": "Anual",
+      "estado": "Pendiente (En verificación)"
+    },
+    {
+      "id_transaccion": "DON-20251110-004",
+      "fundacion_nombre": "Médicos Sin Fronteras (MSF)",
+      "monto_donado": 75.50,
+      "moneda": "USD",
+      "fecha_donacion": "2025-11-10",
+      "metodo_pago": "PayPal",
+      "recurrencia": "Única",
+      "estado": "Reembolsada",
+      "motivo_estado": "Error en la transacción original"
+    },
+    {
+      "id_transaccion": "DON-20251125-005",
+      "fundacion_nombre": "Fundación de Investigación Oncológica",
+      "monto_donado": 200.00,
+      "moneda": "EUR",
+      "fecha_donacion": "2025-11-25",
+      "metodo_pago": "Criptomoneda (BTC)",
+      "recurrencia": "Trimestral",
+      "estado": "Completada"
+    }
+  ]
+}

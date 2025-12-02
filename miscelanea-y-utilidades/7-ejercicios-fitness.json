@@ -1,0 +1,73 @@
+{
+  "descripcion_ejercicios_fundamentales": [
+    {
+      "nombre": "Sentadilla (Squat)",
+      "mecanismo": "Compuesto",
+      "musculos_primarios": ["Cuádriceps", "Glúteos"],
+      "musculos_secundarios": ["Isquiotibiales", "Erector de la Columna", "Abdominales"],
+      "pasos_clave": [
+        "Coloca los pies a la anchura de los hombros, puntas ligeramente hacia afuera.",
+        "Desciende flexionando las rodillas y caderas, manteniendo el pecho erguido y la espalda recta.",
+        "Baja hasta que los muslos estén paralelos al suelo o tan bajo como sea cómodo.",
+        "Empuja con los talones para volver a la posición inicial."
+      ]
+    },
+    {
+      "nombre": "Press de Banca (Bench Press)",
+      "mecanismo": "Compuesto",
+      "musculos_primarios": ["Pectorales (Pecho)"],
+      "musculos_secundarios": ["Deltoides Anteriores", "Tríceps"],
+      "pasos_clave": [
+        "Acuéstate en el banco, agarra la barra ligeramente más ancha que los hombros.",
+        "Desbloquea la barra y bájala lentamente hasta que toque ligeramente la mitad del pecho.",
+        "Empuja la barra explosivamente hacia arriba hasta extender los codos.",
+        "Mantén los pies firmes en el suelo y la espalda ligeramente arqueada."
+      ]
+    },
+    {
+      "nombre": "Peso Muerto (Deadlift)",
+      "mecanismo": "Compuesto",
+      "musculos_primarios": ["Isquiotibiales", "Glúteos", "Erector de la Columna (Espalda Baja)"],
+      "musculos_secundarios": ["Trapecios", "Antebrazos", "Cuádriceps"],
+      "pasos_clave": [
+        "Colócate con los pies debajo de la barra, agarre por fuera de las piernas.",
+        "Doble las rodillas y caderas para tomar la barra manteniendo la espalda totalmente recta.",
+        "Levanta la barra extendiendo simultáneamente las rodillas y las caderas.",
+        "Finaliza el movimiento con los hombros hacia atrás y la espalda bloqueada."
+      ]
+    },
+    {
+      "nombre": "Dominada (Pull-up)",
+      "mecanismo": "Compuesto",
+      "musculos_primarios": ["Dorsales (Espalda Alta)", "Bíceps"],
+      "musculos_secundarios": ["Antebrazos", "Hombros"],
+      "pasos_clave": [
+        "Cuelga de la barra con agarre prono (palmas hacia adelante) más ancho que el ancho de los hombros.",
+        "Tira del cuerpo hacia arriba, juntando los omóplatos y llevando el pecho hacia la barra.",
+        "Baja lentamente de forma controlada hasta la extensión completa de los brazos."
+      ]
+    },
+    {
+      "nombre": "Press Militar (Overhead Press)",
+      "mecanismo": "Compuesto",
+      "musculos_primarios": ["Deltoides (Hombros)"],
+      "musculos_secundarios": ["Tríceps", "Trapecios", "Core"],
+      "pasos_clave": [
+        "Sujeta la barra a la altura del pecho, pies a la anchura de los hombros.",
+        "Empuja la barra verticalmente hacia arriba hasta que los brazos estén completamente extendidos y la cabeza esté ligeramente hacia adelante.",
+        "Baja la barra de forma controlada hasta la posición inicial."
+      ]
+    },
+    {
+      "nombre": "Remo con Barra (Barbell Row)",
+      "mecanismo": "Compuesto",
+      "musculos_primarios": ["Dorsales (Espalda Media)", "Trapecios"],
+      "musculos_secundarios": ["Bíceps", "Hombros Posteriores"],
+      "pasos_clave": [
+        "Inclínate hacia adelante manteniendo la espalda recta, con la barra colgando de los brazos.",
+        "Jala la barra hacia el abdomen, apretando los omóplatos.",
+        "Regresa lentamente la barra a la posición inicial, estirando los brazos."
+      ]
+    }
+  ]
+}

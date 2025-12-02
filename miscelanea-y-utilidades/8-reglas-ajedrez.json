@@ -1,0 +1,61 @@
+{
+  "movimientos_piezas_ajedrez": [
+    {
+      "pieza": "Peón (Pawn)",
+      "valor_relativo": 1,
+      "movimiento_basico": "Avanza una casilla verticalmente hacia adelante.",
+      "movimiento_especial": {
+        "primer_movimiento": "Puede avanzar dos casillas verticalmente hacia adelante (solo desde su posición inicial).",
+        "captura": "Solo puede capturar en diagonal, una casilla hacia adelante.",
+        "al_paso": "Captura especial de un peón adyacente que ha avanzado dos casillas en el turno anterior.",
+        "promocion": "Al alcanzar la última fila, debe ser reemplazado por una Reina, Torre, Alfil o Caballo."
+      },
+      "limite": "Solo avanza, no retrocede."
+    },
+    {
+      "pieza": "Torre (Rook)",
+      "valor_relativo": 5,
+      "movimiento_basico": "Se mueve cualquier número de casillas horizontal o verticalmente.",
+      "movimiento_especial": {
+        "enroque": "Participa en el enroque con el Rey (si ni el Rey ni la Torre se han movido, y las casillas intermedias están vacías)."
+      },
+      "limite": "No puede saltar sobre otras piezas."
+    },
+    {
+      "pieza": "Caballo (Knight)",
+      "valor_relativo": 3,
+      "movimiento_basico": "Se mueve en forma de 'L' (dos casillas en una dirección cardinal y luego una casilla perpendicularmente).",
+      "movimiento_especial": {
+        "salto": "Es la única pieza que puede saltar sobre otras piezas (amigas o enemigas) para llegar a su destino."
+      },
+      "limite": "El destino debe ser la casilla final de la 'L'."
+    },
+    {
+      "pieza": "Alfil (Bishop)",
+      "valor_relativo": 3,
+      "movimiento_basico": "Se mueve cualquier número de casillas diagonalmente.",
+      "movimiento_especial": {
+        "color": "Siempre permanece en casillas del mismo color (blanco o negro) en que comenzó la partida."
+      },
+      "limite": "No puede saltar sobre otras piezas."
+    },
+    {
+      "pieza": "Reina (Queen)",
+      "valor_relativo": 9,
+      "movimiento_basico": "Se mueve cualquier número de casillas horizontal, vertical o diagonalmente.",
+      "movimiento_especial": {
+        "poder_combinado": "Combina los movimientos de la Torre y el Alfil."
+      },
+      "limite": "No puede saltar sobre otras piezas."
+    },
+    {
+      "pieza": "Rey (King)",
+      "valor_relativo": "Infinito (Esencial)",
+      "movimiento_basico": "Se mueve exactamente una casilla en cualquier dirección (horizontal, vertical o diagonal).",
+      "movimiento_especial": {
+        "enroque": "Movimiento especial en el que el Rey se mueve dos casillas hacia una Torre, y la Torre salta sobre el Rey para colocarse a su lado (cumpliendo condiciones específicas)."
+      },
+      "limite": "No puede moverse a una casilla donde quede en Jaque (amenazado por una pieza enemiga)."
+    }
+  ]
+}

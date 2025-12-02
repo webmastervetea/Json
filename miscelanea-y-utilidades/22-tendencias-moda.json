@@ -1,0 +1,96 @@
+{
+  "estilos_y_accesorios_populares_por_temporada": [
+    {
+      "temporada": "Primavera (Spring) 🌷",
+      "estilos_dominantes": [
+        "Estilo Floral (Flower Power)",
+        "Estilo Preppy (Vuelven los cárdigans y faldas A-line)",
+        "Estilo Boho-Chic Ligero",
+        "Estilo Utility (monos y pantalones cargo ligeros)"
+      ],
+      "prendas_clave": [
+        "Trench Coats ligeros",
+        "Vestidos de flores",
+        "Blazers de lino",
+        "Pantalones anchos de colores claros",
+        "Faldas midi plisadas"
+      ],
+      "accesorios_populares": [
+        "Bolsos de mimbre o rafia",
+        "Zapatillas deportivas blancas (Sneakers)",
+        "Joyas minimalistas y doradas",
+        "Gafas de sol de colores pasteles"
+      ],
+      "colores_clave": ["Pasteles (Menta, Lavanda, Rosa Bebé)", "Verdes vivos", "Amarillo Pálido"]
+    },
+    {
+      "temporada": "Verano (Summer) ☀️",
+      "estilos_dominantes": [
+        "Estilo Náutico/Marinero",
+        "Estilo Minimalista Escandinavo (Colores neutros y lino)",
+        "Estilo Playero (Beachwear)",
+        "Estilo Resort (Túnicas fluidas y estampados tropicales)"
+      ],
+      "prendas_clave": [
+        "Vestidos maxi fluidos",
+        "Shorts de tiro alto",
+        "Camisas de lino (Oversize)",
+        "Bikinis y trajes de baño de alto diseño",
+        "Tops de crochet"
+      ],
+      "accesorios_populares": [
+        "Sandalias de tiras (Gladiadoras)",
+        "Sombreros de paja anchos (Panamá)",
+        "Anklets (Tobilleras)",
+        "Gafas de sol estilo 'cat-eye' o oversize"
+      ],
+      "colores_clave": ["Blanco puro", "Azul marino", "Coral", "Tonos tierra claros"]
+    },
+    {
+      "temporada": "Otoño (Autumn) 🍂",
+      "estilos_dominantes": [
+        "Estilo Cozy/Comfy (Tejidos suaves y capas)",
+        "Estilo Dark Academia (Prendas de lana, cuadros y colores oscuros)",
+        "Estilo Grunge o Punk-Chic",
+        "Estilo 'Quiet Luxury' (Prendas estructuradas y sobrias)"
+      ],
+      "prendas_clave": [
+        "Jerseys de punto grueso",
+        "Gabardinas (Trench Coats) forradas",
+        "Faldas y pantalones de cuero/polipiel",
+        "Botines chelsea o militares",
+        "Bufandas de lana XXL"
+      ],
+      "accesorios_populares": [
+        "Bolsos bandolera estructurados",
+        "Botas altas hasta la rodilla",
+        "Sombreros de ala ancha de fieltro",
+        "Medias y calcetines de colores para botas"
+      ],
+      "colores_clave": ["Burdeos", "Marrón chocolate", "Naranja quemado", "Verde botella", "Gris carbón"]
+    },
+    {
+      "temporada": "Invierno (Winter) ❄️",
+      "estilos_dominantes": [
+        "Estilo Layering Extremo (Uso de múltiples capas funcionales)",
+        "Estilo Après-Ski (Ropa de nieve elegante, abrigos acolchados)",
+        "Estilo Clásico de Sastrería (Abrigos de lana largos)",
+        "Estilo Gótico / Monocromático Oscuro"
+      ],
+      "prendas_clave": [
+        "Abrigos de plumas (Puffer Coats) o acolchados",
+        "Abrigos de lana largos (Oversize)",
+        "Guantes y gorros de cachemira",
+        "Botas de nieve o forradas",
+        "Pantalones de pana o tejidos gruesos"
+      ],
+      "accesorios_populares": [
+        "Bolsos pequeños cruzados (para llevar debajo del abrigo)",
+        "Calcetines térmicos altos",
+        "Echarpes de cuadros o tartán",
+        "Pendientes grandes que destaquen sobre la bufanda"
+      ],
+      "colores_clave": ["Negro azabache", "Rojo intenso", "Beige/Camel", "Blanco invierno", "Gris claro"]
+    }
+  ]
+}

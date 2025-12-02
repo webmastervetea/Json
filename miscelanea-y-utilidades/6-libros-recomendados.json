@@ -1,0 +1,64 @@
+{
+  "coleccion_de_libros": [
+    {
+      "titulo": "Cien años de soledad",
+      "autor": "Gabriel García Márquez",
+      "genero": "Realismo Mágico",
+      "año_publicacion": 1967
+    },
+    {
+      "titulo": "1984",
+      "autor": "George Orwell",
+      "genero": "Distopía / Ciencia Ficción",
+      "año_publicacion": 1949
+    },
+    {
+      "titulo": "Orgullo y prejuicio",
+      "autor": "Jane Austen",
+      "genero": "Romance Clásico",
+      "año_publicacion": 1813
+    },
+    {
+      "titulo": "El Señor de los Anillos",
+      "autor": "J.R.R. Tolkien",
+      "genero": "Fantasía Épica",
+      "año_publicacion": 1954
+    },
+    {
+      "titulo": "Crimen y castigo",
+      "autor": "Fiódor Dostoievski",
+      "genero": "Novela Filosófica / Drama",
+      "año_publicacion": 1866
+    },
+    {
+      "titulo": "Don Quijote de la Mancha",
+      "autor": "Miguel de Cervantes",
+      "genero": "Novela de Caballerías / Sátira",
+      "año_publicacion": 1605
+    },
+    {
+      "titulo": "¿Sueñan los androides con ovejas eléctricas?",
+      "autor": "Philip K. Dick",
+      "genero": "Ciencia Ficción / Cyberpunk",
+      "año_publicacion": 1968
+    },
+    {
+      "titulo": "Mujercitas",
+      "autor": "Louisa May Alcott",
+      "genero": "Novela de Formación / Ficción Histórica",
+      "año_publicacion": 1868
+    },
+    {
+      "titulo": "Breve historia del tiempo",
+      "autor": "Stephen Hawking",
+      "genero": "Divulgación Científica",
+      "año_publicacion": 1988
+    },
+    {
+      "titulo": "El Código Da Vinci",
+      "autor": "Dan Brown",
+      "genero": "Thriller / Misterio",
+      "año_publicacion": 2003
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "registro_uso_energia_mensual": [
+    {
+      "hogar_id": "Hogar-001A (Apartamento)",
+      "ciudad": "Madrid, ES",
+      "tipo_energia": "Electricidad (kWh)",
+      "datos_mensuales": [
+        {"mes": "Enero", "consumo_kwh": 350, "motivo_principal": "Calefacción por bomba de calor"},
+        {"mes": "Abril", "consumo_kwh": 180, "motivo_principal": "Clima templado"},
+        {"mes": "Julio", "consumo_kwh": 420, "motivo_principal": "Aire acondicionado intensivo"},
+        {"mes": "Octubre", "consumo_kwh": 200, "motivo_principal": "Clima templado"}
+      ]
+    },
+    {
+      "hogar_id": "Hogar-002B (Casa unifamiliar)",
+      "ciudad": "Chicago, US",
+      "tipo_energia": "Gas Natural (Termias)",
+      "datos_mensuales": [
+        {"mes": "Enero", "consumo_therms": 150, "motivo_principal": "Calefacción central fuerte"},
+        {"mes": "Mayo", "consumo_therms": 40, "motivo_principal": "Solo calentador de agua"},
+        {"mes": "Septiembre", "consumo_therms": 65, "motivo_principal": "Calefacción intermitente"},
+        {"mes": "Diciembre", "consumo_therms": 180, "motivo_principal": "Pico de invierno"}
+      ]
+    },
+    {
+      "hogar_id": "Hogar-003C (Casa con paneles solares)",
+      "ciudad": "California, US",
+      "tipo_energia": "Electricidad (kWh - Consumo Neto)",
+      "datos_mensuales": [
+        {"mes": "Marzo", "consumo_kwh": 50, "motivo_principal": "Alta producción solar"},
+        {"mes": "Junio", "consumo_kwh": -120, "motivo_principal": "Generación excede el consumo (Venta a la red)"},
+        {"mes": "Agosto", "consumo_kwh": 300, "motivo_principal": "AC y bomba de piscina"},
+        {"mes": "Noviembre", "consumo_kwh": 110, "motivo_principal": "Baja producción solar y calefacción"}
+      ]
+    },
+    {
+      "hogar_id": "Hogar-004D (Apartamento pequeño)",
+      "ciudad": "Ciudad de México, MX",
+      "tipo_energia": "Electricidad (kWh)",
+      "datos_mensuales": [
+        {"mes": "Febrero", "consumo_kwh": 85, "motivo_principal": "Consumo base (iluminación y electrodomésticos)"},
+        {"mes": "Abril", "consumo_kwh": 90, "motivo_principal": "Sin grandes cambios de temperatura"},
+        {"mes": "Septiembre", "consumo_kwh": 105, "motivo_principal": "Uso de ventilador o enfriador ligero"}
+      ]
+    }
+  ]
+}

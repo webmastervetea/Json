@@ -1,0 +1,99 @@
+{
+  "lista_de_compra_por_categoria": [
+    {
+      "categoria": "Despensa y Granos",
+      "items": [
+        "Arroz (blanco/integral)",
+        "Pasta (espagueti, macarrones)",
+        "Aceite (oliva/girasol)",
+        "Azúcar",
+        "Sal",
+        "Harina de trigo",
+        "Legumbres (lentejas, garbanzos)",
+        "Conservas (atún, maíz, tomate triturado)",
+        "Café / Té",
+        "Cereales de desayuno"
+      ]
+    },
+    {
+      "categoria": "Lácteos y Huevos",
+      "items": [
+        "Leche (entera/desnatada)",
+        "Huevos",
+        "Yogur (natural/sabores)",
+        "Mantequilla / Margarina",
+        "Queso (fresco, maduro)",
+        "Crema de leche"
+      ]
+    },
+    {
+      "categoria": "Carnes, Pescados y Proteínas",
+      "items": [
+        "Pollo (pechuga/muslo)",
+        "Carne de res (molida/cortes)",
+        "Pescado (salmón, merluza)",
+        "Embutidos (jamón, pavo)",
+        "Tofu / Alternativas vegetales",
+        "Mariscos (gambas, calamares)"
+      ]
+    },
+    {
+      "categoria": "Frutas y Verduras (Frescos)",
+      "items": [
+        "Manzanas",
+        "Plátanos",
+        "Naranjas",
+        "Tomates",
+        "Lechuga",
+        "Cebollas",
+        "Patatas",
+        "Zanahorias",
+        "Aguacates",
+        "Limones"
+      ]
+    },
+    {
+      "categoria": "Panadería",
+      "items": [
+        "Pan de molde",
+        "Baguette",
+        "Tortillas de trigo/maíz",
+        "Bollería (croissants, magdalenas)",
+        "Pan rallado"
+      ]
+    },
+    {
+      "categoria": "Limpieza del Hogar",
+      "items": [
+        "Detergente para ropa",
+        "Suavizante",
+        "Lavavajillas (líquido/pastillas)",
+        "Limpiador multiusos",
+        "Lejía / Cloro",
+        "Bolsas de basura",
+        "Papel de cocina"
+      ]
+    },
+    {
+      "categoria": "Cuidado Personal e Higiene",
+      "items": [
+        "Papel higiénico",
+        "Champú",
+        "Jabón de manos/cuerpo",
+        "Pasta de dientes",
+        "Desodorante",
+        "Maquinillas de afeitar",
+        "Cotonetes (hisopos)"
+      ]
+    },
+    {
+      "categoria": "Bebidas",
+      "items": [
+        "Agua embotellada",
+        "Refrescos",
+        "Zumos (jugos)",
+        "Cerveza / Vino"
+      ]
+    }
+  ]
+}

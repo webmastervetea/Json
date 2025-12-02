@@ -1,0 +1,64 @@
+{
+  "historial_medico_paciente_ficticio": {
+    "paciente_id": "PT-789012",
+    "nombre_paciente": "Sofía Pérez García",
+    "fecha_nacimiento": "1985-04-12",
+    "registros_medicos": [
+      {
+        "fecha_consulta": "2024-03-10",
+        "tipo_registro": "Consulta Inicial",
+        "medico_tratante": "Dr. Javier Gómez (Medicina General)",
+        "diagnostico_cie10": "R05 - Tos",
+        "diagnostico_texto": "Bronquitis aguda con tos persistente.",
+        "tratamiento_prescrito": {
+          "medicamento": "Amoxicilina 500 mg",
+          "dosis": "Una cápsula cada 8 horas",
+          "duracion": "7 días",
+          "indicaciones": "Reposar y beber muchos líquidos."
+        },
+        "notas_adicionales": "La paciente reporta inicio de síntomas hace 4 días."
+      },
+      {
+        "fecha_consulta": "2024-05-25",
+        "tipo_registro": "Examen de Laboratorio",
+        "medico_tratante": "N/A",
+        "diagnostico_cie10": "N/A",
+        "diagnostico_texto": "Análisis de sangre rutinario.",
+        "resultados": {
+          "glucosa_mg_dl": 95,
+          "colesterol_total_mg_dl": 180,
+          "hemoglobina_g_dl": 13.5
+        },
+        "notas_adicionales": "Todos los valores dentro del rango normal. Sin hallazgos significativos."
+      },
+      {
+        "fecha_consulta": "2024-08-18",
+        "tipo_registro": "Consulta de Especialidad",
+        "medico_tratante": "Dra. Elena Ruiz (Dermatología)",
+        "diagnostico_cie10": "L20.8 - Otros eccemas atópicos",
+        "diagnostico_texto": "Reacción alérgica en la piel de los brazos, posiblemente a un nuevo jabón.",
+        "tratamiento_prescrito": {
+          "medicamento": "Hidrocortisona tópica 1%",
+          "dosis": "Aplicar dos veces al día",
+          "duracion": "10 días",
+          "indicaciones": "Evitar el contacto con el alérgeno sospechoso (identificado como el jabón X)."
+        },
+        "notas_adicionales": "Se recomienda prueba de parche si la condición persiste."
+      },
+      {
+        "fecha_consulta": "2024-11-20",
+        "tipo_registro": "Revisión/Seguimiento",
+        "medico_tratante": "Dr. Javier Gómez (Medicina General)",
+        "diagnostico_cie10": "Z00.0 - Examen médico general",
+        "diagnostico_texto": "Buen estado general de salud. La condición de la piel ha mejorado completamente.",
+        "tratamiento_prescrito": {
+          "medicamento": "N/A",
+          "dosis": "N/A",
+          "duracion": "N/A",
+          "indicaciones": "Continuar hábitos saludables. Próxima revisión anual en un año."
+        },
+        "notas_adicionales": "Presión arterial: 120/80 mmHg."
+      }
+    ]
+  }
+}

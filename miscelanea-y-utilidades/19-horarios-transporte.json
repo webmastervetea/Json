@@ -1,0 +1,59 @@
+{
+  "horario_salidas_llegadas": [
+    {
+      "tipo_transporte": "Tren de Alta Velocidad (AVE)",
+      "numero_ruta": "AVE 3092",
+      "origen": "Madrid-Puerta de Atocha",
+      "destino": "Barcelona-Sants",
+      "hora_salida_programada": "13:30",
+      "hora_llegada_programada": "16:05",
+      "anden_via": "9",
+      "estado": "A tiempo",
+      "fecha": "2025-11-28"
+    },
+    {
+      "tipo_transporte": "Autobús Interurbano",
+      "numero_ruta": "ALSA V-23",
+      "origen": "Estación Central",
+      "destino": "Valencia (Terminal)",
+      "hora_salida_programada": "14:15",
+      "hora_salida_real": "14:25",
+      "plataforma": "4",
+      "estado": "Retrasado (10 min)",
+      "fecha": "2025-11-28"
+    },
+    {
+      "tipo_transporte": "Tren Regional",
+      "numero_ruta": "CERCANÍAS C3",
+      "origen": "Atocha",
+      "destino": "Aranjuez",
+      "hora_salida_programada": "14:40",
+      "hora_llegada_programada": "15:25",
+      "anden_via": "3",
+      "estado": "Cancelado",
+      "motivo": "Incidencia técnica en vía"
+    },
+    {
+      "tipo_transporte": "Autobús de Larga Distancia",
+      "numero_ruta": "EUROLINES 77B",
+      "origen": "París (Gallieni)",
+      "destino": "Llegada | Madrid (Sur)",
+      "hora_llegada_programada": "15:00",
+      "hora_llegada_estimada": "15:00",
+      "plataforma": "12",
+      "estado": "A tiempo",
+      "fecha": "2025-11-28"
+    },
+    {
+      "tipo_transporte": "Tren Intercity",
+      "numero_ruta": "IC 1501",
+      "origen": "Zúrich HB",
+      "destino": "Llegada | Milán Centrale",
+      "hora_llegada_programada": "16:10",
+      "hora_llegada_estimada": "16:30",
+      "anden_via": "7",
+      "estado": "Retrasado (20 min)",
+      "motivo": "Congestión de tráfico ferroviario"
+    }
+  ]
+}

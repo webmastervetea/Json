@@ -1,0 +1,68 @@
+{
+  "registro_taxonomico_especies": [
+    {
+      "nombre_comun": "Humano",
+      "nombre_cientifico": "Homo sapiens",
+      "reino": "Animalia",
+      "filo": "Chordata",
+      "clase": "Mammalia",
+      "orden": "Primates"
+    },
+    {
+      "nombre_comun": "León",
+      "nombre_cientifico": "Panthera leo",
+      "reino": "Animalia",
+      "filo": "Chordata",
+      "clase": "Mammalia",
+      "orden": "Carnivora"
+    },
+    {
+      "nombre_comun": "Roble Común",
+      "nombre_cientifico": "Quercus robur",
+      "reino": "Plantae",
+      "filo": "Tracheophyta",
+      "clase": "Magnoliopsida",
+      "orden": "Fagales"
+    },
+    {
+      "nombre_comun": "Pino Silvestre",
+      "nombre_cientifico": "Pinus sylvestris",
+      "reino": "Plantae",
+      "filo": "Tracheophyta",
+      "clase": "Pinopsida",
+      "orden": "Pinales"
+    },
+    {
+      "nombre_comun": "Mariposa Monarca",
+      "nombre_cientifico": "Danaus plexippus",
+      "reino": "Animalia",
+      "filo": "Arthropoda",
+      "clase": "Insecta",
+      "orden": "Lepidoptera"
+    },
+    {
+      "nombre_comun": "Amanita Muscaria (Seta)",
+      "nombre_cientifico": "Amanita muscaria",
+      "reino": "Fungi",
+      "filo": "Basidiomycota",
+      "clase": "Agaricomycetes",
+      "orden": "Agaricales"
+    },
+    {
+      "nombre_comun": "Escherichia coli (Bacteria)",
+      "nombre_cientifico": "Escherichia coli",
+      "reino": "Bacteria",
+      "filo": "Proteobacteria",
+      "clase": "Gammaproteobacteria",
+      "orden": "Enterobacteriales"
+    },
+    {
+      "nombre_comun": "Bacalao del Atlántico",
+      "nombre_cientifico": "Gadus morhua",
+      "reino": "Animalia",
+      "filo": "Chordata",
+      "clase": "Actinopterygii",
+      "orden": "Gadiformes"
+    }
+  ]
+}

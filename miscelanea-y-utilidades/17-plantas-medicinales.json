@@ -1,0 +1,88 @@
+{
+  "plantas_usos_tradicionales_y_preparacion": [
+    {
+      "nombre_comun": "Manzanilla",
+      "nombre_cientifico": "Matricaria chamomilla",
+      "parte_utilizada": "Flores",
+      "usos_tradicionales": [
+        "Relajante y sedante suave",
+        "Alivio de espasmos gastrointestinales",
+        "Antiinflamatorio y antiséptico (uso tópico)"
+      ],
+      "preparacion_comun": {
+        "metodo": "Infusión (Té)",
+        "indicaciones": "Verter una taza de agua hirviendo sobre 1 cucharadita de flores secas. Tapar y dejar reposar 5-10 minutos. Colar y beber."
+      }
+    },
+    {
+      "nombre_comun": "Menta / Hierbabuena",
+      "nombre_cientifico": "Mentha piperita / spicata",
+      "parte_utilizada": "Hojas",
+      "usos_tradicionales": [
+        "Digestivo y carminativo (alivia gases)",
+        "Alivio de náuseas y vómitos",
+        "Descongestionante respiratorio"
+      ],
+      "preparacion_comun": {
+        "metodo": "Infusión o Maceración (Aceite)",
+        "indicaciones": "Usar hojas frescas o secas para una infusión. Para uso digestivo, beber después de las comidas."
+      }
+    },
+    {
+      "nombre_comun": "Jengibre",
+      "nombre_cientifico": "Zingiber officinale",
+      "parte_utilizada": "Rizoma (Raíz)",
+      "usos_tradicionales": [
+        "Antiinflamatorio y analgésico",
+        "Potente antiemético (contra náuseas y mareos)",
+        "Estimulante de la circulación"
+      ],
+      "preparacion_comun": {
+        "metodo": "Decocción (Hervido) o Jugo",
+        "indicaciones": "Hervir 1-2 rodajas de rizoma fresco en agua durante 10 minutos. Colar y consumir. También rallado en jugos."
+      }
+    },
+    {
+      "nombre_comun": "Aloe Vera",
+      "nombre_cientifico": "Aloe barbadensis miller",
+      "parte_utilizada": "Gel (pulpa de las hojas)",
+      "usos_tradicionales": [
+        "Cicatrización y regeneración de la piel (quemaduras, irritaciones)",
+        "Hidratante tópico",
+        "Laxante (jugo o látex amarillo de la hoja, con precaución)"
+      ],
+      "preparacion_comun": {
+        "metodo": "Uso Tópico (Gel)",
+        "indicaciones": "Extraer el gel interior de la hoja y aplicar directamente sobre la piel. Para uso interno, procesar para eliminar el látex amargo."
+      }
+    },
+    {
+      "nombre_comun": "Valeriana",
+      "nombre_cientifico": "Valeriana officinalis",
+      "parte_utilizada": "Raíz",
+      "usos_tradicionales": [
+        "Sedante natural para el insomnio",
+        "Tratamiento de la ansiedad y el estrés",
+        "Relajante muscular"
+      ],
+      "preparacion_comun": {
+        "metodo": "Tintura o Cápsulas",
+        "indicaciones": "Debido a su fuerte olor, se consume más a menudo en extracto líquido (tintura) o en cápsulas. También se puede hacer infusión de la raíz seca."
+      }
+    },
+    {
+      "nombre_comun": "Caléndula",
+      "nombre_cientifico": "Calendula officinalis",
+      "parte_utilizada": "Pétalos de las flores",
+      "usos_tradicionales": [
+        "Cicatrizante y antiinflamatorio (uso tópico)",
+        "Suavizante para pieles irritadas y eccemas",
+        "Ligeramente antiséptico"
+      ],
+      "preparacion_comun": {
+        "metodo": "Pomada (Aceite Infusionado) o Infusión",
+        "indicaciones": "Para uso tópico, infusionar las flores en un aceite portador (como oliva) para hacer una pomada. Para uso interno, usar como infusión."
+      }
+    }
+  ]
+}

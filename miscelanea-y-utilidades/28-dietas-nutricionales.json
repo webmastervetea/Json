@@ -1,0 +1,68 @@
+{
+  "planes_de_comidas_y_contenido_calorico": [
+    {
+      "nombre_plan": "Dieta de Pérdida de Peso Moderada",
+      "objetivo": "Déficit calórico (Pérdida de Grasa)",
+      "calorias_totales_dia": 1800,
+      "distribucion_macronutrientes": {
+        "proteinas": {"porcentaje": "30%", "gramos": 135, "calorias": 540},
+        "carbohidratos": {"porcentaje": "40%", "gramos": 180, "calorias": 720},
+        "grasas": {"porcentaje": "30%", "gramos": 60, "calorias": 540}
+      },
+      "ejemplo_menu_dia": {
+        "desayuno": 350,
+        "almuerzo": 550,
+        "cena": 500,
+        "snacks": 400
+      }
+    },
+    {
+      "nombre_plan": "Dieta de Mantenimiento y Balance",
+      "objetivo": "Equilibrio energético y Nutrición General",
+      "calorias_totales_dia": 2200,
+      "distribucion_macronutrientes": {
+        "proteinas": {"porcentaje": "25%", "gramos": 137.5, "calorias": 550},
+        "carbohidratos": {"porcentaje": "50%", "gramos": 275, "calorias": 1100},
+        "grasas": {"porcentaje": "25%", "gramos": 61, "calorias": 550}
+      },
+      "ejemplo_menu_dia": {
+        "desayuno": 450,
+        "almuerzo": 650,
+        "cena": 600,
+        "snacks": 500
+      }
+    },
+    {
+      "nombre_plan": "Dieta para Ganancia Muscular (Volumen Limpio)",
+      "objetivo": "Superávit calórico (Aumento de Masa Muscular)",
+      "calorias_totales_dia": 3000,
+      "distribucion_macronutrientes": {
+        "proteinas": {"porcentaje": "35%", "gramos": 262.5, "calorias": 1050},
+        "carbohidratos": {"porcentaje": "45%", "gramos": 337.5, "calorias": 1350},
+        "grasas": {"porcentaje": "20%", "gramos": 66.7, "calorias": 600}
+      },
+      "ejemplo_menu_dia": {
+        "desayuno": 600,
+        "almuerzo": 800,
+        "cena": 700,
+        "snacks_pre_post_entreno": 900
+      }
+    },
+    {
+      "nombre_plan": "Dieta Baja en Carbohidratos (Keto/Low Carb)",
+      "objetivo": "Quema de grasa y cetosis",
+      "calorias_totales_dia": 1700,
+      "distribucion_macronutrientes": {
+        "proteinas": {"porcentaje": "20%", "gramos": 85, "calorias": 340},
+        "carbohidratos": {"porcentaje": "10%", "gramos": 42.5, "calorias": 170},
+        "grasas": {"porcentaje": "70%", "gramos": 132.2, "calorias": 1190}
+      },
+      "ejemplo_menu_dia": {
+        "desayuno": 400,
+        "almuerzo": 600,
+        "cena": 550,
+        "snacks": 150
+      }
+    }
+  ]
+}

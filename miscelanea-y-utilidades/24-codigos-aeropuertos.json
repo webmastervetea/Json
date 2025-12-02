@@ -1,0 +1,88 @@
+{
+  "lista_codigos_iata_aeropuertos": [
+    {
+      "codigo_iata": "ATL",
+      "nombre_aeropuerto": "Hartsfield-Jackson Atlanta International Airport",
+      "ciudad": "Atlanta",
+      "pais": "Estados Unidos"
+    },
+    {
+      "codigo_iata": "PEK",
+      "nombre_aeropuerto": "Beijing Capital International Airport",
+      "ciudad": "Beijing",
+      "pais": "China"
+    },
+    {
+      "codigo_iata": "DXB",
+      "nombre_aeropuerto": "Dubai International Airport",
+      "ciudad": "Dubái",
+      "pais": "Emiratos Árabes Unidos"
+    },
+    {
+      "codigo_iata": "LAX",
+      "nombre_aeropuerto": "Los Angeles International Airport",
+      "ciudad": "Los Ángeles",
+      "pais": "Estados Unidos"
+    },
+    {
+      "codigo_iata": "HND",
+      "nombre_aeropuerto": "Tokyo Haneda Airport",
+      "ciudad": "Tokio",
+      "pais": "Japón"
+    },
+    {
+      "codigo_iata": "LHR",
+      "nombre_aeropuerto": "London Heathrow Airport",
+      "ciudad": "Londres",
+      "pais": "Reino Unido"
+    },
+    {
+      "codigo_iata": "CDG",
+      "nombre_aeropuerto": "Aéroport de Paris-Charles de Gaulle",
+      "ciudad": "París",
+      "pais": "Francia"
+    },
+    {
+      "codigo_iata": "AMS",
+      "nombre_aeropuerto": "Amsterdam Airport Schiphol",
+      "ciudad": "Ámsterdam",
+      "pais": "Países Bajos"
+    },
+    {
+      "codigo_iata": "FRA",
+      "nombre_aeropuerto": "Frankfurt Airport",
+      "ciudad": "Fráncfort",
+      "pais": "Alemania"
+    },
+    {
+      "codigo_iata": "MAD",
+      "nombre_aeropuerto": "Aeropuerto Adolfo Suárez Madrid-Barajas",
+      "ciudad": "Madrid",
+      "pais": "España"
+    },
+    {
+      "codigo_iata": "MEX",
+      "nombre_aeropuerto": "Aeropuerto Internacional de la Ciudad de México",
+      "ciudad": "Ciudad de México",
+      "pais": "México"
+    },
+    {
+      "codigo_iata": "BOG",
+      "nombre_aeropuerto": "Aeropuerto Internacional El Dorado",
+      "ciudad": "Bogotá",
+      "pais": "Colombia"
+    },
+    {
+      "codigo_iata": "EZE",
+      "nombre_aeropuerto": "Aeropuerto Internacional de Ezeiza Ministro Pistarini",
+      "ciudad": "Buenos Aires",
+      "pais": "Argentina"
+    },
+    {
+      "codigo_iata": "SYD",
+      "nombre_aeropuerto": "Sydney Airport",
+      "ciudad": "Sídney",
+      "pais": "Australia"
+    }
+  ]
+}

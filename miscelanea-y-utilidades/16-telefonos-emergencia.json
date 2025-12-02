@@ -1,0 +1,103 @@
+{
+  "numeros_de_contacto_emergencia_mundial": [
+    {
+      "pais": "Estados Unidos",
+      "codigo_iso": "US",
+      "servicios": {
+        "Emergencia General (Unificado)": "911",
+        "Policía": "911",
+        "Ambulancia / Médico": "911",
+        "Bomberos": "911"
+      }
+    },
+    {
+      "pais": "Canadá",
+      "codigo_iso": "CA",
+      "servicios": {
+        "Emergencia General (Unificado)": "911",
+        "Policía": "911",
+        "Ambulancia / Médico": "911",
+        "Bomberos": "911"
+      }
+    },
+    {
+      "pais": "Unión Europea (Mayoría de países: España, Francia, Alemania, Italia, etc.)",
+      "codigo_iso": "UE",
+      "servicios": {
+        "Emergencia General (Unificado)": "112",
+        "Policía (Específico, puede variar)": "112 / 091 / 092",
+        "Ambulancia / Médico (Específico, puede variar)": "112 / 061",
+        "Bomberos (Específico, puede variar)": "112 / 080"
+      }
+    },
+    {
+      "pais": "Reino Unido",
+      "codigo_iso": "GB",
+      "servicios": {
+        "Emergencia General (Unificado)": "999 o 112",
+        "Policía": "999 / 101 (No emergencia)",
+        "Ambulancia / Médico": "999",
+        "Bomberos": "999"
+      }
+    },
+    {
+      "pais": "México",
+      "codigo_iso": "MX",
+      "servicios": {
+        "Emergencia General (Unificado)": "911",
+        "Policía": "911",
+        "Ambulancia / Médico": "911",
+        "Bomberos": "911"
+      }
+    },
+    {
+      "pais": "Argentina",
+      "codigo_iso": "AR",
+      "servicios": {
+        "Emergencia General": "911",
+        "Policía": "911",
+        "Ambulancia / Médico (SAME)": "107",
+        "Bomberos": "100"
+      }
+    },
+    {
+      "pais": "Colombia",
+      "codigo_iso": "CO",
+      "servicios": {
+        "Emergencia General": "123",
+        "Policía": "112 / 123",
+        "Ambulancia / Médico": "123",
+        "Bomberos": "119 / 123"
+      }
+    },
+    {
+      "pais": "Brasil",
+      "codigo_iso": "BR",
+      "servicios": {
+        "Emergencia General": "190",
+        "Policía": "190",
+        "Ambulancia / Médico (SAMU)": "192",
+        "Bomberos": "193"
+      }
+    },
+    {
+      "pais": "Australia",
+      "codigo_iso": "AU",
+      "servicios": {
+        "Emergencia General (Unificado)": "000",
+        "Policía": "000 / 131 444 (No emergencia)",
+        "Ambulancia / Médico": "000",
+        "Bomberos": "000"
+      }
+    },
+    {
+      "pais": "Japón",
+      "codigo_iso": "JP",
+      "servicios": {
+        "Policía": "110",
+        "Ambulancia / Médico": "119",
+        "Bomberos": "119"
+      }
+    }
+  ]
+}

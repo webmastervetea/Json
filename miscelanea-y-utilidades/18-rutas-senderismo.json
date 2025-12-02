@@ -1,0 +1,76 @@
+{
+  "rutas_de_montana_destacadas": [
+    {
+      "ruta": "Circuito W (Torres del Paine)",
+      "pais": "Chile",
+      "longitud_km": 80,
+      "dificultad": "Media-Alta",
+      "duracion_dias": 5,
+      "desnivel_positivo_m": 3500,
+      "puntos_interes_clave": [
+        "Base Torres (Mirador)",
+        "Valle del Francés",
+        "Glaciar Grey",
+        "Cuernos del Paine"
+      ],
+      "tipo_ruta": "Trekking Circular"
+    },
+    {
+      "ruta": "Sendero de la Laguna 69",
+      "pais": "Perú",
+      "longitud_km": 14,
+      "dificultad": "Alta",
+      "duracion_dias": 1,
+      "desnivel_positivo_m": 800,
+      "puntos_interes_clave": [
+        "Laguna 69 (Color turquesa)",
+        "Vistas del Huascarán (pico más alto de Perú)",
+        "Quebrada de Llanganuco"
+      ],
+      "tipo_ruta": "Senderismo de Altura"
+    },
+    {
+      "ruta": "Camino de Santiago (Francés)",
+      "pais": "España / Francia",
+      "longitud_km": 780,
+      "dificultad": "Media-Baja",
+      "duracion_dias": 30,
+      "desnivel_positivo_m": 12000,
+      "puntos_interes_clave": [
+        "Catedral de Santiago de Compostela",
+        "Cruz de Ferro",
+        "Puente de Roncesvalles",
+        "Meseta Central"
+      ],
+      "tipo_ruta": "Peregrinación / Larga Distancia"
+    },
+    {
+      "ruta": "Monte Fuji (Ruta Yoshida)",
+      "pais": "Japón",
+      "longitud_km": 14,
+      "dificultad": "Media",
+      "duracion_dias": 1,
+      "desnivel_positivo_m": 1450,
+      "puntos_interes_clave": [
+        "Cima del Monte Fuji (3,776 m)",
+        "Estación 5",
+        "Amanecer desde la cumbre ('Goraiko')"
+      ],
+      "tipo_ruta": "Ascensión Rápida"
+    },
+    {
+      "ruta": "Trekking Annapurna Base Camp (ABC)",
+      "pais": "Nepal",
+      "longitud_km": 110,
+      "dificultad": "Media-Alta",
+      "duracion_dias": 10,
+      "desnivel_positivo_m": 4500,
+      "puntos_interes_clave": [
+        "Santuario Annapurna (Campo Base)",
+        "Machhapuchhre Base Camp (MBC)",
+        "Pueblos Gurung (cultura local)"
+      ],
+      "tipo_ruta": "Trekking de Gran Altitud"
+    }
+  ]
+}

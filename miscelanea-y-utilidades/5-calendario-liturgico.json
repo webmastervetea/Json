@@ -1,0 +1,42 @@
+{
+  "calendario_religioso_fechas_clave": [
+    {
+      "religion": "Cristianismo (Católico/Protestante)",
+      "calendario": "Gregoriano",
+      "fechas": [
+        {"nombre": "Navidad", "tipo": "Fija", "fecha_fija": "25-12", "descripcion": "Celebración del nacimiento de Jesucristo."},
+        {"nombre": "Día de Año Nuevo / Solemnidad de Santa María", "tipo": "Fija", "fecha_fija": "01-01", "descripcion": "Inicio del Año Litúrgico."},
+        {"nombre": "Epifanía / Día de Reyes", "tipo": "Fija", "fecha_fija": "06-01", "descripcion": "Celebración de la manifestación de Jesús a los Reyes Magos."},
+        {"nombre": "Miércoles de Ceniza", "tipo": "Móvil", "fecha_base": "Pascua", "regla": "46 días antes de Pascua", "descripcion": "Inicio de la Cuaresma."},
+        {"nombre": "Viernes Santo", "tipo": "Móvil", "fecha_base": "Pascua", "regla": "Viernes antes del Domingo de Pascua", "descripcion": "Conmemoración de la crucifixión de Jesús."},
+        {"nombre": "Domingo de Pascua / Resurrección", "tipo": "Móvil", "fecha_base": "Luna Llena", "regla": "Primer domingo después de la primera luna llena tras el equinoccio de primavera.", "descripcion": "La festividad central, la resurrección de Jesús."},
+        {"nombre": "Pentecostés", "tipo": "Móvil", "fecha_base": "Pascua", "regla": "50 días después de Pascua", "descripcion": "Descenso del Espíritu Santo sobre los apóstoles."},
+        {"nombre": "Día de Todos los Santos", "tipo": "Fija", "fecha_fija": "01-11", "descripcion": "Conmemoración de todos los santos."},
+        {"nombre": "Adviento", "tipo": "Móvil", "fecha_base": "Navidad", "regla": "Cuatro domingos antes de Navidad", "descripcion": "Período de preparación espiritual."}
+      ]
+    },
+    {
+      "religion": "Islam",
+      "calendario": "Hégira (Lunar)",
+      "fechas": [
+        {"nombre": "Ramadán", "tipo": "Móvil", "regla": "Noveno mes del calendario islámico", "descripcion": "Mes sagrado de ayuno diurno."},
+        {"nombre": "Eid al-Fitr", "tipo": "Móvil", "regla": "Inmediatamente después del final de Ramadán", "descripcion": "Fiesta de la Ruptura del Ayuno."},
+        {"nombre": "Eid al-Adha", "tipo": "Móvil", "regla": "Décimo día del Du al-Hiyya (último mes)", "descripcion": "Fiesta del Sacrificio, conmemora la fe de Ibrahim."},
+        {"nombre": "Ashura", "tipo": "Móvil", "regla": "Décimo día del Muharram (primer mes)", "descripcion": "Día de luto para chiitas, ayuno para sunitas."},
+        {"nombre": "Mawlid al-Nabi", "tipo": "Móvil", "regla": "Duodécimo día de Rabi' al-Awwal", "descripcion": "Nacimiento del Profeta Mahoma."}
+      ]
+    },
+    {
+      "religion": "Judaísmo",
+      "calendario": "Hebreo (Lunisolar)",
+      "fechas": [
+        {"nombre": "Rosh Hashaná", "tipo": "Móvil", "regla": "Tishrei 1", "descripcion": "Año Nuevo Judío."},
+        {"nombre": "Yom Kipur", "tipo": "Móvil", "regla": "Tishrei 10", "descripcion": "Día del Perdón, el día más sagrado y de ayuno."},
+        {"nombre": "Pésaj (Pascua Judía)", "tipo": "Móvil", "regla": "Nisán 15", "descripcion": "Conmemora la liberación de la esclavitud en Egipto."},
+        {"nombre": "Shavuot", "tipo": "Móvil", "regla": "Siván 6", "descripcion": "Fiesta de las Semanas, conmemora la entrega de la Torá."},
+        {"nombre": "Sucot", "tipo": "Móvil", "regla": "Tishrei 15", "descripcion": "Fiesta de los Tabernáculos o de las Cabañas."},
+        {"nombre": "Janucá", "tipo": "Móvil", "regla": "Kislev 25", "descripcion": "Fiesta de las Luces, dura ocho días."}
+      ]
+    }
+  ]
+}

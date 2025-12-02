@@ -1,0 +1,49 @@
+{
+  "coleccion_de_citas_celebres": [
+    {
+      "cita": "La vida es realmente simple, pero insistimos en hacerla complicada.",
+      "autor": "Confucio",
+      "categoria": "Filosofía"
+    },
+    {
+      "cita": "Dos cosas son infinitas: el universo y la estupidez humana; y del universo no estoy seguro.",
+      "autor": "Albert Einstein",
+      "categoria": "Ciencia"
+    },
+    {
+      "cita": "Sé el cambio que quieres ver en el mundo.",
+      "autor": "Mahatma Gandhi",
+      "categoria": "Liderazgo"
+    },
+    {
+      "cita": "El éxito no es definitivo, el fracaso no es fatídico: lo que cuenta es el coraje para continuar.",
+      "autor": "Winston Churchill",
+      "categoria": "Liderazgo"
+    },
+    {
+      "cita": "Solo sé que no sé nada.",
+      "autor": "Sócrates",
+      "categoria": "Filosofía"
+    },
+    {
+      "cita": "El que lee mucho y anda mucho, ve mucho y sabe mucho.",
+      "autor": "Miguel de Cervantes",
+      "categoria": "Literatura"
+    },
+    {
+      "cita": "Pregúntate si lo que estás haciendo hoy te acerca al lugar en el que quieres estar mañana.",
+      "autor": "Walt Disney",
+      "categoria": "Inspiración"
+    },
+    {
+      "cita": "Imaginar es un acto de coraje.",
+      "autor": "Ursula K. Le Guin",
+      "categoria": "Literatura"
+    },
+    {
+      "cita": "La tecnología es solo una herramienta. En términos de acercar a las personas, la maestra es la compasión.",
+      "autor": "Dalai Lama",
+      "categoria": "Tecnología y Humanidad"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "factores_de_conversion_fundamentales": [
+    {
+      "magnitud": "Longitud",
+      "factores": [
+        {"origen": "metro (m)", "destino": "pie (ft)", "factor": 3.28084},
+        {"origen": "pie (ft)", "destino": "metro (m)", "factor": 0.3048},
+        {"origen": "kilómetro (km)", "destino": "milla (mi)", "factor": 0.621371},
+        {"origen": "milla (mi)", "destino": "kilómetro (km)", "factor": 1.60934},
+        {"origen": "centímetro (cm)", "destino": "pulgada (in)", "factor": 0.393701},
+        {"origen": "pulgada (in)", "destino": "centímetro (cm)", "factor": 2.54}
+      ]
+    },
+    {
+      "magnitud": "Masa",
+      "factores": [
+        {"origen": "kilogramo (kg)", "destino": "libra (lb)", "factor": 2.20462},
+        {"origen": "libra (lb)", "destino": "kilogramo (kg)", "factor": 0.453592},
+        {"origen": "gramo (g)", "destino": "onza (oz)", "factor": 0.035274},
+        {"origen": "tonelada métrica (t)", "destino": "tonelada corta (US)", "factor": 1.10231}
+      ]
+    },
+    {
+      "magnitud": "Volumen",
+      "factores": [
+        {"origen": "litro (L)", "destino": "galón (US)", "factor": 0.264172},
+        {"origen": "galón (US)", "destino": "litro (L)", "factor": 3.78541},
+        {"origen": "mililitro (mL)", "destino": "onza líquida (fl oz)", "factor": 0.033814},
+        {"origen": "metro cúbico ($m^3$)", "destino": "pie cúbico ($ft^3$)", "factor": 35.3147}
+      ]
+    },
+    {
+      "magnitud": "Velocidad",
+      "factores": [
+        {"origen": "kilómetros por hora (km/h)", "destino": "millas por hora (mph)", "factor": 0.621371},
+        {"origen": "metros por segundo (m/s)", "destino": "kilómetros por hora (km/h)", "factor": 3.6}
+      ]
+    },
+    {
+      "magnitud": "Área",
+      "factores": [
+        {"origen": "metro cuadrado ($m^2$)", "destino": "pie cuadrado ($ft^2$)", "factor": 10.7639},
+        {"origen": "hectárea (ha)", "destino": "acre (ac)", "factor": 2.47105}
+      ]
+    },
+    {
+      "magnitud": "Temperatura",
+      "factores_formula": [
+        {"origen": "Celsius (°C)", "destino": "Fahrenheit (°F)", "formula": "($^{\circ}F = {^{\circ}C} \times 9/5 + 32$)"},
+        {"origen": "Fahrenheit (°F)", "destino": "Celsius (°C)", "formula": "($^{\circ}C = ({^{\circ}F} - 32) \times 5/9$)"},
+        {"origen": "Celsius (°C)", "destino": "Kelvin (K)", "formula": "($K = {^{\circ}C} + 273.15$)"}
+      ]
+    },
+    {
+      "magnitud": "Presión",
+      "factores": [
+        {"origen": "Pascal (Pa)", "destino": "Libra por pulgada cuadrada (psi)", "factor": 0.000145038},
+        {"origen": "Atmósfera (atm)", "destino": "Bar (bar)", "factor": 1.01325}
+      ]
+    }
+  ]
+}

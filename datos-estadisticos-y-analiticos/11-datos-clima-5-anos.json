@@ -1,0 +1,106 @@
+{
+  "estacion_id": "est_007_centro",
+  "nombre_estacion": "Estación Meteorológica Central",
+  "latitud": 40.4168,
+  "longitud": -3.7038,
+  "altitud_metros": 650,
+  "periodo_analisis": "2024",
+  "registros_mensuales": [
+    {
+      "mes": 1,
+      "nombre_mes": "Enero",
+      "temperatura_max_promedio_c": 12.5,
+      "temperatura_min_promedio_c": 4.1,
+      "precipitacion_total_mm": 55.2,
+      "dias_con_lluvia": 8
+    },
+    {
+      "mes": 2,
+      "nombre_mes": "Febrero",
+      "temperatura_max_promedio_c": 14.8,
+      "temperatura_min_promedio_c": 5.5,
+      "precipitacion_total_mm": 40.1,
+      "dias_con_lluvia": 6
+    },
+    {
+      "mes": 3,
+      "nombre_mes": "Marzo",
+      "temperatura_max_promedio_c": 18.0,
+      "temperatura_min_promedio_c": 7.5,
+      "precipitacion_total_mm": 30.5,
+      "dias_con_lluvia": 5
+    },
+    {
+      "mes": 4,
+      "nombre_mes": "Abril",
+      "temperatura_max_promedio_c": 21.5,
+      "temperatura_min_promedio_c": 10.2,
+      "precipitacion_total_mm": 45.8,
+      "dias_con_lluvia": 7
+    },
+    {
+      "mes": 5,
+      "nombre_mes": "Mayo",
+      "temperatura_max_promedio_c": 26.0,
+      "temperatura_min_promedio_c": 14.5,
+      "precipitacion_total_mm": 38.0,
+      "dias_con_lluvia": 4
+    },
+    {
+      "mes": 6,
+      "nombre_mes": "Junio",
+      "temperatura_max_promedio_c": 32.5,
+      "temperatura_min_promedio_c": 19.8,
+      "precipitacion_total_mm": 15.3,
+      "dias_con_lluvia": 2
+    },
+    {
+      "mes": 7,
+      "nombre_mes": "Julio",
+      "temperatura_max_promedio_c": 36.0,
+      "temperatura_min_promedio_c": 22.0,
+      "precipitacion_total_mm": 5.0,
+      "dias_con_lluvia": 1
+    },
+    {
+      "mes": 8,
+      "nombre_mes": "Agosto",
+      "temperatura_max_promedio_c": 35.5,
+      "temperatura_min_promedio_c": 21.5,
+      "precipitacion_total_mm": 8.5,
+      "dias_con_lluvia": 1
+    },
+    {
+      "mes": 9,
+      "nombre_mes": "Septiembre",
+      "temperatura_max_promedio_c": 30.2,
+      "temperatura_min_promedio_c": 17.0,
+      "precipitacion_total_mm": 25.4,
+      "dias_con_lluvia": 3
+    },
+    {
+      "mes": 10,
+      "nombre_mes": "Octubre",
+      "temperatura_max_promedio_c": 23.5,
+      "temperatura_min_promedio_c": 12.5,
+      "precipitacion_total_mm": 65.9,
+      "dias_con_lluvia": 9
+    },
+    {
+      "mes": 11,
+      "nombre_mes": "Noviembre",
+      "temperatura_max_promedio_c": 17.0,
+      "temperatura_min_promedio_c": 7.8,
+      "precipitacion_total_mm": 72.3,
+      "dias_con_lluvia": 10
+    },
+    {
+      "mes": 12,
+      "nombre_mes": "Diciembre",
+      "temperatura_max_promedio_c": 13.0,
+      "temperatura_min_promedio_c": 5.0,
+      "precipitacion_total_mm": 60.0,
+      "dias_con_lluvia": 8
+    }
+  ]
+}

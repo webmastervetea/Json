@@ -1,0 +1,56 @@
+[
+  {
+    "segmento_id": "seg_001_h_mad",
+    "descripcion": "Hombres jóvenes en Madrid",
+    "ubicacion": "Madrid, España",
+    "rango_edad": "18-24",
+    "genero": "Masculino",
+    "conteo_usuarios": 15400,
+    "porcentaje_total": 4.5
+  },
+  {
+    "segmento_id": "seg_002_m_cdmx",
+    "descripcion": "Mujeres adultas en Ciudad de México",
+    "ubicacion": "Ciudad de México, México",
+    "rango_edad": "35-44",
+    "genero": "Femenino",
+    "conteo_usuarios": 28900,
+    "porcentaje_total": 8.5
+  },
+  {
+    "segmento_id": "seg_003_h_bcn",
+    "descripcion": "Hombres de mediana edad en Barcelona",
+    "ubicacion": "Barcelona, España",
+    "rango_edad": "45-54",
+    "genero": "Masculino",
+    "conteo_usuarios": 12100,
+    "porcentaje_total": 3.6
+  },
+  {
+    "segmento_id": "seg_004_m_bue",
+    "descripcion": "Mujeres jóvenes en Buenos Aires",
+    "ubicacion": "Buenos Aires, Argentina",
+    "rango_edad": "25-34",
+    "genero": "Femenino",
+    "conteo_usuarios": 33200,
+    "porcentaje_total": 9.8
+  },
+  {
+    "segmento_id": "seg_005_n_global",
+    "descripcion": "Usuarios sénior de género no especificado (Global)",
+    "ubicacion": "Global",
+    "rango_edad": "55+",
+    "genero": "No especificado",
+    "conteo_usuarios": 45000,
+    "porcentaje_total": 13.2
+  },
+  {
+    "segmento_id": "seg_006_h_latam_joven",
+    "descripcion": "Hombres adolescentes en LATAM",
+    "ubicacion": "LATAM (Otros países)",
+    "rango_edad": "13-17",
+    "genero": "Masculino",
+    "conteo_usuarios": 8900,
+    "porcentaje_total": 2.6
+  }
+]

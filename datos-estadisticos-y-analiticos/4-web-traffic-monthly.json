@@ -1,0 +1,38 @@
+[
+  {
+    "mes": "2025-09",
+    "visitas_totales": 85430,
+    "usuarios_unicos": 62100,
+    "paginas_por_sesion": 4.15,
+    "duracion_promedio_seg": 185,
+    "tasa_rebote_porcentaje": 38.5,
+    "fuente_principal": "Busqueda Organica"
+  },
+  {
+    "mes": "2025-10",
+    "visitas_totales": 98210,
+    "usuarios_unicos": 71550,
+    "paginas_por_sesion": 3.90,
+    "duracion_promedio_seg": 175,
+    "tasa_rebote_porcentaje": 41.2,
+    "fuente_principal": "Referencia"
+  },
+  {
+    "mes": "2025-11",
+    "visitas_totales": 115640,
+    "usuarios_unicos": 85900,
+    "paginas_por_sesion": 4.55,
+    "duracion_promedio_seg": 205,
+    "tasa_rebote_porcentaje": 35.8,
+    "fuente_principal": "Busqueda Organica"
+  },
+  {
+    "mes": "2025-12",
+    "visitas_totales": 105800,
+    "usuarios_unicos": 78350,
+    "paginas_por_sesion": 4.20,
+    "duracion_promedio_seg": 190,
+    "tasa_rebote_porcentaje": 39.1,
+    "fuente_principal": "Directo"
+  }
+]

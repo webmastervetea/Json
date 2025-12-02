@@ -1,0 +1,71 @@
+[
+  {
+    "materia_prima": "Oro (Gold)",
+    "unidad": "USD por onza troy",
+    "codigo_mercado": "XAU",
+    "historial_precios": [
+      {
+        "fecha": "2023-01-01",
+        "precio_cierre": 1823.50
+      },
+      {
+        "fecha": "2023-07-01",
+        "precio_cierre": 1912.80
+      },
+      {
+        "fecha": "2024-01-01",
+        "precio_cierre": 2041.00
+      },
+      {
+        "fecha": "2024-11-28",
+        "precio_cierre": 2320.10
+      }
+    ]
+  },
+  {
+    "materia_prima": "Petróleo Crudo Brent",
+    "unidad": "USD por barril",
+    "codigo_mercado": "BRENT",
+    "historial_precios": [
+      {
+        "fecha": "2023-01-01",
+        "precio_cierre": 85.05
+      },
+      {
+        "fecha": "2023-07-01",
+        "precio_cierre": 75.12
+      },
+      {
+        "fecha": "2024-01-01",
+        "precio_cierre": 77.80
+      },
+      {
+        "fecha": "2024-11-28",
+        "precio_cierre": 82.55
+      }
+    ]
+  },
+  {
+    "materia_prima": "Café Arábica",
+    "unidad": "USD por libra",
+    "codigo_mercado": "KC",
+    "historial_precios": [
+      {
+        "fecha": "2023-01-01",
+        "precio_cierre": 1.65
+      },
+      {
+        "fecha": "2023-07-01",
+        "precio_cierre": 1.50
+      },
+      {
+        "fecha": "2024-01-01",
+        "precio_cierre": 1.89
+      },
+      {
+        "fecha": "2024-11-28",
+        "precio_cierre": 2.15
+      }
+    ]
+  }
+]

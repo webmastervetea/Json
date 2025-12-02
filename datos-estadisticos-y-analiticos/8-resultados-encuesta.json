@@ -1,0 +1,45 @@
+{
+  "encuesta_id": "satisfaccion_cliente_q4_2025",
+  "total_participantes": 1250,
+  "fecha_corte": "2025-11-28",
+  "resultados_por_pregunta": [
+    {
+      "pregunta_id": "q_001_satisfaccion_general",
+      "texto_pregunta": "¿Qué tan satisfecho está con nuestro producto/servicio en general?",
+      "tipo_respuesta": "escala_likert_5",
+      "datos_agregados": [
+        {"opcion": "Muy Satisfecho", "conteo": 525, "porcentaje": 42.0},
+        {"opcion": "Satisfecho", "conteo": 450, "porcentaje": 36.0},
+        {"opcion": "Neutral", "conteo": 150, "porcentaje": 12.0},
+        {"opcion": "Insatisfecho", "conteo": 75, "porcentaje": 6.0},
+        {"opcion": "Muy Insatisfecho", "conteo": 50, "porcentaje": 4.0}
+      ]
+    },
+    {
+      "pregunta_id": "q_002_recomendar",
+      "texto_pregunta": "¿Recomendaría nuestro servicio a un colega o amigo?",
+      "tipo_respuesta": "opcion_unica",
+      "datos_agregados": [
+        {"opcion": "Sí", "conteo": 950, "porcentaje": 76.0},
+        {"opcion": "No", "conteo": 150, "porcentaje": 12.0},
+        {"opcion": "Tal vez", "conteo": 150, "porcentaje": 12.0}
+      ]
+    },
+    {
+      "pregunta_id": "q_003_canales_uso",
+      "texto_pregunta": "¿Qué canales de soporte ha utilizado en el último mes? (Seleccione todos los que apliquen)",
+      "tipo_respuesta": "respuesta_multiple",
+      "datos_agregados": [
+        {"opcion": "Chat en Vivo", "conteo": 600, "porcentaje": 48.0},
+        {"opcion": "Email de Soporte", "conteo": 450, "porcentaje": 36.0},
+        {"opcion": "Base de Conocimiento (FAQ)", "conteo": 350, "porcentaje": 28.0},
+        {"opcion": "Llamada Telefónica", "conteo": 100, "porcentaje": 8.0}
+      ]
+      // Nota: Los porcentajes en respuesta_multiple pueden sumar más de 100%
+    }
+  ],
+  "metrica_resumen": {
+    "nps": 56, // Net Promoter Score (Promotores - Detractores)
+    "satisfaccion_neta_porcentaje": 78.0 // (Muy Satisfecho + Satisfecho)
+  }
+}

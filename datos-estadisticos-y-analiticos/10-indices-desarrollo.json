@@ -1,0 +1,62 @@
+[
+  {
+    "pais": "Noruega",
+    "codigo_iso": "NOR",
+    "idh": 0.966,
+    "componentes": {
+      "esperanza_vida_al_nacer": 83.2,
+      "anios_escolaridad_esperados": 18.2,
+      "anios_escolaridad_promedio": 12.9,
+      "ingreso_nacional_bruto_per_capita_usd": 64925
+    },
+    "nivel_desarrollo": "Muy Alto"
+  },
+  {
+    "pais": "Suiza",
+    "codigo_iso": "CHE",
+    "idh": 0.962,
+    "componentes": {
+      "esperanza_vida_al_nacer": 84.0,
+      "anios_escolaridad_esperados": 16.0,
+      "anios_escolaridad_promedio": 13.9,
+      "ingreso_nacional_bruto_per_capita_usd": 66933
+    },
+    "nivel_desarrollo": "Muy Alto"
+  },
+  {
+    "pais": "España",
+    "codigo_iso": "ESP",
+    "idh": 0.905,
+    "componentes": {
+      "esperanza_vida_al_nacer": 83.3,
+      "anios_escolaridad_esperados": 18.0,
+      "anios_escolaridad_promedio": 10.5,
+      "ingreso_nacional_bruto_per_capita_usd": 38780
+    },
+    "nivel_desarrollo": "Muy Alto"
+  },
+  {
+    "pais": "México",
+    "codigo_iso": "MEX",
+    "idh": 0.783,
+    "componentes": {
+      "esperanza_vida_al_nacer": 75.0,
+      "anios_escolaridad_esperados": 14.8,
+      "anios_escolaridad_promedio": 9.2,
+      "ingreso_nacional_bruto_per_capita_usd": 18985
+    },
+    "nivel_desarrollo": "Alto"
+  },
+  {
+    "pais": "Colombia",
+    "codigo_iso": "COL",
+    "idh": 0.755,
+    "componentes": {
+      "esperanza_vida_al_nacer": 73.0,
+      "anios_escolaridad_esperados": 14.7,
+      "anios_escolaridad_promedio": 8.7,
+      "ingreso_nacional_bruto_per_capita_usd": 15000
+    },
+    "nivel_desarrollo": "Alto"
+  }
+]

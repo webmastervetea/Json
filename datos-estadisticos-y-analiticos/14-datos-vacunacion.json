@@ -1,0 +1,54 @@
+[
+  {
+    "vacuna_nombre": "Vacuna contra la Influenza (Temporada 2025)",
+    "fecha_corte": "2025-11-28",
+    "cobertura_por_grupo": [
+      {
+        "grupo_edad": "Menores de 5 años",
+        "poblacion_estimada": 550000,
+        "dosis_1_porcentaje": 55.0,
+        "pauta_completa_porcentaje": 48.0,
+        "notas": "Foco en grupos de riesgo"
+      },
+      {
+        "grupo_edad": "5 a 17 años",
+        "poblacion_estimada": 1200000,
+        "dosis_1_porcentaje": 65.5,
+        "pauta_completa_porcentaje": 61.0,
+        "notas": "Se incluye programa escolar"
+      },
+      {
+        "grupo_edad": "18 a 64 años",
+        "poblacion_estimada": 6500000,
+        "dosis_1_porcentaje": 78.0,
+        "pauta_completa_porcentaje": 75.2,
+        "notas": "Población general activa"
+      },
+      {
+        "grupo_edad": "65 años o más",
+        "poblacion_estimada": 2100000,
+        "dosis_1_porcentaje": 92.5,
+        "pauta_completa_porcentaje": 90.1,
+        "notas": "Grupo prioritario, alta cobertura"
+      }
+    ]
+  },
+  {
+    "vacuna_nombre": "Vacuna X (Pauta de Refuerzo)",
+    "fecha_corte": "2025-11-28",
+    "cobertura_por_grupo": [
+      {
+        "grupo_edad": "18 a 64 años",
+        "poblacion_estimada": 6500000,
+        "dosis_refuerzo_porcentaje": 45.5,
+        "notas": "Baja adhesión al refuerzo"
+      },
+      {
+        "grupo_edad": "65 años o más",
+        "poblacion_estimada": 2100000,
+        "dosis_refuerzo_porcentaje": 78.9,
+        "notas": "Alto interés en grupos de mayor riesgo"
+      }
+    ]
+  }
+]

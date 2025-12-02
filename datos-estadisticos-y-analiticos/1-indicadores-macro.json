@@ -1,0 +1,74 @@
+[
+  {
+    "pais": "España",
+    "codigo_iso": "ESP",
+    "datos_anuales": [
+      {
+        "anio": 2023,
+        "pib_crecimiento_porcentaje": 2.5,
+        "inflacion_porcentaje": 3.4,
+        "desempleo_porcentaje": 12.1
+      },
+      {
+        "anio": 2024,
+        "pib_crecimiento_porcentaje": 1.8,
+        "inflacion_porcentaje": 2.2,
+        "desempleo_porcentaje": 11.5
+      },
+      {
+        "anio": 2025,
+        "pib_crecimiento_porcentaje": 2.0,
+        "inflacion_porcentaje": 2.0,
+        "desempleo_porcentaje": 11.0
+      }
+    ]
+  },
+  {
+    "pais": "México",
+    "codigo_iso": "MEX",
+    "datos_anuales": [
+      {
+        "anio": 2023,
+        "pib_crecimiento_porcentaje": 3.1,
+        "inflacion_porcentaje": 4.8,
+        "desempleo_porcentaje": 2.8
+      },
+      {
+        "anio": 2024,
+        "pib_crecimiento_porcentaje": 2.5,
+        "inflacion_porcentaje": 4.0,
+        "desempleo_porcentaje": 2.9
+      },
+      {
+        "anio": 2025,
+        "pib_crecimiento_porcentaje": 2.8,
+        "inflacion_porcentaje": 3.8,
+        "desempleo_porcentaje": 2.7
+      }
+    ]
+  },
+  {
+    "pais": "Argentina",
+    "codigo_iso": "ARG",
+    "datos_anuales": [
+      {
+        "anio": 2023,
+        "pib_crecimiento_porcentaje": -2.5,
+        "inflacion_porcentaje": 138.3,
+        "desempleo_porcentaje": 6.9
+      },
+      {
+        "anio": 2024,
+        "pib_crecimiento_porcentaje": 0.5,
+        "inflacion_porcentaje": 50.0,
+        "desempleo_porcentaje": 7.5
+      },
+      {
+        "anio": 2025,
+        "pib_crecimiento_porcentaje": 1.5,
+        "inflacion_porcentaje": 25.0,
+        "desempleo_porcentaje": 7.0
+      }
+    ]
+  }
+]

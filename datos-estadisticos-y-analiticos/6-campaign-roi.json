@@ -1,0 +1,52 @@
+[
+  {
+    "campana_id": "cmp_001_pago_q3",
+    "nombre_campana": "Campaña de Búsqueda Paga Q3 2025",
+    "canal": "Google Ads",
+    "periodo": "2025-07-01 a 2025-09-30",
+    "inversion_usd": 15000.00,
+    "ingresos_generados_usd": 45000.00,
+    "roi_porcentaje": 200.00,
+    "estado": "Finalizada"
+  },
+  {
+    "campana_id": "cmp_002_social_q4",
+    "nombre_campana": "Lanzamiento de Producto en Redes Sociales Q4",
+    "canal": "Meta Ads (Facebook/Instagram)",
+    "periodo": "2025-10-01 a 2025-12-31",
+    "inversion_usd": 8000.00,
+    "ingresos_generados_usd": 10000.00,
+    "roi_porcentaje": 25.00,
+    "estado": "En Curso"
+  },
+  {
+    "campana_id": "cmp_003_email_oct",
+    "nombre_campana": "Promoción Mensual por Email",
+    "canal": "Email Marketing",
+    "periodo": "2025-10-01 a 2025-10-31",
+    "inversion_usd": 500.00,
+    "ingresos_generados_usd": 3500.00,
+    "roi_porcentaje": 600.00,
+    "estado": "Finalizada"
+  },
+  {
+    "campana_id": "cmp_004_seo_anual",
+    "nombre_campana": "Optimización SEO (Inversión Anual)",
+    "canal": "SEO/Orgánico",
+    "periodo": "2025-01-01 a 2025-12-31",
+    "inversion_usd": 25000.00,
+    "ingresos_generados_usd": 150000.00,
+    "roi_porcentaje": 500.00,
+    "estado": "En Curso"
+  },
+  {
+    "campana_id": "cmp_005_influencer",
+    "nombre_campana": "Colaboración con Influencer [Nombre]",
+    "canal": "Marketing de Influencers",
+    "periodo": "2025-11-01 a 2025-11-30",
+    "inversion_usd": 4000.00,
+    "ingresos_generados_usd": 3000.00,
+    "roi_porcentaje": -25.00,
+    "estado": "Finalizada"
+  }
+]

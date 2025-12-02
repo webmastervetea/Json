@@ -1,0 +1,91 @@
+[
+  {
+    "eleccion_id": "elec_2024_nacional",
+    "tipo_eleccion": "Presidenciales",
+    "fecha": "2024-11-05",
+    "region_id": "reg_001_madrid",
+    "nombre_region": "Distrito Central de Madrid",
+    "resultados_por_partido": [
+      {
+        "partido_nombre": "Partido Democrático (PD)",
+        "siglas": "PD",
+        "votos_obtenidos": 155000,
+        "porcentaje": 48.5,
+        "ganador_local": true
+      },
+      {
+        "partido_nombre": "Alianza Social (AS)",
+        "siglas": "AS",
+        "votos_obtenidos": 105000,
+        "porcentaje": 33.0,
+        "ganador_local": false
+      },
+      {
+        "partido_nombre": "Verdes Progresistas (VP)",
+        "siglas": "VP",
+        "votos_obtenidos": 60000,
+        "porcentaje": 18.5,
+        "ganador_local": false
+      }
+    ],
+    "total_votos_validos": 320000,
+    "participacion_porcentaje": 75.2
+  },
+  {
+    "eleccion_id": "elec_2024_nacional",
+    "tipo_eleccion": "Presidenciales",
+    "fecha": "2024-11-05",
+    "region_id": "reg_002_barcelona",
+    "nombre_region": "Distrito Metropolitano de Barcelona",
+    "resultados_por_partido": [
+      {
+        "partido_nombre": "Alianza Social (AS)",
+        "siglas": "AS",
+        "votos_obtenidos": 205000,
+        "porcentaje": 55.0,
+        "ganador_local": true
+      },
+      {
+        "partido_nombre": "Partido Democrático (PD)",
+        "siglas": "PD",
+        "votos_obtenidos": 120000,
+        "porcentaje": 32.2,
+        "ganador_local": false
+      },
+      {
+        "partido_nombre": "Verdes Progresistas (VP)",
+        "siglas": "VP",
+        "votos_obtenidos": 47500,
+        "porcentaje": 12.8,
+        "ganador_local": false
+      }
+    ],
+    "total_votos_validos": 372500,
+    "participacion_porcentaje": 68.9
+  },
+  {
+    "eleccion_id": "elec_2023_local",
+    "tipo_eleccion": "Municipal",
+    "fecha": "2023-05-28",
+    "region_id": "reg_003_sevilla",
+    "nombre_region": "Barrio Triana, Sevilla",
+    "resultados_por_partido": [
+      {
+        "partido_nombre": "Alianza Social (AS)",
+        "siglas": "AS",
+        "votos_obtenidos": 8200,
+        "porcentaje": 65.1,
+        "ganador_local": true
+      },
+      {
+        "partido_nombre": "Partido Democrático (PD)",
+        "siglas": "PD",
+        "votos_obtenidos": 4400,
+        "porcentaje": 34.9,
+        "ganador_local": false
+      }
+    ],
+    "total_votos_validos": 12600,
+    "participacion_porcentaje": 62.1
+  }
+]

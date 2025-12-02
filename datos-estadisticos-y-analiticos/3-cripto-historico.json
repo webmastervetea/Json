@@ -1,0 +1,95 @@
+[
+  {
+    "criptomoneda": "Bitcoin",
+    "simbolo": "BTC",
+    "unidad": "USD",
+    "datos_diarios": [
+      {
+        "fecha": "2025-11-25",
+        "apertura": 70150.50,
+        "maximo": 70980.25,
+        "minimo": 69850.00,
+        "cierre": 70890.10,
+        "volumen_usd": 35400000000
+      },
+      {
+        "fecha": "2025-11-26",
+        "apertura": 70890.10,
+        "maximo": 71500.00,
+        "minimo": 70520.30,
+        "cierre": 71340.50,
+        "volumen_usd": 32800000000
+      },
+      {
+        "fecha": "2025-11-27",
+        "apertura": 71340.50,
+        "maximo": 71880.90,
+        "minimo": 71000.10,
+        "cierre": 71120.75,
+        "volumen_usd": 29900000000
+      }
+    ]
+  },
+  {
+    "criptomoneda": "Ethereum",
+    "simbolo": "ETH",
+    "unidad": "USD",
+    "datos_diarios": [
+      {
+        "fecha": "2025-11-25",
+        "apertura": 4500.80,
+        "maximo": 4560.00,
+        "minimo": 4480.15,
+        "cierre": 4555.90,
+        "volumen_usd": 15500000000
+      },
+      {
+        "fecha": "2025-11-26",
+        "apertura": 4555.90,
+        "maximo": 4610.50,
+        "minimo": 4530.00,
+        "cierre": 4580.10,
+        "volumen_usd": 14200000000
+      },
+      {
+        "fecha": "2025-11-27",
+        "apertura": 4580.10,
+        "maximo": 4650.75,
+        "minimo": 4575.50,
+        "cierre": 4635.40,
+        "volumen_usd": 13800000000
+      }
+    ]
+  },
+  {
+    "criptomoneda": "Solana",
+    "simbolo": "SOL",
+    "unidad": "USD",
+    "datos_diarios": [
+      {
+        "fecha": "2025-11-25",
+        "apertura": 120.20,
+        "maximo": 122.50,
+        "minimo": 119.50,
+        "cierre": 121.80,
+        "volumen_usd": 2800000000
+      },
+      {
+        "fecha": "2025-11-26",
+        "apertura": 121.80,
+        "maximo": 123.90,
+        "minimo": 121.00,
+        "cierre": 123.55,
+        "volumen_usd": 2550000000
+      },
+      {
+        "fecha": "2025-11-27",
+        "apertura": 123.55,
+        "maximo": 125.10,
+        "minimo": 122.90,
+        "cierre": 124.80,
+        "volumen_usd": 2300000000
+      }
+    ]
+  }
+]

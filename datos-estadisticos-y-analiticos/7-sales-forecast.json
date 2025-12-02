@@ -1,0 +1,76 @@
+[
+  {
+    "trimestre": "2026-Q1",
+    "fecha_inicio": "2026-01-01",
+    "proyecciones": [
+      {
+        "producto": "Software Suite Pro",
+        "canal": "Web Directa",
+        "unidades_proyectadas": 2500,
+        "ingresos_proyectados_usd": 750000.00,
+        "confianza_porcentaje": 90
+      },
+      {
+        "producto": "Servicio de Consultoría",
+        "canal": "Ventas Directas",
+        "unidades_proyectadas": 45,
+        "ingresos_proyectados_usd": 225000.00,
+        "confianza_porcentaje": 85
+      },
+      {
+        "producto": "Hardware Accesorio X",
+        "canal": "Distribuidores",
+        "unidades_proyectadas": 8000,
+        "ingresos_proyectados_usd": 160000.00,
+        "confianza_porcentaje": 70
+      }
+    ]
+  },
+  {
+    "trimestre": "2026-Q2",
+    "fecha_inicio": "2026-04-01",
+    "proyecciones": [
+      {
+        "producto": "Software Suite Pro",
+        "canal": "Web Directa",
+        "unidades_proyectadas": 2800,
+        "ingresos_proyectados_usd": 840000.00,
+        "confianza_porcentaje": 88
+      },
+      {
+        "producto": "Servicio de Consultoría",
+        "canal": "Ventas Directas",
+        "unidades_proyectadas": 50,
+        "ingresos_proyectados_usd": 250000.00,
+        "confianza_porcentaje": 80
+      },
+      {
+        "producto": "Hardware Accesorio X",
+        "canal": "Distribuidores",
+        "unidades_proyectadas": 9500,
+        "ingresos_proyectados_usd": 190000.00,
+        "confianza_porcentaje": 75
+      }
+    ]
+  },
+  {
+    "trimestre": "2026-Q3",
+    "fecha_inicio": "2026-07-01",
+    "proyecciones": [
+      {
+        "producto": "Software Suite Pro",
+        "canal": "Web Directa",
+        "unidades_proyectadas": 2600,
+        "ingresos_proyectados_usd": 780000.00,
+        "confianza_porcentaje": 85
+      },
+      {
+        "producto": "Nuevo Producto Z (Lanzamiento)",
+        "canal": "Web Directa",
+        "unidades_proyectadas": 1000,
+        "ingresos_proyectados_usd": 50000.00,
+        "confianza_porcentaje": 60
+      }
+    ]
+  }
+]

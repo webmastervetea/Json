@@ -1,0 +1,62 @@
+[
+  {
+    "enfermedad_nombre": "Infección Respiratoria Aguda (IRA)",
+    "codigo_cie": "J06.9",
+    "anio": 2025,
+    "region_id": "reg_norte_1",
+    "nombre_region": "Región Norte Metropolitana",
+    "datos_semanales": [
+      {
+        "semana_epidemiologica": 44,
+        "casos_nuevos": 125,
+        "tasa_incidencia": 8.5,
+        "casos_acumulados_anuales": 4500,
+        "tendencia": "Estable"
+      },
+      {
+        "semana_epidemiologica": 45,
+        "casos_nuevos": 150,
+        "tasa_incidencia": 10.2,
+        "casos_acumulados_anuales": 4650,
+        "tendencia": "Aumento Ligero"
+      },
+      {
+        "semana_epidemiologica": 46,
+        "casos_nuevos": 210,
+        "tasa_incidencia": 14.3,
+        "casos_acumulados_anuales": 4860,
+        "tendencia": "Aumento Significativo"
+      }
+    ]
+  },
+  {
+    "enfermedad_nombre": "Gastroenteritis Viral",
+    "codigo_cie": "A08.4",
+    "anio": 2025,
+    "region_id": "reg_sur_2",
+    "nombre_region": "Zona Costera Sur",
+    "datos_semanales": [
+      {
+        "semana_epidemiologica": 44,
+        "casos_nuevos": 45,
+        "tasa_incidencia": 5.1,
+        "casos_acumulados_anuales": 890,
+        "tendencia": "Estable"
+      },
+      {
+        "semana_epidemiologica": 45,
+        "casos_nuevos": 48,
+        "tasa_incidencia": 5.4,
+        "casos_acumulados_anuales": 938,
+        "tendencia": "Estable"
+      },
+      {
+        "semana_epidemiologica": 46,
+        "casos_nuevos": 35,
+        "tasa_incidencia": 4.0,
+        "casos_acumulados_anuales": 973,
+        "tendencia": "Disminución"
+      }
+    ]
+  }
+]

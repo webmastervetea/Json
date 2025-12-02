@@ -1,0 +1,94 @@
+[
+  {
+    "pais": "Estados Unidos",
+    "codigo_iso": "USA",
+    "sexo": "Ambos",
+    "definicion": "IMC ≥ 30 kg/m²",
+    "registros_historicos": [
+      {
+        "anio": 2010,
+        "tasa_obesidad_porcentaje": 34.0,
+        "fuente": "OMS/Estudio Nacional"
+      },
+      {
+        "anio": 2017,
+        "tasa_obesidad_porcentaje": 38.2,
+        "fuente": "OMS/NHANES"
+      },
+      {
+        "anio": 2022,
+        "tasa_obesidad_porcentaje": 41.9,
+        "fuente": "OMS/Proyección"
+      }
+    ]
+  },
+  {
+    "pais": "México",
+    "codigo_iso": "MEX",
+    "sexo": "Ambos",
+    "definicion": "IMC ≥ 30 kg/m²",
+    "registros_historicos": [
+      {
+        "anio": 2010,
+        "tasa_obesidad_porcentaje": 28.5,
+        "fuente": "OMS/ENSANUT"
+      },
+      {
+        "anio": 2017,
+        "tasa_obesidad_porcentaje": 33.3,
+        "fuente": "OMS/ENSANUT"
+      },
+      {
+        "anio": 2022,
+        "tasa_obesidad_porcentaje": 36.9,
+        "fuente": "OMS/Proyección"
+      }
+    ]
+  },
+  {
+    "pais": "España",
+    "codigo_iso": "ESP",
+    "sexo": "Ambos",
+    "definicion": "IMC ≥ 30 kg/m²",
+    "registros_historicos": [
+      {
+        "anio": 2010,
+        "tasa_obesidad_porcentaje": 19.5,
+        "fuente": "OMS/Estudio Nacional"
+      },
+      {
+        "anio": 2017,
+        "tasa_obesidad_porcentaje": 22.0,
+        "fuente": "OMS/Encuesta Europea"
+      },
+      {
+        "anio": 2022,
+        "tasa_obesidad_porcentaje": 24.5,
+        "fuente": "OMS/Proyección"
+      }
+    ]
+  },
+  {
+    "pais": "Japón",
+    "codigo_iso": "JPN",
+    "sexo": "Ambos",
+    "definicion": "IMC ≥ 30 kg/m²",
+    "registros_historicos": [
+      {
+        "anio": 2010,
+        "tasa_obesidad_porcentaje": 3.8,
+        "fuente": "OMS/Ministerio de Salud"
+      },
+      {
+        "anio": 2017,
+        "tasa_obesidad_porcentaje": 4.3,
+        "fuente": "OMS/Ministerio de Salud"
+      },
+      {
+        "anio": 2022,
+        "tasa_obesidad_porcentaje": 4.6,
+        "fuente": "OMS/Proyección"
+      }
+    ]
+  }
+]

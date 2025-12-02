@@ -1,0 +1,58 @@
+[
+  {
+    "ciudad": "Ciudad de México",
+    "pais": "México",
+    "fecha_registro": "2025-11-28T10:00:00Z",
+    "ica_principal": "Moderado",
+    "valor_ica": 85,
+    "concentraciones_ug_m3": {
+      "pm25": 30.5,
+      "pm10": 55.2,
+      "no2": 25.0,
+      "o3": 40.8
+    },
+    "contaminante_dominante": "PM2.5"
+  },
+  {
+    "ciudad": "Madrid",
+    "pais": "España",
+    "fecha_registro": "2025-11-28T10:00:00Z",
+    "ica_principal": "Bueno",
+    "valor_ica": 35,
+    "concentraciones_ug_m3": {
+      "pm25": 8.1,
+      "pm10": 15.0,
+      "no2": 45.3,
+      "o3": 20.1
+    },
+    "contaminante_dominante": "NO2"
+  },
+  {
+    "ciudad": "Buenos Aires",
+    "pais": "Argentina",
+    "fecha_registro": "2025-11-28T10:00:00Z",
+    "ica_principal": "Aceptable",
+    "valor_ica": 62,
+    "concentraciones_ug_m3": {
+      "pm25": 16.0,
+      "pm10": 28.5,
+      "no2": 18.2,
+      "o3": 55.9
+    },
+    "contaminante_dominante": "O3"
+  },
+  {
+    "ciudad": "Bogotá",
+    "pais": "Colombia",
+    "fecha_registro": "2025-11-28T10:00:00Z",
+    "ica_principal": "Peligroso para Grupos Sensibles",
+    "valor_ica": 125,
+    "concentraciones_ug_m3": {
+      "pm25": 45.8,
+      "pm10": 85.0,
+      "no2": 30.1,
+      "o3": 32.5
+    },
+    "contaminante_dominante": "PM2.5"
+  }
+]

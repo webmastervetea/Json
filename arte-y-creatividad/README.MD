@@ -1,7 +1,7 @@
 # Json
 Este repositorio es una colección organizada de pequeñas archivos en formato .json que pueden ser utilizados por programadores en sus desarrollos.
 [[Soporte](https://www.linkedin.com/in/oscarlizarragag/)]
-## Arte y Creatividad [[Más categorías](https://github.com/webmastervetea/Json/blob/main/CATEGORIAS.md)]
+## Arte y Creatividad [[Más categorías](https://github.com/webmastervetea/Json/blob/main/CATEGORIAS.md)] [[web](https://github.com/webmastervetea/Json/tree/main/arte-y-creatividad/web)]
 
 * [[1](https://github.com/webmastervetea/Json/blob/main/arte-y-creatividad/1-paletas-colores.json)] Colecciones de códigos de colores (HEX/RGB) para diseño.
 * [[2](https://github.com/webmastervetea/Json/blob/main/arte-y-creatividad/2-tipografias-web.json)] Lista de fuentes con sus URLs y pesos (weights).

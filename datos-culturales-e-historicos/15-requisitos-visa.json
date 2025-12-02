@@ -1,0 +1,51 @@
+{
+  "documentos_viaje_clave": [
+    {
+      "destino_ejemplo": "Países del Espacio Schengen (Europa)",
+      "requisitos_para_turismo": [
+        "Pasaporte vigente (validez mínima de 3 meses después de la fecha prevista de salida).",
+        "Visado Schengen (si tu nacionalidad lo requiere).",
+        "Prueba de medios económicos suficientes (demostrar solvencia para la estancia).",
+        "Seguro médico de viaje con cobertura mínima de 30.000 € (requisito obligatorio para el visado).",
+        "Boleto de ida y vuelta o de continuación (prueba de salida de la zona Schengen)."
+      ],
+      "nota": "Para ciudadanos de países con exención de visado (como la mayoría de países latinoamericanos y España), el visado no es necesario para estancias cortas, pero los demás requisitos sí aplican."
+    },
+    {
+      "destino_ejemplo": "Estados Unidos (EE. UU.)",
+      "requisitos_para_turismo": [
+        "Pasaporte biométrico vigente.",
+        "Visado B-2 de Turismo (si tu nacionalidad lo requiere) o ESTA (si calificas para el Programa de Exención de Visado, como ciudadanos españoles o chilenos).",
+        "Prueba de intención de volver a tu país de origen (vínculos familiares, laborales, etc.).",
+        "Reserva de alojamiento."
+      ],
+      "nota": "El proceso de obtención del visado B-2 requiere una entrevista en la embajada."
+    },
+    {
+      "destino_ejemplo": "Reino Unido (Fuera de la UE)",
+      "requisitos_para_turismo": [
+        "Pasaporte vigente.",
+        "Autorización Electrónica de Viaje (ETA) o Visado (dependiendo de la nacionalidad).",
+        "Prueba de fondos suficientes.",
+        "Boleto de salida del país."
+      ]
+    },
+    {
+      "destino_ejemplo": "Países de la CAN (Comunidad Andina de Naciones)",
+      "requisitos_para_turismo": [
+        "Cédula de Identidad (DNI) o Pasaporte vigente.",
+        "No se requiere pasaporte para ciudadanos de Bolivia, Colombia, Ecuador y Perú para viajar entre sí."
+      ],
+      "nota": "Aplica a ciudadanos de países miembros para viajes de turismo y migración laboral."
+    },
+    {
+      "destino_ejemplo": "Generalidades (Requisito universal)",
+      "requisitos_para_turismo": [
+        "Pasaporte (siempre necesario fuera de uniones aduaneras).",
+        "Seguro de viaje (muy recomendado, a menudo obligatorio).",
+        "Prueba de alojamiento (confirmación de reserva de hotel o carta de invitación)."
+      ]
+    }
+  ],
+  "advertencia": "Consulta siempre la web oficial del gobierno o consulado del país de destino antes de viajar, ya que los requisitos cambian frecuentemente."
+}

@@ -1,0 +1,47 @@
+{
+  "liga_nombre": "Liga Suprema de Fútbol",
+  "temporada": "2026",
+  "calendario_ejemplo": [
+    {
+      "jornada": 1,
+      "fecha": "2026-09-07",
+      "partidos": [
+        {"equipo_local": "Atlético Central", "equipo_visitante": "Deportivo Oriente"},
+        {"equipo_local": "Club América", "equipo_visitante": "Unión del Sur"},
+        {"equipo_local": "Rayo Dorado", "equipo_visitante": "Titanes FC"},
+        {"equipo_local": "Porteños CF", "equipo_visitante": "Estrella Roja"}
+      ]
+    },
+    {
+      "jornada": 2,
+      "fecha": "2026-09-14",
+      "partidos": [
+        {"equipo_local": "Titanes FC", "equipo_visitante": "Atlético Central"},
+        {"equipo_local": "Deportivo Oriente", "equipo_visitante": "Club América"},
+        {"equipo_local": "Estrella Roja", "equipo_visitante": "Rayo Dorado"},
+        {"equipo_local": "Unión del Sur", "equipo_visitante": "Porteños CF"}
+      ]
+    },
+    {
+      "jornada": 3,
+      "fecha": "2026-09-21",
+      "partidos": [
+        {"equipo_local": "Atlético Central", "equipo_visitante": "Estrella Roja"},
+        {"equipo_local": "Club América", "equipo_visitante": "Titanes FC"},
+        {"equipo_local": "Rayo Dorado", "equipo_visitante": "Unión del Sur"},
+        {"equipo_local": "Porteños CF", "equipo_visitante": "Deportivo Oriente"}
+      ]
+    },
+    {
+      "jornada": 4,
+      "fecha": "2026-09-28",
+      "partidos": [
+        {"equipo_local": "Unión del Sur", "equipo_visitante": "Atlético Central"},
+        {"equipo_local": "Titanes FC", "equipo_visitante": "Porteños CF"},
+        {"equipo_local": "Deportivo Oriente", "equipo_visitante": "Rayo Dorado"},
+        {"equipo_local": "Estrella Roja", "equipo_visitante": "Club América"}
+      ]
+    }
+    // ... Las jornadas restantes seguirían este mismo patrón
+  ]
+}

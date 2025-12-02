@@ -1,0 +1,65 @@
+{
+  "estadisticas_jugadores": [
+    {
+      "nombre_jugador": "Lionel Messi",
+      "posicion": "Delantero",
+      "equipo_actual": "Inter Miami CF",
+      "historial_temporadas": [
+        {
+          "temporada": "2022/2023",
+          "liga": "Ligue 1",
+          "goles": 16,
+          "asistencias": 16,
+          "tarjetas_amarillas": 3,
+          "tarjetas_rojas": 0
+        },
+        {
+          "temporada": "2021/2022",
+          "liga": "Ligue 1",
+          "goles": 6,
+          "asistencias": 14,
+          "tarjetas_amarillas": 0,
+          "tarjetas_rojas": 0
+        }
+      ]
+    },
+    {
+      "nombre_jugador": "Karim Benzema",
+      "posicion": "Delantero",
+      "equipo_actual": "Al-Ittihad Club",
+      "historial_temporadas": [
+        {
+          "temporada": "2022/2023",
+          "liga": "La Liga",
+          "goles": 19,
+          "asistencias": 3,
+          "tarjetas_amarillas": 4,
+          "tarjetas_rojas": 0
+        },
+        {
+          "temporada": "2021/2022",
+          "liga": "La Liga",
+          "goles": 27,
+          "asistencias": 12,
+          "tarjetas_amarillas": 1,
+          "tarjetas_rojas": 0
+        }
+      ]
+    },
+    {
+      "nombre_jugador": "Kevin De Bruyne",
+      "posicion": "Mediocampista",
+      "equipo_actual": "Manchester City",
+      "historial_temporadas": [
+        {
+          "temporada": "2023/2024",
+          "liga": "Premier League",
+          "goles": 6,
+          "asistencias": 18,
+          "tarjetas_amarillas": 2,
+          "tarjetas_rojas": 0
+        }
+      ]
+    }
+  ]
+}

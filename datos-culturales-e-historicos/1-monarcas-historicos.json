@@ -1,0 +1,104 @@
+{
+  "reyes_espana": [
+    {
+      "nombre": "Isabel I de Castilla y Fernando II de Aragón (Reyes Católicos)",
+      "periodo_reinado": "1474-1504 (Isabel I) / 1474-1516 (Fernando II)",
+      "dinastia": "Trastámara"
+    },
+    {
+      "nombre": "Juana I de Castilla y Felipe I (El Hermoso)",
+      "periodo_reinado": "1504-1555 (Juana I) / 1504-1506 (Felipe I)",
+      "dinastia": "Trastámara/Austria (Habsburgo)"
+    },
+    {
+      "nombre": "Carlos I (V de Alemania)",
+      "periodo_reinado": "1516-1556",
+      "dinastia": "Austria (Habsburgo)"
+    },
+    {
+      "nombre": "Felipe II",
+      "periodo_reinado": "1556-1598",
+      "dinastia": "Austria (Habsburgo)"
+    },
+    {
+      "nombre": "Felipe III",
+      "periodo_reinado": "1598-1621",
+      "dinastia": "Austria (Habsburgo)"
+    },
+    {
+      "nombre": "Felipe IV",
+      "periodo_reinado": "1621-1665",
+      "dinastia": "Austria (Habsburgo)"
+    },
+    {
+      "nombre": "Carlos II",
+      "periodo_reinado": "1665-1700",
+      "dinastia": "Austria (Habsburgo)"
+    },
+    {
+      "nombre": "Felipe V",
+      "periodo_reinado": "1700-1724 y 1724-1746",
+      "dinastia": "Borbón"
+    },
+    {
+      "nombre": "Luis I",
+      "periodo_reinado": "1724",
+      "dinastia": "Borbón"
+    },
+    {
+      "nombre": "Fernando VI",
+      "periodo_reinado": "1746-1759",
+      "dinastia": "Borbón"
+    },
+    {
+      "nombre": "Carlos III",
+      "periodo_reinado": "1759-1788",
+      "dinastia": "Borbón"
+    },
+    {
+      "nombre": "Carlos IV",
+      "periodo_reinado": "1788-1808",
+      "dinastia": "Borbón"
+    },
+    {
+      "nombre": "Fernando VII",
+      "periodo_reinado": "1808 y 1814-1833",
+      "dinastia": "Borbón"
+    },
+    {
+      "nombre": "José I (Bonaparte)",
+      "periodo_reinado": "1808-1813",
+      "dinastia": "Bonaparte (Intruso)"
+    },
+    {
+      "nombre": "Isabel II",
+      "periodo_reinado": "1833-1868",
+      "dinastia": "Borbón"
+    },
+    {
+      "nombre": "Amadeo I",
+      "periodo_reinado": "1871-1873",
+      "dinastia": "Saboya"
+    },
+    {
+      "nombre": "Alfonso XII",
+      "periodo_reinado": "1875-1885",
+      "dinastia": "Borbón"
+    },
+    {
+      "nombre": "Alfonso XIII",
+      "periodo_reinado": "1886-1931",
+      "dinastia": "Borbón"
+    },
+    {
+      "nombre": "Juan Carlos I",
+      "periodo_reinado": "1975-2014",
+      "dinastia": "Borbón"
+    },
+    {
+      "nombre": "Felipe VI",
+      "periodo_reinado": "2014-presente",
+      "dinastia": "Borbón"
+    }
+  ]
+}

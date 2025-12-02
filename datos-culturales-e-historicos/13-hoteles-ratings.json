@@ -1,0 +1,74 @@
+{
+  "datos_hoteles_ejemplo": [
+    {
+      "ciudad": "Nueva York",
+      "hoteles": [
+        {
+          "nombre_hotel": "The Plaza Hotel",
+          "puntuacion_usuario": 4.5,
+          "clase_hotel": "5 estrellas",
+          "servicios_principales": [
+            "Servicio de habitaciones 24h",
+            "Spa y centro de bienestar",
+            "Conserjería",
+            "Restaurante gourmet",
+            "Aparcamiento de pago"
+          ]
+        },
+        {
+          "nombre_hotel": "The Jane Hotel",
+          "puntuacion_usuario": 4.1,
+          "clase_hotel": "3 estrellas",
+          "servicios_principales": [
+            "Wi-Fi gratis",
+            "Bar/Lounge",
+            "Habitaciones pequeñas y funcionales"
+          ]
+        }
+      ]
+    },
+    {
+      "ciudad": "París",
+      "hoteles": [
+        {
+          "nombre_hotel": "Hotel du Louvre",
+          "puntuacion_usuario": 4.7,
+          "clase_hotel": "5 estrellas",
+          "servicios_principales": [
+            "Ubicación céntrica (junto al Louvre)",
+            "Restaurante con terraza",
+            "Gimnasio",
+            "Admite mascotas"
+          ]
+        },
+        {
+          "nombre_hotel": "CitizenM Paris Gare de Lyon",
+          "puntuacion_usuario": 4.4,
+          "clase_hotel": "4 estrellas",
+          "servicios_principales": [
+            "Check-in automático",
+            "Habitaciones con control por tablet",
+            "Wi-Fi de alta velocidad gratis",
+            "Bar 24 horas"
+          ]
+        }
+      ]
+    },
+    {
+      "ciudad": "Tokio",
+      "hoteles": [
+        {
+          "nombre_hotel": "Park Hyatt Tokyo",
+          "puntuacion_usuario": 4.6,
+          "clase_hotel": "5 estrellas",
+          "servicios_principales": [
+            "Piscina interior",
+            "Vistas panorámicas a la ciudad",
+            "Varios restaurantes y bares",
+            "Servicio de lavandería"
+          ]
+        }
+      ]
+    }
+  ]
+}

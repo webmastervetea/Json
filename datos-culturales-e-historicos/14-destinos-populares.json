@@ -1,0 +1,52 @@
+{
+  "ciudades_turisticas_clave": [
+    {
+      "ciudad": "París, Francia",
+      "meses_pico": "Mayo, Junio, Septiembre",
+      "presupuesto_diario_promedio_usd": 250,
+      "notas": "El presupuesto incluye alojamiento de gama media, 2 comidas y transporte."
+    },
+    {
+      "ciudad": "Nueva York, EE. UU.",
+      "meses_pico": "Junio, Diciembre (vacaciones), Septiembre-Octubre",
+      "presupuesto_diario_promedio_usd": 350,
+      "notas": "Alojamiento y comidas son significativamente altos."
+    },
+    {
+      "ciudad": "Tokio, Japón",
+      "meses_pico": "Marzo-Abril (floración de cerezo), Octubre-Noviembre (otoño)",
+      "presupuesto_diario_promedio_usd": 200,
+      "notas": "Alojamiento en hoteles tipo negocio/cápsula puede ser más económico. El transporte es eficiente."
+    },
+    {
+      "ciudad": "Roma, Italia",
+      "meses_pico": "Abril, Mayo, Septiembre",
+      "presupuesto_diario_promedio_usd": 180,
+      "notas": "Los costes varían mucho entre las zonas turísticas y las áreas locales."
+    },
+    {
+      "ciudad": "Londres, Reino Unido",
+      "meses_pico": "Junio, Julio, Agosto, Diciembre (Navidad)",
+      "presupuesto_diario_promedio_usd": 300,
+      "notas": "Similar a Nueva York, alto coste de alojamiento y transporte."
+    },
+    {
+      "ciudad": "Ciudad de México, México",
+      "meses_pico": "Diciembre, Marzo-Abril (Semana Santa)",
+      "presupuesto_diario_promedio_usd": 100,
+      "notas": "Excelente relación calidad-precio. El presupuesto es más bajo que en capitales europeas."
+    },
+    {
+      "ciudad": "Sídney, Australia",
+      "meses_pico": "Diciembre, Enero, Febrero (Verano austral)",
+      "presupuesto_diario_promedio_usd": 220,
+      "notas": "El alojamiento puede ser caro, especialmente cerca de la costa."
+    },
+    {
+      "ciudad": "Bangkok, Tailandia",
+      "meses_pico": "Noviembre - Febrero (Clima más fresco y seco)",
+      "presupuesto_diario_promedio_usd": 80,
+      "notas": "Uno de los destinos más asequibles. El alojamiento y la comida local son baratos."
+    }
+  ]
+}

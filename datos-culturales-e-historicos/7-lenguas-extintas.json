@@ -1,0 +1,54 @@
+{
+  "idiomas_extintos_significativos": [
+    {
+      "nombre": "Latín Vulgar",
+      "familia": "Indoeuropea (Itálica)",
+      "zona_donde_se_hablaba": "Imperio Romano (principalmente las provincias occidentales). Evolucionó a las lenguas romances."
+    },
+    {
+      "nombre": "Prusiano Antiguo",
+      "familia": "Indoeuropea (Báltica Occidental)",
+      "zona_donde_se_hablaba": "Prusia Oriental (actual Polonia y Lituania). Extinto en el siglo XVIII."
+    },
+    {
+      "nombre": "Hitita",
+      "familia": "Indoeuropea (Anatolia)",
+      "zona_donde_se_hablaba": "Anatolia (actual Turquía). Lengua principal del Imperio Hitita."
+    },
+    {
+      "nombre": "Gótico",
+      "familia": "Indoeuropea (Germánica Oriental)",
+      "zona_donde_se_hablaba": "Europa Oriental y Central. La última variante se extinguió en Crimea en el siglo XVIII."
+    },
+    {
+      "nombre": "Acadio",
+      "familia": "Afroasiática (Semítica)",
+      "zona_donde_se_hablaba": "Mesopotamia (actual Irak). Lengua de los imperios Asirio y Babilónico."
+    },
+    {
+      "nombre": "Maya Clásico (Ch'olanoide)",
+      "familia": "Maya",
+      "zona_donde_se_hablaba": "Tierras bajas mayas (Guatemala, Belice y sureste de México). La lengua de las inscripciones monumentales mayas."
+    },
+    {
+      "nombre": "Celta de Cornualles (Córnico)",
+      "familia": "Indoeuropea (Celta Insular)",
+      "zona_donde_se_hablaba": "Cornualles, Reino Unido. Se considera revivido en cierto grado, pero históricamente extinto como lengua viva en el siglo XVIII."
+    },
+    {
+      "nombre": "Dalmacio",
+      "familia": "Indoeuropea (Romance Oriental)",
+      "zona_donde_se_hablaba": "Costa dálmata de Croacia (en particular, la isla de Krk). El último hablante murió en 1898."
+    },
+    {
+      "nombre": "Taino",
+      "familia": "Arawak",
+      "zona_donde_se_hablaba": "Islas del Caribe (Antillas Mayores: Cuba, La Española, Puerto Rico, Jamaica). Desapareció tras la colonización europea."
+    },
+    {
+      "nombre": "Etrusco",
+      "familia": "Aislada (no indoeuropea)",
+      "zona_donde_se_hablaba": "Etruria (actual Toscana, Italia). Precedió a la expansión del latín."
+    }
+  ]
+}

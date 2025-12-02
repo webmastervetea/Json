@@ -1,0 +1,76 @@
+{
+  "deidades_clave": [
+    {
+      "nombre": "Zeus (Júpiter)",
+      "dominio": "Dios del cielo, el trueno, el rayo y rey de los dioses.",
+      "mitos_asociados": [
+        "Derrocó a su padre, Cronos, para liberar a sus hermanos y convertirse en el rey del Olimpo.",
+        "Sus numerosas aventuras amorosas con mortales y diosas, resultando en muchos héroes (como Heracles/Hércules)."
+      ]
+    },
+    {
+      "nombre": "Hera (Juno)",
+      "dominio": "Diosa del matrimonio, la mujer, la familia y protectora de las reinas.",
+      "mitos_asociados": [
+        "Sus celos y la venganza contra las amantes de Zeus y los hijos bastardos de este.",
+        "Su papel como rival de Heracles (Hércules)."
+      ]
+    },
+    {
+      "nombre": "Poseidón (Neptuno)",
+      "dominio": "Dios de los mares, los terremotos y los caballos.",
+      "mitos_asociados": [
+        "La creación de la isla de Creta con su tridente.",
+        "Su disputa con Atenea por la patronía de Atenas."
+      ]
+    },
+    {
+      "nombre": "Atenea (Minerva)",
+      "dominio": "Diosa de la sabiduría, la guerra estratégica, la artesanía y protectora de la ciudad de Atenas.",
+      "mitos_asociados": [
+        "Su nacimiento de la cabeza de Zeus, completamente armada.",
+        "Ayudó a muchos héroes, incluido Odiseo (Ulises)."
+      ]
+    },
+    {
+      "nombre": "Apolo (Febo)",
+      "dominio": "Dios del sol, la música, la profecía, la poesía y la arquería.",
+      "mitos_asociados": [
+        "Su santuario en Delfos, donde su oráculo emitía profecías.",
+        "Su rol como líder de las Musas."
+      ]
+    },
+    {
+      "nombre": "Afrodita (Venus)",
+      "dominio": "Diosa del amor, la belleza, la pasión y la fertilidad.",
+      "mitos_asociados": [
+        "Su nacimiento de la espuma del mar (según una versión del mito).",
+        "Su amor por Adonis y su papel en el inicio de la Guerra de Troya (a través del Juicio de Paris)."
+      ]
+    },
+    {
+      "nombre": "Odín",
+      "dominio": "Dios principal nórdico: de la sabiduría, la guerra, la muerte, la poesía y la magia (Seidr).",
+      "mitos_asociados": [
+        "Sacrificó su ojo para beber de la fuente de la sabiduría (Mímisbrunnr).",
+        "Colgó de Yggdrasil (el Árbol del Mundo) durante nueve días para descubrir las runas."
+      ]
+    },
+    {
+      "nombre": "Thor",
+      "dominio": "Dios del trueno, la fuerza, la protección de la humanidad (Midgard) y la fertilidad.",
+      "mitos_asociados": [
+        "La posesión de Mjölnir (su martillo) y sus constantes batallas contra los Jötun (gigantes).",
+        "Su enfrentamiento final con Jörmungandr (la Serpiente del Mundo) durante el Ragnarök."
+      ]
+    },
+    {
+      "nombre": "Loki",
+      "dominio": "Dios embaucador (trickster), del engaño y el caos.",
+      "mitos_asociados": [
+        "Padre de criaturas monstruosas como Fenrir y Jörmungandr.",
+        "El asesinato de Balder, que condujo a su castigo y eventual liberación para liderar la batalla contra los dioses en el Ragnarök."
+      ]
+    }
+  ]
+}

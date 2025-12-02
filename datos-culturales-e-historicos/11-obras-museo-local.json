@@ -1,0 +1,54 @@
+{
+  "obras_maestras_iconicas": [
+    {
+      "titulo": "La Gioconda (Mona Lisa)",
+      "autor": "Leonardo da Vinci",
+      "sala_exposicion": "Sala 711, Museo del Louvre, París (Francia)"
+    },
+    {
+      "titulo": "La Noche Estrellada",
+      "autor": "Vincent van Gogh",
+      "sala_exposicion": "Museo de Arte Moderno (MoMA), Nueva York (EE. UU.)"
+    },
+    {
+      "titulo": "La Creación de Adán (fresco)",
+      "autor": "Miguel Ángel",
+      "sala_exposicion": "Capilla Sixtina, Museos Vaticanos, Ciudad del Vaticano (Italia)"
+    },
+    {
+      "titulo": "El Grito",
+      "autor": "Edvard Munch",
+      "sala_exposicion": "Galería Nacional u/o Museo Munch, Oslo (Noruega)"
+    },
+    {
+      "titulo": "Las Meninas",
+      "autor": "Diego Velázquez",
+      "sala_exposicion": "Sala 12, Museo Nacional del Prado, Madrid (España)"
+    },
+    {
+      "titulo": "La Última Cena (fresco)",
+      "autor": "Leonardo da Vinci",
+      "sala_exposicion": "Convento de Santa Maria delle Grazie, Milán (Italia)"
+    },
+    {
+      "titulo": "Guernica",
+      "autor": "Pablo Picasso",
+      "sala_exposicion": "Sala 206, Museo Nacional Centro de Arte Reina Sofía, Madrid (España)"
+    },
+    {
+      "titulo": "El Beso",
+      "autor": "Gustav Klimt",
+      "sala_exposicion": "Galería Belvedere, Viena (Austria)"
+    },
+    {
+      "titulo": "La Ronda de Noche",
+      "autor": "Rembrandt van Rijn",
+      "sala_exposicion": "Rijksmuseum, Ámsterdam (Países Bajos)"
+    },
+    {
+      "titulo": "La Venus de Milo (escultura)",
+      "autor": "Atribuido a Alexandros de Antioquía",
+      "sala_exposicion": "Museo del Louvre, París (Francia)"
+    }
+  ]
+}

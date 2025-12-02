@@ -1,0 +1,84 @@
+{
+  "movimientos_artisticos": [
+    {
+      "nombre": "Impresionismo",
+      "periodo": "c. 1870 – 1890",
+      "caracteristicas": [
+        "Énfasis en la captura del instante y la luz (impresión visual).",
+        "Pinceladas sueltas, visibles y rápidas.",
+        "Temas cotidianos, paisajes, vida urbana y al aire libre (plein air).",
+        "Uso de colores puros y yuxtapuestos, sin mezcla previa, para lograr mayor luminosidad."
+      ],
+      "artistas_destacados": [
+        "Claude Monet",
+        "Pierre-Auguste Renoir",
+        "Edgar Degas",
+        "Camille Pissarro",
+        "Berthe Morisot"
+      ]
+    },
+    {
+      "nombre": "Postimpresionismo",
+      "periodo": "c. 1886 – 1905",
+      "caracteristicas": [
+        "Reacción al énfasis puramente visual del Impresionismo.",
+        "Búsqueda de la estructura, la forma, la emoción y la subjetividad.",
+        "Experimentación con la línea, el color simbólico y la técnica (puntillismo, cloisonismo)."
+      ],
+      "artistas_destacados": [
+        "Paul Cézanne",
+        "Vincent van Gogh",
+        "Paul Gauguin",
+        "Georges Seurat",
+        "Henri de Toulouse-Lautrec"
+      ]
+    },
+    {
+      "nombre": "Cubismo",
+      "periodo": "c. 1907 – 1914",
+      "caracteristicas": [
+        "Revolución en la representación espacial, abandonando la perspectiva tradicional.",
+        "Descomposición de la figura en formas geométricas y múltiples puntos de vista simultáneos.",
+        "Fase Analítica (monocromática y fragmentada) y Fase Sintética (introducción de color y collages)."
+      ],
+      "artistas_destacados": [
+        "Pablo Picasso",
+        "Georges Braque",
+        "Juan Gris",
+        "Fernand Léger"
+      ]
+    },
+    {
+      "nombre": "Surrealismo",
+      "periodo": "c. 1924 – 1966",
+      "caracteristicas": [
+        "Exploración del subconsciente, los sueños y lo irracional, influenciado por el psicoanálisis de Freud.",
+        "Uso de yuxtaposiciones ilógicas, automatismo psíquico y técnicas de choque visual.",
+        "Dos vertientes: figurativa (representación detallada de mundos oníricos) y abstracta (automatismo)."
+      ],
+      "artistas_destacados": [
+        "Salvador Dalí",
+        "René Magritte",
+        "Joan Miró",
+        "Max Ernst",
+        "Frida Kahlo (a menudo asociada)"
+      ]
+    },
+    {
+      "nombre": "Expresionismo Abstracto",
+      "periodo": "c. 1940s – 1950s (Escuela de Nueva York)",
+      "caracteristicas": [
+        "Primer movimiento artístico dominante de EE. UU.",
+        "Énfasis en la expresión emocional espontánea del artista y en el proceso de creación.",
+        "Dos ramas: 'Action Painting' (pintura gestual y energética) y 'Color Field' (grandes campos de color plano y contemplativo)."
+      ],
+      "artistas_destacados": [
+        "Jackson Pollock",
+        "Mark Rothko",
+        "Willem de Kooning",
+        "Barnett Newman",
+        "Franz Kline"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "patrimonio_de_la_humanidad_seleccion": [
+    {
+      "nombre": "Gran Muralla",
+      "pais": "China",
+      "año_inscripcion": 1987
+    },
+    {
+      "nombre": "Pirámides de Giza",
+      "pais": "Egipto",
+      "año_inscripcion": 1979
+    },
+    {
+      "nombre": "Taj Mahal",
+      "pais": "India",
+      "año_inscripcion": 1983
+    },
+    {
+      "nombre": "Centro Histórico de Roma",
+      "pais": "Italia",
+      "año_inscripcion": 1980
+    },
+    {
+      "nombre": "Acrópolis de Atenas",
+      "pais": "Grecia",
+      "año_inscripcion": 1987
+    },
+    {
+      "nombre": "Machu Picchu",
+      "pais": "Perú",
+      "año_inscripcion": 1983
+    },
+    {
+      "nombre": "Parque Nacional del Gran Cañón",
+      "pais": "Estados Unidos",
+      "año_inscripcion": 1979
+    },
+    {
+      "nombre": "Palacio y Parque de Versalles",
+      "pais": "Francia",
+      "año_inscripcion": 1979
+    },
+    {
+      "nombre": "Catedral de Notre Dame (París)",
+      "pais": "Francia",
+      "año_inscripcion": 1991
+    },
+    {
+      "nombre": "Alhambra, Generalife y Albaicín (Granada)",
+      "pais": "España",
+      "año_inscripcion": 1984
+    },
+    {
+      "nombre": "Parque Nacional Serengeti",
+      "pais": "Tanzania",
+      "año_inscripcion": 1981
+    },
+    {
+      "nombre": "Sitio Histórico Nacional de Rapa Nui (Isla de Pascua)",
+      "pais": "Chile",
+      "año_inscripcion": 1995
+    },
+    {
+      "nombre": "Ciudad Histórica de Cuzco",
+      "pais": "Perú",
+      "año_inscripcion": 1983
+    },
+    {
+      "nombre": "Sitio Arqueológico de Chichén Itzá",
+      "pais": "México",
+      "año_inscripcion": 1988
+    },
+    {
+      "nombre": "Parque Nacional Galápagos",
+      "pais": "Ecuador",
+      "año_inscripcion": 1978
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "festividades_globales": [
+    {
+      "mes": "Enero",
+      "festividades": [
+        {"nombre": "Año Nuevo (Global)", "pais": "Global", "descripcion": "Celebración universal del inicio del calendario."},
+        {"nombre": "Día de Reyes / Epifanía", "pais": "España, México y otros países hispanos", "descripcion": "Celebración de la llegada de los Reyes Magos."},
+        {"nombre": "Festival de la Nieve de Sapporo", "pais": "Japón", "descripcion": "Famoso festival de esculturas de hielo y nieve."}
+      ]
+    },
+    {
+      "mes": "Febrero",
+      "festividades": [
+        {"nombre": "Carnaval de Río de Janeiro", "pais": "Brasil", "descripcion": "Uno de los carnavales más grandes y famosos del mundo."},
+        {"nombre": "Año Nuevo Lunar (Chino)", "pais": "China, Vietnam, Corea y otros países asiáticos", "descripcion": "Marca el comienzo del nuevo año en el calendario lunar."},
+        {"nombre": "Mardi Gras", "pais": "EE. UU. (Nueva Orleans)", "descripcion": "Desfiles y celebraciones antes del Miércoles de Ceniza."}
+      ]
+    },
+    {
+      "mes": "Marzo",
+      "festividades": [
+        {"nombre": "Las Fallas", "pais": "España (Valencia)", "descripcion": "Quema de grandes figuras (fallas) de cartón y madera."},
+        {"nombre": "Día de San Patricio", "pais": "Irlanda, EE. UU. y Global", "descripcion": "Celebración de la herencia y cultura irlandesas."},
+        {"nombre": "Holi (Festival de los Colores)", "pais": "India, Nepal", "descripcion": "Festival hindú que celebra el inicio de la primavera."}
+      ]
+    },
+    {
+      "mes": "Abril",
+      "festividades": [
+        {"nombre": "Pascua (Fechas Variables)", "pais": "Global (Cristiana)", "descripcion": "Conmemoración de la resurrección de Jesucristo."},
+        {"nombre": "Día de la Independencia (King's Day)", "pais": "Países Bajos", "descripcion": "Celebración del nacimiento del Rey."},
+        {"nombre": "Songkran (Año Nuevo Tailandés)", "pais": "Tailandia", "descripcion": "Festival de agua que marca el Año Nuevo."}
+      ]
+    },
+    {
+      "mes": "Mayo",
+      "festividades": [
+        {"nombre": "Cinco de Mayo", "pais": "México, EE. UU.", "descripcion": "Conmemoración de la Batalla de Puebla."},
+        {"nombre": "Día del Trabajador (Primero de Mayo)", "pais": "Global (excepto EE. UU. y Canadá)", "descripcion": "Reivindicación de los derechos laborales."},
+        {"nombre": "Festival de Cannes", "pais": "Francia", "descripcion": "Famoso festival de cine."}
+      ]
+    },
+    {
+      "mes": "Junio",
+      "festividades": [
+        {"nombre": "Fiesta de San Juan", "pais": "España, Latinoamérica", "descripcion": "Celebración del solsticio de verano con hogueras."},
+        {"nombre": "Día Nacional (Día de Portugal)", "pais": "Portugal", "descripcion": "Día de la muerte de Luís de Camões."},
+        {"nombre": "Solsticio de Verano (Midsommar)", "pais": "Suecia y países nórdicos", "descripcion": "Celebración de la noche más corta del año."}
+      ]
+    },
+    {
+      "mes": "Julio",
+      "festividades": [
+        {"nombre": "Día de la Bastilla", "pais": "Francia", "descripcion": "Conmemoración del inicio de la Revolución Francesa."},
+        {"nombre": "Día de la Independencia", "pais": "EE. UU.", "descripcion": "Conmemoración de la Declaración de Independencia."},
+        {"nombre": "Inti Raymi", "pais": "Perú (Cusco)", "descripcion": "Antigua fiesta incaica en honor al Dios Sol."}
+      ]
+    },
+    {
+      "mes": "Agosto",
+      "festividades": [
+        {"nombre": "La Tomatina", "pais": "España (Buñol)", "descripcion": "Batalla festiva de tomates."},
+        {"nombre": "Festival Internacional de Edimburgo", "pais": "Reino Unido (Escocia)", "descripcion": "El mayor festival de artes escénicas del mundo."},
+        {"nombre": "Día de la Independencia", "pais": "India", "descripcion": "Celebración de la independencia del Reino Unido."}
+      ]
+    },
+    {
+      "mes": "Septiembre",
+      "festividades": [
+        {"nombre": "Oktoberfest (Comienza a finales de Sep.)", "pais": "Alemania (Múnich)", "descripcion": "Festival popular centrado en la cerveza."},
+        {"nombre": "Fiestas Patrias (Día de la Independencia)", "pais": "México", "descripcion": "Celebración de la independencia de España."},
+        {"nombre": "Día de la Unificación Alemana", "pais": "Alemania", "descripcion": "Aniversario de la reunificación de 1990."}
+      ]
+    },
+    {
+      "mes": "Octubre",
+      "festividades": [
+        {"nombre": "Día de Muertos", "pais": "México", "descripcion": "Celebración en honor a los difuntos."},
+        {"nombre": "Día Nacional (Día de la Hispanidad)", "pais": "España", "descripcion": "Conmemoración del descubrimiento de América."},
+        {"nombre": "Diwali (Fechas Variables)", "pais": "India, Nepal y otros", "descripcion": "Festival hindú de las luces."}
+      ]
+    },
+    {
+      "mes": "Noviembre",
+      "festividades": [
+        {"nombre": "Día de Acción de Gracias (Thanksgiving)", "pais": "EE. UU.", "descripcion": "Celebración de la cosecha y las bendiciones."},
+        {"nombre": "Día de Todos los Santos", "pais": "Países católicos", "descripcion": "Conmemoración de todos los santos."},
+        {"nombre": "Día de los Veteranos / Día del Recuerdo", "pais": "EE. UU., Reino Unido y Canadá", "descripcion": "Día en honor a los veteranos de guerra."}
+      ]
+    },
+    {
+      "mes": "Diciembre",
+      "festividades": [
+        {"nombre": "Navidad (Nochebuena y Día de Navidad)", "pais": "Global (Cristiana)", "descripcion": "Conmemoración del nacimiento de Jesucristo."},
+        {"nombre": "Kwanzaa", "pais": "EE. UU.", "descripcion": "Celebración de la herencia africana."},
+        {"nombre": "Nochevieja / Fin de Año", "pais": "Global", "descripcion": "Celebración de la víspera de Año Nuevo."}
+      ]
+    }
+  ]
+}

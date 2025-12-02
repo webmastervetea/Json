@@ -1,0 +1,43 @@
+{
+  "deporte": "Kin-Ball",
+  "origen": "Canadá, 1986",
+  "elementos_clave_reglamento": [
+    {
+      "aspecto": "Equipos",
+      "descripcion": "Se juega con tres equipos simultáneamente en el campo (generalmente de color rosa, gris y negro).",
+      "detalles": "Cada equipo tiene 4 jugadores en la cancha."
+    },
+    {
+      "aspecto": "Objetivo del Juego",
+      "descripcion": "Golpear el balón gigante (1.22 metros de diámetro) de forma que el equipo nombrado no consiga atraparlo antes de que toque el suelo."
+    },
+    {
+      "aspecto": "Servicio (Golpeo)",
+      "descripcion": "El equipo que sirve debe nombrar en voz alta el color de otro equipo antes de golpearlo. Por ejemplo: '¡Omnikin al Gris!'",
+      "detalles": "El golpeo debe ser ascendente, o al menos horizontal. Nunca descendente. Antes de golpear, todos los 4 jugadores del equipo servidor deben tocar el balón."
+    },
+    {
+      "aspecto": "Recepción",
+      "descripcion": "El equipo nombrado debe atrapar el balón antes de que toque el suelo. Si el equipo nombrado no logra controlarlo, el punto es para los otros dos equipos.",
+      "detalles": "Si el balón es atrapado, ese equipo pasa a ser el servidor."
+    },
+    {
+      "aspecto": "Puntuación",
+      "descripcion": "Cada vez que un equipo comete una falta o no atrapa el balón, se otorga 1 punto a CADA UNO de los otros dos equipos.",
+      "detalles": "Esto fomenta la colaboración y la participación de los tres equipos."
+    },
+    {
+      "aspecto": "Faltas Comunes",
+      "descripcion": [
+        "No golpear al color nombrado.",
+        "Golpear el balón hacia abajo (tiro descendente).",
+        "El golpeo no involucra el contacto de los 4 jugadores.",
+        "El equipo receptor deja caer el balón (falta más común)."
+      ]
+    },
+    {
+      "aspecto": "Campo de Juego",
+      "descripcion": "Una cancha cuadrada (generalmente 20x20 metros) que permite que el balón se juegue en cualquier dirección."
+    }
+  ]
+}

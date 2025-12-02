@@ -1,0 +1,49 @@
+{
+  "conflictos_importantes": [
+    {
+      "nombre": "Guerras Médicas",
+      "fechas": "492 a. C. – 449 a. C.",
+      "resultado": "Victoria de las ciudades-estado griegas, mantenimiento de la independencia griega y declive del Imperio Aqueménida."
+    },
+    {
+      "nombre": "Guerras Púnicas",
+      "fechas": "264 a. C. – 146 a. C.",
+      "resultado": "Victoria de la República Romana, destrucción de Cartago y consolidación del dominio romano en el Mediterráneo occidental."
+    },
+    {
+      "nombre": "Las Cruzadas",
+      "fechas": "1096 – 1291",
+      "resultado": "Resultados mixtos. Éxitos iniciales, pero fracaso en el mantenimiento del control cristiano de Tierra Santa; crecimiento del comercio e intercambio cultural entre Oriente y Occidente."
+    },
+    {
+      "nombre": "Guerra de los Cien Años",
+      "fechas": "1337 – 1453",
+      "resultado": "Victoria francesa, expulsión de los ingleses de la mayor parte de Francia y consolidación de las identidades nacionales de ambos reinos."
+    },
+    {
+      "nombre": "Guerra de los Treinta Años",
+      "fechas": "1618 – 1648",
+      "resultado": "Victoria de Francia, Suecia y sus aliados. Paz de Westfalia, que establece el concepto de soberanía estatal (sistema westfaliano) y debilita al Sacro Imperio Romano Germánico."
+    },
+    {
+      "nombre": "Guerras Napoleónicas",
+      "fechas": "1803 – 1815",
+      "resultado": "Victoria de la Séptima Coalición (Reino Unido, Prusia, Austria, Rusia, etc.). Caída de Napoleón, Congreso de Viena y restauración de las monarquías europeas."
+    },
+    {
+      "nombre": "Primera Guerra Mundial",
+      "fechas": "1914 – 1918",
+      "resultado": "Victoria de los Aliados. Tratado de Versalles, colapso de los imperios Alemán, Austrohúngaro, Otomano y Ruso, y creación de la Sociedad de Naciones."
+    },
+    {
+      "nombre": "Segunda Guerra Mundial",
+      "fechas": "1939 – 1945",
+      "resultado": "Victoria de los Aliados. Caída de las potencias del Eje, establecimiento de la Organización de las Naciones Unidas (ONU), y comienzo de la Guerra Fría."
+    },
+    {
+      "nombre": "Guerra Fría (conflicto ideológico)",
+      "fechas": "c. 1947 – 1991",
+      "resultado": "Disolución de la Unión Soviética (URSS). Triunfo de los Estados Unidos y sus aliados, y expansión de la democracia liberal y las economías de mercado."
+    }
+  ]
+}

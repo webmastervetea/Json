@@ -1,0 +1,67 @@
+[
+  {
+    "habilidad_id": "skl_001_corte",
+    "nombre": "Corte de Acero",
+    "clase_asociada": "Guerrero",
+    "tipo": "Ataque Físico",
+    "costo": {
+      "recurso": "Energía",
+      "cantidad": 15
+    },
+    "reutilizacion_segundos": 3.0,
+    "efecto_base": {
+      "danio": 150,
+      "multiplicador": 1.25,
+      "descripcion": "Inflige un daño físico moderado al objetivo."
+    }
+  },
+  {
+    "habilidad_id": "skl_002_curacion",
+    "nombre": "Rayo de Sanación",
+    "clase_asociada": "Clérigo",
+    "tipo": "Soporte Mágico",
+    "costo": {
+      "recurso": "Maná",
+      "cantidad": 50
+    },
+    "reutilizacion_segundos": 10.0,
+    "efecto_base": {
+      "curacion": 250,
+      "duracion_segundos": 0,
+      "descripcion": "Restaura una cantidad moderada de vida al objetivo o aliado."
+    }
+  },
+  {
+    "habilidad_id": "skl_003_sombra",
+    "nombre": "Velo de Sombra",
+    "clase_asociada": "Pícaro",
+    "tipo": "Utilidad",
+    "costo": {
+      "recurso": "Energía",
+      "cantidad": 40
+    },
+    "reutilizacion_segundos": 15.0,
+    "efecto_base": {
+      "danio": 0,
+      "duracion_segundos": 4,
+      "descripcion": "El personaje entra en sigilo por 4 segundos, volviéndose invisible a los enemigos."
+    }
+  },
+  {
+    "habilidad_id": "skl_004_fuego",
+    "nombre": "Bola de Fuego",
+    "clase_asociada": "Mago",
+    "tipo": "Ataque Mágico (AoE)",
+    "costo": {
+      "recurso": "Maná",
+      "cantidad": 75
+    },
+    "reutilizacion_segundos": 8.0,
+    "efecto_base": {
+      "danio": 120,
+      "radio_metros": 5,
+      "efecto_secundario": "Aplica quemadura (Daño por tiempo)",
+      "descripcion": "Lanza una esfera de fuego que explota e inflige daño mágico en un área de 5 metros."
+    }
+  }
+]

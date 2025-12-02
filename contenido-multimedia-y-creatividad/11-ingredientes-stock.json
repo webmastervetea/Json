@@ -1,0 +1,62 @@
+[
+  {
+    "ingrediente_id": "ing_001",
+    "nombre": "Harina de Trigo",
+    "categoria": "Secos",
+    "cantidad_disponible": 1.5,
+    "unidad_medida": "kg",
+    "fecha_caducidad": "2026-10-01",
+    "almacenamiento": "Despensa",
+    "es_alergeno": false
+  },
+  {
+    "ingrediente_id": "ing_002",
+    "nombre": "Huevos",
+    "categoria": "Lácteos y Huevos",
+    "cantidad_disponible": 12,
+    "unidad_medida": "unidades",
+    "fecha_caducidad": "2025-12-15",
+    "almacenamiento": "Refrigerador",
+    "es_alergeno": true
+  },
+  {
+    "ingrediente_id": "ing_003",
+    "nombre": "Leche Entera",
+    "categoria": "Lácteos y Huevos",
+    "cantidad_disponible": 0.75,
+    "unidad_medida": "litros",
+    "fecha_caducidad": "2025-12-05",
+    "almacenamiento": "Refrigerador",
+    "es_alergeno": true
+  },
+  {
+    "ingrediente_id": "ing_004",
+    "nombre": "Tomates",
+    "categoria": "Vegetales",
+    "cantidad_disponible": 500,
+    "unidad_medida": "gramos",
+    "fecha_caducidad": "2025-12-01",
+    "almacenamiento": "Exterior",
+    "es_alergeno": false
+  },
+  {
+    "ingrediente_id": "ing_005",
+    "nombre": "Pechuga de Pollo",
+    "categoria": "Carnes",
+    "cantidad_disponible": 2,
+    "unidad_medida": "unidades",
+    "fecha_caducidad": "2025-11-30",
+    "almacenamiento": "Congelador",
+    "es_alergeno": false
+  },
+  {
+    "ingrediente_id": "ing_006",
+    "nombre": "Aceite de Oliva",
+    "categoria": "Aceites y Grasas",
+    "cantidad_disponible": 1,
+    "unidad_medida": "botella",
+    "fecha_caducidad": "2027-03-01",
+    "almacenamiento": "Despensa",
+    "es_alergeno": false
+  }
+]

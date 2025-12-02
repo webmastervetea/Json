@@ -1,0 +1,55 @@
+[
+  {
+    "sala_id": "lvl_1_entrada",
+    "nombre_sala": "Salón de Entrada",
+    "tipo_area": "Segura/Introducción",
+    "dificultad": "Baja",
+    "elementos_interactivos": [
+      {"elemento": "Punto de Guardado", "posicion_xy": [5, 2]},
+      {"elemento": "Texto Introductorio", "posicion_xy": [5, 3]}
+    ],
+    "enemigos_presentes": [],
+    "trampas_presentes": []
+  },
+  {
+    "sala_id": "lvl_1_pasillo_trampas",
+    "nombre_sala": "Pasillo de Prueba",
+    "tipo_area": "Obstáculo/Habilidad",
+    "dificultad": "Media",
+    "elementos_interactivos": [
+      {"elemento": "Moneda Secreta", "posicion_xy": [15, 6]}
+    ],
+    "enemigos_presentes": [
+      {"enemigo": "Slime pequeño", "cantidad": 3, "posicion_xy": [8, 5]}
+    ],
+    "trampas_presentes": [
+      {
+        "nombre": "Pinchos Ocultos",
+        "tipo": "Activación por Peso",
+        "danio_base": 25,
+        "frecuencia_seg": null,
+        "posicion_xy_rango": [[10, 4], [13, 4]]
+      },
+      {
+        "nombre": "Proyectil Lateral",
+        "tipo": "Lanzamiento Automático",
+        "danio_base": 40,
+        "frecuencia_seg": 5.0,
+        "posicion_xy_rango": [[18, 5]]
+      }
+    ]
+  },
+  {
+    "sala_id": "lvl_1_jefe",
+    "nombre_sala": "Cámara del Guardián",
+    "tipo_area": "Encuentro de Jefe",
+    "dificultad": "Alta",
+    "elementos_interactivos": [
+      {"elemento": "Cofre de Recompensa", "posicion_xy": [25, 10]}
+    ],
+    "enemigos_presentes": [
+      {"enemigo": "Guardián de Piedra", "cantidad": 1, "posicion_xy": [25, 5], "es_jefe": true}
+    ],
+    "trampas_presentes": []
+  }
+]

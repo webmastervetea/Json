@@ -1,0 +1,59 @@
+{
+  "titulo_libro": "La Arquitectura del Mañana",
+  "autor": "Dra. Elara Vance",
+  "isbn": "978-1-234567-89-0",
+  "fecha_publicacion": 2024,
+  "idioma": "Español",
+  "tabla_de_contenidos": [
+    {
+      "orden": 1,
+      "tipo": "preliminar",
+      "titulo_capitulo": "Prólogo y Agradecimientos",
+      "pagina_inicial": 7,
+      "duracion_lectura_min": 5
+    },
+    {
+      "orden": 2,
+      "tipo": "preliminar",
+      "titulo_capitulo": "Introducción: El Contexto Digital",
+      "pagina_inicial": 15,
+      "duracion_lectura_min": 15
+    },
+    {
+      "orden": 3,
+      "tipo": "capitulo_principal",
+      "titulo_capitulo": "Fundamentos: La Era de la Construcción Sostenible",
+      "pagina_inicial": 25,
+      "duracion_lectura_min": 45
+    },
+    {
+      "orden": 4,
+      "tipo": "capitulo_principal",
+      "titulo_capitulo": "Materiales Inteligentes y Sensores",
+      "pagina_inicial": 68,
+      "duracion_lectura_min": 60
+    },
+    {
+      "orden": 5,
+      "tipo": "capitulo_principal",
+      "titulo_capitulo": "Diseño Paramétrico y Automatización",
+      "pagina_inicial": 130,
+      "duracion_lectura_min": 75
+    },
+    {
+      "orden": 6,
+      "tipo": "apendice",
+      "titulo_capitulo": "Glosario de Términos Clave",
+      "pagina_inicial": 210,
+      "duracion_lectura_min": 10
+    },
+    {
+      "orden": 7,
+      "tipo": "apendice",
+      "titulo_capitulo": "Índice Alfabético",
+      "pagina_inicial": 225,
+      "duracion_lectura_min": 5
+    }
+  ],
+  "numero_total_paginas": 240
+}

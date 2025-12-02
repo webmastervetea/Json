@@ -1,0 +1,38 @@
+[
+  {
+    "personaje_id": "ch_001_elara",
+    "nombre": "Elara Vane",
+    "titulo": "La Exploradora Estelar",
+    "descripcion": "Una astrónoma brillante con una obsesión por las anomalías cuánticas. Es impulsiva pero tiene un fuerte sentido de la justicia.",
+    "rol_principal": "Protagonista / Científica",
+    "afiliacion": "Gremio de Cartógrafos",
+    "habilidades_clave": ["Navegación espacial", "Cálculo hiperespacial"]
+  },
+  {
+    "personaje_id": "ch_002_kael",
+    "nombre": "Kael Thorne",
+    "titulo": "El Mercenario Retirado",
+    "descripcion": "Un veterano de guerra con un pasado turbulento. Ofrece protección a Elara, aunque sus motivos son inicialmente ambiguos.",
+    "rol_principal": "Coadyuvante / Guardia de Cuerpo",
+    "afiliacion": "Antigua Legión de Hierro",
+    "habilidades_clave": ["Combate cuerpo a cuerpo", "Pilotaje de naves"]
+  },
+  {
+    "personaje_id": "ch_003_seraph",
+    "nombre": "Seraphina",
+    "titulo": "La Sombra del Consejo",
+    "descripcion": "Líder enigmática y manipuladora de la facción dominante. Busca el control total sobre la tecnología antigua.",
+    "rol_principal": "Antagonista Principal",
+    "afiliacion": "El Consejo Silencioso",
+    "habilidades_clave": ["Manipulación política", "Hackeo avanzado"]
+  },
+  {
+    "personaje_id": "ch_004_rex",
+    "nombre": "R-EX (Rex)",
+    "titulo": "Unidad de Apoyo Modelo 7",
+    "descripcion": "Un robot de protocolo obsoleto que, sin quererlo, tiene acceso a información histórica crucial.",
+    "rol_principal": "Alivio Cómico / Fuente de Información",
+    "afiliacion": "Ninguna (Autónomo)",
+    "habilidades_clave": ["Archivos históricos", "Análisis lingüístico"]
+  }
+]

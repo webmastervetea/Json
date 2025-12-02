@@ -1,0 +1,38 @@
+[
+  {
+    "episodio_id": 101,
+    "titulo": "La Paradoja del Silencio Digital",
+    "numero_episodio": 1,
+    "temporada": 5,
+    "fecha_publicacion": "2025-11-20T08:00:00Z",
+    "duracion_segundos": 2880,
+    "resumen": "Analizamos cómo la sobrecarga de información afecta la toma de decisiones y la creatividad en el entorno laboral. Invitado especial: Dra. Elena Ríos.",
+    "palabras_clave": ["tecnología", "productividad", "creatividad", "IA"],
+    "url_audio": "https://podcast.ejemplo.com/audios/t5/ep01.mp3",
+    "url_imagen_cubierta": "https://podcast.ejemplo.com/imagenes/t5_ep01.jpg"
+  },
+  {
+    "episodio_id": 102,
+    "titulo": "El Futuro del Trabajo Híbrido",
+    "numero_episodio": 2,
+    "temporada": 5,
+    "fecha_publicacion": "2025-11-27T08:00:00Z",
+    "duracion_segundos": 3240,
+    "resumen": "Exploramos las mejores prácticas para líderes de equipo que gestionan empleados remotos y en la oficina. ¿Es el modelo 3-2 el más eficiente?",
+    "palabras_clave": ["trabajo", "remoto", "liderazgo", "RRHH"],
+    "url_audio": "https://podcast.ejemplo.com/audios/t5/ep02.mp3",
+    "url_imagen_cubierta": "https://podcast.ejemplo.com/imagenes/t5_ep02.jpg"
+  },
+  {
+    "episodio_id": 103,
+    "titulo": "Crisis Climática: Innovación en Energía Verde",
+    "numero_episodio": 3,
+    "temporada": 5,
+    "fecha_publicacion": "2025-12-04T08:00:00Z",
+    "duracion_segundos": 2500,
+    "resumen": "Un análisis profundo de las startups que están revolucionando el sector de las energías renovables, desde la solar hasta el hidrógeno verde.",
+    "palabras_clave": ["sostenibilidad", "energía", "cambio climático", "inversión"],
+    "url_audio": "https://podcast.ejemplo.com/audios/t5/ep03.mp3",
+    "url_imagen_cubierta": "https://podcast.ejemplo.com/imagenes/t5_ep03.jpg"
+  }
+]

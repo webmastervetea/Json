@@ -1,0 +1,83 @@
+[
+  {
+    "anio": 2025,
+    "temporada": "Primavera/Verano",
+    "paleta": "Refugio Luminoso",
+    "colores": [
+      {
+        "nombre": "Azul Sereno",
+        "codigo_hex": "#A7C7E7",
+        "pantone": "14-4203 TCX",
+        "descripcion": "Un azul cielo calmante que representa la claridad y la esperanza."
+      },
+      {
+        "nombre": "Menta Fresca",
+        "codigo_hex": "#98FB98",
+        "pantone": "15-0538 TCX",
+        "descripcion": "Tono pastel de verde, asociado a la naturaleza y el crecimiento."
+      },
+      {
+        "nombre": "Mango Brillante",
+        "codigo_hex": "#FFC84A",
+        "pantone": "16-1360 TCX",
+        "descripcion": "Un naranja vibrante que irradia energía y optimismo."
+      },
+      {
+        "nombre": "Tierra Seca",
+        "codigo_hex": "#B8860B",
+        "pantone": "17-1049 TCX",
+        "descripcion": "Neutro cálido que aporta estabilidad y conexión con lo natural."
+      }
+    ]
+  },
+  {
+    "anio": 2025,
+    "temporada": "Otoño/Invierno",
+    "paleta": "Contraste Dramático",
+    "colores": [
+      {
+        "nombre": "Gris Grafito",
+        "codigo_hex": "#36454F",
+        "pantone": "19-4007 TCX",
+        "descripcion": "Un gris oscuro profundo, elegante y atemporal."
+      },
+      {
+        "nombre": "Rojo Burdeos",
+        "codigo_hex": "#800020",
+        "pantone": "18-1755 TCX",
+        "descripcion": "Un rojo intenso y sofisticado que añade dramatismo."
+      },
+      {
+        "nombre": "Violeta Místico",
+        "codigo_hex": "#8A2BE2",
+        "pantone": "19-3838 TCX",
+        "descripcion": "Púrpura intenso que evoca el lujo y el misterio."
+      },
+      {
+        "nombre": "Marrón Cacao",
+        "codigo_hex": "#5D4037",
+        "pantone": "18-1022 TCX",
+        "descripcion": "Tono rico y terroso, fundamental para el confort invernal."
+      }
+    ]
+  },
+  {
+    "anio": 2024,
+    "temporada": "Primavera/Verano",
+    "paleta": "Revitalización",
+    "colores": [
+      {
+        "nombre": "Rosa Barbie",
+        "codigo_hex": "#D338AE",
+        "pantone": "18-2120 TCX",
+        "descripcion": "El rosa intenso de moda, divertido y audaz."
+      },
+      {
+        "nombre": "Amarillo Solar",
+        "codigo_hex": "#FFDB58",
+        "pantone": "13-0755 TCX",
+        "descripcion": "Un amarillo cálido y brillante."
+      }
+    ]
+  }
+]

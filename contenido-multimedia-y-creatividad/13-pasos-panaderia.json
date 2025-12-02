@@ -1,0 +1,86 @@
+[
+  {
+    "receta_id": "pan_001_artesano",
+    "nombre_pan": "Pan de Masa Madre Artesano (Sourdough)",
+    "ingredientes_clave": ["Masa Madre Activa", "Harina de Fuerza", "Agua", "Sal"],
+    "pasos_horneado": [
+      {
+        "paso_num": 1,
+        "instruccion": "Precalentar el horno con una olla de hierro fundido (Dutch Oven) dentro por 30 minutos.",
+        "temperatura_c": 250,
+        "tiempo_min": 30
+      },
+      {
+        "paso_num": 2,
+        "instruccion": "Colocar la masa cuidadosamente en la olla caliente y cubrir.",
+        "temperatura_c": 250,
+        "tiempo_min": 20
+      },
+      {
+        "paso_num": 3,
+        "instruccion": "Retirar la tapa de la olla de hierro para permitir que la corteza se dore.",
+        "temperatura_c": 230,
+        "tiempo_min": 25
+      },
+      {
+        "paso_num": 4,
+        "instruccion": "Sacar del horno y enfriar completamente en una rejilla.",
+        "temperatura_c": null,
+        "tiempo_min": 60
+      }
+    ],
+    "textura_corteza": "Crujiente y rústica"
+  },
+  {
+    "receta_id": "pan_002_baguette",
+    "nombre_pan": "Baguette Francesa Clásica",
+    "ingredientes_clave": ["Harina de Pan", "Agua", "Levadura Fresca", "Sal"],
+    "pasos_horneado": [
+      {
+        "paso_num": 1,
+        "instruccion": "Precalentar el horno con una piedra de hornear (si se tiene) y un recipiente con agua caliente en el fondo para generar vapor.",
+        "temperatura_c": 240,
+        "tiempo_min": 15
+      },
+      {
+        "paso_num": 2,
+        "instruccion": "Rociar las baguettes con agua antes de meterlas al horno y crear varios cortes diagonales (grigne).",
+        "temperatura_c": 240,
+        "tiempo_min": 10
+      },
+      {
+        "paso_num": 3,
+        "instruccion": "Reducir ligeramente la temperatura y continuar horneando hasta que estén doradas.",
+        "temperatura_c": 210,
+        "tiempo_min": 15
+      }
+    ],
+    "textura_corteza": "Fina y muy crujiente"
+  },
+  {
+    "receta_id": "pan_003_integral",
+    "nombre_pan": "Pan de Molde Integral",
+    "ingredientes_clave": ["Harina Integral", "Miel", "Mantequilla", "Levadura Seca"],
+    "pasos_horneado": [
+      {
+        "paso_num": 1,
+        "instruccion": "Colocar la masa en el molde de pan engrasado y dejar levar hasta que doble su tamaño.",
+        "temperatura_c": null,
+        "tiempo_min": null
+      },
+      {
+        "paso_num": 2,
+        "instruccion": "Hornear hasta que el centro alcance 93°C (200°F) con un termómetro de lectura instantánea.",
+        "temperatura_c": 190,
+        "tiempo_min": 40
+      },
+      {
+        "paso_num": 3,
+        "instruccion": "Desmoldar inmediatamente y dejar enfriar completamente antes de cortar.",
+        "temperatura_c": null,
+        "tiempo_min": 30
+      }
+    ],
+    "textura_corteza": "Suave y tierna"
+  }
+]

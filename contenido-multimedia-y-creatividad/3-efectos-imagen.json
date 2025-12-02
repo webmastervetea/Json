@@ -1,0 +1,64 @@
+[
+  {
+    "filtro_id": "flt_001_vintage",
+    "nombre_filtro": "Vintage Clásico",
+    "descripcion": "Efecto de envejecimiento con tonos cálidos, bajo contraste y ligera decoloración.",
+    "parametros_css": {
+      "contraste": "85%",
+      "saturacion": "120%",
+      "brillo": "110%",
+      "sepia": "40%",
+      "matiz": "10deg"
+    },
+    "capas_adicionales": [
+      {"tipo": "ruido", "opacidad": 0.1},
+      {"tipo": "viñeta", "radio": "50%", "color": "#000000", "opacidad": 0.3}
+    ]
+  },
+  {
+    "filtro_id": "flt_002_byn",
+    "nombre_filtro": "Blanco y Negro Dramático",
+    "descripcion": "Conversión monocromática con alto contraste para un efecto artístico.",
+    "parametros_css": {
+      "contraste": "150%",
+      "saturacion": "0%",
+      "brillo": "100%",
+      "sepia": "0%",
+      "matiz": "0deg",
+      "grayscale": "100%"
+    },
+    "capas_adicionales": [
+      {"tipo": "nitidez", "cantidad": 0.8}
+    ]
+  },
+  {
+    "filtro_id": "flt_003_luz_suave",
+    "nombre_filtro": "Luz Suave (Soft Light)",
+    "descripcion": "Aumenta la exposición y suaviza las sombras para un look más limpio.",
+    "parametros_css": {
+      "contraste": "100%",
+      "saturacion": "105%",
+      "brillo": "130%",
+      "sepia": "0%",
+      "matiz": "0deg"
+    },
+    "capas_adicionales": [
+      {"tipo": "desenfoque", "radio_px": 0.5, "modo": "gaussiano"}
+    ]
+  },
+  {
+    "filtro_id": "flt_004_retro_pop",
+    "nombre_filtro": "Retro Pop",
+    "descripcion": "Colores saturados, matiz azulado y grano visible, estilo años 80.",
+    "parametros_css": {
+      "contraste": "115%",
+      "saturacion": "180%",
+      "brillo": "95%",
+      "sepia": "0%",
+      "matiz": "-20deg"
+    },
+    "capas_adicionales": [
+      {"tipo": "grano", "intensidad": 0.25}
+    ]
+  }
+]

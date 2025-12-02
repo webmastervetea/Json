@@ -1,0 +1,37 @@
+[
+  {
+    "marcador_id": 1,
+    "tiempo_inicio_seg": 0,
+    "titulo_capitulo": "Introducción y Saludos",
+    "descripcion": "Presentación de los ponentes y resumen de la agenda del día.",
+    "icono_clave": "hand-wave"
+  },
+  {
+    "marcador_id": 2,
+    "tiempo_inicio_seg": 185,
+    "titulo_capitulo": "Definición del Problema (IA Generativa)",
+    "descripcion": "Se establece el contexto y la necesidad de la Inteligencia Artificial Generativa en el sector actual.",
+    "icono_clave": "lightbulb"
+  },
+  {
+    "marcador_id": 3,
+    "tiempo_inicio_seg": 450,
+    "titulo_capitulo": "Caso de Estudio: Optimización de Logística",
+    "descripcion": "Análisis detallado de cómo la empresa 'LogiTech' implementó la solución X y los resultados obtenidos.",
+    "icono_clave": "case-study"
+  },
+  {
+    "marcador_id": 4,
+    "tiempo_inicio_seg": 920,
+    "titulo_capitulo": "Preguntas y Respuestas (Q&A) de la Audiencia",
+    "descripcion": "La sesión de preguntas y respuestas con la audiencia en vivo sobre la ética de los datos.",
+    "icono_clave": "comments"
+  },
+  {
+    "marcador_id": 5,
+    "tiempo_inicio_seg": 1255,
+    "titulo_capitulo": "Conclusiones y Próximos Pasos",
+    "descripcion": "Resumen de los puntos clave y anuncio de la fecha del próximo evento.",
+    "icono_clave": "check-mark"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "referencia_id": "ref_001_libro_impreso",
+    "tipo_fuente": "Libro (Impreso)",
+    "autores": [
+      {"apellido": "Smith", "nombre_inicial": "J."},
+      {"apellido": "Davis", "nombre_inicial": "A."}
+    ],
+    "anio_publicacion": 2020,
+    "titulo": "La Influencia de las Redes Sociales en la Democracia Moderna",
+    "editorial": "Prensa Universitaria",
+    "lugar_publicacion": "Ciudad de México",
+    "formato_apa": "Smith, J., & Davis, A. (2020). *La influencia de las redes sociales en la democracia moderna*. Prensa Universitaria.",
+    "formato_mla": "Smith, John, and Alex Davis. *La Influencia de las Redes Sociales en la Democracia Moderna*. Prensa Universitaria, 2020."
+  },
+  {
+    "referencia_id": "ref_002_articulo_web",
+    "tipo_fuente": "Artículo de Revista (Web)",
+    "autores": [
+      {"apellido": "García", "nombre_inicial": "M."}
+    ],
+    "anio_publicacion": 2023,
+    "titulo": "Desarrollo de Modelos de IA con Ética Transparente",
+    "revista": "Revista de Tecnología Avanzada",
+    "volumen": 15,
+    "numero": 3,
+    "rango_paginas": "45-62",
+    "url_doi": "https://doi.org/10.1016/j.rtav.2023.01.005",
+    "formato_apa": "García, M. (2023). Desarrollo de modelos de IA con ética transparente. *Revista de Tecnología Avanzada*, *15*(3), 45-62. https://doi.org/10.1016/j.rtav.2023.01.005",
+    "formato_mla": "García, Marta. \"Desarrollo de Modelos de IA con Ética Transparente.\" *Revista de Tecnología Avanzada*, vol. 15, no. 3, 2023, pp. 45-62. DOI. 10.1016/j.rtav.2023.01.005."
+  },
+  {
+    "referencia_id": "ref_003_capitulo_libro",
+    "tipo_fuente": "Capítulo de Libro Editado",
+    "autores": [
+      {"apellido": "Pérez", "nombre_inicial": "L."}
+    ],
+    "anio_publicacion": 2021,
+    "titulo_capitulo": "La Crisis del Agua en Zonas Áridas",
+    "editor_libro": "Rodríguez, P.",
+    "titulo_libro": "Desafíos Ambientales Globales",
+    "editorial": "Ecología Editores",
+    "rango_paginas": "110-145",
+    "formato_apa": "Pérez, L. (2021). La crisis del agua en zonas áridas. En P. Rodríguez (Ed.), *Desafíos ambientales globales* (pp. 110-145). Ecología Editores.",
+    "formato_mla": "Pérez, Luis. \"La Crisis del Agua en Zonas Áridas.\" *Desafíos Ambientales Globales*, editado por Patricia Rodríguez, Ecología Editores, 2021, pp. 110-145."
+  }
+]

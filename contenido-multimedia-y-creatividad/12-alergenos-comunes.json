@@ -1,0 +1,50 @@
+[
+  {
+    "plato_id": "plato_001_lasagna",
+    "nombre_plato": "Lasaña Clásica Boloñesa",
+    "descripcion": "Capas de pasta, carne de res, salsa de tomate y bechamel cremosa.",
+    "alergenos_presentes": [
+      {"alergeno": "Gluten", "contiene": true},
+      {"alergeno": "Lácteos", "contiene": true},
+      {"alergeno": "Huevo", "contiene": true},
+      {"alergeno": "Soja", "contiene": false},
+      {"alergeno": "Frutos Secos", "contiene": false}
+    ],
+    "apto_para": ["Vegetarianos: No", "Veganos: No", "Celíacos: No"]
+  },
+  {
+    "plato_id": "plato_002_wok",
+    "nombre_plato": "Wok de Pollo y Verduras",
+    "descripcion": "Salteado de pollo marinado con verduras frescas y salsa de soja.",
+    "alergenos_presentes": [
+      {"alergeno": "Gluten", "contiene": true},
+      {"alergeno": "Lácteos", "contiene": false},
+      {"alergeno": "Soja", "contiene": true},
+      {"alergeno": "Sésamo", "contiene": true}
+    ],
+    "apto_para": ["Vegetarianos: No", "Veganos: No", "Celíacos: Posible (Pedir sin salsa de soja)"]
+  },
+  {
+    "plato_id": "plato_003_sopa_lentejas",
+    "nombre_plato": "Sopa de Lentejas Casera",
+    "descripcion": "Lentejas cocidas con verduras y caldo de vegetales, especiada.",
+    "alergenos_presentes": [
+      {"alergeno": "Gluten", "contiene": false},
+      {"alergeno": "Lácteos", "contiene": false},
+      {"alergeno": "Mariscos", "contiene": false}
+    ],
+    "apto_para": ["Vegetarianos: Sí", "Veganos: Sí", "Celíacos: Sí"]
+  },
+  {
+    "plato_id": "plato_004_tarta",
+    "nombre_plato": "Tarta de Nuez y Chocolate",
+    "descripcion": "Base de galleta y relleno cremoso con nueces y cobertura de chocolate.",
+    "alergenos_presentes": [
+      {"alergeno": "Gluten", "contiene": true},
+      {"alergeno": "Huevo", "contiene": true},
+      {"alergeno": "Lácteos", "contiene": true},
+      {"alergeno": "Frutos Secos", "contiene": true}
+    ],
+    "apto_para": ["Vegetarianos: Sí", "Veganos: No", "Celíacos: No"]
+  }
+]

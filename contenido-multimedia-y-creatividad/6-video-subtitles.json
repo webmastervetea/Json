@@ -1,0 +1,37 @@
+[
+  {
+    "indice": 1,
+    "tiempo_inicio_ms": 1000,
+    "tiempo_fin_ms": 3500,
+    "texto": "Hola y bienvenidos al último episodio del podcast.",
+    "duracion_ms": 2500
+  },
+  {
+    "indice": 2,
+    "tiempo_inicio_ms": 4100,
+    "tiempo_fin_ms": 6800,
+    "texto": "Hoy vamos a discutir la nueva revolución de la IA.",
+    "duracion_ms": 2700
+  },
+  {
+    "indice": 3,
+    "tiempo_inicio_ms": 7200,
+    "tiempo_fin_ms": 9500,
+    "texto": "Es un tema complejo que toca muchos aspectos.",
+    "duracion_ms": 2300
+  },
+  {
+    "indice": 4,
+    "tiempo_inicio_ms": 10250,
+    "tiempo_fin_ms": 13150,
+    "texto": "Desde la ética hasta el impacto en el mercado laboral global.",
+    "duracion_ms": 2900
+  },
+  {
+    "indice": 5,
+    "tiempo_inicio_ms": 13900,
+    "tiempo_fin_ms": 16000,
+    "texto": "Empecemos con nuestra invitada, la Dra. Elena Ríos.",
+    "duracion_ms": 2100
+  }
+]

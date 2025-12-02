@@ -1,0 +1,69 @@
+[
+  {
+    "elemento_id": "txt_titulo_principal",
+    "nombre_capa": "Título Grande",
+    "tipo": "texto",
+    "parametros_modificables": {
+      "contenido_texto": "Innovación Tecnológica 2026",
+      "fuente": "Montserrat Bold",
+      "tamano_pt": 72,
+      "color_hex": "#FFFFFF",
+      "posicion_x_px": 50,
+      "posicion_y_px": 100,
+      "alineacion": "izquierda",
+      "max_lineas": 2
+    }
+  },
+  {
+    "elemento_id": "txt_subtitulo",
+    "nombre_capa": "Línea Descriptiva",
+    "tipo": "texto",
+    "parametros_modificables": {
+      "contenido_texto": "Impulsando el futuro de tu negocio con IA.",
+      "fuente": "Roboto Regular",
+      "tamano_pt": 30,
+      "color_hex": "#CCCCCC",
+      "posicion_x_px": 50,
+      "posicion_y_px": 200,
+      "alineacion": "izquierda"
+    }
+  },
+  {
+    "elemento_id": "img_fondo_principal",
+    "nombre_capa": "Imagen de Fondo",
+    "tipo": "imagen",
+    "parametros_modificables": {
+      "url_imagen_default": "assets/img/default_tech.jpg",
+      "url_imagen_usuario": null,
+      "escala_porcentaje": 100,
+      "opacidad_porcentaje": 70,
+      "filtro_color_hex": "#000000"
+    }
+  },
+  {
+    "elemento_id": "btn_llamada_accion",
+    "nombre_capa": "Botón CTA",
+    "tipo": "forma_con_texto",
+    "parametros_modificables": {
+      "texto_cta": "Más Información Aquí",
+      "color_fondo_hex": "#FF4500",
+      "color_texto_hex": "#FFFFFF",
+      "posicion_x_px": 50,
+      "posicion_y_px": 750,
+      "ancho_px": 300
+    }
+  },
+  {
+    "elemento_id": "logo_empresa",
+    "nombre_capa": "Logotipo",
+    "tipo": "imagen",
+    "parametros_modificables": {
+      "url_imagen_default": "assets/logo_light.svg",
+      "url_imagen_usuario": null,
+      "posicion_x_px": 1800,
+      "posicion_y_px": 50,
+      "escala_porcentaje": 50,
+      "permitir_reemplazo": false
+    }
+  }
+]

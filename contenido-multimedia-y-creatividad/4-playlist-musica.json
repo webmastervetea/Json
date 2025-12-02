@@ -1,0 +1,47 @@
+[
+  {
+    "track_id": 1,
+    "titulo": "Bad Guy",
+    "artista": "Billie Eilish",
+    "album": "When We All Fall Asleep, Where Do We Go?",
+    "duracion_segundos": 194,
+    "genero": "Pop Alternativo",
+    "uri_archivo": "/musica/billie/badguy.mp3"
+  },
+  {
+    "track_id": 2,
+    "titulo": "Bohemian Rhapsody",
+    "artista": "Queen",
+    "album": "A Night at the Opera",
+    "duracion_segundos": 355,
+    "genero": "Rock Progresivo",
+    "uri_archivo": "/musica/queen/bohemian.mp3"
+  },
+  {
+    "track_id": 3,
+    "titulo": "Despacito",
+    "artista": "Luis Fonsi ft. Daddy Yankee",
+    "album": "Vida",
+    "duracion_segundos": 230,
+    "genero": "Pop Latino",
+    "uri_archivo": "/musica/fonsi/despacito.mp3"
+  },
+  {
+    "track_id": 4,
+    "titulo": "El Condor Pasa",
+    "artista": "Simon & Garfunkel",
+    "album": "Bridge Over Troubled Water",
+    "duracion_segundos": 206,
+    "genero": "Folk",
+    "uri_archivo": "/musica/simon/elcondorpasa.mp3"
+  },
+  {
+    "track_id": 5,
+    "titulo": "Take On Me",
+    "artista": "A-ha",
+    "album": "Hunting High and Low",
+    "duracion_segundos": 226,
+    "genero": "Synth-pop",
+    "uri_archivo": "/musica/aha/takeonme.mp3"
+  }
+]

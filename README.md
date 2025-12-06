@@ -3,7 +3,7 @@ Este repositorio alberga una colección organizada de archivos y categorias JSON
  [[Categorías](https://github.com/webmastervetea/Json/blob/main/CATEGORIAS.md)]
  [[Soporte](https://www.linkedin.com/in/oscarlizarragag/)]
 
-## ✨ Propósito
+## ✨ Propósito 
 El objetivo principal de este proyecto es servir como un recurso centralizado y de fácil acceso para:
 * **Desarrolladores** que necesitan datos de prueba o _mock data_ estructurados.
 * **Analistas** o **estudiantes** que buscan ejemplos de datos en formato JSON.

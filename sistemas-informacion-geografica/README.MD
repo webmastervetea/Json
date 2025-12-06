@@ -11,7 +11,7 @@ Este repositorio es una colección organizada de pequeñas archivos en formato .
 * [[5](https://github.com/webmastervetea/Json/blob/main/sistemas-informacion-geografica/5-zonas-inundables.json)] Polígonos que delimitan áreas propensas a inundaciones. 
 * [[6](https://github.com/webmastervetea/Json/blob/main/sistemas-informacion-geografica/6-map-styles.json)] Configuración de colores y estilos para renderizar un mapa. 
 * [[7](https://github.com/webmastervetea/Json/blob/main/sistemas-informacion-geografica/7-tileserver-config.json)] Ajustes para la visualización de capas de mapas (*tiles*). 
-* [[8](https://github.com/webmastervetea/Json/blob/main/sistemas-informacion-geografica/8-trafico-en-tiempo-real.json] Datos de congestión de tráfico por segmento de carretera. 
+* [[8](https://github.com/webmastervetea/Json/blob/main/sistemas-informacion-geografica/8-trafico-en-tiempo-real.json)] Datos de congestión de tráfico por segmento de carretera. 
 * [[9](https://github.com/webmastervetea/Json/blob/main/sistemas-informacion-geografica/9-distancias-ciudades.json)] Matriz de distancias entre las principales ciudades. 
 * [[10](https://github.com/webmastervetea/Json/blob/main/sistemas-informacion-geografica/10-elevaciones-montanas.json)] Lista de montañas con su altitud máxima. 
 * [[11](https://github.com/webmastervetea/Json/blob/main/sistemas-informacion-geografica/11-rios-principales.json)] Nombres, longitud y países que atraviesan los ríos. 

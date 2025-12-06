@@ -1,0 +1,48 @@
+{
+  "type": "FeatureCollection",
+  "name": "Trafico_Tiempo_Real_Ejemplo",
+  "timestamp": "2025-12-06T14:10:00Z", 
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "segment_id": "R40-S3A",
+        "carretera": "A-2 (Autovía del Nordeste)",
+        "tramo": "Km 10 - Km 11 (dirección Este)",
+        "velocidad_actual_kmh": 45,
+        "velocidad_normal_kmh": 90,
+        "nivel_congestión": "Moderada", // O un código de color
+        "tiempo_retraso_min": 2.5
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [ -3.58000, 40.43500 ], 
+          [ -3.57050, 40.43580 ],
+          [ -3.56000, 40.43650 ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "segment_id": "M30-S12B",
+        "carretera": "M-30 (Periférico)",
+        "tramo": "Nudo Sur (Interior)",
+        "velocidad_actual_kmh": 15,
+        "velocidad_normal_kmh": 70,
+        "nivel_congestión": "Alta",
+        "tiempo_retraso_min": 7.0
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [ -3.66500, 40.39500 ],
+          [ -3.66400, 40.39200 ],
+          [ -3.66300, 40.38900 ]
+        ]
+      }
+    }
+    // ... Miles de segmentos más ...
+  ]
+}

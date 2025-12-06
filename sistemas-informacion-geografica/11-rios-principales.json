@@ -1,0 +1,45 @@
+{
+  "titulo": "Ríos Importantes del Mundo",
+  "unidad_longitud": "kilómetros (km)",
+  "total_rios": 3,
+  "rios": [
+    {
+      "nombre": "Nilo",
+      "longitud_estimada": 6650,
+      "continente": "África",
+      "paises_que_atraviesa": [
+        "Egipto",
+        "Sudán",
+        "Sudán del Sur",
+        "Etiopía",
+        "Uganda",
+        "R.D. del Congo",
+        "Kenia",
+        "Tanzania",
+        "Ruanda",
+        "Burundi"
+      ],
+      "nota": "Históricamente considerado el más largo del mundo, aunque su longitud es muy debatida."
+    },
+    {
+      "nombre": "Amazonas",
+      "longitud_estimada": 6992,
+      "continente": "América del Sur",
+      "paises_que_atraviesa": [
+        "Brasil",
+        "Perú",
+        "Colombia"
+      ],
+      "nota": "Generalmente considerado el más largo del mundo y el de mayor caudal."
+    },
+    {
+      "nombre": "Yangtsé (Azul)",
+      "longitud_estimada": 6300,
+      "continente": "Asia",
+      "paises_que_atraviesa": [
+        "China"
+      ],
+      "nota": "El río más largo que discurre íntegramente por un solo país."
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "titulo": "Montañas con Altitud Máxima (Selección Global)",
+  "unidad_altitud": "metros sobre el nivel del mar (m.s.n.m.)",
+  "total_montañas": 3,
+  "montañas": [
+    {
+      "nombre": "Monte Everest",
+      "altitud_maxima": 8848.86,
+      "coordenadas": {
+        "latitud": 27.9881,
+        "longitud": 86.9253
+      },
+      "cadena_montañosa": "Himalaya",
+      "continente": "Asia",
+      "pais": "Nepal / China (Tíbet)"
+    },
+    {
+      "nombre": "Aconcagua",
+      "altitud_maxima": 6960.8,
+      "coordenadas": {
+        "latitud": -32.6533,
+        "longitud": -70.0117
+      },
+      "cadena_montañosa": "Andes",
+      "continente": "América del Sur",
+      "pais": "Argentina"
+    },
+    {
+      "nombre": "Denali (Monte McKinley)",
+      "altitud_maxima": 6190.5,
+      "coordenadas": {
+        "latitud": 63.0691,
+        "longitud": -151.0068
+      },
+      "cadena_montañosa": "Cordillera de Alaska",
+      "continente": "América del Norte",
+      "pais": "Estados Unidos (Alaska)"
+    }
+    // ... Cientos o miles de objetos más con la misma estructura ...
+  ]
+}

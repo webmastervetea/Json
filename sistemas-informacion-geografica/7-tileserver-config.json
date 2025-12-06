@@ -1,0 +1,69 @@
+{
+  "version": 8,
+  "name": "Configuración de Capas Base",
+  "metadata": {
+    "description": "Mapa base con topografía y carreteras"
+  },
+  
+  // ===============================================
+  // 1. FUENTES DE DATOS (Sources)
+  // Define dónde obtener los tiles y su tipo (vector o raster).
+  // ===============================================
+  "sources": {
+    "terreno_raster": {
+      "type": "raster",
+      "tiles": [
+        "https://tile.service.com/topografia/{z}/{x}/{y}.png" // URL del servidor de tiles
+      ],
+      "tileSize": 256,
+      "maxzoom": 14
+    },
+    "carreteras_vector": {
+      "type": "vector",
+      "url": "mapbox://mapbox.mapbox-streets-v8", // URL o ID de un tileset vectorial
+      "minzoom": 0,
+      "maxzoom": 15
+    }
+  },
+  
+  // ===============================================
+  // 2. CAPAS DE VISUALIZACIÓN (Layers)
+  // Define cómo se renderizan los datos de las fuentes anteriores.
+  // ===============================================
+  "layers": [
+    // Capa A: Visualiza los tiles de topografía (raster)
+    {
+      "id": "capa-topografia",
+      "type": "raster",
+      "source": "terreno_raster",
+      "minzoom": 5,
+      "maxzoom": 14,
+      "layout": {
+        "visibility": "visible" // Controla si la capa está activa
+      },
+      "paint": {
+        "raster-opacity": 0.6, // Ajuste de opacidad (transparencia)
+        "raster-saturation": 0.2 // Ajuste de saturación
+      }
+    },
+    // Capa B: Visualiza las calles principales (vector)
+    {
+      "id": "capa-carreteras-principales",
+      "type": "line",
+      "source": "carreteras_vector",
+      "source-layer": "road", // Capa específica dentro del tileset vectorial
+      "filter": ["==", "class", "motorway"], // Filtra solo las autopistas
+      "minzoom": 10,
+      "layout": {
+        "line-cap": "round",
+        "visibility": "visible"
+      },
+      "paint": {
+        "line-color": "#FF0000", // Color de la línea (rojo)
+        "line-width": 2, // Grosor de la línea
+        "line-blur": 0 // Nivel de desenfoque
+      }
+    }
+    // ... Más capas para agua, edificios, etiquetas, etc.
+  ]
+}

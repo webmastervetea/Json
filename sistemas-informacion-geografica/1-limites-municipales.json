@@ -1,0 +1,34 @@
+{
+  "type": "FeatureCollection",
+  "name": "Limites_Municipales",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id_mun": "28079",
+        "nombre": "Madrid",
+        "provincia": "Madrid",
+        "poblacion": 3300000
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [ -3.888, 40.509 ],
+            [ -3.611, 40.509 ],
+            [ -3.611, 40.380 ],
+            [ -3.888, 40.380 ],
+            [ -3.888, 40.509 ]
+          ]
+        ]
+      }
+    }
+    // ... Cientos o miles de 'Features' más para cada municipio ...
+  ]
+}

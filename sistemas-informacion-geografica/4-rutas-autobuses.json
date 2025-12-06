@@ -1,0 +1,28 @@
+{
+  "type": "FeatureCollection",
+  "name": "Rutas_Transporte_Publico",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "route_id": "L10-BUS",
+        "route_short_name": "10",
+        "route_long_name": "Estación Central - Aeropuerto",
+        "agency_name": "EMT Madrid",
+        "route_type": 3,
+        "mode": "Bus"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [ -3.70379, 40.41677 ],  // Punto de inicio (Estación Central)
+          [ -3.70010, 40.41800 ],
+          [ -3.68900, 40.42010 ],
+          [ -3.67000, 40.42250 ],
+          [ -3.56790, 40.48312 ]   // Punto final (Aeropuerto)
+        ]
+      }
+    }
+    // ... Más 'Features' de otras rutas ...
+  ]
+}

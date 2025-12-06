@@ -1,0 +1,38 @@
+{
+  "type": "FeatureCollection",
+  "name": "Parques_Nacionales",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "wdpa_id": 12345,
+        "nombre_esp": "Parque Nacional del Teide",
+        "nombre_orig": "Parque Nacional del Teide",
+        "pais": "España",
+        "categoria_iucn": "II (Parque Nacional)",
+        "superficie_ha": 18990.0
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [ -16.634, 28.271 ],
+              [ -16.592, 28.283 ],
+              [ -16.513, 28.271 ],
+              [ -16.634, 28.271 ]
+            ]
+          ]
+          // ... La lista completa de coordenadas que definen el polígono/multipolígono ...
+        ]
+      }
+    }
+    // ... Cientos de 'Features' más para cada parque nacional del mundo ...
+  ]
+}

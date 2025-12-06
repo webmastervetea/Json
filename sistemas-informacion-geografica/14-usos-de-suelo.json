@@ -1,0 +1,51 @@
+{
+  "type": "FeatureCollection",
+  "name": "Zonificacion_Uso_Suelo_Ejemplo",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "codigo_zona": "R-2",
+        "descripcion": "Zona Residencial de Densidad Media",
+        "uso_principal": "Residencial",
+        "altura_maxima_pisos": 3,
+        "densidad_maxima_viviendas": "50 Viv/Ha"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [ -3.705, 40.400 ],
+            [ -3.704, 40.400 ],
+            [ -3.704, 40.401 ],
+            [ -3.705, 40.401 ],
+            [ -3.705, 40.400 ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "codigo_zona": "C-1",
+        "descripcion": "Zona Comercial de Barrio",
+        "uso_principal": "Comercial / Oficinas",
+        "altura_maxima_pisos": 5,
+        "restricciones": "No se permiten usos industriales pesados"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [ -3.690, 40.410 ],
+            [ -3.689, 40.410 ],
+            [ -3.689, 40.411 ],
+            [ -3.690, 40.411 ],
+            [ -3.690, 40.410 ]
+          ]
+        ]
+      }
+    }
+    // ... Cientos o miles de 'Features' más para cada zona ...
+  ]
+}

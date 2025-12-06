@@ -1,0 +1,35 @@
+{
+  "titulo": "Matriz de Distancias y Tiempos de Viaje",
+  "unidad_distancia": "kilómetros",
+  "unidad_tiempo": "minutos",
+  "ciudades": [
+    { "id": "MAD", "nombre": "Madrid" },
+    { "id": "BCN", "nombre": "Barcelona" },
+    { "id": "VLC", "nombre": "Valencia" }
+  ],
+  "matriz_distancias": [
+    // La matriz es simétrica (Distancia A a B = B a A)
+    // Orden de las filas/columnas: MAD, BCN, VLC
+    
+    // Fila 0 (Madrid)
+    [
+      { "dist": 0, "tiempo": 0 },    // MAD -> MAD
+      { "dist": 620, "tiempo": 390 }, // MAD -> BCN (ej. 620 km, 6 horas 30 min)
+      { "dist": 356, "tiempo": 210 }  // MAD -> VLC (ej. 356 km, 3 horas 30 min)
+    ],
+    
+    // Fila 1 (Barcelona)
+    [
+      { "dist": 620, "tiempo": 390 }, // BCN -> MAD
+      { "dist": 0, "tiempo": 0 },    // BCN -> BCN
+      { "dist": 349, "tiempo": 215 }  // BCN -> VLC
+    ],
+    
+    // Fila 2 (Valencia)
+    [
+      { "dist": 356, "tiempo": 210 }, // VLC -> MAD
+      { "dist": 349, "tiempo": 215 }, // VLC -> BCN
+      { "dist": 0, "tiempo": 0 }     // VLC -> VLC
+    ]
+  ]
+}

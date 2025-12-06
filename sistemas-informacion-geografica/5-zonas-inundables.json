@@ -1,0 +1,29 @@
+{
+  "type": "FeatureCollection",
+  "name": "Zonas_Inundables_Ejemplo",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id_zona": "ZIN_050Y_001A",
+        "descripcion": "Zona inundable por el Río [Nombre]",
+        "escenario": "50 años (Probabilidad Media)",
+        "periodo_retorno": 50,
+        "profundidad_max_m": 1.5,
+        "fuente": "Confederación Hidrográfica del X"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [ -3.750, 40.450 ],
+            [ -3.740, 40.460 ],
+            [ -3.730, 40.455 ],
+            [ -3.750, 40.450 ]
+          ]
+        ]
+      }
+    }
+    // ... Cientos o miles de 'Features' más para cada zona de riesgo y escenario ...
+  ]
+}

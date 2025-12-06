@@ -1,0 +1,31 @@
+{
+  "type": "FeatureCollection",
+  "name": "Parcelas_Catastrales_Ejemplo",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id_referencia_catastral": "1234567AB1234A0001IJ",
+        "superficie_m2": 550.00,
+        "uso_principal": "Residencial",
+        "valor_catastral_eur": 150000.00,
+        // **AVISO:** El campo "propietario" solo se incluiría en conjuntos de datos
+        // de dominio público o bajo estrictas licencias de acceso:
+        "propietario_anonimo": "Persona Física A" 
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [ -3.700, 40.450 ],
+            [ -3.699, 40.450 ],
+            [ -3.699, 40.451 ],
+            [ -3.700, 40.451 ],
+            [ -3.700, 40.450 ]
+          ]
+        ]
+      }
+    }
+    // ... Millones de 'Features' más para cada parcela ...
+  ]
+}

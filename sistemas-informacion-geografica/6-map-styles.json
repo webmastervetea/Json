@@ -1,0 +1,87 @@
+{
+  "version": 8,
+  "name": "Estilo Personalizado Oscuro",
+  "metadata": {
+    "mapbox:autocompute-bounds": false,
+    "mapbox:type": "template"
+  },
+  "sources": {
+    "osm-data": {
+      "type": "vector",
+      "url": "mapbox://mapbox.mapbox-streets-v8" 
+      // Esta URL debe apuntar a la fuente de datos geográficos.
+    }
+  },
+  "sprite": "mapbox://sprites/mapbox/dark-v11",
+  "glyphs": "mapbox://fonts/mapbox/{fontstack}/{range}.pbf",
+  "layers": [
+    // --- Capa 1: Fondo ---
+    {
+      "id": "background",
+      "type": "background",
+      "paint": {
+        "background-color": "#282a36" // Color de fondo general (casi negro/oscuro)
+      }
+    },
+    // --- Capa 2: Agua ---
+    {
+      "id": "water",
+      "type": "fill",
+      "source": "osm-data",
+      "source-layer": "water",
+      "layout": {
+        "visibility": "visible"
+      },
+      "paint": {
+        "fill-color": "#44475a" // Color del agua (azul oscuro grisáceo)
+      }
+    },
+    // --- Capa 3: Parques/Áreas Naturales ---
+    {
+      "id": "park",
+      "type": "fill",
+      "source": "osm-data",
+      "source-layer": "landuse",
+      "filter": ["==", "class", "park"],
+      "paint": {
+        "fill-color": "#4c663d" // Color de las áreas verdes (verde oscuro)
+      }
+    },
+    // --- Capa 4: Carreteras Principales (Líneas) ---
+    {
+      "id": "road_major",
+      "type": "line",
+      "source": "osm-data",
+      "source-layer": "road",
+      "filter": ["==", "class", "motorway"],
+      "layout": {
+        "line-join": "round",
+        "line-cap": "round"
+      },
+      "paint": {
+        "line-color": "#f8f8f2", // Color de la línea de la carretera (blanco brillante)
+        "line-width": 1.5,
+        "line-opacity": 0.8
+      }
+    },
+    // --- Capa 5: Etiquetas de Ciudades (Texto) ---
+    {
+      "id": "city_labels",
+      "type": "symbol",
+      "source": "osm-data",
+      "source-layer": "place_label",
+      "filter": ["==", "class", "city"],
+      "layout": {
+        "text-field": ["get", "name_es"], // Obtiene el nombre
+        "text-size": 14,
+        "text-allow-overlap": false
+      },
+      "paint": {
+        "text-color": "#bd93f9", // Color del texto (morado claro)
+        "text-halo-color": "#282a36", // Color del contorno del texto
+        "text-halo-width": 1
+      }
+    }
+    // ... Cientos de capas adicionales para edificios, vías secundarias, fronteras, puntos de interés, etc.
+  ]
+}

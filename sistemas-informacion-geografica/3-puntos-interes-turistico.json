@@ -1,0 +1,40 @@
+{
+  "titulo": "Puntos de Interés Turístico - [Nombre de la Región]",
+  "fecha_extraccion": "2025-12-06",
+  "total_puntos": 3,
+  "lugares_de_interes": [
+    {
+      "id_poi": "POI_001",
+      "nombre": "Museo del Prado",
+      "descripcion_corta": "Uno de los museos de arte más importantes del mundo.",
+      "categoria": "Arte y Cultura",
+      "coordenadas": {
+        "latitud": 40.41378,
+        "longitud": -3.69213
+      },
+      "direccion": "Paseo del Prado, s/n, 28014 Madrid"
+    },
+    {
+      "id_poi": "POI_002",
+      "nombre": "Torre Eiffel",
+      "descripcion_corta": "Emblemática estructura de hierro de París, famosa mundialmente.",
+      "categoria": "Monumento",
+      "coordenadas": {
+        "latitud": 48.8584,
+        "longitud": 2.2945
+      },
+      "direccion": "Champ de Mars, 5 Av. Anatole France, 75007 Paris"
+    },
+    {
+      "id_poi": "POI_003",
+      "nombre": "Central Park",
+      "descripcion_corta": "El parque urbano más grande y famoso de la ciudad de Nueva York.",
+      "categoria": "Espacio Natural / Parque",
+      "coordenadas": {
+        "latitud": 40.7828,
+        "longitud": -73.9653
+      },
+      "direccion": "Manhattan, New York, NY"
+    }
+  ]
+}

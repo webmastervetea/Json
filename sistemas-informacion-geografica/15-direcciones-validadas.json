@@ -1,0 +1,35 @@
+{
+  "titulo": "Direcciones Estandarizadas (Fragmento de Ejemplo)",
+  "servicio_verificacion": "API de Verificación Postal/Geocodificación",
+  "direcciones": [
+    {
+      "id_direccion": "ESP_28001_0001",
+      "pais_iso": "ES",
+      "direccion_linea_1": "C. de Alcalá, 45",
+      "ciudad": "Madrid",
+      "codigo_postal": "28014",
+      "provincia": "Madrid",
+      "coordenadas": {
+        "latitud": 40.4187,
+        "longitud": -3.6931
+      },
+      "estado_verificacion": "Verificada",
+      "formato_internacional": "C. de Alcalá, 45, 28014 Madrid, Spain"
+    },
+    {
+      "id_direccion": "USA_CA_94043_0002",
+      "pais_iso": "US",
+      "direccion_linea_1": "1600 Amphitheatre Pkwy",
+      "ciudad": "Mountain View",
+      "codigo_postal": "94043",
+      "estado": "CA",
+      "coordenadas": {
+        "latitud": 37.4220,
+        "longitud": -122.0840
+      },
+      "estado_verificacion": "Verificada",
+      "formato_internacional": "1600 Amphitheatre Pkwy, Mountain View, CA 94043, USA"
+    }
+    // ... Miles de millones de objetos más ...
+  ]
+}
